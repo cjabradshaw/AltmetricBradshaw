@@ -1,4 +1,4 @@
-## Top [Altmetrics](https://www.altmetric.com)</a>-score papers by [CJA Bradshaw](https://www.altmetric.com)
+## Top [Altmetrics](https://www.altmetric.com)-score papers by [CJA Bradshaw](https://www.altmetric.com)
 
 	<br>
 	<p class="sansserif" style="text-align:left;">
