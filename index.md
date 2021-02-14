@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-16" />
-	<title>Top Altmetrics-score papers</title>
-</head>
-<style>
-	p.sansserif {
-	  font-family: Verdana, Geneva, sans-serif;
-	}
-</style>
-<script type='text/javascript'
-	src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>
-	</script>
-	
 	<body>
 	
 	<p class="sansserif">
@@ -441,4 +426,3 @@
 	<br>
 
 	</body>
-</html>
