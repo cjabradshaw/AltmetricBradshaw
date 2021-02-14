@@ -1,8 +1,28 @@
-## Top [Altmetrics](https://www.altmetric.com)-score papers by [CJA Bradshaw](https://www.altmetric.com)
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-16" />
+	<title>Top Altmetrics-score papers</title>
+</head>
+<style>
+	p.sansserif {
+	  font-family: Verdana, Geneva, sans-serif;
+	}
+</style>
+<script type='text/javascript'
+	src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>
+	</script>
+	
+	<body>
+	
+	<p class="sansserif">
+		<h1><strong>Top <a href="https://www.altmetric.com" target="_blank" rel="noopener">Altmetrics</a>-score papers by <a href="https://www.flinders.edu.au/people/corey.bradshaw" target="_blank" rel="noopener">CJA Bradshaw</a></h1></strong>
+	</p>
 	<br>
+	<p class="sansserif" style="text-align:left;">
 		<strong>Bradshaw, CJA</strong>, PR Ehrlich, A Beattie, G Ceballos, E Crist, J Diamond, R Dirzo, AH Ehrlich, J Harte, ME Harte, G Pyke, PH Raven, WJ Ripple, F Saltré, C Turnbull, M Wackernagel, DT Blumstein. 2021. <a href="http://doi.org/10.3389/fcosc.2020.615419" target="_blank" rel="noopener">Underestimating the challenges of avoiding a ghastly future</a>. <em><strong>Frontiers in Conservation Science </strong></em>1: 615419
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcosc.2020.615419" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
 		<strong>Bradshaw, CJA</strong>, BW Brook. 2014. <a href="http://doi.org/10.1073/pnas.1410465111" target="_blank" rel="noopener">Human population reduction is not a quick fix for environmental problems</a>. <strong><em>Proceedings of the National Academy of Sciences of the USA</em></strong> 111: 16610–16615
@@ -419,3 +439,6 @@
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s00227-018-3454-4" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
+
+	</body>
+</html>
