@@ -14,9 +14,7 @@
 	
 	<body>
 	
-	<p class="sansserif">
-		<h1><strong>Top <a href="https://www.altmetric.com" target="_blank" rel="noopener">Altmetrics</a>-score papers by <a href="https://www.flinders.edu.au/people/corey.bradshaw" target="_blank" rel="noopener">CJA Bradshaw</a></h1></strong>
-	</p>
+		## <strong>Top [Altmetrics](https://www.altmetric.com)-score papers by [CJA Bradshaw](https://www.flinders.edu.au/people/corey.bradshaw)</strong>
 	<br>
 	<p class="sansserif" style="text-align:left;">
 		<strong>Bradshaw, CJA</strong>, PR Ehrlich, A Beattie, G Ceballos, E Crist, J Diamond, R Dirzo, AH Ehrlich, J Harte, ME Harte, G Pyke, PH Raven, WJ Ripple, F Saltré, C Turnbull, M Wackernagel, DT Blumstein. 2021. <a href="http://doi.org/10.3389/fcosc.2020.615419" target="_blank" rel="noopener">Underestimating the challenges of avoiding a ghastly future</a>. <em><strong>Frontiers in Conservation Science </strong></em>1: 615419
