@@ -1,5 +1,3 @@
-	<body>
-	
 	<p class="sansserif">
 		<h1><strong>Top <a href="https://www.altmetric.com" target="_blank" rel="noopener">Altmetrics</a>-score papers by <a href="https://www.flinders.edu.au/people/corey.bradshaw" target="_blank" rel="noopener">CJA Bradshaw</a></h1></strong>
 	</p>
@@ -424,5 +422,3 @@
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s00227-018-3454-4" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
-
-	</body>
