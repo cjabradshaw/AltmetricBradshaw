@@ -130,15 +130,15 @@
 		Gibson, L, TM Lee, LP Koh, BW Brook, TA Gardner, J Barlow, CA Peres, <strong>CJA Bradshaw</strong>, WF Laurance, TE Lovejoy, NS Sodhi. 2011. <a href="http://doi.org/10.1038/nature10425" target="_blank" rel="noopener">Primary forests are irreplaceable for sustaining tropical biodiversity</a>. <strong><em>Nature</em></strong> 478: 378-381
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature10425" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
-	<br>
-	<p class="sansserif" style="text-align:left;">
-		Prowse, TAA, CN Johnson, P Cassey, <strong>CJA Bradshaw</strong>, BW Brook. 2015. <a href="http://doi.org/10.1111/1365-2664.12378" target="_blank" rel="noopener">Ecological and economic benefits to cattle rangelands of restoring an apex predator</a>. <strong><em>Journal of Applied Ecology</em></strong> 52: 455-466
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12378" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	</p>
 		<br>
 	<p class="sansserif" style="text-align:left;">
 		Di Minin, E, HS Clements, RA Correia, G Cortés-Capano, C Fink, A Haukka, A Hausmann, R Kulkarni, <strong>CJA Bradshaw</strong>. 2021. <a href="http://doi.org/10.1016/j.oneear.2021.01.014" target="_blank" rel="noopener">Consequences of recreational hunting for biodiversity conservation and livelihoods</a>. <em><strong>One Earth</strong></em> 4: 238-253
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2021.01.014" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
+	<br>
+	<p class="sansserif" style="text-align:left;">
+		Prowse, TAA, CN Johnson, P Cassey, <strong>CJA Bradshaw</strong>, BW Brook. 2015. <a href="http://doi.org/10.1111/1365-2664.12378" target="_blank" rel="noopener">Ecological and economic benefits to cattle rangelands of restoring an apex predator</a>. <strong><em>Journal of Applied Ecology</em></strong> 52: 455-466
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12378" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
