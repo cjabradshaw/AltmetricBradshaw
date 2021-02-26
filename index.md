@@ -65,6 +65,11 @@
 		Metcalf, JL, CSM Turney, R Barnett, F Martin, S Bray, JT Vilstrup, L Orlando, R Salas-Gismondi, D Loponte, M Medina, M De Nigris, T Civalero, P Marcelo Fernandez, A Gasco, V Duran, KL Seymour, C Otaola, A Gil, R Paunero, FJ Prevost, <strong>CJA Bradshaw</strong>, et al. 2016. <a href="http://doi.org/10.1126/sciadv.1501682" target="_blank" rel="noopener">Synergistic roles of climate warming and human occupation in Patagonian megafaunal extinctions during the Last Deglaciation</a>. <strong><em>Science Advances </em></strong>2: e1501682
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.1501682" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	</p>
+		<br>
+	<p class="sansserif" style="text-align:left;">
+		Di Minin, E, HS Clements, RA Correia, G Cortés-Capano, C Fink, A Haukka, A Hausmann, R Kulkarni, <strong>CJA Bradshaw</strong>. 2021. <a href="http://doi.org/10.1016/j.oneear.2021.01.014" target="_blank" rel="noopener">Consequences of recreational hunting for biodiversity conservation and livelihoods</a>. <em><strong>One Earth</strong></em> 4: 238-253
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2021.01.014" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
 		Gibson, L, AJ Lynam, <strong>CJA Bradshaw</strong>, F He, DP Bickford, DS Woodruff, S Bumrungsri, WF Laurance. 2013. <a href="http://doi.org/10.1126/science.1240495" target="_blank" rel="noopener">Near-complete extinction of native small mammal fauna 25 years following forest fragmentation</a>. <strong><em>Science</em></strong> 341: 1508-1510
@@ -129,11 +134,6 @@
 	<p class="sansserif" style="text-align:left;">
 		Gibson, L, TM Lee, LP Koh, BW Brook, TA Gardner, J Barlow, CA Peres, <strong>CJA Bradshaw</strong>, WF Laurance, TE Lovejoy, NS Sodhi. 2011. <a href="http://doi.org/10.1038/nature10425" target="_blank" rel="noopener">Primary forests are irreplaceable for sustaining tropical biodiversity</a>. <strong><em>Nature</em></strong> 478: 378-381
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature10425" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	</p>
-		<br>
-	<p class="sansserif" style="text-align:left;">
-		Di Minin, E, HS Clements, RA Correia, G Cortés-Capano, C Fink, A Haukka, A Hausmann, R Kulkarni, <strong>CJA Bradshaw</strong>. 2021. <a href="http://doi.org/10.1016/j.oneear.2021.01.014" target="_blank" rel="noopener">Consequences of recreational hunting for biodiversity conservation and livelihoods</a>. <em><strong>One Earth</strong></em> 4: 238-253
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2021.01.014" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
