@@ -60,6 +60,11 @@
 		Brook, BW, <strong>CJA Bradshaw</strong>. 2015. <a href="http://doi.org/10.1111/cobi.12433" target="_blank" rel="noopener">Key role for nuclear energy in global biodiversity conservation</a>. <strong><em>Conservation Biology</em> </strong>29: 702-712
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12433" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	</p>
+	<br>	
+	<p class="sansserif" style="text-align:left;">
+		Diagne, C, B Leroy, A-C Vaissière, RE Gozlan, D Roiz, Ivan Jarić, J-M Salles, <strong>CJA Bradshaw</strong>, F Courchamp. 2021. <a href="http://doi.org/10.1038/s41586-021-03405-6" target="_blank" rel="noopener">High and rising economic costs of biological invasions worldwide</a>. <em><strong>Nature</strong></em> doi:10.1038/s41586-021-03405-6
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-021-03405-6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
 		<br>
 	<p class="sansserif" style="text-align:left;">
 		Di Minin, E, HS Clements, RA Correia, G Cortés-Capano, C Fink, A Haukka, A Hausmann, R Kulkarni, <strong>CJA Bradshaw</strong>. 2021. <a href="http://doi.org/10.1016/j.oneear.2021.01.014" target="_blank" rel="noopener">Consequences of recreational hunting for biodiversity conservation and livelihoods</a>. <em><strong>One Earth</strong></em> 4: 238-253
@@ -89,11 +94,6 @@
 	<p class="sansserif" style="text-align:left;">
 		Saltré, F, Rodríguez-Rey, M, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1038/ncomms10511" target="_blank" rel="noopener">Climate change not to blame for Late Quaternary megafauna extinctions in Australia</a>. <strong><em>Nature Communications</em></strong> 7: 10511
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10511" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	</p>
-	<br>	
-	<p class="sansserif" style="text-align:left;">
-		Diagne, C, B Leroy, A-C Vaissière, RE Gozlan, D Roiz, Ivan Jarić, J-M Salles, <strong>CJA Bradshaw</strong>, F Courchamp. 2021. <a href="http://doi.org/10.1038/s41586-021-03405-6" target="_blank" rel="noopener">High and rising economic costs of biological invasions worldwide</a>. <em><strong>Nature</strong></em> doi:10.1038/s41586-021-03405-6
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-021-03405-6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>	
 	<p class="sansserif" style="text-align:left;">
