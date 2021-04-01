@@ -90,11 +90,6 @@
 		Saltré, F, Rodríguez-Rey, M, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1038/ncomms10511" target="_blank" rel="noopener">Climate change not to blame for Late Quaternary megafauna extinctions in Australia</a>. <strong><em>Nature Communications</em></strong> 7: 10511
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10511" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
-	<br>
-	<p class="sansserif" style="text-align:left;">
-		Smith, BP, KM Cairns, JW Adams, TM Newsome, M Fillios, EC Déaux, WCH Parr, M Letnic, LM van Eeden, RG Appleby, <strong>CJA Bradshaw</strong>, P Savolainen, EG Ritchie, DG Nimmo, C Archer-Lean, AC Greenville, CR Dickman, L Watson, KE Moseby, TS Doherty, AD Wallach, DS Morrant, MS Crowther. 2019. <a href="http://doi.org/10.11646/zootaxa.4564.1.6" target="_blank" rel="noopener">Taxonomic status of the Australian dingo: the case for <em>Canis dingo</em> Meyer, 1793</a>. <em><strong>Zootaxa</strong></em> 4564: 173-197
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.11646/zootaxa.4564.1.6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	</p>
 	<br>	
 	<p class="sansserif" style="text-align:left;">
 		Diagne, C, B Leroy, A-C Vaissière, RE Gozlan, D Roiz, Ivan Jarić, J-M Salles, <strong>CJA Bradshaw</strong>, F Courchamp. 2021. <a href="http://doi.org/10.1038/s41586-021-03405-6" target="_blank" rel="noopener">High and rising economic costs of biological invasions worldwide</a>. <em><strong>Nature</strong></em> doi:10.1038/s41586-021-03405-6
@@ -109,6 +104,11 @@
 	<p class="sansserif" style="text-align:left;">
 		Laurance WF, DC Useche, J Rendeiro, M Kalka, <strong>CJA Bradshaw</strong>, SP Sloan, SG Laurance, M Campbell and 208 others. 2012. <a href="http://doi.org/10.1038/nature11318" target="_blank" rel="noopener">Averting biodiversity collapse in tropical forest protected areas</a>. <em><strong>Nature</strong></em> 489: 290-294
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature11318" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
+	<br>
+	<p class="sansserif" style="text-align:left;">
+		Smith, BP, KM Cairns, JW Adams, TM Newsome, M Fillios, EC Déaux, WCH Parr, M Letnic, LM van Eeden, RG Appleby, <strong>CJA Bradshaw</strong>, P Savolainen, EG Ritchie, DG Nimmo, C Archer-Lean, AC Greenville, CR Dickman, L Watson, KE Moseby, TS Doherty, AD Wallach, DS Morrant, MS Crowther. 2019. <a href="http://doi.org/10.11646/zootaxa.4564.1.6" target="_blank" rel="noopener">Taxonomic status of the Australian dingo: the case for <em>Canis dingo</em> Meyer, 1793</a>. <em><strong>Zootaxa</strong></em> 4564: 173-197
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.11646/zootaxa.4564.1.6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
@@ -279,6 +279,11 @@
 	<p class="sansserif" style="text-align:left;">
 		<strong>Bradshaw, CJA</strong>, BM Fitzpatrick, CC Steinberg, BW Brook, MG Meekan. 2008. <a href="http://doi.org/10.1016/j.biocon.2008.05.007" target="_blank" rel="noopener">Decline in whale shark size and abundance at Ningaloo Reef over the past decade: the world’s largest fish is getting smaller</a>. <strong><em>Biological Conservation</em></strong> 141: 1894-1905
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2008.05.007" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
+	<br>
+	<p class="sansserif" style="text-align:left;">
+		<strong>Bradshaw, CJA</strong>, P Meagher, MJ Thiele, RG Harcourt, C Huveneers. 2021. <a href="http://doi.org/10.1098/rsos.201197" target="_blank" rel="noopener">Predicting potential future reduction in shark bites on people</a>. <strong><em>Royal Society Open Science</em></strong> 8: 201197
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsos.201197" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
