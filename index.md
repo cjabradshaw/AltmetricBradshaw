@@ -22,6 +22,11 @@
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
+		<strong>Bradshaw, CJA</strong>, P Meagher, MJ Thiele, RG Harcourt, C Huveneers. 2021. <a href="http://doi.org/10.1098/rsos.201197" target="_blank" rel="noopener">Predicting potential future reduction in shark bites on people</a>. <strong><em>Royal Society Open Science</em></strong> 8: 201197
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsos.201197" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
+	<br>
+	<p class="sansserif" style="text-align:left;">
 		<strong>Bradshaw, CJA</strong>, BW Brook. 2014. <a href="http://doi.org/10.1073/pnas.1410465111" target="_blank" rel="noopener">Human population reduction is not a quick fix for environmental problems</a>. <strong><em>Proceedings of the National Academy of Sciences of the USA</em></strong> 111: 16610–16615
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1410465111" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	</p>
@@ -254,11 +259,6 @@
 	<p class="sansserif" style="text-align:left;">
 		<strong>Bradshaw, CJA</strong>, SP Otto, AA Annamalay, S Heft-Neal, Z Wagner, PN Le Souëf. 2019. <a href="http://doi.org/10.1136/bmjopen-2019-029968" target="_blank" rel="noopener">Testing the socio-economic and environmental determinants of better child-health outcomes in Africa: a cross-sectional study among nations</a>. <strong><em>BMJ Open</em></strong> 9: e029968
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1136/bmjopen-2019-029968" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	</p>
-	<br>
-	<p class="sansserif" style="text-align:left;">
-		<strong>Bradshaw, CJA</strong>, P Meagher, MJ Thiele, RG Harcourt, C Huveneers. 2021. <a href="http://doi.org/10.1098/rsos.201197" target="_blank" rel="noopener">Predicting potential future reduction in shark bites on people</a>. <strong><em>Royal Society Open Science</em></strong> 8: 201197
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsos.201197" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
