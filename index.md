@@ -257,6 +257,11 @@
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
+		<strong>Bradshaw, CJA</strong>, P Meagher, MJ Thiele, RG Harcourt, C Huveneers. 2021. <a href="http://doi.org/10.1098/rsos.201197" target="_blank" rel="noopener">Predicting potential future reduction in shark bites on people</a>. <strong><em>Royal Society Open Science</em></strong> 8: 201197
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsos.201197" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
+	<br>
+	<p class="sansserif" style="text-align:left;">
 		Brook, BW, NS Sodhi, <strong>CJA Bradshaw</strong>. 2008. <a href="http://doi.org/10.1016/j.tree.2008.03.011" target="_blank" rel="noopener">Synergies among extinction drivers under global change</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 23: 453-460
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2008.03.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
@@ -279,11 +284,6 @@
 	<p class="sansserif" style="text-align:left;">
 		<strong>Bradshaw, CJA</strong>, BM Fitzpatrick, CC Steinberg, BW Brook, MG Meekan. 2008. <a href="http://doi.org/10.1016/j.biocon.2008.05.007" target="_blank" rel="noopener">Decline in whale shark size and abundance at Ningaloo Reef over the past decade: the world’s largest fish is getting smaller</a>. <strong><em>Biological Conservation</em></strong> 141: 1894-1905
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2008.05.007" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	</p>
-	<br>
-	<p class="sansserif" style="text-align:left;">
-		<strong>Bradshaw, CJA</strong>, P Meagher, MJ Thiele, RG Harcourt, C Huveneers. 2021. <a href="http://doi.org/10.1098/rsos.201197" target="_blank" rel="noopener">Predicting potential future reduction in shark bites on people</a>. <strong><em>Royal Society Open Science</em></strong> 8: 201197
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsos.201197" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
