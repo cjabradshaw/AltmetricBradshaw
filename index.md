@@ -122,13 +122,13 @@
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
-		<strong>Bradshaw, CJA</strong>, X Giam, NS Sodhi. 2010. <a href="http://doi.org/10.1371/journal.pone.0010440" target="_blank" rel="noopener">Evaluating the relative environmental impact of countries</a>. <em><strong>PLoS One</strong></em> 5(5): e10440
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0010440" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+		Saltré, F, J Chadoeuf, KJ Peters, MC McDowell, T Friedrich, A Timmermann, S Ulm, <strong>CJA Bradshaw</strong>. 2019. <a href="https://doi.org/10.1038/s41467-019-13277-0" target="_blank" rel="noopener">Climate-human interaction associated with southeast Australian megafauna extinction patterns</a>. <strong><em>Nature Communications</em></strong> 10: 5311
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-019-13277-0" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
-		Saltré, F, J Chadoeuf, KJ Peters, MC McDowell, T Friedrich, A Timmermann, S Ulm, <strong>CJA Bradshaw</strong>. 2019. <a href="https://doi.org/10.1038/s41467-019-13277-0" target="_blank" rel="noopener">Climate-human interaction associated with southeast Australian megafauna extinction patterns</a>. <strong><em>Nature Communications</em></strong> 10: 5311
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-019-13277-0" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+		<strong>Bradshaw, CJA</strong>, X Giam, NS Sodhi. 2010. <a href="http://doi.org/10.1371/journal.pone.0010440" target="_blank" rel="noopener">Evaluating the relative environmental impact of countries</a>. <em><strong>PLoS One</strong></em> 5(5): e10440
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0010440" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
