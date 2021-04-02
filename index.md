@@ -35,6 +35,11 @@
 		Heard, BP, BW Brook, TML Wigley, <strong>CJA Bradshaw</strong>. 2017. <a href="http://doi.org/10.1016/j.rser.2017.03.114" target="_blank" rel="noopener">Burden of proof: a comprehensive review of the feasibility of 100% renewable-electricity systems</a>. <strong><em>Renewable and Sustainable Energy Reviews</em></strong> 76: 1122-1133
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rser.2017.03.114" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	</p>
+	<br>	
+	<p class="sansserif" style="text-align:left;">
+		Diagne, C, B Leroy, A-C Vaissière, RE Gozlan, D Roiz, Ivan Jarić, J-M Salles, <strong>CJA Bradshaw</strong>, F Courchamp. 2021. <a href="http://doi.org/10.1038/s41586-021-03405-6" target="_blank" rel="noopener">High and rising economic costs of biological invasions worldwide</a>. <em><strong>Nature</strong></em> doi:10.1038/s41586-021-03405-6
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-021-03405-6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
 		Bird, MI, SA Condie, S O'Connor, D O'Grady, C Reepmeyer, S Ulm, M Zega, F Saltré, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1038/s41598-019-42946-9" target="_blank" rel="noopener">Early human settlement of Sahul was not an accident</a>. <em><strong>Scientific Reports </strong></em>9: 8220
@@ -59,11 +64,6 @@
 	<p class="sansserif" style="text-align:left;">
 		Brook, BW, <strong>CJA Bradshaw</strong>. 2015. <a href="http://doi.org/10.1111/cobi.12433" target="_blank" rel="noopener">Key role for nuclear energy in global biodiversity conservation</a>. <strong><em>Conservation Biology</em> </strong>29: 702-712
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12433" data-hide-no-mentions="true" class="altmetric-embed"></div>
-	</p>
-	<br>	
-	<p class="sansserif" style="text-align:left;">
-		Diagne, C, B Leroy, A-C Vaissière, RE Gozlan, D Roiz, Ivan Jarić, J-M Salles, <strong>CJA Bradshaw</strong>, F Courchamp. 2021. <a href="http://doi.org/10.1038/s41586-021-03405-6" target="_blank" rel="noopener">High and rising economic costs of biological invasions worldwide</a>. <em><strong>Nature</strong></em> doi:10.1038/s41586-021-03405-6
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-021-03405-6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 		<br>
 	<p class="sansserif" style="text-align:left;">
