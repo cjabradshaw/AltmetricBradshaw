@@ -30,15 +30,15 @@
 		<strong>Bradshaw, CJA</strong>, BW Brook. 2014. <a href="http://doi.org/10.1073/pnas.1410465111" target="_blank" rel="noopener">Human population reduction is not a quick fix for environmental problems</a>. <strong><em>Proceedings of the National Academy of Sciences of the USA</em></strong> 111: 16610–16615
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1410465111" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	</p>
-	<br>
-	<p class="sansserif" style="text-align:left;">
-		Courchamp, F, <strong>CJA Bradshaw</strong>. 2017. <a href="https://doi.org/10.1038/s41559-017-0370-9" target="_blank" rel="noopener">100 articles every ecologist should read</a>. <i style="font-weight:bold;">Nature Ecology and Evolution</i> 2: 395-401
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41559-017-0370-9" data-hide-no-mentions="true" class="altmetric-embed"></div>
-	</p>
 	<br>	
 	<p class="sansserif" style="text-align:left;">
 		Diagne, C, B Leroy, A-C Vaissière, RE Gozlan, D Roiz, I Jarić, J-M Salles, <strong>CJA Bradshaw</strong>, F Courchamp. 2021. <a href="http://doi.org/10.1038/s41586-021-03405-6" target="_blank" rel="noopener">High and rising economic costs of biological invasions worldwide</a>. <em><strong>Nature</strong></em> doi:10.1038/s41586-021-03405-6
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-021-03405-6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
+	<br>
+	<p class="sansserif" style="text-align:left;">
+		Courchamp, F, <strong>CJA Bradshaw</strong>. 2017. <a href="https://doi.org/10.1038/s41559-017-0370-9" target="_blank" rel="noopener">100 articles every ecologist should read</a>. <i style="font-weight:bold;">Nature Ecology and Evolution</i> 2: 395-401
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41559-017-0370-9" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
