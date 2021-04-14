@@ -182,6 +182,11 @@
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
+		<strong>Bradshaw, CJA</strong>, CN Johnson, J Llewelyn, V Weisbecker, G Strona, F Saltré. 2021. <a href="http://doi.org/10.1016/j.gloplacha.2015.02.004" target="_blank" rel="noopener">Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna</a>. <strong><em>eLife</em></strong> 10: e63870
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
+	<br>
+	<p class="sansserif" style="text-align:left;">
 		Liu, X, S Lyu, S Zhou, <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1890/15-1784.1" target="_blank" rel="noopener">Warming and fertilization alter the dilution effect of host diversity on disease severity</a>. <em><strong>Ecology</strong></em> 97: 1680-1689
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/15-1784.1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
@@ -199,11 +204,6 @@
 	<p class="sansserif" style="text-align:left;">
 		Monaco, CJ, <strong>CJA Bradshaw</strong>, DJ Booth, BM Gillanders, DS Schoeman, I Nagelkerken. 2020. <a href="http://doi.org/10.1111/gcb.15221" target="_blank" rel="noopener">Dietary generalism accelerates arrival and persistence of coral-reef fishes in their novel ranges under climate change</a>. <strong><em>Global Change Biology</em></strong> doi:10.1111/gcb.15221
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/gcb.15221" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	</p>
-	<br>
-	<p class="sansserif" style="text-align:left;">
-		<strong>Bradshaw, CJA</strong>, CN Johnson, J Llewelyn, V Weisbecker, G Strona, F Saltré. 2021. <a href="http://doi.org/10.1016/j.gloplacha.2015.02.004" target="_blank" rel="noopener">Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna</a>. <strong><em>eLife</em></strong> 10: e63870
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 		<p class="sansserif" style="text-align:left;">
