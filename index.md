@@ -162,6 +162,11 @@
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
+		<strong>Bradshaw, CJA</strong>, CN Johnson, J Llewelyn, V Weisbecker, G Strona, F Saltré. 2021. <a href="http://doi.org/10.1016/j.gloplacha.2015.02.004" target="_blank" rel="noopener">Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna</a>. <strong><em>eLife</em></strong> 10: e63870
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
+	<br>
+	<p class="sansserif" style="text-align:left;">
 		Evans, K, R Thresher, RM Warneke, <strong>CJA Bradshaw</strong>, M Pook, D Thiele, MA Hindell. 2005. <a href="http://doi.org/10.1098/rsbl.2005.0313" target="_blank" rel="noopener">Periodic variability in cetacean strandings &#8211; links to large-scale climate events</a>. <strong><em>Biology Letters</em></strong> 1: 147-150
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2005.0313" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
@@ -169,11 +174,6 @@
 	<p class="sansserif" style="text-align:left;">
 		<strong>Bradshaw, CJA</strong>, Sodhi, NS, KSH Peh, BW Brook. 2007. <a href="http://doi.org/10.1111/j.1365-2486.2007.01446.x" target="_blank" rel="noopener">Global evidence that deforestation amplifies flood risk and severity in the developing world</a>. <strong><em>Global Change Biology</em></strong> 13: 2379-2395
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1365-2486.2007.01446.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	</p>
-	<br>
-	<p class="sansserif" style="text-align:left;">
-		<strong>Bradshaw, CJA</strong>, CN Johnson, J Llewelyn, V Weisbecker, G Strona, F Saltré. 2021. <a href="http://doi.org/10.1016/j.gloplacha.2015.02.004" target="_blank" rel="noopener">Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna</a>. <strong><em>eLife</em></strong> 10: e63870
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
