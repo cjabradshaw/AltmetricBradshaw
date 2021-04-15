@@ -172,6 +172,11 @@
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
+		<strong>Bradshaw, CJA</strong>, CN Johnson, J Llewelyn, V Weisbecker, G Strona, F Saltré. 2021. <a href="http://doi.org/10.1016/j.gloplacha.2015.02.004" target="_blank" rel="noopener">Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna</a>. <strong><em>eLife</em></strong> 10: e63870
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
+	<br>
+	<p class="sansserif" style="text-align:left;">
 		<strong>Bradshaw, CJA</strong>, E Di Minin. 2019. <a href="http://doi.org/10.1038/s41598-019-45762-3" target="_blank" rel="noopener">Socio-economic predictors of environmental performance among African nations</a>. <strong><em>Scientific Reports</em></strong> 9: 9306
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-019-45762-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
@@ -179,11 +184,6 @@
 	<p class="sansserif" style="text-align:left;">
 		Frankham R, <strong>CJA Bradshaw</strong>, BW Brook. 2014. <a href="http://doi.org/10.1016/j.biocon.2013.12.036" target="_blank" rel="noopener">Genetics in conservation management: revised recommendations for the 50/500 rules, Red List criteria and population viability analyses</a>. <strong><em>Biological Conservation</em></strong> 170: 53-63
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2013.12.036" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	</p>
-	<br>
-	<p class="sansserif" style="text-align:left;">
-		<strong>Bradshaw, CJA</strong>, CN Johnson, J Llewelyn, V Weisbecker, G Strona, F Saltré. 2021. <a href="http://doi.org/10.1016/j.gloplacha.2015.02.004" target="_blank" rel="noopener">Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna</a>. <strong><em>eLife</em></strong> 10: e63870
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
