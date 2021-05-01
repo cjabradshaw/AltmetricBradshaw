@@ -127,6 +127,11 @@
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
+		<strong>Bradshaw, CJA</strong>, K Norman, S Ulm, AN Williams, C Clarkson, J Chadœuf, SC Lin, Z Jacobs, RG Roberts, MI Bird, LS Weyrich, S Haberle, S O’Connor, B Llamas, TJ Cohen, T Friedrich, P Veth, M Leavesley, F Saltré. 2021. <a href="http://doi.org/10.1038/s41467-021-21551-3" target="_blank" rel="noopener">Stochastic models support rapid peopling of Late Pleistocene Sahul</a>. <strong><em>Nature Communications</em></strong> 12: 2440
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-021-21551-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
+	<br>
+	<p class="sansserif" style="text-align:left;">
 		Saltré, F, J Chadoeuf, KJ Peters, MC McDowell, T Friedrich, A Timmermann, S Ulm, <strong>CJA Bradshaw</strong>. 2019. <a href="https://doi.org/10.1038/s41467-019-13277-0" target="_blank" rel="noopener">Climate-human interaction associated with southeast Australian megafauna extinction patterns</a>. <strong><em>Nature Communications</em></strong> 10: 5311
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-019-13277-0" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
@@ -147,8 +152,8 @@
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
-		<strong>Bradshaw, CJA</strong>, K Norman, S Ulm, AN Williams, C Clarkson, J Chadœuf, SC Lin, Z Jacobs, RG Roberts, MI Bird, LS Weyrich, S Haberle, S O’Connor, B Llamas, TJ Cohen, T Friedrich, P Veth, M Leavesley, F Saltré. 2021. <a href="http://doi.org/10.1038/s41467-021-21551-3" target="_blank" rel="noopener">Stochastic models support rapid peopling of Late Pleistocene Sahul</a>. <strong><em>Nature Communications</em></strong> 12: 2440
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-021-21551-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+		Crabtree, SA, DA White, <strong>CJA Bradshaw</strong>, F Saltré, AN Williams, RJ Beaman, MI Bird, S Ulm. 2021. <a href="http://doi.org/10.1038/s41562-021-01106-8" target="_blank" rel="noopener">Landscape rules predict optimal superhighways for the first peopling of Sahul</a>. <strong><em>Nature Human Behaviour</em></strong> doi:10.1038/s41562-021-01106-8
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41562-021-01106-8" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
@@ -159,11 +164,6 @@
 	<p class="sansserif" style="text-align:left;">
 		Herrando-Pérez, S, <strong>CJA Bradshaw</strong>, S Lewandowsky, DR Vieites. 2019. <a href="http://doi.org/10.1093/biosci/biz004" target="_blank" rel="noopener">Statistical language backs conservatism in climate-change assessments</a>. <strong><em>BioScience</em></strong> 69: 209-219
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biz004" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	</p>
-	<br>
-	<p class="sansserif" style="text-align:left;">
-		Crabtree, SA, DA White, <strong>CJA Bradshaw</strong>, F Saltré, AN Williams, RJ Beaman, MI Bird, S Ulm. 2021. <a href="http://doi.org/10.1038/s41562-021-01106-8" target="_blank" rel="noopener">Landscape rules predict optimal superhighways for the first peopling of Sahul</a>. <strong><em>Nature Human Behaviour</em></strong> doi:10.1038/s41562-021-01106-8
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41562-021-01106-8" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
