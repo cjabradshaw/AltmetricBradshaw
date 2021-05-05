@@ -102,6 +102,11 @@
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
+		Crabtree, SA, DA White, <strong>CJA Bradshaw</strong>, F Saltré, AN Williams, RJ Beaman, MI Bird, S Ulm. 2021. <a href="http://doi.org/10.1038/s41562-021-01106-8" target="_blank" rel="noopener">Landscape rules predict optimal superhighways for the first peopling of Sahul</a>. <strong><em>Nature Human Behaviour</em></strong> doi:10.1038/s41562-021-01106-8
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41562-021-01106-8" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
+	<br>
+	<p class="sansserif" style="text-align:left;">
 		Saltré, F, Rodríguez-Rey, M, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1038/ncomms10511" target="_blank" rel="noopener">Climate change not to blame for Late Quaternary megafauna extinctions in Australia</a>. <strong><em>Nature Communications</em></strong> 7: 10511
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10511" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
@@ -114,11 +119,6 @@
 	<p class="sansserif" style="text-align:left;">
 		Laurance WF, DC Useche, J Rendeiro, M Kalka, <strong>CJA Bradshaw</strong>, SP Sloan, SG Laurance, M Campbell and 208 others. 2012. <a href="http://doi.org/10.1038/nature11318" target="_blank" rel="noopener">Averting biodiversity collapse in tropical forest protected areas</a>. <em><strong>Nature</strong></em> 489: 290-294
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature11318" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	</p>
-	<br>
-	<p class="sansserif" style="text-align:left;">
-		Crabtree, SA, DA White, <strong>CJA Bradshaw</strong>, F Saltré, AN Williams, RJ Beaman, MI Bird, S Ulm. 2021. <a href="http://doi.org/10.1038/s41562-021-01106-8" target="_blank" rel="noopener">Landscape rules predict optimal superhighways for the first peopling of Sahul</a>. <strong><em>Nature Human Behaviour</em></strong> doi:10.1038/s41562-021-01106-8
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41562-021-01106-8" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
