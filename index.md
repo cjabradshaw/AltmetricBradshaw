@@ -157,6 +157,11 @@
 	</p>
 	<br>
 	<p class="sansserif" style="text-align:left;">
+		<strong>Bradshaw, CJA</strong>, AJ Hoskins, PJ Haubrock, RN Cuthbert, C Diagne, B Leroy, L Andrews, B Page, P Cassey, AW Sheppard, F Courchamp. 2021. <a href="https://doi.org/10.3897/neobiota.67.58834" target="_blank" rel="noopener">Detailed assessment of the reported economic costs of invasive species in Australia</a>. <strong><em>NeoBiota</em></strong> 67: 511–550
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3897/neobiota.67.58834" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	</p>
+	<br>
+	<p class="sansserif" style="text-align:left;">
 		Prowse, TAA, CN Johnson, P Cassey, <strong>CJA Bradshaw</strong>, BW Brook. 2015. <a href="http://doi.org/10.1111/1365-2664.12378" target="_blank" rel="noopener">Ecological and economic benefits to cattle rangelands of restoring an apex predator</a>. <strong><em>Journal of Applied Ecology</em></strong> 52: 455-466
 		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12378" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
