@@ -468,7 +468,7 @@
 	<br>
 	<p class="sansserif" style="text-align:left;">
 		Junge, 	C, SC Donnellan, C Huveneers, <strong>CJA Bradshaw</strong>, A Simon, M Drew, C Duffy, G Johnson, G Cliff, M Braccini, SC Cutmore, P Butcher, R McAuley, V Peddemors, P Rogers, BM Gillanders. 2019. <a href="http://doi.org/10.1007/s00227-018-3454-4" target="_blank" rel="noopener">Comparative population genomics confirms little population structure in two commercially targeted carcharhinid sharks</a>. <strong><em>Marine Biology</em></strong> 16: 16
-		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s00227-018-3454-4" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+		<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s00227-018-3454-4" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
 	</p>
 	<br>
 
