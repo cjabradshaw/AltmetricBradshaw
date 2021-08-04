@@ -14,35 +14,35 @@
 <body>
 <h2 class="sansserif" style="text-align:left;">Papers authored by <a href="http://www.flinders.edu.au/people/corey.bradshaw" target="_blank" rel="noopener">CJA Bradshaw</a> ranked by <a href="https://www.altmetric.com" target="_blank" rel="noopener">Altmetric</a> score (also including <a href="https://www.dimensions.ai" target="_blank" rel="noopener">Dimensions</a> citations)</h2>
 	<br>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/ghastly.png" height="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/ghastly.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px; ">
 		<strong>Bradshaw, CJA</strong>, PR Ehrlich, A Beattie, G Ceballos, E Crist, J Diamond, R Dirzo, AH Ehrlich, J Harte, ME Harte, G Pyke, PH Raven, WJ Ripple, F Saltré, C Turnbull, M Wackernagel, DT Blumstein. 2021. <a href="http://doi.org/10.3389/fcosc.2020.615419" target="_blank" rel="noopener">Underestimating the challenges of avoiding a ghastly future</a>. <em><strong>Frontiers in Conservation Science </strong></em>1: 615419
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.3389/fcosc.2020.615419" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcosc.2020.615419" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding"  hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" width="100" style="float:right;" />
+	<img class="padding"  hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" width="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, P Meagher, MJ Thiele, RG Harcourt, C Huveneers. 2021. <a href="http://doi.org/10.1098/rsos.201197" target="_blank" rel="noopener">Predicting potential future reduction in shark bites on people</a>. <strong><em>Royal Society Open Science</em></strong> 8: 201197
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsos.201197" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsos.201197" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/pest.png" width="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/pest.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Diagne, C, B Leroy, A-C Vaissière, RE Gozlan, D Roiz, I Jarić, J-M Salles, <strong>CJA Bradshaw</strong>, F Courchamp. 2021. <a href="http://doi.org/10.1038/s41586-021-03405-6" target="_blank" rel="noopener">High and rising economic costs of biological invasions worldwide</a>. <em><strong>Nature</strong></em> doi:10.1038/s41586-021-03405-6
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-021-03405-6" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-021-03405-6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/crowd.png" width="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/crowd.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, BW Brook. 2014. <a href="http://doi.org/10.1073/pnas.1410465111" target="_blank" rel="noopener">Human population reduction is not a quick fix for environmental problems</a>. <strong><em>Proceedings of the National Academy of Sciences of the USA</em></strong> 111: 16610–16615
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1410465111" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1410465111" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/read.png" width="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/read.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Courchamp, F, <strong>CJA Bradshaw</strong>. 2017. <a href="https://doi.org/10.1038/s41559-017-0370-9" target="_blank" rel="noopener">100 articles every ecologist should read</a>. <i style="font-weight:bold;">Nature Ecology and Evolution</i> 2: 395-401
 	</p>
@@ -63,35 +63,35 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-42946-9" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-019-42946-9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/brokenchain.png" width="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/brokenchain.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Strona, G, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.1038/s41598-018-35068-1" target="_blank" rel="noopener">Co-extinctions annihilate planetary life during extreme environmental change</a>. <strong style="font-style:italic;">Scientific Reports</strong> 8: 16724
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-018-35068-1" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-018-35068-1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/termite.png" width="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/termite.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, B Leroy, C Bellard, D Roiz, C Albert, A Fournier, M Barbet-Massin, J-M Salles, F Simard, F Courchamp. 2016. <a href="http://doi.org/10.1038/ncomms12986" target="_blank" rel="noopener">Massive yet grossly underestimated global costs of invasive insects</a>. <strong><em>Nature Communications </em></strong>7: 12986
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms12986" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms12986" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tooth.png" width="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tooth.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Adler, CJ, K Dobney, LS Weyrich, J Kaidonis, AW Walker, W Haak, <strong>CJA Bradshaw</strong>, et al. 2013. <a href="http://doi.org/10.1038/ng.2536" target="_blank" rel="noopener">Sequencing ancient calcified dental plaque shows changes in oral microbiota with dietary shifts of the Neolithic and Industrial revolutions</a>. <strong><em>Nature Genetics</em></strong> 45: 450-455
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/ng.2536" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ng.2536" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/nuclear.png" width="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/nuclear.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Brook, BW, <strong>CJA Bradshaw</strong>. 2015. <a href="http://doi.org/10.1111/cobi.12433" target="_blank" rel="noopener">Key role for nuclear energy in global biodiversity conservation</a>. <strong><em>Conservation Biology</em> </strong>29: 702-712
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12433" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12433" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/hunter.png" width="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/hunter.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Di Minin, E, HS Clements, RA Correia, G Cortés-Capano, C Fink, A Haukka, A Hausmann, R Kulkarni, <strong>CJA Bradshaw</strong>. 2021. <a href="http://doi.org/10.1016/j.oneear.2021.01.014" target="_blank" rel="noopener">Consequences of recreational hunting for biodiversity conservation and livelihoods</a>. <em><strong>One Earth</strong></em> 4: 238-253
 	</p>
@@ -133,7 +133,7 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-021-21551-3" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-021-21551-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/trophyhunting.png" width="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/trophyhunting.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Di Minin, E, N Leader-Williams, <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1016/j.tree.2015.12.006" target="_blank" rel="noopener">Banning trophy hunting will exacerbate biodiversity loss</a>. <em><strong>Trends in Ecology and Evolution</strong></em> 31: 99-102
 	</p>
@@ -147,7 +147,7 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms10511" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10511" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/chainsaw.png" width="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/chainsaw.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>. 2012. <a href="http://doi.org/10.1093/jpe/RTR038" target="_blank" rel="noopener">Little left to lose: deforestation and forest degradation in Australia since European colonisation</a>. <em><strong>Journal of Plant Ecology</strong></em> 5: 109-120
 	</p>
@@ -196,7 +196,7 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-019-13277-0" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-019-13277-0" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/globe.png" height="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/globe.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, X Giam, NS Sodhi. 2010. <a href="http://doi.org/10.1371/journal.pone.0010440" target="_blank" rel="noopener">Evaluating the relative environmental impact of countries</a>. <em><strong>PLoS One</strong></em> 5(5): e10440
 	</p>
@@ -224,7 +224,7 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.12378" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12378" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/words.png" height="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/words.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Herrando-Pérez, S, <strong>CJA Bradshaw</strong>, S Lewandowsky, DR Vieites. 2019. <a href="http://doi.org/10.1093/biosci/biz004" target="_blank" rel="noopener">Statistical language backs conservatism in climate-change assessments</a>. <strong><em>BioScience</em></strong> 69: 209-219
 	</p>
