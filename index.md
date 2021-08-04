@@ -460,45 +460,61 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.04530" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.04530" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/list.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Herrando-Pérez, S, BW Brook, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1093/biosci/biu013" target="_blank" rel="noopener">Ecology needs a convention of nomenclature</a>. <strong><em>BioScience</em></strong> 64: 311–321
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biu013" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biu013" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biu013" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/co2footprint.jpg" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, BW Brook. 2016. <a href="http://doi.org/10.1002/app5.135" target="_blank" rel="noopener">Implications of Australia's population policy for future greenhouse gas emissions targets</a>. <strong><em>Asia and the Pacific Policy Studies</em></strong> 3: 249-265
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/app5.135" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/app5.135" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/app5.135" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Wernberg, T, BD Russell, MS Thomsen, CFD Gurgel, <strong>CJA Bradshaw</strong>, ES Poloczanska, SD Connell. 2011. <a href="http://doi.org/10.1016/j.cub.2011.09.028" target="_blank" rel="noopener">Seaweed communities in retreat from ocean warming</a>. <strong><em>Current Biology</em></strong> 21: 1828-1832
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cub.2011.09.028" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2011.09.028" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cub.2011.09.028" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealfire.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, IG Warkentin, NS Sodhi. 2009. <a href="http://doi.org/10.1016/j.tree.2009.03.019" target="_blank" rel="noopener">Urgent preservation of boreal carbon stocks and biodiversity</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 24: 541-548
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2009.03.019" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2009.03.019" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2009.03.019" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Hong, S, <strong>CJA Bradshaw</strong>, BW Brook. 2013. <a href="http://doi.org/10.1016/j.energy.2013.02.010" target="_blank" rel="noopener">Evaluating options for sustainable energy mixes in South Korea using scenario analysis</a>. <strong><em>Energy</em></strong> 52: 237-244
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.energy.2013.02.010" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.energy.2013.02.010" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.energy.2013.02.010" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Sequeira, MMM, C Mellin, MG Meekan, DW Sims, <strong>CJA Bradshaw</strong>. 2013. <a href="http://doi.org/10.1111/jfb.12017" target="_blank" rel="noopener">Inferred global connectivity of whale shark <i>Rhincodon typus</i> populations</a>. <strong><em>Journal of Fish Biology</em></strong> 82: 367-389
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/jfb.12017" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/jfb.12017" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/jfb.12017" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Sequeira, MMM, PEJ Roetman, CB Daniels, AK Baker, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1002/ece3.1094" target="_blank" rel="noopener">Distribution models for koalas in South Australia using citizen science‐collected data</a>. <strong><em>Ecology and Evolution</em></strong> 4: 2103-2114
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ece3.1094" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.1094" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ece3.1094" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Brook, BW, LW Traill, <strong>CJA Bradshaw</strong>. 2006. <a href="http://doi.org/10.1111/j.1461-0248.2006.00883.x" target="_blank" rel="noopener">Minimum viable population sizes and global extinction risk are unrelated</a>. <strong><em>Ecology Letters</em></strong> 9: 375-382
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1461-0248.2006.00883.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1461-0248.2006.00883.x" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1461-0248.2006.00883.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Friedman, K, M Braccini, M Bjerregaard-Walsh, R Bonfil, <strong>CJA Bradshaw</strong>, <i>et al.</i> 2019. <a href="http://doi.org/10.1111/faf.12411" target="_blank" rel="noopener">Informing CITES Parties: Strengthening science‐based decision‐making when listing marine species</a>. <strong><em>Fish and Fisheries</em></strong> doi:10.1111/faf.12411
