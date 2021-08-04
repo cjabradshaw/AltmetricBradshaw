@@ -379,30 +379,40 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1136/bmjopen-2019-029968" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1136/bmjopen-2019-029968" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/synergy.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Brook, BW, NS Sodhi, <strong>CJA Bradshaw</strong>. 2008. <a href="http://doi.org/10.1016/j.tree.2008.03.011" target="_blank" rel="noopener">Synergies among extinction drivers under global change</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 23: 453-460
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2008.03.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2008.03.011" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2008.03.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frogskeleton.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Sodhi, NS, D Bickford, AC Diesmos, TM Lee, LP Koh, BW Brook, CH Sekercioglu, <strong>CJA Bradshaw</strong>. 2008. <a href="http://doi.org/10.1371/journal.pone.0001636" target="_blank" rel="noopener">Measuring the meltdown: drivers of global amphibian extinction and decline</a>. <strong><em>PLoS One</em></strong> 3: e1636
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0001636" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0001636" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0001636" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/groper.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Mellin, C, D Mouillot, M Kulbicki, TR McClanahan, L Vigliola, <strong>CJA Bradshaw</strong>, RE Brainard, P Chabanet, GJ Edgar, DA Fordham, AM Friedlander, V Parravicini, AMM Sequeira, RD Stuart-Smith, L Wantiez, MJ Caley. 2008. <a href="http://doi.org/10.1038/ncomms10491" target="_blank" rel="noopener">Humans and seasonal climate variability threaten large-bodied coral reef fish with small ranges</a>. <strong><em>Nature Communications</em></strong> 7: 10491
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10491" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms10491" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10491" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frog.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Mathwin, R, S Wassens, J Young, Q Ye, <strong>CJA Bradshaw</strong>. 2020. <a href="http://doi.org/10.1111/cobi.13501" target="_blank" rel="noopener">Manipulating water for amphibian conservation</a>. <strong><em>Conservation Biology</em></strong> doi:10.1111/cobi.13501
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.13501" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.13501" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.13501" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, BM Fitzpatrick, CC Steinberg, BW Brook, MG Meekan. 2008. <a href="http://doi.org/10.1016/j.biocon.2008.05.007" target="_blank" rel="noopener">Decline in whale shark size and abundance at Ningaloo Reef over the past decade: the world’s largest fish is getting smaller</a>. <strong><em>Biological Conservation</em></strong> 141: 1894-1905
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2008.05.007" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2008.05.007" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2008.05.007" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		JP Lyon, TJ Bird, J Kearns, S Nicol, Z Tonkin, CR Todd, J O'Mahony, G Hackett, S Raymond, J Lieschke, A Kitchingman, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1002/eap.1882" target="_blank" rel="noopener">Increased population size of fish in a lowland river following restoration of structural habitat</a>. <strong><em>Ecological Applications</em></strong> 29: e01882
