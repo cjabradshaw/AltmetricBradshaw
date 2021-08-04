@@ -49,18 +49,21 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41559-017-0370-9" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41559-017-0370-9" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/turbines.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Heard, BP, BW Brook, TML Wigley, <strong>CJA Bradshaw</strong>. 2017. <a href="http://doi.org/10.1016/j.rser.2017.03.114" target="_blank" rel="noopener">Burden of proof: a comprehensive review of the feasibility of 100% renewable-electricity systems</a>. <strong><em>Renewable and Sustainable Energy Reviews</em></strong> 76: 1122-1133
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.rser.2017.03.114" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rser.2017.03.114" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/explore.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Bird, MI, SA Condie, S O'Connor, D O'Grady, C Reepmeyer, S Ulm, M Zega, F Saltré, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1038/s41598-019-42946-9" target="_blank" rel="noopener">Early human settlement of Sahul was not an accident</a>. <em><strong>Scientific Reports </strong></em>9: 8220
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-42946-9" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-019-42946-9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/brokenchain.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Strona, G, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.1038/s41598-018-35068-1" target="_blank" rel="noopener">Co-extinctions annihilate planetary life during extreme environmental change</a>. <strong style="font-style:italic;">Scientific Reports</strong> 8: 16724
 	</p>
