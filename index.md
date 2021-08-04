@@ -11,7 +11,7 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<h2 class="sansserif" style="text-align:left;">Papers authored by CJA Bradshaw ranked by Altmetric score (also including Dimensions citations)<h2>
+<h2 class="sansserif" style="text-align:left;">Papers authored by CJA Bradshaw ranked by Altmetric score (also including Dimensions citations)</h2>
 <hr>
 <body>
 	<br>
