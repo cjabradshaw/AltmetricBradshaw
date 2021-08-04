@@ -202,8 +202,8 @@
 		<strong>Bradshaw, CJA</strong>, CN Johnson, J Llewelyn, V Weisbecker, G Strona, F Saltré. 2021. <a href="http://doi.org/10.7554/eLife.63870" target="_blank" rel="noopener">Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna</a>. <strong><em>eLife</em></strong> 10: e63870
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.63870" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<img class="alignnone size-medium wp-image-209309" src="https://coreybradshaw.files.wordpress.com/2021/04/thylacine_cabah_eleanorpease-1.jpg" alt="" height="100">
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	[caption id="" align="alignleft" height="200"]<img class="alignnone size-medium wp-image-209309" src="https://coreybradshaw.files.wordpress.com/2021/04/thylacine_cabah_eleanorpease-1.jpg" alt="" height="200"> [/caption]
 	<hr>
 	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
