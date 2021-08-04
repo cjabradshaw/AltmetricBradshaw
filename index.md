@@ -11,8 +11,7 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<h2 class="sansserif" style="text-align:left;">Papers authored by CJA Bradshaw ranked by Altmetric score (also including Dimensions citations)</h2>
-<hr>
+<h2 class="sansserif" style="text-align:left;">Papers authored by CJA Bradshaw ranked by <a href="https://www.altmetric.com" target="_blank" rel="noopener">Altmetric</a> score (also including <a href="https://www.dimensions.ai" target="_blank" rel="noopener">Dimensions</a> citations)</h2>
 <body>
 	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -33,28 +32,24 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-021-03405-6" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-021-03405-6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, BW Brook. 2014. <a href="http://doi.org/10.1073/pnas.1410465111" target="_blank" rel="noopener">Human population reduction is not a quick fix for environmental problems</a>. <strong><em>Proceedings of the National Academy of Sciences of the USA</em></strong> 111: 16610–16615
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1410465111" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1410465111" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Courchamp, F, <strong>CJA Bradshaw</strong>. 2017. <a href="https://doi.org/10.1038/s41559-017-0370-9" target="_blank" rel="noopener">100 articles every ecologist should read</a>. <i style="font-weight:bold;">Nature Ecology and Evolution</i> 2: 395-401
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41559-017-0370-9" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41559-017-0370-9" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Heard, BP, BW Brook, TML Wigley, <strong>CJA Bradshaw</strong>. 2017. <a href="http://doi.org/10.1016/j.rser.2017.03.114" target="_blank" rel="noopener">Burden of proof: a comprehensive review of the feasibility of 100% renewable-electricity systems</a>. <strong><em>Renewable and Sustainable Energy Reviews</em></strong> 76: 1122-1133
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.rser.2017.03.114" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rser.2017.03.114" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Bird, MI, SA Condie, S O'Connor, D O'Grady, C Reepmeyer, S Ulm, M Zega, F Saltré, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1038/s41598-019-42946-9" target="_blank" rel="noopener">Early human settlement of Sahul was not an accident</a>. <em><strong>Scientific Reports </strong></em>9: 8220
 	</p>
