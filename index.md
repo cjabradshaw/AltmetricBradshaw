@@ -418,35 +418,47 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2008.05.007" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2008.05.007" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/murraycod.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		JP Lyon, TJ Bird, J Kearns, S Nicol, Z Tonkin, CR Todd, J O'Mahony, G Hackett, S Raymond, J Lieschke, A Kitchingman, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1002/eap.1882" target="_blank" rel="noopener">Increased population size of fish in a lowland river following restoration of structural habitat</a>. <strong><em>Ecological Applications</em></strong> 29: e01882
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/eap.1882" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/eap.1882" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/eap.1882" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/gauge.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Traill, LW, BW Brook, RR Frankham, <strong>CJA Bradshaw</strong>. 2010. <a href="http://doi.org/10.1016/j.biocon.2009.09.001" target="_blank" rel="noopener">Pragmatic population viability targets in a rapidly changing world</a>. <strong><em>Biological Conservation</em></strong> 143: 28-34
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2009.09.001" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2009.09.001" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2009.09.001" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/gauge.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Traill, LW, <strong>CJA Bradshaw</strong>, BW Brook. 2007. <a href="http://doi.org/10.1016/j.biocon.2007.06.011" target="_blank" rel="noopener">Minimum viable population size: a meta-analysis of 30 years of published estimates</a>. <strong><em>Biological Conservation</em></strong> 139: 159-166
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2007.06.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2007.06.011" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2007.06.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Hong, S, <strong>CJA Bradshaw</strong>, BW Brook. 2014. <a href="http://doi.org/10.1016/j.apenergy.2014.09.062" target="_blank" rel="noopener">Nuclear power can reduce emissions and maintain a strong economy: rating Australia’s optimal future electricity-generation mix by technologies and policies</a>. <strong><em>Applied Energy</em></strong> 136: 712-725
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.apenergy.2014.09.062" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.apenergy.2014.09.062" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.apenergy.2014.09.062" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Hong, S, <strong>CJA Bradshaw</strong>, BW Brook. 2013. <a href="http://doi.org/10.1016/j.enpol.2013.01.002" target="_blank" rel="noopener">Evaluating options for the future energy mix of Japan after the Fukushima nuclear crisis</a>. <strong><em>Energy Policy</em></strong> 56: 418-424
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.enpol.2013.01.002" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enpol.2013.01.002" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.enpol.2013.01.002" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Shabani, F, M Ahmadi, KJ Peters, S Haberle, A Champreux, F Saltré, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1111/ecog.04530" target="_blank" rel="noopener">Climate‐driven shifts in the distribution of koala‐browse species from the Last Interglacial to the near future</a>. <strong><em>Ecography</em></strong> 42: 1587-1599
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.04530" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.04530" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.04530" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Herrando-Pérez, S, BW Brook, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1093/biosci/biu013" target="_blank" rel="noopener">Ecology needs a convention of nomenclature</a>. <strong><em>BioScience</em></strong> 64: 311–321
