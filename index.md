@@ -112,18 +112,21 @@
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, K Norman, S Ulm, AN Williams, C Clarkson, J Chadœuf, SC Lin, Z Jacobs, RG Roberts, MI Bird, LS Weyrich, S Haberle, S O’Connor, B Llamas, TJ Cohen, T Friedrich, P Veth, M Leavesley, F Saltré. 2021. <a href="http://doi.org/10.1038/s41467-021-21551-3" target="_blank" rel="noopener">Stochastic models support rapid peopling of Late Pleistocene Sahul</a>. <strong><em>Nature Communications</em></strong> 12: 2440
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-021-21551-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-021-21551-3" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-021-21551-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Di Minin, E, N Leader-Williams, <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1016/j.tree.2015.12.006" target="_blank" rel="noopener">Banning trophy hunting will exacerbate biodiversity loss</a>. <em><strong>Trends in Ecology and Evolution</strong></em> 31: 99-102
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2015.12.006" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2015.12.006" data-legend="hover-right" data-style="small_rectangle"></span>	
+<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2015.12.006" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Saltré, F, Rodríguez-Rey, M, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1038/ncomms10511" target="_blank" rel="noopener">Climate change not to blame for Late Quaternary megafauna extinctions in Australia</a>. <strong><em>Nature Communications</em></strong> 7: 10511
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10511" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms10511" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10511" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>. 2012. <a href="http://doi.org/10.1093/jpe/RTR038" target="_blank" rel="noopener">Little left to lose: deforestation and forest degradation in Australia since European colonisation</a>. <em><strong>Journal of Plant Ecology</strong></em> 5: 109-120
