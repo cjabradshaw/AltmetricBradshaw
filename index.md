@@ -82,28 +82,33 @@
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Di Minin, E, HS Clements, RA Correia, G Cortés-Capano, C Fink, A Haukka, A Hausmann, R Kulkarni, <strong>CJA Bradshaw</strong>. 2021. <a href="http://doi.org/10.1016/j.oneear.2021.01.014" target="_blank" rel="noopener">Consequences of recreational hunting for biodiversity conservation and livelihoods</a>. <em><strong>One Earth</strong></em> 4: 238-253
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2021.01.014" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2021.01.014" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2021.01.014" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Metcalf, JL, CSM Turney, R Barnett, F Martin, S Bray, JT Vilstrup, L Orlando, R Salas-Gismondi, D Loponte, M Medina, M De Nigris, T Civalero, P Marcelo Fernandez, A Gasco, V Duran, KL Seymour, C Otaola, A Gil, R Paunero, FJ Prevost, <strong>CJA Bradshaw</strong>, et al. 2016. <a href="http://doi.org/10.1126/sciadv.1501682" target="_blank" rel="noopener">Synergistic roles of climate warming and human occupation in Patagonian megafaunal extinctions during the Last Deglaciation</a>. <strong><em>Science Advances </em></strong>2: e1501682
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.1501682" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.1501682" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.1501682" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Gibson, L, AJ Lynam, <strong>CJA Bradshaw</strong>, F He, DP Bickford, DS Woodruff, S Bumrungsri, WF Laurance. 2013. <a href="http://doi.org/10.1126/science.1240495" target="_blank" rel="noopener">Near-complete extinction of native small mammal fauna 25 years following forest fragmentation</a>. <strong><em>Science</em></strong> 341: 1508-1510
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/science.1240495" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1126/science.1240495" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/science.1240495" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Warkentin, IG, D Bickford, NS Sodhi, <strong>CJA Bradshaw</strong>. 2009. <a href="http://doi.org/10.1111/j.1523-1739.2008.01165.x" target="_blank" rel="noopener">Eating frogs to extinction</a>. <strong><em>Conservation Biology</em></strong> 23: 1056-1059
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1523-1739.2008.01165.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1523-1739.2008.01165.x" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1523-1739.2008.01165.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Crabtree, SA, DA White, <strong>CJA Bradshaw</strong>, F Saltré, AN Williams, RJ Beaman, MI Bird, S Ulm. 2021. <a href="http://doi.org/10.1038/s41562-021-01106-8" target="_blank" rel="noopener">Landscape rules predict optimal superhighways for the first peopling of Sahul</a>. <strong><em>Nature Human Behaviour</em></strong> doi:10.1038/s41562-021-01106-8
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41562-021-01106-8" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41562-021-01106-8" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41562-021-01106-8" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, K Norman, S Ulm, AN Williams, C Clarkson, J Chadœuf, SC Lin, Z Jacobs, RG Roberts, MI Bird, LS Weyrich, S Haberle, S O’Connor, B Llamas, TJ Cohen, T Friedrich, P Veth, M Leavesley, F Saltré. 2021. <a href="http://doi.org/10.1038/s41467-021-21551-3" target="_blank" rel="noopener">Stochastic models support rapid peopling of Late Pleistocene Sahul</a>. <strong><em>Nature Communications</em></strong> 12: 2440
