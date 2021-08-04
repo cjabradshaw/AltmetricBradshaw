@@ -56,113 +56,95 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-42946-9" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-019-42946-9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Strona, G, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.1038/s41598-018-35068-1" target="_blank" rel="noopener">Co-extinctions annihilate planetary life during extreme environmental change</a>. <strong style="font-style:italic;">Scientific Reports</strong> 8: 16724
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-018-35068-1" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-018-35068-1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, B Leroy, C Bellard, D Roiz, C Albert, A Fournier, M Barbet-Massin, J-M Salles, F Simard, F Courchamp. 2016. <a href="http://doi.org/10.1038/ncomms12986" target="_blank" rel="noopener">Massive yet grossly underestimated global costs of invasive insects</a>. <strong><em>Nature Communications </em></strong>7: 12986
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms12986" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms12986" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Adler, CJ, K Dobney, LS Weyrich, J Kaidonis, AW Walker, W Haak, <strong>CJA Bradshaw</strong>, et al. 2013. <a href="http://doi.org/10.1038/ng.2536" target="_blank" rel="noopener">Sequencing ancient calcified dental plaque shows changes in oral microbiota with dietary shifts of the Neolithic and Industrial revolutions</a>. <strong><em>Nature Genetics</em></strong> 45: 450-455
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/ng.2536" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ng.2536" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Brook, BW, <strong>CJA Bradshaw</strong>. 2015. <a href="http://doi.org/10.1111/cobi.12433" target="_blank" rel="noopener">Key role for nuclear energy in global biodiversity conservation</a>. <strong><em>Conservation Biology</em> </strong>29: 702-712
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12433" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12433" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Di Minin, E, HS Clements, RA Correia, G Cortés-Capano, C Fink, A Haukka, A Hausmann, R Kulkarni, <strong>CJA Bradshaw</strong>. 2021. <a href="http://doi.org/10.1016/j.oneear.2021.01.014" target="_blank" rel="noopener">Consequences of recreational hunting for biodiversity conservation and livelihoods</a>. <em><strong>One Earth</strong></em> 4: 238-253
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2021.01.014" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Metcalf, JL, CSM Turney, R Barnett, F Martin, S Bray, JT Vilstrup, L Orlando, R Salas-Gismondi, D Loponte, M Medina, M De Nigris, T Civalero, P Marcelo Fernandez, A Gasco, V Duran, KL Seymour, C Otaola, A Gil, R Paunero, FJ Prevost, <strong>CJA Bradshaw</strong>, et al. 2016. <a href="http://doi.org/10.1126/sciadv.1501682" target="_blank" rel="noopener">Synergistic roles of climate warming and human occupation in Patagonian megafaunal extinctions during the Last Deglaciation</a>. <strong><em>Science Advances </em></strong>2: e1501682
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.1501682" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Gibson, L, AJ Lynam, <strong>CJA Bradshaw</strong>, F He, DP Bickford, DS Woodruff, S Bumrungsri, WF Laurance. 2013. <a href="http://doi.org/10.1126/science.1240495" target="_blank" rel="noopener">Near-complete extinction of native small mammal fauna 25 years following forest fragmentation</a>. <strong><em>Science</em></strong> 341: 1508-1510
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/science.1240495" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Warkentin, IG, D Bickford, NS Sodhi, <strong>CJA Bradshaw</strong>. 2009. <a href="http://doi.org/10.1111/j.1523-1739.2008.01165.x" target="_blank" rel="noopener">Eating frogs to extinction</a>. <strong><em>Conservation Biology</em></strong> 23: 1056-1059
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1523-1739.2008.01165.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Crabtree, SA, DA White, <strong>CJA Bradshaw</strong>, F Saltré, AN Williams, RJ Beaman, MI Bird, S Ulm. 2021. <a href="http://doi.org/10.1038/s41562-021-01106-8" target="_blank" rel="noopener">Landscape rules predict optimal superhighways for the first peopling of Sahul</a>. <strong><em>Nature Human Behaviour</em></strong> doi:10.1038/s41562-021-01106-8
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41562-021-01106-8" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, K Norman, S Ulm, AN Williams, C Clarkson, J Chadœuf, SC Lin, Z Jacobs, RG Roberts, MI Bird, LS Weyrich, S Haberle, S O’Connor, B Llamas, TJ Cohen, T Friedrich, P Veth, M Leavesley, F Saltré. 2021. <a href="http://doi.org/10.1038/s41467-021-21551-3" target="_blank" rel="noopener">Stochastic models support rapid peopling of Late Pleistocene Sahul</a>. <strong><em>Nature Communications</em></strong> 12: 2440
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-021-21551-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Di Minin, E, N Leader-Williams, <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1016/j.tree.2015.12.006" target="_blank" rel="noopener">Banning trophy hunting will exacerbate biodiversity loss</a>. <em><strong>Trends in Ecology and Evolution</strong></em> 31: 99-102
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2015.12.006" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Saltré, F, Rodríguez-Rey, M, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1038/ncomms10511" target="_blank" rel="noopener">Climate change not to blame for Late Quaternary megafauna extinctions in Australia</a>. <strong><em>Nature Communications</em></strong> 7: 10511
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10511" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>	
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>. 2012. <a href="http://doi.org/10.1093/jpe/RTR038" target="_blank" rel="noopener">Little left to lose: deforestation and forest degradation in Australia since European colonisation</a>. <em><strong>Journal of Plant Ecology</strong></em> 5: 109-120
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/jpe/RTR038" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Laurance WF, DC Useche, J Rendeiro, M Kalka, <strong>CJA Bradshaw</strong>, SP Sloan, SG Laurance, M Campbell and 208 others. 2012. <a href="http://doi.org/10.1038/nature11318" target="_blank" rel="noopener">Averting biodiversity collapse in tropical forest protected areas</a>. <em><strong>Nature</strong></em> 489: 290-294
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature11318" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Smith, BP, KM Cairns, JW Adams, TM Newsome, M Fillios, EC Déaux, WCH Parr, M Letnic, LM van Eeden, RG Appleby, <strong>CJA Bradshaw</strong>, P Savolainen, EG Ritchie, DG Nimmo, C Archer-Lean, AC Greenville, CR Dickman, L Watson, KE Moseby, TS Doherty, AD Wallach, DS Morrant, MS Crowther. 2019. <a href="http://doi.org/10.11646/zootaxa.4564.1.6" target="_blank" rel="noopener">Taxonomic status of the Australian dingo: the case for <em>Canis dingo</em> Meyer, 1793</a>. <em><strong>Zootaxa</strong></em> 4564: 173-197
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.11646/zootaxa.4564.1.6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Huveneers, C, S Whitmarsh, M Thiele, L Meyer, A Fox, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.7717/peerj.5554" target="_blank" rel="noopener">Effectiveness of five personal shark-bite deterrents for surfers</a>. <em><strong>PeerJ </strong></em>6: e5554
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7717/peerj.5554" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, AJ Hoskins, PJ Haubrock, RN Cuthbert, C Diagne, B Leroy, L Andrews, B Page, P Cassey, AW Sheppard, F Courchamp. 2021. <a href="https://doi.org/10.3897/neobiota.67.58834" target="_blank" rel="noopener">Detailed assessment of the reported economic costs of invasive species in Australia</a>. <strong><em>NeoBiota</em></strong> 67: 511–550
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3897/neobiota.67.58834" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Laurance, WF, DC Useche, SG Laurance, <strong>CJA Bradshaw</strong>. 2013. <a href="http://doi.org/10.1525/bio.2013.63.10.9" target="_blank" rel="noopener">Predicting publication success for biologists</a>. <em><strong>BioScience</strong></em> 63: 817-823
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1525/bio.2013.63.10.9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
