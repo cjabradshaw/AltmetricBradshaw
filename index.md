@@ -21,7 +21,7 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.3389/fcosc.2020.615419" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcosc.2020.615419" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding"  hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2018/03/20100106-20100120-dsc_5804_2.jpg" width="80" style="float:right;" />
+	<img class="padding"  hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/pexels-photo-6497794.jpeg" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, P Meagher, MJ Thiele, RG Harcourt, C Huveneers. 2021. <a href="http://doi.org/10.1098/rsos.201197" target="_blank" rel="noopener">Predicting potential future reduction in shark bites on people</a>. <strong><em>Royal Society Open Science</em></strong> 8: 201197
 	</p>
