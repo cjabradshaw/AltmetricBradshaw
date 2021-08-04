@@ -328,25 +328,31 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.apenergy.2015.01.006" data-legend="hover-right" data-style="small_rectangle"></span>		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.apenergy.2015.01.006" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		White, LC, F Saltré, <strong>CJA Bradshaw</strong>, JJ Austin. 2018. <a href="http://doi.org/10.1098/rsbl.2017.0642" target="_blank" rel="noopener">High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia</a>. <strong><em>Biology Letters</em></strong> 14: 20170642
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2017.0642" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2017.0642" data-legend="hover-right" data-style="small_rectangle"></span>		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2017.0642" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/sugarglider.jpg" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Ritchie, EG, <strong>CJA Bradshaw</strong>, CR Dickman, R Hobbs, CN Johnson, EL Johnston, WF Laurance, D Lindenmayer, MA McCarthy, DG Nimmo, HH Possingham, RL Pressey, DM Watson, J Woinarski. 2013. <a href="http://doi.org/10.1111/cobi.12189" target="_blank" rel="noopener">Continental‐scale governance and the hastening of loss of Australia's biodiversity</a>. <strong><em>Conservation Biology</em></strong> 27: 1133-1135
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12189" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12189" data-legend="hover-right" data-style="small_rectangle"></span>			<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12189" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/coral.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Carturan, BS, J Pither, J-P Maréchal, <strong>CJA Bradshaw</strong>, L Parrott. 2020. <a href="http://doi.org/10.7554/eLife.55993" target="_blank" rel="noopener">Combining agent-based, trait-based and demographic approaches to model coral-community dynamics</a>. <strong><em>eLife</em></strong> 9: e55993
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.55993" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.55993" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.55993" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fence.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Bradby, K, JA Fitzsimmons, A Del Marco, DA Driscoll, EG Ritchie, J Lau, <strong>CJA Bradshaw</strong>, RJ Hobbs. 2014. <a href="http://doi.org/10.1111/emr.12130" target="_blank" rel="noopener">Ecological connectivity or Barrier Fence? Critical choices on the agricultural margins of Western Australia</a>. <strong><em>Ecological Management and Restoration</em></strong> 15: 180-190
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/emr.12130" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/emr.12130" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/emr.12130" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Heard, B, <strong>CJA Bradshaw</strong>, BW Brook. 2015. <a href="http://doi.org/10.1080/03721426.2015.1035217" target="_blank" rel="noopener">Beyond wind: furthering development of clean energy in South Australia</a>. <strong><em>Transactions of the Royal Society of South Australia</em></strong> 139: 57-82
