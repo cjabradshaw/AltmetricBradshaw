@@ -11,8 +11,8 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<h2 class="sansserif" style="text-align:left;">Papers authored by <a href="http://www.flinders.edu.au/people/corey.bradshaw" target="_blank" rel="noopener">CJA Bradshaw</a> ranked by <a href="https://www.altmetric.com" target="_blank" rel="noopener">Altmetric</a> score (also including <a href="https://www.dimensions.ai" target="_blank" rel="noopener">Dimensions</a> citations)</h2>
 <body>
+<h2 class="sansserif" style="text-align:left;">Papers authored by <a href="http://www.flinders.edu.au/people/corey.bradshaw" target="_blank" rel="noopener">CJA Bradshaw</a> ranked by <a href="https://www.altmetric.com" target="_blank" rel="noopener">Altmetric</a> score (also including <a href="https://www.dimensions.ai" target="_blank" rel="noopener">Dimensions</a> citations)</h2>
 	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, PR Ehrlich, A Beattie, G Ceballos, E Crist, J Diamond, R Dirzo, AH Ehrlich, J Harte, ME Harte, G Pyke, PH Raven, WJ Ripple, F Saltré, C Turnbull, M Wackernagel, DT Blumstein. 2021. <a href="http://doi.org/10.3389/fcosc.2020.615419" target="_blank" rel="noopener">Underestimating the challenges of avoiding a ghastly future</a>. <em><strong>Frontiers in Conservation Science </strong></em>1: 615419
