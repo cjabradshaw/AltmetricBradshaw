@@ -70,36 +70,42 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-018-35068-1" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-018-35068-1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/termite.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, B Leroy, C Bellard, D Roiz, C Albert, A Fournier, M Barbet-Massin, J-M Salles, F Simard, F Courchamp. 2016. <a href="http://doi.org/10.1038/ncomms12986" target="_blank" rel="noopener">Massive yet grossly underestimated global costs of invasive insects</a>. <strong><em>Nature Communications </em></strong>7: 12986
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms12986" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms12986" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tooth.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Adler, CJ, K Dobney, LS Weyrich, J Kaidonis, AW Walker, W Haak, <strong>CJA Bradshaw</strong>, et al. 2013. <a href="http://doi.org/10.1038/ng.2536" target="_blank" rel="noopener">Sequencing ancient calcified dental plaque shows changes in oral microbiota with dietary shifts of the Neolithic and Industrial revolutions</a>. <strong><em>Nature Genetics</em></strong> 45: 450-455
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/ng.2536" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ng.2536" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/nuclear.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Brook, BW, <strong>CJA Bradshaw</strong>. 2015. <a href="http://doi.org/10.1111/cobi.12433" target="_blank" rel="noopener">Key role for nuclear energy in global biodiversity conservation</a>. <strong><em>Conservation Biology</em> </strong>29: 702-712
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12433" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12433" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/hunter.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Di Minin, E, HS Clements, RA Correia, G Cortés-Capano, C Fink, A Haukka, A Hausmann, R Kulkarni, <strong>CJA Bradshaw</strong>. 2021. <a href="http://doi.org/10.1016/j.oneear.2021.01.014" target="_blank" rel="noopener">Consequences of recreational hunting for biodiversity conservation and livelihoods</a>. <em><strong>One Earth</strong></em> 4: 238-253
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2021.01.014" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2021.01.014" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/smilodon.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Metcalf, JL, CSM Turney, R Barnett, F Martin, S Bray, JT Vilstrup, L Orlando, R Salas-Gismondi, D Loponte, M Medina, M De Nigris, T Civalero, P Marcelo Fernandez, A Gasco, V Duran, KL Seymour, C Otaola, A Gil, R Paunero, FJ Prevost, <strong>CJA Bradshaw</strong>, et al. 2016. <a href="http://doi.org/10.1126/sciadv.1501682" target="_blank" rel="noopener">Synergistic roles of climate warming and human occupation in Patagonian megafaunal extinctions during the Last Deglaciation</a>. <strong><em>Science Advances </em></strong>2: e1501682
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.1501682" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.1501682" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fragments.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Gibson, L, AJ Lynam, <strong>CJA Bradshaw</strong>, F He, DP Bickford, DS Woodruff, S Bumrungsri, WF Laurance. 2013. <a href="http://doi.org/10.1126/science.1240495" target="_blank" rel="noopener">Near-complete extinction of native small mammal fauna 25 years following forest fragmentation</a>. <strong><em>Science</em></strong> 341: 1508-1510
 	</p>
