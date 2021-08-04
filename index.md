@@ -112,30 +112,35 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1126/science.1240495" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/science.1240495" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/froglegs.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Warkentin, IG, D Bickford, NS Sodhi, <strong>CJA Bradshaw</strong>. 2009. <a href="http://doi.org/10.1111/j.1523-1739.2008.01165.x" target="_blank" rel="noopener">Eating frogs to extinction</a>. <strong><em>Conservation Biology</em></strong> 23: 1056-1059
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1523-1739.2008.01165.x" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1523-1739.2008.01165.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Crabtree, SA, DA White, <strong>CJA Bradshaw</strong>, F Saltré, AN Williams, RJ Beaman, MI Bird, S Ulm. 2021. <a href="http://doi.org/10.1038/s41562-021-01106-8" target="_blank" rel="noopener">Landscape rules predict optimal superhighways for the first peopling of Sahul</a>. <strong><em>Nature Human Behaviour</em></strong> doi:10.1038/s41562-021-01106-8
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41562-021-01106-8" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41562-021-01106-8" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/family.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, K Norman, S Ulm, AN Williams, C Clarkson, J Chadœuf, SC Lin, Z Jacobs, RG Roberts, MI Bird, LS Weyrich, S Haberle, S O’Connor, B Llamas, TJ Cohen, T Friedrich, P Veth, M Leavesley, F Saltré. 2021. <a href="http://doi.org/10.1038/s41467-021-21551-3" target="_blank" rel="noopener">Stochastic models support rapid peopling of Late Pleistocene Sahul</a>. <strong><em>Nature Communications</em></strong> 12: 2440
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-021-21551-3" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-021-21551-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/trophyhunting.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Di Minin, E, N Leader-Williams, <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1016/j.tree.2015.12.006" target="_blank" rel="noopener">Banning trophy hunting will exacerbate biodiversity loss</a>. <em><strong>Trends in Ecology and Evolution</strong></em> 31: 99-102
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2015.12.006" data-legend="hover-right" data-style="small_rectangle"></span>	
 <div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2015.12.006" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon-icon.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Saltré, F, Rodríguez-Rey, M, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1038/ncomms10511" target="_blank" rel="noopener">Climate change not to blame for Late Quaternary megafauna extinctions in Australia</a>. <strong><em>Nature Communications</em></strong> 7: 10511
 	</p>
