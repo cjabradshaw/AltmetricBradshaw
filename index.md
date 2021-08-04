@@ -162,38 +162,39 @@
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Huveneers, C, S Whitmarsh, M Thiele, L Meyer, A Fox, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.7717/peerj.5554" target="_blank" rel="noopener">Effectiveness of five personal shark-bite deterrents for surfers</a>. <em><strong>PeerJ </strong></em>6: e5554
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7717/peerj.5554" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.7717/peerj.5554" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7717/peerj.5554" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, AJ Hoskins, PJ Haubrock, RN Cuthbert, C Diagne, B Leroy, L Andrews, B Page, P Cassey, AW Sheppard, F Courchamp. 2021. <a href="https://doi.org/10.3897/neobiota.67.58834" target="_blank" rel="noopener">Detailed assessment of the reported economic costs of invasive species in Australia</a>. <strong><em>NeoBiota</em></strong> 67: 511–550
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3897/neobiota.67.58834" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.3897/neobiota.67.58834" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3897/neobiota.67.58834" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Laurance, WF, DC Useche, SG Laurance, <strong>CJA Bradshaw</strong>. 2013. <a href="http://doi.org/10.1525/bio.2013.63.10.9" target="_blank" rel="noopener">Predicting publication success for biologists</a>. <em><strong>BioScience</strong></em> 63: 817-823
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1525/bio.2013.63.10.9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1525/bio.2013.63.10.9" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1525/bio.2013.63.10.9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Saltré, F, J Chadoeuf, KJ Peters, MC McDowell, T Friedrich, A Timmermann, S Ulm, <strong>CJA Bradshaw</strong>. 2019. <a href="https://doi.org/10.1038/s41467-019-13277-0" target="_blank" rel="noopener">Climate-human interaction associated with southeast Australian megafauna extinction patterns</a>. <strong><em>Nature Communications</em></strong> 10: 5311
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-019-13277-0" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-019-13277-0" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-019-13277-0" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, X Giam, NS Sodhi. 2010. <a href="http://doi.org/10.1371/journal.pone.0010440" target="_blank" rel="noopener">Evaluating the relative environmental impact of countries</a>. <em><strong>PLoS One</strong></em> 5(5): e10440
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0010440" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, S Ulm, AN Williams, MI Bird, RG Roberts, Z Jacobs, F Laviano, LS Weyrich, T Friedrich, K Norman, F Saltré. 2019. <a href="http://doi.org/10.1038/s41559-019-0902-6" target="_blank" rel="noopener">Minimum founding populations for the first peopling of Sahul</a>. <strong><em>Nature Ecology and Evolution</em></strong> 3: 1057-1063
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41559-019-0902-6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Gibson, L, TM Lee, LP Koh, BW Brook, TA Gardner, J Barlow, CA Peres, <strong>CJA Bradshaw</strong>, WF Laurance, TE Lovejoy, NS Sodhi. 2011. <a href="http://doi.org/10.1038/nature10425" target="_blank" rel="noopener">Primary forests are irreplaceable for sustaining tropical biodiversity</a>. <strong><em>Nature</em></strong> 478: 378-381
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature10425" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
