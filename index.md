@@ -11,7 +11,7 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<h2 class="sansserif" style="text-align:left;">Papers authored by CJA Bradshaw ranked by <a href="https://www.altmetric.com" target="_blank" rel="noopener">Altmetric</a> score (also including <a href="https://www.dimensions.ai" target="_blank" rel="noopener">Dimensions</a> citations)</h2>
+<h2 class="sansserif" style="text-align:left;">Papers authored by <a href="http://www.flinders.edu.au/people/corey.bradshaw" target="_blank" rel="noopener">CJA Bradshaw</a> ranked by <a href="https://www.altmetric.com" target="_blank" rel="noopener">Altmetric</a> score (also including <a href="https://www.dimensions.ai" target="_blank" rel="noopener">Dimensions</a> citations)</h2>
 <body>
 	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
