@@ -182,19 +182,16 @@
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature10425" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Prowse, TAA, CN Johnson, P Cassey, <strong>CJA Bradshaw</strong>, BW Brook. 2015. <a href="http://doi.org/10.1111/1365-2664.12378" target="_blank" rel="noopener">Ecological and economic benefits to cattle rangelands of restoring an apex predator</a>. <strong><em>Journal of Applied Ecology</em></strong> 52: 455-466
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12378" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Herrando-Pérez, S, <strong>CJA Bradshaw</strong>, S Lewandowsky, DR Vieites. 2019. <a href="http://doi.org/10.1093/biosci/biz004" target="_blank" rel="noopener">Statistical language backs conservatism in climate-change assessments</a>. <strong><em>BioScience</em></strong> 69: 209-219
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biz004" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Prowse, TAA, CN Johnson, RC Lacy, <strong>CJA Bradshaw</strong>, JP Pollak, MJ Watts, BW Brook. 2013. <a href="http://doi.org/10.1111/1365-2656.12029" target="_blank" rel="noopener">No need for disease: testing extinction hypotheses for the thylacine using multi-species metamodels</a>. <strong><em>Journal of Animal Ecology</em></strong> 82: 355-364
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2656.12029" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
@@ -203,8 +200,10 @@
 	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, CN Johnson, J Llewelyn, V Weisbecker, G Strona, F Saltré. 2021. <a href="http://doi.org/10.7554/eLife.63870" target="_blank" rel="noopener">Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna</a>. <strong><em>eLife</em></strong> 10: e63870
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.63870" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	[caption id="" align="alignleft" height="200"]<img class="alignnone size-medium wp-image-209309" src="https://coreybradshaw.files.wordpress.com/2021/04/thylacine_cabah_eleanorpease-1.jpg" alt="" height="200"> [/caption]
 	<hr>
 	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
