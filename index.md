@@ -11,8 +11,8 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-<br>
+<h2 class="sansserif" style="text-align:left;">Papers authored by CJA Bradshaw ranked by Altmetric score (also including Dimensions citations)<h2>
+<hr>
 <body>
 	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -21,14 +21,12 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.3389/fcosc.2020.615419" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcosc.2020.615419" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<br>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, P Meagher, MJ Thiele, RG Harcourt, C Huveneers. 2021. <a href="http://doi.org/10.1098/rsos.201197" target="_blank" rel="noopener">Predicting potential future reduction in shark bites on people</a>. <strong><em>Royal Society Open Science</em></strong> 8: 201197
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsos.201197" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsos.201197" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<br>	
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Diagne, C, B Leroy, A-C Vaissière, RE Gozlan, D Roiz, I Jarić, J-M Salles, <strong>CJA Bradshaw</strong>, F Courchamp. 2021. <a href="http://doi.org/10.1038/s41586-021-03405-6" target="_blank" rel="noopener">High and rising economic costs of biological invasions worldwide</a>. <em><strong>Nature</strong></em> doi:10.1038/s41586-021-03405-6
 	</p>
