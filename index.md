@@ -348,6 +348,13 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12189" data-legend="hover-right" data-style="small_rectangle"></span>			<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12189" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingoroothylac.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Prowse, TAA, CN Johnson, <strong>CJA Bradshaw</strong>, BW Brook. 2014. <a href="http://doi.org/10.1890/13-0746.1" target="_blank" rel="noopener">An ecological regime shift resulting from disrupted predator–prey interactions in Holocene Australia</a>. <strong><em>Ecology</em></strong> 95: 693-702
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1890/13-0746.1" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/13-0746.1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fence.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Bradby, K, JA Fitzsimmons, A Del Marco, DA Driscoll, EG Ritchie, J Lau, <strong>CJA Bradshaw</strong>, RJ Hobbs. 2014. <a href="http://doi.org/10.1111/emr.12130" target="_blank" rel="noopener">Ecological connectivity or Barrier Fence? Critical choices on the agricultural margins of Western Australia</a>. <strong><em>Ecological Management and Restoration</em></strong> 15: 180-190
@@ -361,13 +368,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1080/03721426.2015.1035217" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/03721426.2015.1035217" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingoroothylac.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Prowse, TAA, CN Johnson, <strong>CJA Bradshaw</strong>, BW Brook. 2014. <a href="http://doi.org/10.1890/13-0746.1" target="_blank" rel="noopener">An ecological regime shift resulting from disrupted predator–prey interactions in Holocene Australia</a>. <strong><em>Ecology</em></strong> 95: 693-702
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1890/13-0746.1" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/13-0746.1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingo.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
