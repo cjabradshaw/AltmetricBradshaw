@@ -572,28 +572,33 @@
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Clements, GR, <strong>CJA Bradshaw</strong>, BW Brook, WF Laurance. 2011. <a href="http://doi.org/10.1890/100177" target="_blank" rel="noopener">The SAFE index: using a threshold population target to measure relative species threat</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 9: 521-525
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/100177" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1890/100177" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/100177" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, DMJS Bowman, NR Bond, BP Murphy, <i>et al.</i> 2013. <a href="http://doi.org/10.1016/j.biocon.2013.02.012" target="_blank" rel="noopener">Brave new green world – consequences of a carbon economy for the conservation of Australian biodiversity</a>. <strong><em>Biological Conservation</em></strong> 161: 71-90
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2013.02.012" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2013.02.012" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2013.02.012" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Johnson, CN, <strong>CJA Bradshaw</strong>, <i>et al</i>. 2013. <a href="http://doi.org/10.1016/j.quaint.2013.06.022" target="_blank" rel="noopener">Rapid megafaunal extinction following human arrival throughout the New World</a>. <strong><em>Quaternary International</em></strong> 308-309: 273-277
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quaint.2013.06.022" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quaint.2013.06.022" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quaint.2013.06.022" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, CR McMahon, PS Miller, RC Lacy, MJ Watts, ML Verant, JP Pollack, DA Fordham, TAA Prowse, BW Brook. 2012. <a href="http://doi.org/10.1111/j.1365-2664.2011.02081.x" target="_blank" rel="noopener">Novel coupling of individual‐based epidemiological and demographic models predicts realistic dynamics of tuberculosis in alien buffalo</a>. <strong><em>Journal of Applied Ecology</em></strong> 49: 268-277
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1365-2664.2011.02081.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1365-2664.2011.02081.x" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1365-2664.2011.02081.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, I Cragie, WF Laurance. 2015. <a href="http://doi.org/10.1016/j.biocon.2015.05.019" target="_blank" rel="noopener">National emphasis on high-level protection reduces risk of biodiversity decline in tropical forest reserves</a>. <strong><em>Biological Conservation</em></strong> 190: 115-122
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2015.05.019" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2015.05.019" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2015.05.019" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Liu, X, S Lyu, D Sun, <strong>CJA Bradshaw</strong>, S Zhou. 2017. <a href="http://doi.org/10.1098/rspb.2016.2621" target="_blank" rel="noopener">Species decline under nitrogen fertilization increases community-level competence of fungal diseases</a>. <strong><em>Proceedings of the Royal Society B</em></strong> 284: 20162621
