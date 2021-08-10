@@ -523,7 +523,7 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/faf.12411" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/faf.12411" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rank.png" height="70" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rank.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, BW Brook. 2016. <a href="http://doi.org/10.1371/journal.pone.0149852" target="_blank" rel="noopener">How to rank journals</a>. <strong><em>PLoS One</em></strong> 11: e0149852
 	</p>
@@ -537,12 +537,14 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/2015GL066344" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/2015GL066344" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/trawler.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, TAA Prowse, M Drew, BM Gillanders, SC Donnellan, C Huveneers. 2018. <a href="http://doi.org/10.1093/icesjms/fsy031" target="_blank" rel="noopener">Predicting sustainable shark harvests when stock assessments are lacking</a>. <strong><em>ICES Journal of Marine Science</em></strong> 75: 1591–1601
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1093/icesjms/fsy031" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/icesjms/fsy031" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Brook, BW, <strong>CJA Bradshaw</strong>, <i>et al</i>. 2013. <a href="http://doi.org/10.1073/pnas.1309226110" target="_blank" rel="noopener">Lack of chronological support for stepwise prehuman extinctions of Australian megafauna</a>. <strong><em>Proceedings of the National Academy of Sciences of the USA</em></strong> 110: E3368
 	</p>
