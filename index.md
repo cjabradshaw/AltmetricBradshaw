@@ -602,28 +602,33 @@
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Liu, X, S Lyu, D Sun, <strong>CJA Bradshaw</strong>, S Zhou. 2017. <a href="http://doi.org/10.1098/rspb.2016.2621" target="_blank" rel="noopener">Species decline under nitrogen fertilization increases community-level competence of fungal diseases</a>. <strong><em>Proceedings of the Royal Society B</em></strong> 284: 20162621
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2016.2621" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2016.2621" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2016.2621" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		van Oosterzee, P, J Blignaut, <strong>CJA Bradshaw</strong>. 2012. <a href="http://doi.org/10.1111/j.1755-263X.2012.00237.x" target="_blank" rel="noopener">iREDD hedges against avoided deforestation's unholy trinity of leakage, permanence and additionality</a>. <strong><em>Conservation Letters</em></strong> 5: 266-273
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1755-263X.2012.00237.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1755-263X.2012.00237.x" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1755-263X.2012.00237.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, <i>et al.</i> 2012. <a href="http://doi.org/10.1016/j.quascirev.2011.11.021" target="_blank" rel="noopener">Robust estimates of extinction time in the geological record</a>. <strong><em>Quaternary Science Reviews</em></strong> 33: 14-19
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2011.11.021" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2011.11.021" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2011.11.021" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Speed, CW, MG Meekan, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1016/j.rsma.2015.05.002" target="_blank" rel="noopener">Reef shark movements relative to a coastal marine protected area</a>. <strong><em>Regional Studies in Marine Science</em></strong> 3: 58-66
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rsma.2015.05.002" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.rsma.2015.05.002" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rsma.2015.05.002" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Junge, 	C, SC Donnellan, C Huveneers, <strong>CJA Bradshaw</strong>, A Simon, M Drew, C Duffy, G Johnson, G Cliff, M Braccini, SC Cutmore, P Butcher, R McAuley, V Peddemors, P Rogers, BM Gillanders. 2019. <a href="http://doi.org/10.1007/s00227-018-3454-4" target="_blank" rel="noopener">Comparative population genomics confirms little population structure in two commercially targeted carcharhinid sharks</a>. <strong><em>Marine Biology</em></strong> 16: 16
-		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s00227-018-3454-4" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
 	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1007/s00227-018-3454-4" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s00227-018-3454-4" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
 
 	</body>
 </html>
