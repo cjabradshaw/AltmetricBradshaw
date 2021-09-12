@@ -432,6 +432,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2007.06.011" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2007.06.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rank.png" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, JM Chalker, SA Crabtree, BA Eijkelkamp, JA Long, JR Smith, K Trinajstic V Weisbecker. 2021. <a href="https://doi.org/10.1371/journal.pone.0257141" target="_blank" rel="noopener">A fairer way to compare researchers at any career stage and in any discipline using open-access citation data</a>. <strong><em>PLoS One</em></strong> 16: e0257141
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0257141" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0257141" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/co2footprint.jpg" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, BW Brook. 2016. <a href="http://doi.org/10.1002/app5.135" target="_blank" rel="noopener">Implications of Australia's population policy for future greenhouse gas emissions targets</a>. <strong><em>Asia and the Pacific Policy Studies</em></strong> 3: 249-265
@@ -529,13 +536,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0149852" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0149852" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rank.png" height="50" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, JM Chalker, SA Crabtree, BA Eijkelkamp, JA Long, JR Smith, K Trinajstic V Weisbecker. 2021. <a href="https://doi.org/10.1371/journal.pone.0257141" target="_blank" rel="noopener">A fairer way to compare researchers at any career stage and in any discipline using open-access citation data</a>. <strong><em>PLoS One</em></strong> 16: e0257141
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0257141" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0257141" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaice.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
