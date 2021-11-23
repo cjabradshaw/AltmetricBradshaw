@@ -544,6 +544,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/conl.12098" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/conl.12098" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rabbit.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Barnett, LK, TAA Prowse, DE Peacock, GJ Mutze, J Kovaliski, BD Cooke, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.1111/1365-2664.13187" target="_blank" rel="noopener">Previous exposure to myxoma virus reduces survival of European rabbits during outbreaks of rabbit haemorrhagic disease</a>. <strong><em>Journal of Applied Ecology</em></strong> 55: 2954-2962
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.13187" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.13187" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaice.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Turney, CSM, ZA Thomas, DK Hutchison, <strong>CJA Bradshaw</strong>, <i>et al.</i> 2015. <a href="http://doi.org/10.1002/2015GL066344" target="_blank" rel="noopener">Obliquity‐driven expansion of North Atlantic sea ice during the last glacial</a>. <strong><em>Geophysical Research Letters</em></strong> 42: 10382-10390
@@ -585,13 +592,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1467-2979.2009.00325.x" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1467-2979.2009.00325.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rabbit.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Barnett, LK, TAA Prowse, DE Peacock, GJ Mutze, J Kovaliski, BD Cooke, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.1111/1365-2664.13187" target="_blank" rel="noopener">Previous exposure to myxoma virus reduces survival of European rabbits during outbreaks of rabbit haemorrhagic disease</a>. <strong><em>Journal of Applied Ecology</em></strong> 55: 2954-2962
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.13187" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.13187" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/endangered.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
