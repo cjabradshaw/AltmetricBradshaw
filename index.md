@@ -600,6 +600,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1890/100177" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/100177" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/ghastly.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, PR Ehrlich, A Beattie, G Ceballos, E Crist, J Diamond, R Dirzo, AH Ehrlich, J Harte, ME Harte, G Pyke, PH Raven, WJ Ripple, F Saltré, C Turnbull, M Wackernagel, DT Blumstein. 2021. <a href="https://www.frontiersin.org/articles/10.3389/fcosc.2021.700869/full" target="_blank" rel="noopener">Response: Commentary: Underestimating the Challenges of Avoiding a Ghastly Future</a>. <em><strong>Frontiers in Conservation Science </strong></em>2: 700869
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.3389/fcosc.2021.700869" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcosc.2021.700869" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/carbonprice.jpg" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, DMJS Bowman, NR Bond, BP Murphy, <i>et al.</i> 2013. <a href="http://doi.org/10.1016/j.biocon.2013.02.012" target="_blank" rel="noopener">Brave new green world – consequences of a carbon economy for the conservation of Australian biodiversity</a>. <strong><em>Biological Conservation</em></strong> 161: 71-90
