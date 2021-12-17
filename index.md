@@ -322,6 +322,13 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.apenergy.2015.01.006" data-legend="hover-right" data-style="small_rectangle"></span>		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.apenergy.2015.01.006" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Llewelyn, J, G Strona, MC McDowell, CN Johnson, KJ Peters, DB Stouffer, SN de Visser, F Saltré, <strong>CJA Bradshaw</strong>. 2021. <a href="https://doi.org/10.1111/ecog.06089" target="_blank" rel="noopener">Sahul's megafauna were vulnerable to plant‐community changes due to their position in the trophic network</a>. <strong><em>Ecography</em></strong> 44, doi:10.1111/ecog.06089
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06089" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06089" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Sequeira, AMM, C Mellin, DA Fordham, MG Meekan, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1111/gcb.12343" target="_blank" rel="noopener">Predicting current and future global distributions of whale sharks</a>. <strong><em>Global Change Biology</em></strong> 20: 778-789
@@ -389,13 +396,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0257141" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0257141" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Llewelyn, J, G Strona, MC McDowell, CN Johnson, KJ Peters, DB Stouffer, SN de Visser, F Saltré, <strong>CJA Bradshaw</strong>. 2021. <a href="https://doi.org/10.1111/ecog.06089" target="_blank" rel="noopener">Sahul's megafauna were vulnerable to plant‐community changes due to their position in the trophic network</a>. <strong><em>Ecography</em></strong> 44, doi:10.1111/ecog.06089
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06089" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06089" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/sickchild.jpg" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
