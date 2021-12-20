@@ -343,6 +343,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.55993" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.55993" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/synergy.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Brook, BW, NS Sodhi, <strong>CJA Bradshaw</strong>. 2008. <a href="http://doi.org/10.1016/j.tree.2008.03.011" target="_blank" rel="noopener">Synergies among extinction drivers under global change</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 23: 453-460
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2008.03.011" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2008.03.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		White, LC, F Saltré, <strong>CJA Bradshaw</strong>, JJ Austin. 2018. <a href="http://doi.org/10.1098/rsbl.2017.0642" target="_blank" rel="noopener">High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia</a>. <strong><em>Biology Letters</em></strong> 14: 20170642
@@ -361,13 +368,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1890/13-0746.1" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/13-0746.1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/synergy.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Brook, BW, NS Sodhi, <strong>CJA Bradshaw</strong>. 2008. <a href="http://doi.org/10.1016/j.tree.2008.03.011" target="_blank" rel="noopener">Synergies among extinction drivers under global change</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 23: 453-460
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2008.03.011" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2008.03.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
