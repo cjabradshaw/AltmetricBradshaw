@@ -196,6 +196,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-019-13277-0" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-019-13277-0" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealforest.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, IG Warkentin. 2015. <a href="http://doi.org/10.1016/j.gloplacha.2015.02.004" target="_blank" rel="noopener">Global estimates of boreal forest carbon stocks and flux</a>. <strong><em>Global and Planetary Change</em></strong> 128: 24-30
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.gloplacha.2015.02.004" data-legend="hover-right" data-style="small_rectangle"></span>	
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.gloplacha.2015.02.004" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/globe.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, X Giam, NS Sodhi. 2010. <a href="http://doi.org/10.1371/journal.pone.0010440" target="_blank" rel="noopener">Evaluating the relative environmental impact of countries</a>. <em><strong>PLoS One</strong></em> 5(5): e10440
@@ -223,13 +230,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2013.12.036" data-legend="hover-right" data-style="small_rectangle"></span>	
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2013.12.036" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealforest.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, IG Warkentin. 2015. <a href="http://doi.org/10.1016/j.gloplacha.2015.02.004" target="_blank" rel="noopener">Global estimates of boreal forest carbon stocks and flux</a>. <strong><em>Global and Planetary Change</em></strong> 128: 24-30
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.gloplacha.2015.02.004" data-legend="hover-right" data-style="small_rectangle"></span>	
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.gloplacha.2015.02.004" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/flood.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
