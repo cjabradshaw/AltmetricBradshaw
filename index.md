@@ -273,6 +273,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.63870" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/thylacoleo-icon-cutout.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Johnson, CN, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1098/rspb.2015.2399" target="_blank" rel="noopener">What caused the extinction of the Pleistocene megafauna of Sahul?</a> <strong><em>Proceedings of the Royal Society B</em></strong> 283: 20152399
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2015.2399" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2015.2399" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/africa.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, E Di Minin. 2019. <a href="http://doi.org/10.1038/s41598-019-45762-3" target="_blank" rel="noopener">Socio-economic predictors of environmental performance among African nations</a>. <strong><em>Scientific Reports</em></strong> 9: 9306
@@ -286,13 +293,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1890/15-1784.1" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/15-1784.1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/thylacoleo-icon-cutout.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Johnson, CN, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1098/rspb.2015.2399" target="_blank" rel="noopener">What caused extinction of the Pleistocene megafauna of Sahul?</a> <strong><em>Proceedings of the Royal Society B</em></strong> 283: 20152399
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2015.2399" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2015.2399" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fossils.png" height="70" style="float:right;" /> 	
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
