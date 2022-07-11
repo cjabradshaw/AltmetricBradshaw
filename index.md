@@ -231,6 +231,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature10425" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature10425" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="90" style="float:right;" /> 	
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Riley, M, P Meagher, C Huveneers, J Leto, VM Peddemors, D Slip, J West, <strong>CJA Bradshaw</strong>. 2022. <a href="http://doi.org/10.1038/s41597-022-01453-9" target="_blank" rel="noopener">The <em>Australian Shark-Incident Database</em> for quantifying temporal and spatial patterns of shark-human conflict</a>. <em><strong>Scientific Data</strong></em> 9: 378
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-022-01453-9" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41597-022-01453-9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/flood.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, Sodhi, NS, KSH Peh, BW Brook. 2007. <a href="http://doi.org/10.1111/j.1365-2486.2007.01446.x" target="_blank" rel="noopener">Global evidence that deforestation amplifies flood risk and severity in the developing world</a>. <strong><em>Global Change Biology</em></strong> 13: 2379-2395
@@ -244,13 +251,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.12378" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12378" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="90" style="float:right;" /> 	
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Riley, M, P Meagher, C Huveneers, J Leto, VM Peddemors, D Slip, J West, <strong>CJA Bradshaw</strong>. 2022. <a href="http://doi.org/10.1038/s41597-022-01453-9" target="_blank" rel="noopener">The <em>Australian Shark-Incident Database</em> for quantifying temporal and spatial patterns of shark-human conflict</a>. <em><strong>Scientific Data</strong></em> 9: 378
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-022-01453-9" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41597-022-01453-9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/words.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
