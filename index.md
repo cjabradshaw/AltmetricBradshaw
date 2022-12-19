@@ -84,19 +84,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/ng.2536" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ng.2536" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/nuclear.png" width="60" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Brook, BW, <strong>CJA Bradshaw</strong>. 2015. <a href="http://doi.org/10.1111/cobi.12433" target="_blank" rel="noopener">Key role for nuclear energy in global biodiversity conservation</a>. <strong><em>Conservation Biology</em> </strong>29: 702-712
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12433" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12433" data-hide-no-mentions="true" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/12/networkglobe.webp" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Strona, G, <strong>CJA Bradshaw</strong>. 2022. <a href="https://www.science.org/doi/10.1126/sciadv.abn4345" target="_blank" rel="noopener">Coextinctions dominate future vertebrate losses from climate and land use change</a>. <em><strong>Science Advances</strong></em> 8: eabn4345
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.abn4345" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.abn4345" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/nuclear.png" width="60" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Brook, BW, <strong>CJA Bradshaw</strong>. 2015. <a href="http://doi.org/10.1111/cobi.12433" target="_blank" rel="noopener">Key role for nuclear energy in global biodiversity conservation</a>. <strong><em>Conservation Biology</em> </strong>29: 702-712
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12433" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12433" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/hunter.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
