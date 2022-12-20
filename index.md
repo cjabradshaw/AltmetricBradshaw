@@ -49,19 +49,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41559-017-0370-9" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41559-017-0370-9" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/turbines.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Heard, BP, BW Brook, TML Wigley, <strong>CJA Bradshaw</strong>. 2017. <a href="http://doi.org/10.1016/j.rser.2017.03.114" target="_blank" rel="noopener">Burden of proof: a comprehensive review of the feasibility of 100% renewable-electricity systems</a>. <strong><em>Renewable and Sustainable Energy Reviews</em></strong> 76: 1122-1133
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.rser.2017.03.114" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rser.2017.03.114" data-hide-no-mentions="true" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/12/networkglobe.webp" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Strona, G, <strong>CJA Bradshaw</strong>. 2022. <a href="https://www.science.org/doi/10.1126/sciadv.abn4345" target="_blank" rel="noopener">Coextinctions dominate future vertebrate losses from climate and land use change</a>. <em><strong>Science Advances</strong></em> 8: eabn4345
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.abn4345" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.abn4345" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/turbines.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Heard, BP, BW Brook, TML Wigley, <strong>CJA Bradshaw</strong>. 2017. <a href="http://doi.org/10.1016/j.rser.2017.03.114" target="_blank" rel="noopener">Burden of proof: a comprehensive review of the feasibility of 100% renewable-electricity systems</a>. <strong><em>Renewable and Sustainable Energy Reviews</em></strong> 76: 1122-1133
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.rser.2017.03.114" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rser.2017.03.114" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/termite.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
