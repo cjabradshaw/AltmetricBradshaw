@@ -355,19 +355,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06089" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06089" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Sequeira, AMM, C Mellin, DA Fordham, MG Meekan, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1111/gcb.12343" target="_blank" rel="noopener">Predicting current and future global distributions of whale sharks</a>. <strong><em>Global Change Biology</em></strong> 20: 778-789
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/gcb.12343" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/gcb.12343" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/gauge.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Traill, LW, <strong>CJA Bradshaw</strong>, BW Brook. 2007. <a href="http://doi.org/10.1016/j.biocon.2007.06.011" target="_blank" rel="noopener">Minimum viable population size: a meta-analysis of 30 years of published estimates</a>. <strong><em>Biological Conservation</em></strong> 139: 159-166
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2007.06.011" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2007.06.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Sequeira, AMM, C Mellin, DA Fordham, MG Meekan, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1111/gcb.12343" target="_blank" rel="noopener">Predicting current and future global distributions of whale sharks</a>. <strong><em>Global Change Biology</em></strong> 20: 778-789
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/gcb.12343" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/gcb.12343" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png" height="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
