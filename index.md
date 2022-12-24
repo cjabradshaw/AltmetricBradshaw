@@ -70,19 +70,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms12986" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms12986" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/explore.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Bird, MI, SA Condie, S O'Connor, D O'Grady, C Reepmeyer, S Ulm, M Zega, F Saltré, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1038/s41598-019-42946-9" target="_blank" rel="noopener">Early human settlement of Sahul was not an accident</a>. <em><strong>Scientific Reports </strong></em>9: 8220
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-42946-9" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-019-42946-9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/brokenchain.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Strona, G, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.1038/s41598-018-35068-1" target="_blank" rel="noopener">Co-extinctions annihilate planetary life during extreme environmental change</a>. <strong style="font-style:italic;">Scientific Reports</strong> 8: 16724
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-018-35068-1" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-018-35068-1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/explore.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Bird, MI, SA Condie, S O'Connor, D O'Grady, C Reepmeyer, S Ulm, M Zega, F Saltré, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1038/s41598-019-42946-9" target="_blank" rel="noopener">Early human settlement of Sahul was not an accident</a>. <em><strong>Scientific Reports </strong></em>9: 8220
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-42946-9" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-019-42946-9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tooth.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -259,6 +259,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.12378" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12378" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/synergy.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Brook, BW, NS Sodhi, <strong>CJA Bradshaw</strong>. 2008. <a href="http://doi.org/10.1016/j.tree.2008.03.011" target="_blank" rel="noopener">Synergies among extinction drivers under global change</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 23: 453-460
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2008.03.011" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2008.03.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/words.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Herrando-Pérez, S, <strong>CJA Bradshaw</strong>, S Lewandowsky, DR Vieites. 2019. <a href="http://doi.org/10.1093/biosci/biz004" target="_blank" rel="noopener">Statistical language backs conservatism in climate-change assessments</a>. <strong><em>BioScience</em></strong> 69: 209-219
@@ -375,13 +382,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/emr.12130" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/emr.12130" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/synergy.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Brook, BW, NS Sodhi, <strong>CJA Bradshaw</strong>. 2008. <a href="http://doi.org/10.1016/j.tree.2008.03.011" target="_blank" rel="noopener">Synergies among extinction drivers under global change</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 23: 453-460
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2008.03.011" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2008.03.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
