@@ -369,6 +369,14 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2007.06.011" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2007.06.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png" height="90" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Ripple, WJ, DA DellaSala, F Baumann, J Gregg, MG Betts, BE Law, <strong>CJA Bradshaw</strong>, C Wolf. 2022. <a href="http://doi.org/10.1177/08901171211064224" target="_blank" rel="noopener">Zoonotic diseases and our troubled relationship with nature</a>. <strong><em>
+American Journal of Health Promotion</em></strong> 36: 382-385
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1177/08901171211064224" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/08901171211064224" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/coral.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Carturan, BS, J Pither, J-P Maréchal, <strong>CJA Bradshaw</strong>, L Parrott. 2020. <a href="http://doi.org/10.7554/eLife.55993" target="_blank" rel="noopener">Combining agent-based, trait-based and demographic approaches to model coral-community dynamics</a>. <strong><em>eLife</em></strong> 9: e55993
@@ -388,14 +396,6 @@
 		White, LC, F Saltré, <strong>CJA Bradshaw</strong>, JJ Austin. 2018. <a href="http://doi.org/10.1098/rsbl.2017.0642" target="_blank" rel="noopener">High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia</a>. <strong><em>Biology Letters</em></strong> 14: 20170642
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2017.0642" data-legend="hover-right" data-style="small_rectangle"></span>		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2017.0642" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png" height="90" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Ripple, WJ, DA DellaSala, F Baumann, J Gregg, MG Betts, BE Law, <strong>CJA Bradshaw</strong>, C Wolf. 2022. <a href="http://doi.org/10.1177/08901171211064224" target="_blank" rel="noopener">Zoonotic diseases and our troubled relationship with nature</a>. <strong><em>
-American Journal of Health Promotion</em></strong> 36: 382-385
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1177/08901171211064224" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/08901171211064224" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingoroothylac.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
