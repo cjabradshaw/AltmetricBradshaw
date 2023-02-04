@@ -315,6 +315,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1890/15-1784.1" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/15-1784.1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, SA Crabtree, DA White, S Ulm, MI Bird, AN Williams, F Saltré. 2023. <a href="http://doi.org/10.1016/j.quascirev.2023.107971" target="_blank" rel="noopener">Directionally supervised cellular automaton for the initial peopling of Sahul</a>. <strong><em>Quaternary Science Reviews</em></strong> 303: 10971
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2023.107971" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2023.107971" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fossils.png" height="70" style="float:right;" /> 	
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Block, S, F Saltré, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1371/journal.pone.0151090" target="_blank" rel="noopener">Where to dig for fossils: combining climate-envelope, taphonomy and discovery models</a>. <em><strong>PLoS One</strong></em> 11: e0151090
@@ -620,13 +627,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quageo.2015.08.002" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quageo.2015.08.002" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, SA Crabtree, DA White, S Ulm, MI Bird, AN Williams, F Saltré. 2023. <a href="http://doi.org/10.1016/j.quascirev.2023.107971" target="_blank" rel="noopener">Directionally supervised cellular automaton for the initial peopling of Sahul</a>. <strong><em>Quaternary Science Reviews</em></strong> 303: 10971
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2023.107971" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2023.107971" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
