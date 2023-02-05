@@ -516,6 +516,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.04530" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.04530" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealfire.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, IG Warkentin, NS Sodhi. 2009. <a href="http://doi.org/10.1016/j.tree.2009.03.019" target="_blank" rel="noopener">Urgent preservation of boreal carbon stocks and biodiversity</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 24: 541-548
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2009.03.019" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2009.03.019" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/list.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Herrando-Pérez, S, BW Brook, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1093/biosci/biu013" target="_blank" rel="noopener">Ecology needs a convention of nomenclature</a>. <strong><em>BioScience</em></strong> 64: 311–321
@@ -529,13 +536,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2011.09.028" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cub.2011.09.028" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealfire.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, IG Warkentin, NS Sodhi. 2009. <a href="http://doi.org/10.1016/j.tree.2009.03.019" target="_blank" rel="noopener">Urgent preservation of boreal carbon stocks and biodiversity</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 24: 541-548
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2009.03.019" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2009.03.019" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
