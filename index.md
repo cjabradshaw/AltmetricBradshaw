@@ -273,6 +273,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biz004" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biz004" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, SA Crabtree, DA White, S Ulm, MI Bird, AN Williams, F Saltré. 2023. <a href="http://doi.org/10.1016/j.quascirev.2023.107971" target="_blank" rel="noopener">Directionally supervised cellular automaton for the initial peopling of Sahul</a>. <strong><em>Quaternary Science Reviews</em></strong> 303: 10971
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2023.107971" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2023.107971" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/thylacine.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Prowse, TAA, CN Johnson, RC Lacy, <strong>CJA Bradshaw</strong>, JP Pollak, MJ Watts, BW Brook. 2013. <a href="http://doi.org/10.1111/1365-2656.12029" target="_blank" rel="noopener">No need for disease: testing extinction hypotheses for the thylacine using multi-species metamodels</a>. <strong><em>Journal of Animal Ecology</em></strong> 82: 355-364
@@ -293,13 +300,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.63870" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, SA Crabtree, DA White, S Ulm, MI Bird, AN Williams, F Saltré. 2023. <a href="http://doi.org/10.1016/j.quascirev.2023.107971" target="_blank" rel="noopener">Directionally supervised cellular automaton for the initial peopling of Sahul</a>. <strong><em>Quaternary Science Reviews</em></strong> 303: 10971
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2023.107971" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2023.107971" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 <hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/thylacoleo-icon-cutout.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
