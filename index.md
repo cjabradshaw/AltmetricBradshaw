@@ -377,7 +377,7 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2007.06.011" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2007.06.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/02/fertility.jpg" width="70" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/02/fertility.jpg" width="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, C Perry, MA Judge, CM Saraswati, J Heyworth, PN Le Souëf. 2023. <a href="http://doi.org/10.1371/journal.pone.0280260" target="_blank" rel="noopener"> Lower infant mortality, lower household size, and more access to contraception reduce fertility in low- and middle-income nations</a>. <strong><em>PLoS One</em></strong> 18: e0280260
 	</p>
