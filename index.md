@@ -455,7 +455,7 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frog.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Mathwin, R, S Wassens, J Young, Q Ye, <strong>CJA Bradshaw</strong>. 2020. <a href="http://doi.org/10.1111/cobi.13501" target="_blank" rel="noopener">Manipulating water for amphibian conservation</a>. <strong><em>Conservation Biology</em></strong> doi:10.1111/cobi.13501
+		Mathwin, R, S Wassens, J Young, Q Ye, <strong>CJA Bradshaw</strong>. 2020. <a href="http://doi.org/10.1111/cobi.13501" target="_blank" rel="noopener">Manipulating water for amphibian conservation</a>. <strong><em>Conservation Biology</em></strong> 35: 24-34
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.13501" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.13501" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
