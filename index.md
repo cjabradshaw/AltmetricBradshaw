@@ -203,6 +203,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2013.12.036" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2013.12.036" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/forests.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Gibson, L, TM Lee, LP Koh, BW Brook, TA Gardner, J Barlow, CA Peres, <strong>CJA Bradshaw</strong>, WF Laurance, TE Lovejoy, NS Sodhi. 2011. <a href="http://doi.org/10.1038/nature10425" target="_blank" rel="noopener">Primary forests are irreplaceable for sustaining tropical biodiversity</a>. <strong><em>Nature</em></strong> 478: 378-381
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature10425" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature10425" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealforest.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, IG Warkentin. 2015. <a href="http://doi.org/10.1016/j.gloplacha.2015.02.004" target="_blank" rel="noopener">Global estimates of boreal forest carbon stocks and flux</a>. <strong><em>Global and Planetary Change</em></strong> 128: 24-30
@@ -251,13 +258,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0010440" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0010440" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/forests.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Gibson, L, TM Lee, LP Koh, BW Brook, TA Gardner, J Barlow, CA Peres, <strong>CJA Bradshaw</strong>, WF Laurance, TE Lovejoy, NS Sodhi. 2011. <a href="http://doi.org/10.1038/nature10425" target="_blank" rel="noopener">Primary forests are irreplaceable for sustaining tropical biodiversity</a>. <strong><em>Nature</em></strong> 478: 378-381
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature10425" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature10425" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png" height="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -574,14 +574,21 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Friedman, K, M Braccini, M Bjerregaard-Walsh, R Bonfil, <strong>CJA Bradshaw</strong>, <i>et al.</i> 2019. <a href="http://doi.org/10.1111/faf.12411" target="_blank" rel="noopener">Informing CITES Parties: Strengthening science‐based decision‐making when listing marine species</a>. <strong><em>Fish and Fisheries</em></strong> doi:10.1111/faf.12411
+		Friedman, K, M Braccini, M Bjerregaard-Walsh, R Bonfil, <strong>CJA Bradshaw</strong>, <i>et al.</i> 2019. <a href="http://doi.org/10.1111/faf.12411" target="_blank" rel="noopener">Informing CITES Parties: Strengthening science‐based decision‐making when listing marine species</a>. <strong><em>Fish and Fisheries</em></strong> 21: 13-31
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/faf.12411" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/faf.12411" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/06/roo2.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Mitchell, DR, SC Cairns, G Körtner, <strong>CJA Bradshaw</strong>, F Saltré, V Weisbecker. 2023. <a href="http://doi.org/10.1002/rra.3951" target="_blank" rel="noopener">Differential developmental rates and demographics in red kangaroo (<em>Osphranter rufus</em>) populations separated by the dingo barrier fence</a>. <strong><em>Journal of Mammalogy</em></strong> doi:10.1093/jmammal/gyad053
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/jmammal/gyad053" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/jmammal/gyad053" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/03/river.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Thompson, RM, EJ Barbour, <strong>CJA Bradshaw</strong>, S Briggs, N Byron, M Grace, B Hart, A King, GE Likens, CA Pollino, F Sheldon, M Stewardson, M Thoms, RJ Watts, JA Webb. 2022. <a href="http://doi.org/10.1002/rra.3951" target="_blank" rel="noopener">Principles for scientists working at the river science-policy interface</a>. <strong><em>River Research and Applications</em></strong> doi:10.1002/rra.3951
+		Thompson, RM, EJ Barbour, <strong>CJA Bradshaw</strong>, S Briggs, N Byron, M Grace, B Hart, A King, GE Likens, CA Pollino, F Sheldon, M Stewardson, M Thoms, RJ Watts, JA Webb. 2022. <a href="http://doi.org/10.1002/rra.3951" target="_blank" rel="noopener">Principles for scientists working at the river science-policy interface</a>. <strong><em>River Research and Applications</em></strong> 38: 819-831
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/rra.3951" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/rra.3951" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
