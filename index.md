@@ -161,19 +161,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.7717/peerj.5554" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7717/peerj.5554" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/chainsaw.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>. 2012. <a href="http://doi.org/10.1093/jpe/RTR038" target="_blank" rel="noopener">Little left to lose: deforestation and forest degradation in Australia since European colonisation</a>. <em><strong>Journal of Plant Ecology</strong></em> 5: 109-120
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/jpe/RTR038" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/jpe/RTR038" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/holdearth.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Laurance WF, DC Useche, J Rendeiro, M Kalka, <strong>CJA Bradshaw</strong>, SP Sloan, SG Laurance, M Campbell and 208 others. 2012. <a href="http://doi.org/10.1038/nature11318" target="_blank" rel="noopener">Averting biodiversity collapse in tropical forest protected areas</a>. <em><strong>Nature</strong></em> 489: 290-294
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature11318" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature11318" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/chainsaw.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>. 2012. <a href="http://doi.org/10.1093/jpe/RTR038" target="_blank" rel="noopener">Little left to lose: deforestation and forest degradation in Australia since European colonisation</a>. <em><strong>Journal of Plant Ecology</strong></em> 5: 109-120
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/jpe/RTR038" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/jpe/RTR038" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/procoptodon-icon.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
