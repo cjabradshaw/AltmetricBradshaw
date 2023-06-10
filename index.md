@@ -642,6 +642,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quageo.2015.08.002" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quageo.2015.08.002" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/06/eueuro.png" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Henry, M, B Leung, RN Cuthbert, TW Bodey, DA Ahmed, E Angulo, P Balzani, E Briski, F Courchamp, P Hulme, A Kouba, M Kourantidou, C Liu, RL Macêdo, FJ Oficialdegui, D Renault, I Soto, A Serhan Tarkan, AJ Turbelin, <strong>CJA Bradshaw</strong>, PJ Haubrock. 2023. <a href="http://doi.org/10.1186/s12302-023-00750-3" target="_blank" rel="noopener">Unveiling the hidden economic toll of biological invasions in the European Union</a>. <strong><em>Environmental Sciences Europe</em></strong> 35: 43
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1186/s12302-023-00750-3" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1186/s12302-023-00750-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Brook, BW, <strong>CJA Bradshaw</strong>, <i>et al</i>. 2013. <a href="http://doi.org/10.1073/pnas.1309226110" target="_blank" rel="noopener">Lack of chronological support for stepwise prehuman extinctions of Australian megafauna</a>. <strong><em>Proceedings of the National Academy of Sciences of the USA</em></strong> 110: E3368
