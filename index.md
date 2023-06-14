@@ -351,6 +351,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0151090" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0151090" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/06/eueuro.png" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Henry, M, B Leung, RN Cuthbert, TW Bodey, DA Ahmed, E Angulo, P Balzani, E Briski, F Courchamp, P Hulme, A Kouba, M Kourantidou, C Liu, RL Macêdo, FJ Oficialdegui, D Renault, I Soto, A Serhan Tarkan, AJ Turbelin, <strong>CJA Bradshaw</strong>, PJ Haubrock. 2023. <a href="http://doi.org/10.1186/s12302-023-00750-3" target="_blank" rel="noopener">Unveiling the hidden economic toll of biological invasions in the European Union</a>. <strong><em>Environmental Sciences Europe</em></strong> 35: 43
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1186/s12302-023-00750-3" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1186/s12302-023-00750-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/sugarglider.jpg" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Ritchie, EG, <strong>CJA Bradshaw</strong>, CR Dickman, R Hobbs, CN Johnson, EL Johnston, WF Laurance, D Lindenmayer, MA McCarthy, DG Nimmo, HH Possingham, RL Pressey, DM Watson, J Woinarski. 2013. <a href="http://doi.org/10.1111/cobi.12189" target="_blank" rel="noopener">Continental‐scale governance and the hastening of loss of Australia's biodiversity</a>. <strong><em>Conservation Biology</em></strong> 27: 1133-1135
@@ -536,13 +543,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2009.03.019" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2009.03.019" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/06/eueuro.png" height="50" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Henry, M, B Leung, RN Cuthbert, TW Bodey, DA Ahmed, E Angulo, P Balzani, E Briski, F Courchamp, P Hulme, A Kouba, M Kourantidou, C Liu, RL Macêdo, FJ Oficialdegui, D Renault, I Soto, A Serhan Tarkan, AJ Turbelin, <strong>CJA Bradshaw</strong>, PJ Haubrock. 2023. <a href="http://doi.org/10.1186/s12302-023-00750-3" target="_blank" rel="noopener">Unveiling the hidden economic toll of biological invasions in the European Union</a>. <strong><em>Environmental Sciences Europe</em></strong> 35: 43
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1186/s12302-023-00750-3" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1186/s12302-023-00750-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/list.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
