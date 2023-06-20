@@ -245,6 +245,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0280260" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0280260" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/06/eueuro.png" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Henry, M, B Leung, RN Cuthbert, TW Bodey, DA Ahmed, E Angulo, P Balzani, E Briski, F Courchamp, P Hulme, A Kouba, M Kourantidou, C Liu, RL Macêdo, FJ Oficialdegui, D Renault, I Soto, A Serhan Tarkan, AJ Turbelin, <strong>CJA Bradshaw</strong>, PJ Haubrock. 2023. <a href="http://doi.org/10.1186/s12302-023-00750-3" target="_blank" rel="noopener">Unveiling the hidden economic toll of biological invasions in the European Union</a>. <strong><em>Environmental Sciences Europe</em></strong> 35: 43
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1186/s12302-023-00750-3" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1186/s12302-023-00750-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/family.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, S Ulm, AN Williams, MI Bird, RG Roberts, Z Jacobs, F Laviano, LS Weyrich, T Friedrich, K Norman, F Saltré. 2019. <a href="http://doi.org/10.1038/s41559-019-0902-6" target="_blank" rel="noopener">Minimum founding populations for the first peopling of Sahul</a>. <strong><em>Nature Ecology and Evolution</em></strong> 3: 1057-1063
@@ -258,13 +265,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0010440" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0010440" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/06/eueuro.png" height="50" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Henry, M, B Leung, RN Cuthbert, TW Bodey, DA Ahmed, E Angulo, P Balzani, E Briski, F Courchamp, P Hulme, A Kouba, M Kourantidou, C Liu, RL Macêdo, FJ Oficialdegui, D Renault, I Soto, A Serhan Tarkan, AJ Turbelin, <strong>CJA Bradshaw</strong>, PJ Haubrock. 2023. <a href="http://doi.org/10.1186/s12302-023-00750-3" target="_blank" rel="noopener">Unveiling the hidden economic toll of biological invasions in the European Union</a>. <strong><em>Environmental Sciences Europe</em></strong> 35: 43
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1186/s12302-023-00750-3" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1186/s12302-023-00750-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/flood.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
