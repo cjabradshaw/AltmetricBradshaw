@@ -663,19 +663,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1309226110" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1309226110" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fishingnet.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Field, IC, MG Meekan, RC Buckworth, <strong>CJA Bradshaw</strong>. 2009. <a href="http://doi.org/10.1111/j.1467-2979.2009.00325.x" target="_blank" rel="noopener">Protein mining the world’s oceans: Australasia as an example of illegal expansion‐and‐displacement fishing</a>. <strong><em>Fish and Fisheries</em></strong> 10: 323-328
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1467-2979.2009.00325.x" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1467-2979.2009.00325.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Barry, C, C Legaspi, TM Clarke, G Araujo, <strong>CJA Bradshaw</strong>, AC Gleiss, L Meyer, C Huveneers. 2023. <a href="https://doi.org/10.1016/j.biocon.2023.110164" target="_blank" rel="noopener">Estimating the energetic cost of whale shark tourism</a>. <strong><em>Biological Conservation</em></strong> 284: 110164
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2023.110164" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2023.110164" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fishingnet.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Field, IC, MG Meekan, RC Buckworth, <strong>CJA Bradshaw</strong>. 2009. <a href="http://doi.org/10.1111/j.1467-2979.2009.00325.x" target="_blank" rel="noopener">Protein mining the world’s oceans: Australasia as an example of illegal expansion‐and‐displacement fishing</a>. <strong><em>Fish and Fisheries</em></strong> 10: 323-328
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1467-2979.2009.00325.x" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1467-2979.2009.00325.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/ghastly.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
