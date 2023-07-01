@@ -593,19 +593,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/faf.12411" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/faf.12411" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/03/river.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Thompson, RM, EJ Barbour, <strong>CJA Bradshaw</strong>, S Briggs, N Byron, M Grace, B Hart, A King, GE Likens, CA Pollino, F Sheldon, M Stewardson, M Thoms, RJ Watts, JA Webb. 2022. <a href="http://doi.org/10.1002/rra.3951" target="_blank" rel="noopener">Principles for scientists working at the river science-policy interface</a>. <strong><em>River Research and Applications</em></strong> 38: 819-831
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1002/rra.3951" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/rra.3951" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Barry, C, C Legaspi, TM Clarke, G Araujo, <strong>CJA Bradshaw</strong>, AC Gleiss, L Meyer, C Huveneers. 2023. <a href="https://doi.org/10.1016/j.biocon.2023.110164" target="_blank" rel="noopener">Estimating the energetic cost of whale shark tourism</a>. <strong><em>Biological Conservation</em></strong> 284: 110164
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2023.110164" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2023.110164" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/03/river.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Thompson, RM, EJ Barbour, <strong>CJA Bradshaw</strong>, S Briggs, N Byron, M Grace, B Hart, A King, GE Likens, CA Pollino, F Sheldon, M Stewardson, M Thoms, RJ Watts, JA Webb. 2022. <a href="http://doi.org/10.1002/rra.3951" target="_blank" rel="noopener">Principles for scientists working at the river science-policy interface</a>. <strong><em>River Research and Applications</em></strong> 38: 819-831
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/rra.3951" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/rra.3951" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/01/frogicon.png" height="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -614,19 +614,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/ecs2.4379" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ecs2.4379" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png" height="50" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Moen, J, L Rist, K Bishop, FS Chapin III, D Ellison, T Kuuluvainen, H Petersson, KJ Puettmann, J Rayner, IG Warkentin, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1111/conl.12098" target="_blank" rel="noopener">Eye on the taiga: removing global policy impediments to safeguard the boreal forest</a>. <strong><em>Conservation Letters</em></strong> 7: 408-418
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/conl.12098" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/conl.12098" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaice.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Turney, CSM, ZA Thomas, DK Hutchison, <strong>CJA Bradshaw</strong>, <i>et al.</i> 2015. <a href="http://doi.org/10.1002/2015GL066344" target="_blank" rel="noopener">Obliquity‐driven expansion of North Atlantic sea ice during the last glacial</a>. <strong><em>Geophysical Research Letters</em></strong> 42: 10382-10390
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/2015GL066344" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/2015GL066344" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Moen, J, L Rist, K Bishop, FS Chapin III, D Ellison, T Kuuluvainen, H Petersson, KJ Puettmann, J Rayner, IG Warkentin, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1111/conl.12098" target="_blank" rel="noopener">Eye on the taiga: removing global policy impediments to safeguard the boreal forest</a>. <strong><em>Conservation Letters</em></strong> 7: 408-418
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/conl.12098" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/conl.12098" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rabbit.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
