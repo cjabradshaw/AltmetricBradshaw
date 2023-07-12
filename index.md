@@ -439,6 +439,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/emr.12130" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/emr.12130" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/12/networkglobe.webp" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Llewelyn, J, G Strona, CR Dickman, AC Greenville, GM Wardle, MSY Lee, S Doherty, F Shabani, F Saltré, <strong>Bradshaw, CJA</strong>. 2023. <a href="http://doi.org/10.1111/ecog.06619" target="_blank" rel="noopener">Predicting predator-prey interactions in terrestrial endotherms using random forest</a>. <strong><em>Ecography</em></strong> e06619
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06619" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06619" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rank.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, JM Chalker, SA Crabtree, BA Eijkelkamp, JA Long, JR Smith, K Trinajstic, V Weisbecker. 2021. <a href="https://doi.org/10.1371/journal.pone.0257141" target="_blank" rel="noopener">A fairer way to compare researchers at any career stage and in any discipline using open-access citation data</a>. <strong><em>PLoS One</em></strong> 16: e0257141
@@ -683,13 +690,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.3389/fcosc.2021.700869" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcosc.2021.700869" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/12/networkglobe.webp" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Llewelyn, J, G Strona, CR Dickman, AC Greenville, GM Wardle, MSY Lee, S Doherty, F Shabani, F Saltré, <strong>Bradshaw, CJA</strong>. 2023. <a href="http://doi.org/10.1111/ecog.06619" target="_blank" rel="noopener">Predicting predator-prey interactions in terrestrial endotherms using random forest</a>. <strong><em>Ecography</em></strong> e06619
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06619" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06619" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/carbonprice.jpg" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
