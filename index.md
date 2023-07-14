@@ -196,19 +196,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.3897/neobiota.67.58834" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3897/neobiota.67.58834" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dna.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Frankham R, <strong>CJA Bradshaw</strong>, BW Brook. 2014. <a href="http://doi.org/10.1016/j.biocon.2013.12.036" target="_blank" rel="noopener">Genetics in conservation management: revised recommendations for the 50/500 rules, Red List criteria and population viability analyses</a>. <strong><em>Biological Conservation</em></strong> 170: 53-63
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2013.12.036" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2013.12.036" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/06/eueuro.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Henry, M, B Leung, RN Cuthbert, TW Bodey, DA Ahmed, E Angulo, P Balzani, E Briski, F Courchamp, P Hulme, A Kouba, M Kourantidou, C Liu, RL Macêdo, FJ Oficialdegui, D Renault, I Soto, A Serhan Tarkan, AJ Turbelin, <strong>CJA Bradshaw</strong>, PJ Haubrock. 2023. <a href="http://doi.org/10.1186/s12302-023-00750-3" target="_blank" rel="noopener">Unveiling the hidden economic toll of biological invasions in the European Union</a>. <strong><em>Environmental Sciences Europe</em></strong> 35: 43
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1186/s12302-023-00750-3" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1186/s12302-023-00750-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dna.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Frankham R, <strong>CJA Bradshaw</strong>, BW Brook. 2014. <a href="http://doi.org/10.1016/j.biocon.2013.12.036" target="_blank" rel="noopener">Genetics in conservation management: revised recommendations for the 50/500 rules, Red List criteria and population viability analyses</a>. <strong><em>Biological Conservation</em></strong> 170: 53-63
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2013.12.036" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2013.12.036" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/forests.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
