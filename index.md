@@ -98,6 +98,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12433" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12433" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/07/bacteriophage.png" height="90" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Strona, G, <strong> CJA Bradshaw</strong>, P Cardoso, NJ Gotelli, F Guillaume, F Manca, V Mustonen, L Zaman. 2023. <a href="https://doi.org/10.1371/journal.pcbi.1011268" target="_blank" rel="noopener">Time-travelling pathogens and their risk to ecological communities</a>. <strong><em>PLoS Computational Biology</em></strong> 19: e1011268
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1011268" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pcbi.1011268" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/hunter.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Di Minin, E, HS Clements, RA Correia, G Cortés-Capano, C Fink, A Haukka, A Hausmann, R Kulkarni, <strong>CJA Bradshaw</strong>. 2021. <a href="http://doi.org/10.1016/j.oneear.2021.01.014" target="_blank" rel="noopener">Consequences of recreational hunting for biodiversity conservation and livelihoods</a>. <em><strong>One Earth</strong></em> 4: 238-253
@@ -160,13 +167,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.7717/peerj.5554" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7717/peerj.5554" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/07/bacteriophage.png" height="90" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Strona, G, <strong> CJA Bradshaw</strong>, P Cardoso, NJ Gotelli, F Guillaume, F Manca, V Mustonen, L Zaman. 2023. <a href="https://doi.org/10.1371/journal.pcbi.1011268" target="_blank" rel="noopener">Time-travelling pathogens and their risk to ecological communities</a>. <strong><em>PLoS Computational Biology</em></strong> 19: e1011268
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1011268" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pcbi.1011268" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/trophyhunting.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
