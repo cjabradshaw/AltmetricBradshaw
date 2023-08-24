@@ -259,6 +259,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2023.107971" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2023.107971" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/12/networkglobe.webp" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Llewelyn, J, G Strona, CR Dickman, AC Greenville, GM Wardle, MSY Lee, S Doherty, F Shabani, F Saltré, <strong>CJA Bradshaw</strong>. 2023. <a href="http://doi.org/10.1111/ecog.06619" target="_blank" rel="noopener">Predicting predator-prey interactions in terrestrial endotherms using random forest</a>. <strong><em>Ecography</em></strong> e06619
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06619" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06619" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/family.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, S Ulm, AN Williams, MI Bird, RG Roberts, Z Jacobs, F Laviano, LS Weyrich, T Friedrich, K Norman, F Saltré. 2019. <a href="http://doi.org/10.1038/s41559-019-0902-6" target="_blank" rel="noopener">Minimum founding populations for the first peopling of Sahul</a>. <strong><em>Nature Ecology and Evolution</em></strong> 3: 1057-1063
@@ -272,13 +279,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0010440" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0010440" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/12/networkglobe.webp" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Llewelyn, J, G Strona, CR Dickman, AC Greenville, GM Wardle, MSY Lee, S Doherty, F Shabani, F Saltré, <strong>CJA Bradshaw</strong>. 2023. <a href="http://doi.org/10.1111/ecog.06619" target="_blank" rel="noopener">Predicting predator-prey interactions in terrestrial endotherms using random forest</a>. <strong><em>Ecography</em></strong> e06619
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06619" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06619" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/flood.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
