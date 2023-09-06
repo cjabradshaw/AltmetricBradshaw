@@ -530,6 +530,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/eap.1882" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/eap.1882" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/09/invacostlogo.jpg" height="60" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Ahmed, DA, PJ Haubrock, RN Cuthbert, A Bang, I Soto, P Balzani, A Serhan Tarkan, RL Macêdo, L Carneiro, TW Bodey, FJ Oficialdegui, P Courtois, M Kourantidou, E Angulo, G Heringer, D Renault, AJ Turbelin, EJ Hudgins, C Liu, SA Gojery, U Arbieu, C Diagne, B Leroy, E Briski, <strong>CJA Bradshaw</strong>, F Courchamp. 2023. <a href="http://doi.org/10.1093/biosci/biad060" target="_blank" rel="noopener">Recent advances in availability and synthesis of the economic costs of biological invasions</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biad060
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biad060" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biad060" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Hong, S, <strong>CJA Bradshaw</strong>, BW Brook. 2014. <a href="http://doi.org/10.1016/j.apenergy.2014.09.062" target="_blank" rel="noopener">Nuclear power can reduce emissions and maintain a strong economy: rating Australia’s optimal future electricity-generation mix by technologies and policies</a>. <strong><em>Applied Energy</em></strong> 136: 712-725
@@ -592,13 +599,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.energy.2013.02.010" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.energy.2013.02.010" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/09/invacostlogo.jpg" height="60" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Ahmed, DA, PJ Haubrock, RN Cuthbert, A Bang, I Soto, P Balzani, A Serhan Tarkan, RL Macêdo, L Carneiro, TW Bodey, FJ Oficialdegui, P Courtois, M Kourantidou, E Angulo, G Heringer, D Renault, AJ Turbelin, EJ Hudgins, C Liu, SA Gojery, U Arbieu, C Diagne, B Leroy, E Briski, <strong>CJA Bradshaw</strong>, F Courchamp. 2023. <a href="http://doi.org/10.1093/biosci/biad060" target="_blank" rel="noopener">Recent advances in availability and synthesis of the economic costs of biological invasions</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biad060
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biad060" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biad060" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
