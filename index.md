@@ -147,12 +147,12 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1126/science.1240495" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/science.1240495" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png" width="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/surfshark.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Crabtree, SA, DA White, <strong>CJA Bradshaw</strong>, F Saltré, AN Williams, RJ Beaman, MI Bird, S Ulm. 2021. <a href="http://doi.org/10.1038/s41562-021-01106-8" target="_blank" rel="noopener">Landscape rules predict optimal superhighways for the first peopling of Sahul</a>. <strong><em>Nature Human Behaviour</em></strong> 5: 1303–1313
+		Huveneers, C, S Whitmarsh, M Thiele, L Meyer, A Fox, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.7717/peerj.5554" target="_blank" rel="noopener">Effectiveness of five personal shark-bite deterrents for surfers</a>. <em><strong>PeerJ </strong></em>6: e5554
 	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41562-021-01106-8" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41562-021-01106-8" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<span class="__dimensions_badge_embed__" data-doi="10.7717/peerj.5554" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7717/peerj.5554" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/ausdots.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -161,12 +161,12 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-021-21551-3" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-021-21551-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/surfshark.png" width="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Huveneers, C, S Whitmarsh, M Thiele, L Meyer, A Fox, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.7717/peerj.5554" target="_blank" rel="noopener">Effectiveness of five personal shark-bite deterrents for surfers</a>. <em><strong>PeerJ </strong></em>6: e5554
+		Crabtree, SA, DA White, <strong>CJA Bradshaw</strong>, F Saltré, AN Williams, RJ Beaman, MI Bird, S Ulm. 2021. <a href="http://doi.org/10.1038/s41562-021-01106-8" target="_blank" rel="noopener">Landscape rules predict optimal superhighways for the first peopling of Sahul</a>. <strong><em>Nature Human Behaviour</em></strong> 5: 1303–1313
 	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.7717/peerj.5554" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7717/peerj.5554" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41562-021-01106-8" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41562-021-01106-8" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/trophyhunting.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -188,6 +188,13 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature11318" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature11318" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingo.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Smith, BP, KM Cairns, JW Adams, TM Newsome, M Fillios, EC Déaux, WCH Parr, M Letnic, LM van Eeden, RG Appleby, <strong>CJA Bradshaw</strong>, P Savolainen, EG Ritchie, DG Nimmo, C Archer-Lean, AC Greenville, CR Dickman, L Watson, KE Moseby, TS Doherty, AD Wallach, DS Morrant, MS Crowther. 2019. <a href="http://doi.org/10.11646/zootaxa.4564.1.6" target="_blank" rel="noopener">Taxonomic status of the Australian dingo: the case for <em>Canis dingo</em> Meyer, 1793</a>. <em><strong>Zootaxa</strong></em> 4564: 173-197
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.11646/zootaxa.4564.1.6" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.11646/zootaxa.4564.1.6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/chainsaw.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -216,13 +223,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-019-13277-0" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-019-13277-0" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingo.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Smith, BP, KM Cairns, JW Adams, TM Newsome, M Fillios, EC Déaux, WCH Parr, M Letnic, LM van Eeden, RG Appleby, <strong>CJA Bradshaw</strong>, P Savolainen, EG Ritchie, DG Nimmo, C Archer-Lean, AC Greenville, CR Dickman, L Watson, KE Moseby, TS Doherty, AD Wallach, DS Morrant, MS Crowther. 2019. <a href="http://doi.org/10.11646/zootaxa.4564.1.6" target="_blank" rel="noopener">Taxonomic status of the Australian dingo: the case for <em>Canis dingo</em> Meyer, 1793</a>. <em><strong>Zootaxa</strong></em> 4564: 173-197
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.11646/zootaxa.4564.1.6" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.11646/zootaxa.4564.1.6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dna.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
