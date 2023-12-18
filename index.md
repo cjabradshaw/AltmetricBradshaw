@@ -712,6 +712,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2013.02.012" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2013.02.012" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/12/bathy.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Norman, K, <strong>CJA Bradshaw</strong>, F Saltré, C Clarkson, TJ Cohen, P Hiscock, T Jones, F Boesl. 2024. <a href="https://doi.org/10.1016/j.quascirev.2023.108418" target="_blank" rel="noopener">Sea level rise drowned a vast habitable area of north-western Australia driving long-term cultural change</a>. <strong><em>Quaternary Science Reviews</em></strong> 324: 108418
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2023.108418" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2023.108418" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/buffalo.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, CR McMahon, PS Miller, RC Lacy, MJ Watts, ML Verant, JP Pollack, DA Fordham, TAA Prowse, BW Brook. 2012. <a href="http://doi.org/10.1111/j.1365-2664.2011.02081.x" target="_blank" rel="noopener">Novel coupling of individual‐based epidemiological and demographic models predicts realistic dynamics of tuberculosis in alien buffalo</a>. <strong><em>Journal of Applied Ecology</em></strong> 49: 268-277
