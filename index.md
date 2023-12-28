@@ -345,6 +345,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2656.12029" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2656.12029" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/forests.png" height="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Hamilton, R, N Amano, <strong>CJA Bradshaw</strong>, F Saltré, R Patalano, D Penny, J Stevenson, J Wolfhagen, P Roberts. 2024. <a href="http://doi.org/10.1073/pnas.2311280120" target="_blank" rel="noopener">Forest mosaics, not savanna corridors, dominated in Southeast Asia during the Last Glacial Maximum</a>. <strong><em>Proceedings of the National Academy of Sciences of the USA</em></strong> 121: e2311280120
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2311280120" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2311280120" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whale.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Evans, K, R Thresher, RM Warneke, <strong>CJA Bradshaw</strong>, M Pook, D Thiele, MA Hindell. 2005. <a href="http://doi.org/10.1098/rsbl.2005.0313" target="_blank" rel="noopener">Periodic variability in cetacean strandings &#8211; links to large-scale climate events</a>. <strong><em>Biology Letters</em></strong> 1: 147-150
@@ -365,13 +372,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.63870" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/forests.png" height="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Hamilton, R, N Amano, <strong>CJA Bradshaw</strong>, F Saltré, R Patalano, D Penny, J Stevenson, J Wolfhagen, P Roberts. 2024. <a href="http://doi.org/10.1073/pnas.2311280120" target="_blank" rel="noopener">Forest mosaics, not savanna corridors, dominated in Southeast Asia during the Last Glacial Maximum</a>. <strong><em>Proceedings of the National Academy of Sciences of the USA</em></strong> 121: e2311280120
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2311280120" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2311280120" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 <hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/thylacoleo-icon-cutout.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
