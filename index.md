@@ -125,13 +125,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2021.01.014" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2021.01.014" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-<hr>
-<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon-icon.png" width="80" style="float:right;" />
-<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-	Saltré, F, Rodríguez-Rey, M, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1038/ncomms10511" target="_blank" rel="noopener">Climate change not to blame for Late Quaternary megafauna extinctions in Australia</a>. <strong><em>Nature Communications</em></strong> 7: 10511
-</p>
-<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms10511" data-legend="hover-right" data-style="small_rectangle"></span>
-<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10511" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/12/bathy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -139,6 +132,13 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2023.108418" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2023.108418" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+<hr>
+<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon-icon.png" width="80" style="float:right;" />
+<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+	Saltré, F, Rodríguez-Rey, M, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1038/ncomms10511" target="_blank" rel="noopener">Climate change not to blame for Late Quaternary megafauna extinctions in Australia</a>. <strong><em>Nature Communications</em></strong> 7: 10511
+</p>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms10511" data-legend="hover-right" data-style="small_rectangle"></span>
+<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10511" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/froglegs.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
