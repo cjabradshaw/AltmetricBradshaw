@@ -105,19 +105,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12433" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12433" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/smilodon.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Metcalf, JL, CSM Turney, R Barnett, F Martin, S Bray, JT Vilstrup, L Orlando, R Salas-Gismondi, D Loponte, M Medina, M De Nigris, T Civalero, P Marcelo Fernandez, A Gasco, V Duran, KL Seymour, C Otaola, A Gil, R Paunero, FJ Prevost, <strong>CJA Bradshaw</strong>, et al. 2016. <a href="http://doi.org/10.1126/sciadv.1501682" target="_blank" rel="noopener">Synergistic roles of climate warming and human occupation in Patagonian megafaunal extinctions during the Last Deglaciation</a>. <strong><em>Science Advances </em></strong>2: e1501682
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.1501682" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.1501682" data-hide-no-mentions="true" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/12/bathy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Norman, K, <strong>CJA Bradshaw</strong>, F Saltré, C Clarkson, TJ Cohen, P Hiscock, T Jones, F Boesl. 2024. <a href="https://doi.org/10.1016/j.quascirev.2023.108418" target="_blank" rel="noopener">Sea level rise drowned a vast habitable area of north-western Australia driving long-term cultural change</a>. <strong><em>Quaternary Science Reviews</em></strong> 324: 108418
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2023.108418" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2023.108418" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/smilodon.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Metcalf, JL, CSM Turney, R Barnett, F Martin, S Bray, JT Vilstrup, L Orlando, R Salas-Gismondi, D Loponte, M Medina, M De Nigris, T Civalero, P Marcelo Fernandez, A Gasco, V Duran, KL Seymour, C Otaola, A Gil, R Paunero, FJ Prevost, <strong>CJA Bradshaw</strong>, et al. 2016. <a href="http://doi.org/10.1126/sciadv.1501682" target="_blank" rel="noopener">Synergistic roles of climate warming and human occupation in Patagonian megafaunal extinctions during the Last Deglaciation</a>. <strong><em>Science Advances </em></strong>2: e1501682
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.1501682" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.1501682" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/06/eueuro.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
