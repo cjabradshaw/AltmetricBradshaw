@@ -252,19 +252,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1525/bio.2013.63.10.9" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1525/bio.2013.63.10.9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/12/networkglobe.webp" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Llewelyn, J, G Strona, CR Dickman, AC Greenville, GM Wardle, MSY Lee, S Doherty, F Shabani, F Saltré, <strong>CJA Bradshaw</strong>. 2023. <a href="http://doi.org/10.1111/ecog.06619" target="_blank" rel="noopener">Predicting predator-prey interactions in terrestrial endotherms using random forest</a>. <strong><em>Ecography</em></strong> e06619
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06619" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06619" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/02/fertility.jpg" width="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, C Perry, MA Judge, CM Saraswati, J Heyworth, PN Le Souëf. 2023. <a href="http://doi.org/10.1371/journal.pone.0280260" target="_blank" rel="noopener"> Lower infant mortality, lower household size, and more access to contraception reduce fertility in low- and middle-income nations</a>. <strong><em>PLoS One</em></strong> 18: e0280260
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0280260" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0280260" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/12/networkglobe.webp" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Llewelyn, J, G Strona, CR Dickman, AC Greenville, GM Wardle, MSY Lee, S Doherty, F Shabani, F Saltré, <strong>CJA Bradshaw</strong>. 2023. <a href="http://doi.org/10.1111/ecog.06619" target="_blank" rel="noopener">Predicting predator-prey interactions in terrestrial endotherms using random forest</a>. <strong><em>Ecography</em></strong> e06619
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06619" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06619" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/forests.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
