@@ -287,6 +287,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2023.107971" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2023.107971" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/synergy.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Brook, BW, NS Sodhi, <strong>CJA Bradshaw</strong>. 2008. <a href="http://doi.org/10.1016/j.tree.2008.03.011" target="_blank" rel="noopener">Synergies among extinction drivers under global change</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 23: 453-460
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2008.03.011" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2008.03.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/family.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, S Ulm, AN Williams, MI Bird, RG Roberts, Z Jacobs, F Laviano, LS Weyrich, T Friedrich, K Norman, F Saltré. 2019. <a href="http://doi.org/10.1038/s41559-019-0902-6" target="_blank" rel="noopener">Minimum founding populations for the first peopling of Sahul</a>. <strong><em>Nature Ecology and Evolution</em></strong> 3: 1057-1063
@@ -322,13 +329,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1177/08901171211064224" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/08901171211064224" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/synergy.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Brook, BW, NS Sodhi, <strong>CJA Bradshaw</strong>. 2008. <a href="http://doi.org/10.1016/j.tree.2008.03.011" target="_blank" rel="noopener">Synergies among extinction drivers under global change</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 23: 453-460
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2008.03.011" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2008.03.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingoroocattle.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
