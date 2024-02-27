@@ -726,6 +726,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.3389/fcosc.2021.700869" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcosc.2021.700869" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Huveneers, C, C Blount, <strong>CJA Bradshaw</strong>, PA Butcher, MP Lincoln Smith, WG Macbeth, DM McPhee, N Moltschaniwskyj, VM Peddemors, M Green. 2024. <a href="http://doi.org/10.1016/j.marpolbul.2023.115855" target="_blank" rel="noopener">Shifts in the incidence of shark bites and efficacy of beach-focussed mitigation in Australia</a>. <strong><em>Marine Pollution Bulletin</em></strong> 198: 115855
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.marpolbul.2023.115855" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.marpolbul.2023.115855" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/01/pigeon.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Evans, T, E Angulo, <strong>CJA Bradshaw</strong>, AJ Turbelin, F Courchamp. 2023. <a href="http://doi.org/10.1371/journal.pone.0292854" target="_blank" rel="noopener">Global economic costs of alien birds</a>. <strong><em>PLoS One</em></strong> 18: e0292854
