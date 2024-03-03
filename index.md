@@ -600,6 +600,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.1094" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ece3.1094" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/scales.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Carneiro, L, PE Hulme, RN Cuthbert, M Kourantidou, A Bang, PJ Haubrock, <strong>CJA Bradshaw</strong>, P Balzani, S Bacher, G Latombe, TW Bodey, AF Probert, CS Quilodrán, F Courchamp. 2024. <a href="http://doi.org/10.1093/biosci/biae010" target="_blank" rel="noopener">Benefits do not balance costs of biological invasions</a>. <strong><em>BioScience</em></strong> biae010. doi:10.1093/biosci/biae010
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biae010" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biae010" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/list.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Herrando-Pérez, S, BW Brook, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1093/biosci/biu013" target="_blank" rel="noopener">Ecology needs a convention of nomenclature</a>. <strong><em>BioScience</em></strong> 64: 311–321
@@ -620,13 +627,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2011.09.028" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cub.2011.09.028" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/scales.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Carneiro, L, PE Hulme, RN Cuthbert, M Kourantidou, A Bang, PJ Haubrock, <strong>CJA Bradshaw</strong>, P Balzani, S Bacher, G Latombe, TW Bodey, AF Probert, CS Quilodrán, F Courchamp. 2024. <a href="http://doi.org/10.1093/biosci/biae010" target="_blank" rel="noopener">Benefits do not balance costs of biological invasions</a>. <strong><em>BioScience</em></strong> biae010. doi:10.1093/biosci/biae010
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biae010" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biae010" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
