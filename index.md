@@ -461,6 +461,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1890/13-0746.1" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/13-0746.1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/scales.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Carneiro, L, PE Hulme, RN Cuthbert, M Kourantidou, A Bang, PJ Haubrock, <strong>CJA Bradshaw</strong>, P Balzani, S Bacher, G Latombe, TW Bodey, AF Probert, CS Quilodrán, F Courchamp. 2024. <a href="http://doi.org/10.1093/biosci/biae010" target="_blank" rel="noopener">Benefits do not balance costs of biological invasions</a>. <strong><em>BioScience</em></strong> biae010. doi:10.1093/biosci/biae010
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biae010" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biae010" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/coral.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Carturan, BS, J Pither, J-P Maréchal, <strong>CJA Bradshaw</strong>, L Parrott. 2020. <a href="http://doi.org/10.7554/eLife.55993" target="_blank" rel="noopener">Combining agent-based, trait-based and demographic approaches to model coral-community dynamics</a>. <strong><em>eLife</em></strong> 9: e55993
@@ -473,13 +480,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 		White, LC, F Saltré, <strong>CJA Bradshaw</strong>, JJ Austin. 2018. <a href="http://doi.org/10.1098/rsbl.2017.0642" target="_blank" rel="noopener">High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia</a>. <strong><em>Biology Letters</em></strong> 14: 20170642
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2017.0642" data-legend="hover-right" data-style="small_rectangle"></span>		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2017.0642" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/scales.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Carneiro, L, PE Hulme, RN Cuthbert, M Kourantidou, A Bang, PJ Haubrock, <strong>CJA Bradshaw</strong>, P Balzani, S Bacher, G Latombe, TW Bodey, AF Probert, CS Quilodrán, F Courchamp. 2024. <a href="http://doi.org/10.1093/biosci/biae010" target="_blank" rel="noopener">Benefits do not balance costs of biological invasions</a>. <strong><em>BioScience</em></strong> biae010. doi:10.1093/biosci/biae010
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biae010" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biae010" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/09/invacostlogo.jpg" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
