@@ -273,6 +273,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06619" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06619" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/02/warmchild.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Weeda, LJZ, <strong>CJA Bradshaw</strong>, MA Judge, CM Saraswati, PN Le Souëf. 2024. <a href="https://doi.org/10.1016/j.scitotenv.2024.170944" target="_blank" rel="noopener">How climate change degrades child health: a systematic review and meta-analysis</a>. <strong><em>Science of the Total Environment</em></strong> 920: 170944
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.scitotenv.2024.170944" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.scitotenv.2024.170944" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tropicalfish.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Monaco, CJ, <strong>CJA Bradshaw</strong>, DJ Booth, BM Gillanders, DS Schoeman, I Nagelkerken. 2020. <a href="http://doi.org/10.1111/gcb.15221" target="_blank" rel="noopener">Dietary generalism accelerates arrival and persistence of coral-reef fishes in their novel ranges under climate change</a>. <strong><em>Global Change Biology</em></strong> 26: 5564-5573
@@ -286,13 +293,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2023.107971" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2023.107971" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/02/warmchild.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Weeda, LJZ, <strong>CJA Bradshaw</strong>, MA Judge, CM Saraswati, PN Le Souëf. 2024. <a href="https://doi.org/10.1016/j.scitotenv.2024.170944" target="_blank" rel="noopener">How climate change degrades child health: a systematic review and meta-analysis</a>. <strong><em>Science of the Total Environment</em></strong> 920: 170944
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.scitotenv.2024.170944" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.scitotenv.2024.170944" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/synergy.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
