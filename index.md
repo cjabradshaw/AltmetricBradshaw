@@ -344,6 +344,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.12378" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12378" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/fire.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Bird, M, M Brand, R Comley, X Fu, X Hadeen, Z Jacobs, C Rowe, CM Wurster, C Zwart, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1038/s41561-024-01388-3" target="_blank" rel="noopener">Late Pleistocene emergence of an anthropogenic fire regime in Australia’s tropical savannahs</a>. <strong><em>Nature Geoscience</em></strong> doi:10.1038/s41561-024-01388-3
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41561-024-01388-3" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41561-024-01388-3" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/words.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Herrando-Pérez, S, <strong>CJA Bradshaw</strong>, S Lewandowsky, DR Vieites. 2019. <a href="http://doi.org/10.1093/biosci/biz004" target="_blank" rel="noopener">Statistical language backs conservatism in climate-change assessments</a>. <strong><em>BioScience</em></strong> 69: 209-219
@@ -474,13 +481,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.55993" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.55993" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/fire.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Bird, M, M Brand, R Comley, X Fu, X Hadeen, Z Jacobs, C Rowe, CM Wurster, C Zwart, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1038/s41561-024-01388-3" target="_blank" rel="noopener">Late Pleistocene emergence of an anthropogenic fire regime in Australia’s tropical savannahs</a>. <strong><em>Nature Geoscience</em></strong> doi:10.1038/s41561-024-01388-3
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41561-024-01388-3" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41561-024-01388-3" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
