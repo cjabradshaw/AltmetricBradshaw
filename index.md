@@ -495,6 +495,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0257141" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0257141" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/fire.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Bird, M, M Brand, R Comley, X Fu, X Hadeen, Z Jacobs, C Rowe, CM Wurster, C Zwart, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1038/s41561-024-01388-3" target="_blank" rel="noopener">Late Pleistocene emergence of an anthropogenic fire regime in Australia’s tropical savannahs</a>. <strong><em>Nature Geoscience</em></strong> doi:10.1038/s41561-024-01388-3
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41561-024-01388-3" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41561-024-01388-3" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fence.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Bradby, K, JA Fitzsimmons, A Del Marco, DA Driscoll, EG Ritchie, J Lau, <strong>CJA Bradshaw</strong>, RJ Hobbs. 2014. <a href="http://doi.org/10.1111/emr.12130" target="_blank" rel="noopener">Ecological connectivity or Barrier Fence? Critical choices on the agricultural margins of Western Australia</a>. <strong><em>Ecological Management and Restoration</em></strong> 15: 180-190
@@ -564,13 +571,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/app5.135" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/app5.135" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/fire.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Bird, M, M Brand, R Comley, X Fu, X Hadeen, Z Jacobs, C Rowe, CM Wurster, C Zwart, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1038/s41561-024-01388-3" target="_blank" rel="noopener">Late Pleistocene emergence of an anthropogenic fire regime in Australia’s tropical savannahs</a>. <strong><em>Nature Geoscience</em></strong> doi:10.1038/s41561-024-01388-3
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41561-024-01388-3" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41561-024-01388-3" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/murraycod.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
