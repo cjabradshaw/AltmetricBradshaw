@@ -482,18 +482,18 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.55993" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.55993" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		White, LC, F Saltré, <strong>CJA Bradshaw</strong>, JJ Austin. 2018. <a href="http://doi.org/10.1098/rsbl.2017.0642" target="_blank" rel="noopener">High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia</a>. <strong><em>Biology Letters</em></strong> 14: 20170642
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2017.0642" data-legend="hover-right" data-style="small_rectangle"></span>		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2017.0642" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/tornado.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Soto, I, P Balzani, L Carneiro, RN Cuthbert, R Macêdo, A Serhan Tarkan, DA Ahmed, A Bang, ..., BS Galil, JTA Dick, JC Russell, A Ricciardi, D Simberloff, <strong>CJA Bradshaw</strong>, PJ Haubrock. 2024. <a href="http://doi.org/10.1111/brv.13071" target="_blank" rel="noopener">Taming the terminological tempest in invasion science</a>. <strong><em>Biological Reviews</em></strong> doi:10.1111/brv.13071
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/brv.13071" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/brv.13071" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		White, LC, F Saltré, <strong>CJA Bradshaw</strong>, JJ Austin. 2018. <a href="http://doi.org/10.1098/rsbl.2017.0642" target="_blank" rel="noopener">High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia</a>. <strong><em>Biology Letters</em></strong> 14: 20170642
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2017.0642" data-legend="hover-right" data-style="small_rectangle"></span>		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2017.0642" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/09/invacostlogo.jpg" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
