@@ -261,7 +261,7 @@
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/fire.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Bird, MI, M Brand, R Comley, X Fu, X Hadeen, Z Jacobs, C Rowe, CM Wurster, C Zwart, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1038/s41561-024-01388-3" target="_blank" rel="noopener">Late Pleistocene emergence of an anthropogenic fire regime in Australia’s tropical savannahs</a>. <strong><em>Nature Geoscience</em></strong> doi:10.1038/s41561-024-01388-3
+		Bird, MI, M Brand, R Comley, X Fu, X Hadeen, Z Jacobs, C Rowe, CM Wurster, C Zwart, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1038/s41561-024-01388-3" target="_blank" rel="noopener">Late Pleistocene emergence of an anthropogenic fire regime in Australia’s tropical savannahs</a>. <strong><em>Nature Geoscience</em></strong> 17: 233-240
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41561-024-01388-3" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41561-024-01388-3" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
