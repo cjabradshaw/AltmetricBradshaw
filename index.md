@@ -740,6 +740,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1467-2979.2009.00325.x" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1467-2979.2009.00325.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/trade.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, PE Hulme, EJ Hudgins, B Leung, M Kourantidou, P Courtois, AJ Turbelin, SM McDermott, K Lee, DA Ahmed, G Latombe, A Bang, TW Bodey, PJ Haubrock, F Saltré, F Courchamp. 2024. <a href="http://doi.org/10.1016/j.ecolecon.2024.108166" target="_blank" rel="noopener">Damage costs from invasive species exceed management expenditure in nations experiencing lower economic activity</a>. <strong><em>Ecological Economics</em></strong> 220: 108166
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ecolecon.2024.108166" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ecolecon.2024.108166" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/endangered.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Clements, GR, <strong>CJA Bradshaw</strong>, BW Brook, WF Laurance. 2011. <a href="http://doi.org/10.1890/100177" target="_blank" rel="noopener">The SAFE index: using a threshold population target to measure relative species threat</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 9: 521-525
@@ -774,13 +781,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0292854" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0292854" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/trade.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, PE Hulme, EJ Hudgins, B Leung, M Kourantidou, P Courtois, AJ Turbelin, SM McDermott, K Lee, DA Ahmed, G Latombe, A Bang, TW Bodey, PJ Haubrock, F Saltré, F Courchamp. 2024. <a href="http://doi.org/10.1016/j.ecolecon.2024.108166" target="_blank" rel="noopener">Damage costs from invasive species exceed management expenditure in nations experiencing lower economic activity</a>. <strong><em>Ecological Economics</em></strong> 220: 108166
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ecolecon.2024.108166" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ecolecon.2024.108166" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/carbonprice.jpg" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
