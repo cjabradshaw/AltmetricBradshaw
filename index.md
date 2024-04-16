@@ -733,6 +733,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1093/icesjms/fsy031" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/icesjms/fsy031" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frog.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Mathwin, R, S Wassens, A Turner, GW Heard, A Hall, <strong>CJA Bradshaw</strong>. 2024. <a href="https://doi.org/10.1111/aec.13492" target="_blank" rel="noopener">Modelling the sustainable harvest of wild populations for the conservation of a threatened amphibian</a>. <strong><em>Austral Ecology</em></strong> 49: e13492
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/aec.13492" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/aec.13492" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/massspec.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Rodríguez-Rey, M, ..., <strong>CJA Bradshaw</strong>. 2015. <a href="http://doi.org/10.1016/j.quageo.2015.08.002" target="_blank" rel="noopener">Criteria for assessing the quality of Middle Pleistocene to Holocene vertebrate fossil ages</a>. <strong><em>Quaternary Geochronology</em></strong> 30A: 69-79
@@ -781,13 +788,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0292854" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0292854" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frog.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Mathwin, R, S Wassens, A Turner, GW Heard, A Hall, <strong>CJA Bradshaw</strong>. 2024. <a href="https://doi.org/10.1111/aec.13492" target="_blank" rel="noopener">Modelling the sustainable harvest of wild populations for the conservation of a threatened amphibian</a>. <strong><em>Austral Ecology</em></strong> 49: e13492
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/aec.13492" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/aec.13492" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/carbonprice.jpg" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
