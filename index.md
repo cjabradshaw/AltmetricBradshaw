@@ -495,6 +495,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2017.0642" data-legend="hover-right" data-style="small_rectangle"></span>		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2017.0642" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/population.png" height="65" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Saraswati, CM, MA Judge, LJZ Weeda, Q Bassat, N Prata, PN Le Souëf, <strong>CJA Bradshaw</strong>. 2024. <a href="https://doi.org/10.3389/fpubh.2024.1339933" target="_blank" rel="noopener">Net benefit of smaller human populations to environmental integrity and individual health and wellbeing</a>. <strong><em>Frontiers in Public Health</em></strong> 12: 1339933
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.3389/fpubh.2024.1339933" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fpubh.2024.1339933" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/09/invacostlogo.jpg" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Ahmed, DA, PJ Haubrock, RN Cuthbert, A Bang, I Soto, P Balzani, A Serhan Tarkan, RL Macêdo, L Carneiro, TW Bodey, FJ Oficialdegui, P Courtois, M Kourantidou, E Angulo, G Heringer, D Renault, AJ Turbelin, EJ Hudgins, C Liu, SA Gojery, U Arbieu, C Diagne, B Leroy, E Briski, <strong>CJA Bradshaw</strong>, F Courchamp. 2023. <a href="http://doi.org/10.1093/biosci/biad060" target="_blank" rel="noopener">Recent advances in availability and synthesis of the economic costs of biological invasions</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biad060
@@ -529,13 +536,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.12369" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12369" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/population.png" height="65" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Saraswati, CM, MA Judge, LJZ Weeda, Q Bassat, N Prata, PN Le Souëf, <strong>CJA Bradshaw</strong>. 2024. <a href="https://doi.org/10.3389/fpubh.2024.1339933" target="_blank" rel="noopener">Net benefit of smaller human populations to environmental integrity and individual health and wellbeing</a>. <strong><em>Frontiers in Public Health</em></strong> 12: 1339933
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.3389/fpubh.2024.1339933" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fpubh.2024.1339933" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/sickchild.jpg" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
