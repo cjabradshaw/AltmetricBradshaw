@@ -782,6 +782,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.3389/fcosc.2021.700869" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcosc.2021.700869" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/05/cyprus.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, C Reepmeyer, F Saltré, A Agapiou, V Kassianidou, S Demesticha, Z Zomeni, M Polidorou, T Moutsiou. 2024. <a href="https://doi.org/10.1073/pnas.2318293121" target="_blank" rel="noopener">Demographic models predict end-Pleistocene arrival and rapid expansion of pre-agropastoralist humans in Cyprus</a>. <em><strong>Proceedings of the National Academy of Sciences of the USA </strong></em>121: e2318293121
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2318293121" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2318293121" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/01/pigeon.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Evans, T, E Angulo, <strong>CJA Bradshaw</strong>, AJ Turbelin, F Courchamp. 2023. <a href="http://doi.org/10.1371/journal.pone.0292854" target="_blank" rel="noopener">Global economic costs of alien birds</a>. <strong><em>PLoS One</em></strong> 18: e0292854
