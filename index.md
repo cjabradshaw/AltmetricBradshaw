@@ -607,6 +607,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1461-0248.2006.00883.x" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1461-0248.2006.00883.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Shabani, F, M Ahmadi, KJ Peters, S Haberle, A Champreux, F Saltré, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1111/ecog.04530" target="_blank" rel="noopener">Climate‐driven shifts in the distribution of koala‐browse species from the Last Interglacial to the near future</a>. <strong><em>Ecography</em></strong> 42: 1587-1599
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.04530" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.04530" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Hong, S, <strong>CJA Bradshaw</strong>, BW Brook. 2013. <a href="http://doi.org/10.1016/j.enpol.2013.01.002" target="_blank" rel="noopener">Evaluating options for the future energy mix of Japan after the Fukushima nuclear crisis</a>. <strong><em>Energy Policy</em></strong> 56: 418-424
@@ -614,12 +621,12 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enpol.2013.01.002" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.enpol.2013.01.002" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" height="70" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/05/cyprus.png" height="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Shabani, F, M Ahmadi, KJ Peters, S Haberle, A Champreux, F Saltré, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1111/ecog.04530" target="_blank" rel="noopener">Climate‐driven shifts in the distribution of koala‐browse species from the Last Interglacial to the near future</a>. <strong><em>Ecography</em></strong> 42: 1587-1599
+		<strong>Bradshaw, CJA</strong>, C Reepmeyer, F Saltré, A Agapiou, V Kassianidou, S Demesticha, Z Zomeni, M Polidorou, T Moutsiou. 2024. <a href="https://doi.org/10.1073/pnas.2318293121" target="_blank" rel="noopener">Demographic models predict end-Pleistocene arrival and rapid expansion of pre-agropastoralist humans in Cyprus</a>. <em><strong>Proceedings of the National Academy of Sciences of the USA </strong></em>121: e2318293121
 	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.04530" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.04530" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2318293121" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2318293121" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -711,13 +718,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.13187" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.13187" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/05/cyprus.png" height="90" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, C Reepmeyer, F Saltré, A Agapiou, V Kassianidou, S Demesticha, Z Zomeni, M Polidorou, T Moutsiou. 2024. <a href="https://doi.org/10.1073/pnas.2318293121" target="_blank" rel="noopener">Demographic models predict end-Pleistocene arrival and rapid expansion of pre-agropastoralist humans in Cyprus</a>. <em><strong>Proceedings of the National Academy of Sciences of the USA </strong></em>121: e2318293121
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2318293121" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2318293121" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
