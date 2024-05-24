@@ -847,6 +847,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaler.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Saltré, F, J Chadœuf, T Higham, M Ochoki, S Block, E Bunney, B Llamas, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1038/s41467-024-48762-8" target="_blank" rel="noopener">Environmental conditions associated with initial northern expansion of anatomically modern humans</a>. <strong><em>Nature Communications</em></strong> 15: 4364
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-48762-8" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-48762-8" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaler.png" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Junge, C, SC Donnellan, C Huveneers, <strong>CJA Bradshaw</strong>, A Simon, M Drew, C Duffy, G Johnson, G Cliff, M Braccini, SC Cutmore, P Butcher, R McAuley, V Peddemors, P Rogers, BM Gillanders. 2019. <a href="http://doi.org/10.1007/s00227-018-3454-4" target="_blank" rel="noopener">Comparative population genomics confirms little population structure in two commercially targeted carcharhinid sharks</a>. <strong><em>Marine Biology</em></strong> 16: 16
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1007/s00227-018-3454-4" data-legend="hover-right" data-style="small_rectangle"></span>
