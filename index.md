@@ -656,6 +656,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2011.09.028" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cub.2011.09.028" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/05/globalnetwork.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Saltré, F, J Chadœuf, T Higham, M Ochoki, S Block, E Bunney, B Llamas, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1038/s41467-024-48762-8" target="_blank" rel="noopener">Environmental conditions associated with initial northern expansion of anatomically modern humans</a>. <strong><em>Nature Communications</em></strong> 15: 4364
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-48762-8" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-48762-8" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Friedman, K, M Braccini, M Bjerregaard-Walsh, R Bonfil, <strong>CJA Bradshaw</strong>, <i>et al.</i>. 2019. <a href="http://doi.org/10.1111/faf.12411" target="_blank" rel="noopener">Informing CITES Parties: Strengthening science‐based decision‐making when listing marine species</a>. <strong><em>Fish and Fisheries</em></strong> 21: 13-31
@@ -760,13 +767,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quageo.2015.08.002" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quageo.2015.08.002" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/05/globalnetwork.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Saltré, F, J Chadœuf, T Higham, M Ochoki, S Block, E Bunney, B Llamas, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1038/s41467-024-48762-8" target="_blank" rel="noopener">Environmental conditions associated with initial northern expansion of anatomically modern humans</a>. <strong><em>Nature Communications</em></strong> 15: 4364
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-48762-8" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-48762-8" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fishingnet.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
