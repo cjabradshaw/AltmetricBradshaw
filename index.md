@@ -336,6 +336,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1365-2486.2007.01446.x" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1365-2486.2007.01446.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/05/cyprus.png" height="90" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, C Reepmeyer, F Saltré, A Agapiou, V Kassianidou, S Demesticha, Z Zomeni, M Polidorou, T Moutsiou. 2024. <a href="https://doi.org/10.1073/pnas.2318293121" target="_blank" rel="noopener">Demographic models predict end-Pleistocene arrival and rapid expansion of pre-agropastoralist humans in Cyprus</a>. <em><strong>Proceedings of the National Academy of Sciences of the USA </strong></em>121: e2318293121
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2318293121" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2318293121" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png" height="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Ripple, WJ, DA DellaSala, F Baumann, J Gregg, MG Betts, BE Law, <strong>CJA Bradshaw</strong>, C Wolf. 2022. <a href="http://doi.org/10.1177/08901171211064224" target="_blank" rel="noopener">Zoonotic diseases and our troubled relationship with nature</a>. <strong><em>
@@ -350,13 +357,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.12378" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12378" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/05/cyprus.png" height="90" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, C Reepmeyer, F Saltré, A Agapiou, V Kassianidou, S Demesticha, Z Zomeni, M Polidorou, T Moutsiou. 2024. <a href="https://doi.org/10.1073/pnas.2318293121" target="_blank" rel="noopener">Demographic models predict end-Pleistocene arrival and rapid expansion of pre-agropastoralist humans in Cyprus</a>. <em><strong>Proceedings of the National Academy of Sciences of the USA </strong></em>121: e2318293121
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2318293121" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2318293121" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/words.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
