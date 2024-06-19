@@ -231,6 +231,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2013.12.036" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2013.12.036" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/procoptodon-icon.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Saltré, F, J Chadoeuf, KJ Peters, MC McDowell, T Friedrich, A Timmermann, S Ulm, <strong>CJA Bradshaw</strong>. 2019. <a href="https://doi.org/10.1038/s41467-019-13277-0" target="_blank" rel="noopener">Climate-human interaction associated with southeast Australian megafauna extinction patterns</a>. <strong><em>Nature Communications</em></strong> 10: 5311
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-019-13277-0" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-019-13277-0" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="80" style="float:right;" /> 	
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Riley, M, P Meagher, C Huveneers, J Leto, VM Peddemors, D Slip, J West, <strong>CJA Bradshaw</strong>. 2022. <a href="http://doi.org/10.1038/s41597-022-01453-9" target="_blank" rel="noopener">The <em>Australian Shark-Incident Database</em> for quantifying temporal and spatial patterns of shark-human conflict</a>. <em><strong>Scientific Data</strong></em> 9: 378
@@ -244,13 +251,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.scitotenv.2024.170944" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.scitotenv.2024.170944" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/procoptodon-icon.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Saltré, F, J Chadoeuf, KJ Peters, MC McDowell, T Friedrich, A Timmermann, S Ulm, <strong>CJA Bradshaw</strong>. 2019. <a href="https://doi.org/10.1038/s41467-019-13277-0" target="_blank" rel="noopener">Climate-human interaction associated with southeast Australian megafauna extinction patterns</a>. <strong><em>Nature Communications</em></strong> 10: 5311
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-019-13277-0" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-019-13277-0" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/fire.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -280,19 +280,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0280260" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0280260" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/12/networkglobe.webp" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Llewelyn, J, G Strona, CR Dickman, AC Greenville, GM Wardle, MSY Lee, S Doherty, F Shabani, F Saltré, <strong>CJA Bradshaw</strong>. 2023. <a href="http://doi.org/10.1111/ecog.06619" target="_blank" rel="noopener">Predicting predator-prey interactions in terrestrial endotherms using random forest</a>. <strong><em>Ecography</em></strong> e06619
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06619" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06619" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, SA Crabtree, DA White, S Ulm, MI Bird, AN Williams, F Saltré. 2023. <a href="http://doi.org/10.1016/j.quascirev.2023.107971" target="_blank" rel="noopener">Directionally supervised cellular automaton for the initial peopling of Sahul</a>. <strong><em>Quaternary Science Reviews</em></strong> 303: 10971
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2023.107971" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2023.107971" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/12/networkglobe.webp" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Llewelyn, J, G Strona, CR Dickman, AC Greenville, GM Wardle, MSY Lee, S Doherty, F Shabani, F Saltré, <strong>CJA Bradshaw</strong>. 2023. <a href="http://doi.org/10.1111/ecog.06619" target="_blank" rel="noopener">Predicting predator-prey interactions in terrestrial endotherms using random forest</a>. <strong><em>Ecography</em></strong> e06619
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06619" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06619" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tropicalfish.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -427,6 +427,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1890/15-1784.1" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/15-1784.1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/tornado.png" height="65" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Soto, I, P Balzani, L Carneiro, RN Cuthbert, R Macêdo, A Serhan Tarkan, DA Ahmed, A Bang, ..., BS Galil, JTA Dick, JC Russell, A Ricciardi, D Simberloff, <strong>CJA Bradshaw</strong>, PJ Haubrock. 2024. <a href="http://doi.org/10.1111/brv.13071" target="_blank" rel="noopener">Taming the terminological tempest in invasion science</a>. <strong><em>Biological Reviews</em></strong> doi:10.1111/brv.13071
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/brv.13071" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/brv.13071" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fossils.png" height="70" style="float:right;" /> 	
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Block, S, F Saltré, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1371/journal.pone.0151090" target="_blank" rel="noopener">Where to dig for fossils: combining climate-envelope, taphonomy and discovery models</a>. <em><strong>PLoS One</strong></em> 11: e0151090
@@ -434,25 +441,11 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0151090" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0151090" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/scales.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Carneiro, L, PE Hulme, RN Cuthbert, M Kourantidou, A Bang, PJ Haubrock, <strong>CJA Bradshaw</strong>, P Balzani, S Bacher, G Latombe, TW Bodey, AF Probert, CS Quilodrán, F Courchamp. 2024. <a href="http://doi.org/10.1093/biosci/biae010" target="_blank" rel="noopener">Benefits do not balance costs of biological invasions</a>. <strong><em>BioScience</em></strong> biae010. doi:10.1093/biosci/biae010
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biae010" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biae010" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/sugarglider.jpg" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Ritchie, EG, <strong>CJA Bradshaw</strong>, CR Dickman, R Hobbs, CN Johnson, EL Johnston, WF Laurance, D Lindenmayer, MA McCarthy, DG Nimmo, HH Possingham, RL Pressey, DM Watson, J Woinarski. 2013. <a href="http://doi.org/10.1111/cobi.12189" target="_blank" rel="noopener">Continental‐scale governance and the hastening of loss of Australia's biodiversity</a>. <strong><em>Conservation Biology</em></strong> 27: 1133-1135
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12189" data-legend="hover-right" data-style="small_rectangle"></span>			<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12189" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaweed.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Martínez B, B Radford, MS Thomsen, SD Connell, F Carreño <strong>CJA Bradshaw</strong>, DA Fordham, BD Russell, CFD Gurgel, T Wernberg. 2018. <a href="http://doi.org/10.1111/ddi.12767" target="_blank" rel="noopener">Distribution models predict large contractions of habitat‐forming seaweeds in response to ocean warming</a>. <strong><em>Diversity and Distributions</em></strong> 24: 1350-1366
-	</p>
-		<span class="__dimensions_badge_embed__" data-doi="10.1111/ddi.12767" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ddi.12767" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/gauge.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -461,19 +454,26 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2007.06.011" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2007.06.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/scales.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Carneiro, L, PE Hulme, RN Cuthbert, M Kourantidou, A Bang, PJ Haubrock, <strong>CJA Bradshaw</strong>, P Balzani, S Bacher, G Latombe, TW Bodey, AF Probert, CS Quilodrán, F Courchamp. 2024. <a href="http://doi.org/10.1093/biosci/biae010" target="_blank" rel="noopener">Benefits do not balance costs of biological invasions</a>. <strong><em>BioScience</em></strong> biae010. doi:10.1093/biosci/biae010
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biae010" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biae010" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaweed.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Martínez B, B Radford, MS Thomsen, SD Connell, F Carreño <strong>CJA Bradshaw</strong>, DA Fordham, BD Russell, CFD Gurgel, T Wernberg. 2018. <a href="http://doi.org/10.1111/ddi.12767" target="_blank" rel="noopener">Distribution models predict large contractions of habitat‐forming seaweeds in response to ocean warming</a>. <strong><em>Diversity and Distributions</em></strong> 24: 1350-1366
+	</p>
+		<span class="__dimensions_badge_embed__" data-doi="10.1111/ddi.12767" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ddi.12767" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Barry, C, C Legaspi, TM Clarke, G Araujo, <strong>CJA Bradshaw</strong>, AC Gleiss, L Meyer, C Huveneers. 2023. <a href="https://doi.org/10.1016/j.biocon.2023.110164" target="_blank" rel="noopener">Estimating the energetic cost of whale shark tourism</a>. <strong><em>Biological Conservation</em></strong> 284: 110164
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2023.110164" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2023.110164" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/tornado.png" height="65" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Soto, I, P Balzani, L Carneiro, RN Cuthbert, R Macêdo, A Serhan Tarkan, DA Ahmed, A Bang, ..., BS Galil, JTA Dick, JC Russell, A Ricciardi, D Simberloff, <strong>CJA Bradshaw</strong>, PJ Haubrock. 2024. <a href="http://doi.org/10.1111/brv.13071" target="_blank" rel="noopener">Taming the terminological tempest in invasion science</a>. <strong><em>Biological Reviews</em></strong> doi:10.1111/brv.13071
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/brv.13071" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/brv.13071" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
