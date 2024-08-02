@@ -726,19 +726,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/rra.3951" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/rra.3951" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rabbit.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Barnett, LK, TAA Prowse, DE Peacock, GJ Mutze, J Kovaliski, BD Cooke, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.1111/1365-2664.13187" target="_blank" rel="noopener">Previous exposure to myxoma virus reduces survival of European rabbits during outbreaks of rabbit haemorrhagic disease</a>. <strong><em>Journal of Applied Ecology</em></strong> 55: 2954-2962
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.13187" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.13187" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Huveneers, C, C Blount, <strong>CJA Bradshaw</strong>, PA Butcher, MP Lincoln Smith, WG Macbeth, DM McPhee, N Moltschaniwskyj, VM Peddemors, M Green. 2024. <a href="http://doi.org/10.1016/j.marpolbul.2023.115855" target="_blank" rel="noopener">Shifts in the incidence of shark bites and efficacy of beach-focussed mitigation in Australia</a>. <strong><em>Marine Pollution Bulletin</em></strong> 198: 115855
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.marpolbul.2023.115855" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.marpolbul.2023.115855" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rabbit.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Barnett, LK, TAA Prowse, DE Peacock, GJ Mutze, J Kovaliski, BD Cooke, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.1111/1365-2664.13187" target="_blank" rel="noopener">Previous exposure to myxoma virus reduces survival of European rabbits during outbreaks of rabbit haemorrhagic disease</a>. <strong><em>Journal of Applied Ecology</em></strong> 55: 2954-2962
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.13187" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.13187" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
