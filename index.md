@@ -301,19 +301,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06619" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06619" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tropicalfish.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Monaco, CJ, <strong>CJA Bradshaw</strong>, DJ Booth, BM Gillanders, DS Schoeman, I Nagelkerken. 2020. <a href="http://doi.org/10.1111/gcb.15221" target="_blank" rel="noopener">Dietary generalism accelerates arrival and persistence of coral-reef fishes in their novel ranges under climate change</a>. <strong><em>Global Change Biology</em></strong> 26: 5564-5573
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/gcb.15221" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/gcb.15221" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/09/coelacanth.png" height="30" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Clement, AM, R Cloutier, MSY Lee, B King, O Vanhaesebroucke, <strong>CJA Bradshaw</strong>, H Dutel, K Trinajstic, JA Long. 2024. <a href="https://www.nature.com/articles/s41467-024-51238-4" target="_blank" rel="noopener">A Late Devonian coelacanth reconfigures actinistian phylogeny, disparity, and evolutionary dynamics</a>. <strong><em>Nature Communications</em></strong> 15: 7529
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-51238-4" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-51238-4" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tropicalfish.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Monaco, CJ, <strong>CJA Bradshaw</strong>, DJ Booth, BM Gillanders, DS Schoeman, I Nagelkerken. 2020. <a href="http://doi.org/10.1111/gcb.15221" target="_blank" rel="noopener">Dietary generalism accelerates arrival and persistence of coral-reef fishes in their novel ranges under climate change</a>. <strong><em>Global Change Biology</em></strong> 26: 5564-5573
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/gcb.15221" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/gcb.15221" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/synergy.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
