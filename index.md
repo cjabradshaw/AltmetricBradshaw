@@ -879,6 +879,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1007/s00227-018-3454-4" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s00227-018-3454-4" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/09/dwarfhippoeletransp.png" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, F Saltré, SA Crabtree, C Reepmeyer, T Moutsiou. 2024. <a href="https://doi.org/10.1098/rspb.2024.0967" target="_blank" rel="noopener">Small populations of Palaeolithic humans in Cyprus hunted endemic megafauna to extinction</a>. <strong><em>Proceedings of the Royal Society B: Biological Sciences</em></strong> 291: 20240967
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2024.0967" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2024.0967" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
 
 	</body>
 </html>
