@@ -84,19 +84,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms12986" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms12986" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/12/bathy.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Norman, K, <strong>CJA Bradshaw</strong>, F Saltré, C Clarkson, TJ Cohen, P Hiscock, T Jones, F Boesl. 2024. <a href="https://doi.org/10.1016/j.quascirev.2023.108418" target="_blank" rel="noopener">Sea level rise drowned a vast habitable area of north-western Australia driving long-term cultural change</a>. <strong><em>Quaternary Science Reviews</em></strong> 324: 108418
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2023.108418" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2023.108418" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/explore.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Bird, MI, SA Condie, S O'Connor, D O'Grady, C Reepmeyer, S Ulm, M Zega, F Saltré, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1038/s41598-019-42946-9" target="_blank" rel="noopener">Early human settlement of Sahul was not an accident</a>. <em><strong>Scientific Reports </strong></em>9: 8220
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-42946-9" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-019-42946-9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/12/bathy.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Norman, K, <strong>CJA Bradshaw</strong>, F Saltré, C Clarkson, TJ Cohen, P Hiscock, T Jones, F Boesl. 2024. <a href="https://doi.org/10.1016/j.quascirev.2023.108418" target="_blank" rel="noopener">Sea level rise drowned a vast habitable area of north-western Australia driving long-term cultural change</a>. <strong><em>Quaternary Science Reviews</em></strong> 324: 108418
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2023.108418" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2023.108418" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tooth.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -315,19 +315,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/gcb.15221" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/gcb.15221" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/synergy.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Brook, BW, NS Sodhi, <strong>CJA Bradshaw</strong>. 2008. <a href="http://doi.org/10.1016/j.tree.2008.03.011" target="_blank" rel="noopener">Synergies among extinction drivers under global change</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 23: 453-460
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2008.03.011" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2008.03.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/globe.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, X Giam, NS Sodhi. 2010. <a href="http://doi.org/10.1371/journal.pone.0010440" target="_blank" rel="noopener">Evaluating the relative environmental impact of countries</a>. <em><strong>PLoS One</strong></em> 5(5): e10440
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0010440" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0010440" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/synergy.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Brook, BW, NS Sodhi, <strong>CJA Bradshaw</strong>. 2008. <a href="http://doi.org/10.1016/j.tree.2008.03.011" target="_blank" rel="noopener">Synergies among extinction drivers under global change</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 23: 453-460
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2008.03.011" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2008.03.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealfire.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -386,19 +386,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2005.0313" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2005.0313" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/06/roo2.png" height="65" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Mitchell, DR, SC Cairns, G Körtner, <strong>CJA Bradshaw</strong>, F Saltré, V Weisbecker. 2023. <a href="http://doi.org/10.1093/jmammal/gyad053" target="_blank" rel="noopener">Differential developmental rates and demographics in red kangaroo (<em>Osphranter rufus</em>) populations separated by the dingo barrier fence</a>. <strong><em>Journal of Mammalogy</em></strong> doi:10.1093/jmammal/gyad053
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/jmammal/gyad053" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/jmammal/gyad053" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/genyornis.png" width="80" style="float:right;" />
   	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 	<strong>Bradshaw, CJA</strong>, CN Johnson, J Llewelyn, V Weisbecker, G Strona, F Saltré. 2021. <a href="http://doi.org/10.7554/eLife.63870" target="_blank" rel="noopener">Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna</a>. <strong><em>eLife</em></strong> 10: e63870
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.63870" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/06/roo2.png" height="65" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Mitchell, DR, SC Cairns, G Körtner, <strong>CJA Bradshaw</strong>, F Saltré, V Weisbecker. 2023. <a href="http://doi.org/10.1093/jmammal/gyad053" target="_blank" rel="noopener">Differential developmental rates and demographics in red kangaroo (<em>Osphranter rufus</em>) populations separated by the dingo barrier fence</a>. <strong><em>Journal of Mammalogy</em></strong> doi:10.1093/jmammal/gyad053
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/jmammal/gyad053" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/jmammal/gyad053" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -461,13 +461,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12189" data-legend="hover-right" data-style="small_rectangle"></span>			<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12189" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/gauge.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Traill, LW, <strong>CJA Bradshaw</strong>, BW Brook. 2007. <a href="http://doi.org/10.1016/j.biocon.2007.06.011" target="_blank" rel="noopener">Minimum viable population size: a meta-analysis of 30 years of published estimates</a>. <strong><em>Biological Conservation</em></strong> 139: 159-166
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2007.06.011" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2007.06.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/scales.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Carneiro, L, PE Hulme, RN Cuthbert, M Kourantidou, A Bang, PJ Haubrock, <strong>CJA Bradshaw</strong>, P Balzani, S Bacher, G Latombe, TW Bodey, AF Probert, CS Quilodrán, F Courchamp. 2024. <a href="http://doi.org/10.1093/biosci/biae010" target="_blank" rel="noopener">Benefits do not balance costs of biological invasions</a>. <strong><em>BioScience</em></strong> biae010. doi:10.1093/biosci/biae010
@@ -481,6 +474,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 		<span class="__dimensions_badge_embed__" data-doi="10.1111/ddi.12767" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ddi.12767" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/gauge.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Traill, LW, <strong>CJA Bradshaw</strong>, BW Brook. 2007. <a href="http://doi.org/10.1016/j.biocon.2007.06.011" target="_blank" rel="noopener">Minimum viable population size: a meta-analysis of 30 years of published estimates</a>. <strong><em>Biological Conservation</em></strong> 139: 159-166
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2007.06.011" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2007.06.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -510,18 +510,18 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.55993" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.55993" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		White, LC, F Saltré, <strong>CJA Bradshaw</strong>, JJ Austin. 2018. <a href="http://doi.org/10.1098/rsbl.2017.0642" target="_blank" rel="noopener">High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia</a>. <strong><em>Biology Letters</em></strong> 14: 20170642
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2017.0642" data-legend="hover-right" data-style="small_rectangle"></span>		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2017.0642" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/05/globalnetwork.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Saltré, F, J Chadœuf, T Higham, M Ochoki, S Block, E Bunney, B Llamas, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1038/s41467-024-48762-8" target="_blank" rel="noopener">Environmental conditions associated with initial northern expansion of anatomically modern humans</a>. <strong><em>Nature Communications</em></strong> 15: 4364
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-48762-8" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-48762-8" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		White, LC, F Saltré, <strong>CJA Bradshaw</strong>, JJ Austin. 2018. <a href="http://doi.org/10.1098/rsbl.2017.0642" target="_blank" rel="noopener">High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia</a>. <strong><em>Biology Letters</em></strong> 14: 20170642
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2017.0642" data-legend="hover-right" data-style="small_rectangle"></span>		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2017.0642" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/population.png" height="65" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -551,13 +551,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.12369" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12369" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fence.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Bradby, K, JA Fitzsimmons, A Del Marco, DA Driscoll, EG Ritchie, J Lau, <strong>CJA Bradshaw</strong>, RJ Hobbs. 2014. <a href="http://doi.org/10.1111/emr.12130" target="_blank" rel="noopener">Ecological connectivity or Barrier Fence? Critical choices on the agricultural margins of Western Australia</a>. <strong><em>Ecological Management and Restoration</em></strong> 15: 180-190
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/emr.12130" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/emr.12130" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Heard, B, <strong>CJA Bradshaw</strong>, BW Brook. 2015. <a href="http://doi.org/10.1080/03721426.2015.1035217" target="_blank" rel="noopener">Beyond wind: furthering development of clean energy in South Australia</a>. <strong><em>Transactions of the Royal Society of South Australia</em></strong> 139: 57-82
@@ -565,12 +558,12 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1080/03721426.2015.1035217" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/03721426.2015.1035217" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png" width="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fence.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Manca, F,  L Benedetti-Cecchi, <strong>CJA Bradshaw</strong>, M Cabeza, C Gustafsson, AM Norkko, TV Roslin, DN Thomas, L White, G Strona. 2024. <a href="http://doi.org/10.1038/s41467-024-48273-6" target="_blank" rel="noopener">Projected loss of brown macroalgae and seagrasses with global environmental change</a>. <strong><em>Nature Communications</em></strong> 15: 5344
+		Bradby, K, JA Fitzsimmons, A Del Marco, DA Driscoll, EG Ritchie, J Lau, <strong>CJA Bradshaw</strong>, RJ Hobbs. 2014. <a href="http://doi.org/10.1111/emr.12130" target="_blank" rel="noopener">Ecological connectivity or Barrier Fence? Critical choices on the agricultural margins of Western Australia</a>. <strong><em>Ecological Management and Restoration</em></strong> 15: 180-190
 	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-48273-6" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-48273-6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/emr.12130" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/emr.12130" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frogskeleton.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -578,6 +571,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0001636" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0001636" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Manca, F,  L Benedetti-Cecchi, <strong>CJA Bradshaw</strong>, M Cabeza, C Gustafsson, AM Norkko, TV Roslin, DN Thomas, L White, G Strona. 2024. <a href="http://doi.org/10.1038/s41467-024-48273-6" target="_blank" rel="noopener">Projected loss of brown macroalgae and seagrasses with global environmental change</a>. <strong><em>Nature Communications</em></strong> 15: 5344
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-48273-6" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-48273-6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frog.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -593,19 +593,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms10491" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10491" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/gauge.png" width="65" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Traill, LW, BW Brook, RR Frankham, <strong>CJA Bradshaw</strong>. 2010. <a href="http://doi.org/10.1016/j.biocon.2009.09.001" target="_blank" rel="noopener">Pragmatic population viability targets in a rapidly changing world</a>. <strong><em>Biological Conservation</em></strong> 143: 28-34
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2009.09.001" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2009.09.001" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, BM Fitzpatrick, CC Steinberg, BW Brook, MG Meekan. 2008. <a href="http://doi.org/10.1016/j.biocon.2008.05.007" target="_blank" rel="noopener">Decline in whale shark size and abundance at Ningaloo Reef over the past decade: the world’s largest fish is getting smaller</a>. <strong><em>Biological Conservation</em></strong> 141: 1894-1905
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2008.05.007" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2008.05.007" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/gauge.png" width="65" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Traill, LW, BW Brook, RR Frankham, <strong>CJA Bradshaw</strong>. 2010. <a href="http://doi.org/10.1016/j.biocon.2009.09.001" target="_blank" rel="noopener">Pragmatic population viability targets in a rapidly changing world</a>. <strong><em>Biological Conservation</em></strong> 143: 28-34
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2009.09.001" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2009.09.001" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/sickchild.jpg" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -620,6 +620,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/app5.135" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/app5.135" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rank.png" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, BW Brook. 2016. <a href="http://doi.org/10.1371/journal.pone.0149852" target="_blank" rel="noopener">How to rank journals</a>. <strong><em>PLoS One</em></strong> 11: e0149852
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0149852" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0149852" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/murraycod.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -683,13 +690,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2011.09.028" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cub.2011.09.028" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rank.png" height="50" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, BW Brook. 2016. <a href="http://doi.org/10.1371/journal.pone.0149852" target="_blank" rel="noopener">How to rank journals</a>. <strong><em>PLoS One</em></strong> 11: e0149852
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0149852" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0149852" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -789,6 +789,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.3389/fcosc.2021.700869" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcosc.2021.700869" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Brook, BW, <strong>CJA Bradshaw</strong>, <i>et al</i>. 2013. <a href="http://doi.org/10.1073/pnas.1309226110" target="_blank" rel="noopener">Lack of chronological support for stepwise prehuman extinctions of Australian megafauna</a>. <strong><em>Proceedings of the National Academy of Sciences of the USA</em></strong> 110: E3368
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1309226110" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1309226110" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fishingnet.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Field, IC, MG Meekan, RC Buckworth, <strong>CJA Bradshaw</strong>. 2009. <a href="http://doi.org/10.1111/j.1467-2979.2009.00325.x" target="_blank" rel="noopener">Protein mining the world’s oceans: Australasia as an example of illegal expansion‐and‐displacement fishing</a>. <strong><em>Fish and Fisheries</em></strong> 10: 323-328
@@ -802,13 +809,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1890/100177" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/100177" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Brook, BW, <strong>CJA Bradshaw</strong>, <i>et al</i>. 2013. <a href="http://doi.org/10.1073/pnas.1309226110" target="_blank" rel="noopener">Lack of chronological support for stepwise prehuman extinctions of Australian megafauna</a>. <strong><em>Proceedings of the National Academy of Sciences of the USA</em></strong> 110: E3368
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1309226110" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1309226110" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/01/pigeon.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
