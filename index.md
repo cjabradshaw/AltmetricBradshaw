@@ -210,19 +210,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.gloplacha.2015.02.004" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.gloplacha.2015.02.004" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/holdearth.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Laurance WF, DC Useche, J Rendeiro, M Kalka, <strong>CJA Bradshaw</strong>, SP Sloan, SG Laurance, M Campbell et al. 2012. <a href="http://doi.org/10.1038/nature11318" target="_blank" rel="noopener">Averting biodiversity collapse in tropical forest protected areas</a>. <em><strong>Nature</strong></em> 489: 290-294
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature11318" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature11318" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="80" style="float:right;" /> 	
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Riley, M, P Meagher, C Huveneers, J Leto, VM Peddemors, D Slip, J West, <strong>CJA Bradshaw</strong>. 2022. <a href="http://doi.org/10.1038/s41597-022-01453-9" target="_blank" rel="noopener">The <em>Australian Shark-Incident Database</em> for quantifying temporal and spatial patterns of shark-human conflict</a>. <em><strong>Scientific Data</strong></em> 9: 378
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-022-01453-9" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41597-022-01453-9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/holdearth.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Laurance WF, DC Useche, J Rendeiro, M Kalka, <strong>CJA Bradshaw</strong>, SP Sloan, SG Laurance, M Campbell et al. 2012. <a href="http://doi.org/10.1038/nature11318" target="_blank" rel="noopener">Averting biodiversity collapse in tropical forest protected areas</a>. <em><strong>Nature</strong></em> 489: 290-294
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature11318" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature11318" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/huntingcat.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
