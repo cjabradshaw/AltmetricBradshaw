@@ -217,6 +217,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2318293121" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2318293121" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/09/dwarfhippoeletransp.png" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, F Saltré, SA Crabtree, C Reepmeyer, T Moutsiou. 2024. <a href="https://doi.org/10.1098/rspb.2024.0967" target="_blank" rel="noopener">Small populations of Palaeolithic humans in Cyprus hunted endemic megafauna to extinction</a>. <strong><em>Proceedings of the Royal Society B: Biological Sciences</em></strong> 291: 20240967
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2024.0967" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2024.0967" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingo.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Smith, BP, KM Cairns, JW Adams, TM Newsome, M Fillios, EC Déaux, WCH Parr, M Letnic, LM van Eeden, RG Appleby, <strong>CJA Bradshaw</strong>, P Savolainen, EG Ritchie, DG Nimmo, C Archer-Lean, AC Greenville, CR Dickman, L Watson, KE Moseby, TS Doherty, AD Wallach, DS Morrant, MS Crowther. 2019. <a href="http://doi.org/10.11646/zootaxa.4564.1.6" target="_blank" rel="noopener">Taxonomic status of the Australian dingo: the case for <em>Canis dingo</em> Meyer, 1793</a>. <em><strong>Zootaxa</strong></em> 4564: 173-197
@@ -237,13 +244,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature11318" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature11318" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/09/dwarfhippoeletransp.png" height="50" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, F Saltré, SA Crabtree, C Reepmeyer, T Moutsiou. 2024. <a href="https://doi.org/10.1098/rspb.2024.0967" target="_blank" rel="noopener">Small populations of Palaeolithic humans in Cyprus hunted endemic megafauna to extinction</a>. <strong><em>Proceedings of the Royal Society B: Biological Sciences</em></strong> 291: 20240967
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2024.0967" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2024.0967" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/huntingcat.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
