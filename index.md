@@ -196,6 +196,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2015.12.006" data-legend="hover-right" data-style="small_rectangle"></span>
 <div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2015.12.006" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/09/dwarfhippoeletransp.png" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, F Saltré, SA Crabtree, C Reepmeyer, T Moutsiou. 2024. <a href="https://doi.org/10.1098/rspb.2024.0967" target="_blank" rel="noopener">Small populations of Palaeolithic humans in Cyprus hunted endemic megafauna to extinction</a>. <strong><em>Proceedings of the Royal Society B: Biological Sciences</em></strong> 291: 20240967
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2024.0967" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2024.0967" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/forests.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Gibson, L, TM Lee, LP Koh, BW Brook, TA Gardner, J Barlow, CA Peres, <strong>CJA Bradshaw</strong>, WF Laurance, TE Lovejoy, NS Sodhi. 2011. <a href="http://doi.org/10.1038/nature10425" target="_blank" rel="noopener">Primary forests are irreplaceable for sustaining tropical biodiversity</a>. <strong><em>Nature</em></strong> 478: 378-381
@@ -216,13 +223,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2318293121" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2318293121" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/09/dwarfhippoeletransp.png" height="50" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, F Saltré, SA Crabtree, C Reepmeyer, T Moutsiou. 2024. <a href="https://doi.org/10.1098/rspb.2024.0967" target="_blank" rel="noopener">Small populations of Palaeolithic humans in Cyprus hunted endemic megafauna to extinction</a>. <strong><em>Proceedings of the Royal Society B: Biological Sciences</em></strong> 291: 20240967
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2024.0967" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2024.0967" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingo.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
