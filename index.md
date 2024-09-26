@@ -455,6 +455,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/brv.13071" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/brv.13071" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/scales.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Carneiro, L, PE Hulme, RN Cuthbert, M Kourantidou, A Bang, PJ Haubrock, <strong>CJA Bradshaw</strong>, P Balzani, S Bacher, G Latombe, TW Bodey, AF Probert, CS Quilodrán, F Courchamp. 2024. <a href="http://doi.org/10.1093/biosci/biae010" target="_blank" rel="noopener">Benefits do not balance costs of biological invasions</a>. <strong><em>BioScience</em></strong> biae010. doi:10.1093/biosci/biae010
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biae010" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biae010" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fossils.png" height="70" style="float:right;" /> 	
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Block, S, F Saltré, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1371/journal.pone.0151090" target="_blank" rel="noopener">Where to dig for fossils: combining climate-envelope, taphonomy and discovery models</a>. <em><strong>PLoS One</strong></em> 11: e0151090
@@ -467,13 +474,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 		Ritchie, EG, <strong>CJA Bradshaw</strong>, CR Dickman, R Hobbs, CN Johnson, EL Johnston, WF Laurance, D Lindenmayer, MA McCarthy, DG Nimmo, HH Possingham, RL Pressey, DM Watson, J Woinarski. 2013. <a href="http://doi.org/10.1111/cobi.12189" target="_blank" rel="noopener">Continental‐scale governance and the hastening of loss of Australia's biodiversity</a>. <strong><em>Conservation Biology</em></strong> 27: 1133-1135
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12189" data-legend="hover-right" data-style="small_rectangle"></span>			<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12189" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/scales.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Carneiro, L, PE Hulme, RN Cuthbert, M Kourantidou, A Bang, PJ Haubrock, <strong>CJA Bradshaw</strong>, P Balzani, S Bacher, G Latombe, TW Bodey, AF Probert, CS Quilodrán, F Courchamp. 2024. <a href="http://doi.org/10.1093/biosci/biae010" target="_blank" rel="noopener">Benefits do not balance costs of biological invasions</a>. <strong><em>BioScience</em></strong> biae010. doi:10.1093/biosci/biae010
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biae010" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biae010" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaweed.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
