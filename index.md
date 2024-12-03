@@ -395,10 +395,17 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/06/roo2.png" height="65" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Mitchell, DR, SC Cairns, G Körtner, <strong>CJA Bradshaw</strong>, F Saltré, V Weisbecker. 2023. <a href="http://doi.org/10.1093/jmammal/gyad053" target="_blank" rel="noopener">Differential developmental rates and demographics in red kangaroo (<em>Osphranter rufus</em>) populations separated by the dingo barrier fence</a>. <strong><em>Journal of Mammalogy</em></strong> doi:10.1093/jmammal/gyad053
+		Mitchell, DR, SC Cairns, G Körtner, <strong>CJA Bradshaw</strong>, F Saltré, V Weisbecker. 2023. <a href="http://doi.org/10.1093/jmammal/gyad053" target="_blank" rel="noopener">Differential developmental rates and demographics in red kangaroo (<em>Osphranter rufus</em>) populations separated by the dingo barrier fence</a>. <strong><em>Journal of Mammalogy</em></strong> 104: 929-940
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1093/jmammal/gyad053" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/jmammal/gyad053" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/sa.png" height="65" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>. 2019. <a href="https://doi.org/10.3897/rethinkingecology.4.32570" target="_blank" rel="noopener">Opportunities to improve the future of South Australia’s terrestrial biodiversity</a>. <strong><em>Rethinking Ecology</em></strong> 4: 45-77
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.3897/rethinkingecology.4.32570" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3897/rethinkingecology.4.32570" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
