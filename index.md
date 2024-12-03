@@ -740,13 +740,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/2015GL066344" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/2015GL066344" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/03/river.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Thompson, RM, EJ Barbour, <strong>CJA Bradshaw</strong>, S Briggs, N Byron, M Grace, B Hart, A King, GE Likens, CA Pollino, F Sheldon, M Stewardson, M Thoms, RJ Watts, JA Webb. 2022. <a href="http://doi.org/10.1002/rra.3951" target="_blank" rel="noopener">Principles for scientists working at the river science-policy interface</a>. <strong><em>River Research and Applications</em></strong> 38: 819-831
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1002/rra.3951" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/rra.3951" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rabbit.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Barnett, LK, TAA Prowse, DE Peacock, GJ Mutze, J Kovaliski, BD Cooke, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.1111/1365-2664.13187" target="_blank" rel="noopener">Previous exposure to myxoma virus reduces survival of European rabbits during outbreaks of rabbit haemorrhagic disease</a>. <strong><em>Journal of Applied Ecology</em></strong> 55: 2954-2962
@@ -802,6 +795,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.3389/fcosc.2021.700869" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcosc.2021.700869" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/03/river.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Thompson, RM, EJ Barbour, <strong>CJA Bradshaw</strong>, S Briggs, N Byron, M Grace, B Hart, A King, GE Likens, CA Pollino, F Sheldon, M Stewardson, M Thoms, RJ Watts, JA Webb. 2022. <a href="http://doi.org/10.1002/rra.3951" target="_blank" rel="noopener">Principles for scientists working at the river science-policy interface</a>. <strong><em>River Research and Applications</em></strong> 38: 819-831
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/rra.3951" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/rra.3951" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
