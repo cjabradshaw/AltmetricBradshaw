@@ -649,6 +649,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1461-0248.2006.00883.x" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1461-0248.2006.00883.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/08/biome.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Champreux, A, F Saltré, W Traylor, T Hickler, <strong>CJA Bradshaw</strong>. 2024. <a href="https://doi.org/10.1002/ecm.1615" target="_blank" rel="noopener">How to map biomes: quantitative comparison and review of biome-mapping methods</a>. <strong><em>Ecological Monographs</em></strong> 94: e1615
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/ecm.1615" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ecm.1615" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Shabani, F, M Ahmadi, KJ Peters, S Haberle, A Champreux, F Saltré, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1111/ecog.04530" target="_blank" rel="noopener">Climate‐driven shifts in the distribution of koala‐browse species from the Last Interglacial to the near future</a>. <strong><em>Ecography</em></strong> 42: 1587-1599
@@ -802,13 +809,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1309226110" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1309226110" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/08/biome.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Champreux, A, F Saltré, W Traylor, T Hickler, <strong>CJA Bradshaw</strong>. 2024. <a href="https://doi.org/10.1002/ecm.1615" target="_blank" rel="noopener">How to map biomes: quantitative comparison and review of biome-mapping methods</a>. <strong><em>Ecological Monographs</em></strong> 94: e1615
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1002/ecm.1615" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ecm.1615" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/endangered.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
