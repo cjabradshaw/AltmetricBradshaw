@@ -224,19 +224,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature11318" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature11318" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingo.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Smith, BP, KM Cairns, JW Adams, TM Newsome, M Fillios, EC Déaux, WCH Parr, M Letnic, LM van Eeden, RG Appleby, <strong>CJA Bradshaw</strong>, P Savolainen, EG Ritchie, DG Nimmo, C Archer-Lean, AC Greenville, CR Dickman, L Watson, KE Moseby, TS Doherty, AD Wallach, DS Morrant, MS Crowther. 2019. <a href="http://doi.org/10.11646/zootaxa.4564.1.6" target="_blank" rel="noopener">Taxonomic status of the Australian dingo: the case for <em>Canis dingo</em> Meyer, 1793</a>. <em><strong>Zootaxa</strong></em> 4564: 173-197
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.11646/zootaxa.4564.1.6" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.11646/zootaxa.4564.1.6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="80" style="float:right;" /> 	
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Riley, M, P Meagher, C Huveneers, J Leto, VM Peddemors, D Slip, J West, <strong>CJA Bradshaw</strong>. 2022. <a href="http://doi.org/10.1038/s41597-022-01453-9" target="_blank" rel="noopener">The <em>Australian Shark-Incident Database</em> for quantifying temporal and spatial patterns of shark-human conflict</a>. <em><strong>Scientific Data</strong></em> 9: 378
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-022-01453-9" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41597-022-01453-9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingo.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Smith, BP, KM Cairns, JW Adams, TM Newsome, M Fillios, EC Déaux, WCH Parr, M Letnic, LM van Eeden, RG Appleby, <strong>CJA Bradshaw</strong>, P Savolainen, EG Ritchie, DG Nimmo, C Archer-Lean, AC Greenville, CR Dickman, L Watson, KE Moseby, TS Doherty, AD Wallach, DS Morrant, MS Crowther. 2019. <a href="http://doi.org/10.11646/zootaxa.4564.1.6" target="_blank" rel="noopener">Taxonomic status of the Australian dingo: the case for <em>Canis dingo</em> Meyer, 1793</a>. <em><strong>Zootaxa</strong></em> 4564: 173-197
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.11646/zootaxa.4564.1.6" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.11646/zootaxa.4564.1.6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/huntingcat.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
