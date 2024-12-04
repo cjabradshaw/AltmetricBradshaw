@@ -873,6 +873,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1017/S0030605309990408" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1017/S0030605309990408" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/baskingshark.png" height="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Sims, DW, EJ Southall, NE Humphries, GC Hays <strong>CJA Bradshaw</strong>, JW Pitchford, A James, MZ Ahmed, AS Brierley, MA Hindell, D Morritt, MK Musyl, D Righton, ELC Shepard, VJ Wearmouth, RP Wilson, MJ Witt, JD Metcalf. 2008. <a href="https://doi.org/10.1038/nature06518" target="_blank" rel="noopener">Scaling laws of marine predator search behaviour</a>. <strong><em>Nature</em></strong> 451: 1098–1102
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature06518" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature06518" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/forestinsurance.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		van Oosterzee, P, J Blignaut, <strong>CJA Bradshaw</strong>. 2012. <a href="http://doi.org/10.1111/j.1755-263X.2012.00237.x" target="_blank" rel="noopener">iREDD hedges against avoided deforestation's unholy trinity of leakage, permanence and additionality</a>. <strong><em>Conservation Letters</em></strong> 5: 266-273
