@@ -901,6 +901,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1365-2664.2011.02081.x" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1365-2664.2011.02081.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/feedback.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Brook, BW, <strong>CJA Bradshaw</strong>. 2006. <a href="https://doi.org/10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2" target="_blank" rel="noopener">Strength of evidence for density dependence in abundance time series of 1198 species</a>. <strong><em>Ecology</em></strong> 87: 1445-1451
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/probability.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, <i>et al.</i> 2012. <a href="http://doi.org/10.1016/j.quascirev.2011.11.021" target="_blank" rel="noopener">Robust estimates of extinction time in the geological record</a>. <strong><em>Quaternary Science Reviews</em></strong> 33: 14-19
