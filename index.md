@@ -880,6 +880,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature06518" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature06518" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Brook, BW, <strong>CJA Bradshaw</strong>, LP Koh, NS Sodhi. 2006. <a href="https://doi.org/10.1111/j.1744-7429.2006.00141.x" target="_blank" rel="noopener">Momentum drives the crash: mass extinction in the tropics</a>. <strong><em>Biotropica</em></strong> 38: 302-305
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1744-7429.2006.00141.x" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1744-7429.2006.00141.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/forestinsurance.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		van Oosterzee, P, J Blignaut, <strong>CJA Bradshaw</strong>. 2012. <a href="http://doi.org/10.1111/j.1755-263X.2012.00237.x" target="_blank" rel="noopener">iREDD hedges against avoided deforestation's unholy trinity of leakage, permanence and additionality</a>. <strong><em>Conservation Letters</em></strong> 5: 266-273
