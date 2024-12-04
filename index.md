@@ -768,6 +768,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quaint.2013.06.022" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quaint.2013.06.022" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/tropicalleaf.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, NS Sodhi, BW Brook. 2009. <a href="https://doi.org/10.1890/070193" target="_blank" rel="noopener">Tropical turmoil: a biodiversity tragedy in progress</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 7: 79-87
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1890/070193" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/070193" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/trawler.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, TAA Prowse, M Drew, BM Gillanders, SC Donnellan, C Huveneers. 2018. <a href="http://doi.org/10.1093/icesjms/fsy031" target="_blank" rel="noopener">Predicting sustainable shark harvests when stock assessments are lacking</a>. <strong><em>ICES Journal of Marine Science</em></strong> 75: 1591–1601
