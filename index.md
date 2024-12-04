@@ -915,6 +915,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.rsma.2015.05.002" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rsma.2015.05.002" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/reef-shark.jpg" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>. 2009. <a href="https://doi.org/10.1579/0044-7447-38.2.125" target="_blank" rel="noopener">Flooding policy makers with evidence to save forests</a>. <strong><em>Ambio</em></strong> 38: 125-126
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1579/0044-7447-38.2.125" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1579/0044-7447-38.2.125" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/pigtransp.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Hamnett, PW, F Saltré, B Page, M Tarran, M Korcz, K Fielder, L Andrews, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1002/ecs2.70082" target="_blank" rel="noopener">Stochastic population models to identify optimal and cost-effective harvest strategies for feral pig eradication</a>. <strong><em>Ecosphere</em></strong> doi:10.1002/ecs2.70082
