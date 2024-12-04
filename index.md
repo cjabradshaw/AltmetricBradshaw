@@ -838,7 +838,7 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1890/100177" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/100177" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png" height="70" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Philippe-Lesaffre, M, <strong>CJA Bradshaw</strong>, I Castañeda, J Llewelyn, CR Dickman, CA Lepczyk, J Fantle-Lepczyk, C Marino, F Courchamp, E Bonnaud. 2024. <a href="https://doi.org/10.1111/ecog.07169" target="_blank" rel="noopener">Differential predation patterns of free-ranging cats among continents</a>. <strong><em>Ecography</em></strong> e07169
 	</p>
@@ -922,12 +922,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2011.11.021" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2011.11.021" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png" height="70" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Venning, KRW, F Saltré, <strong>CJA Bradshaw</strong>. 2021. <a href="https://doi.org/10.1111/csp2.448" target="_blank" rel="noopener">Predicting targets and costs for feral-cat reduction on large islands using stochastic population models</a>. <strong><em>Conservation Science and Practice</em></strong> 3: e448
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/csp2.448" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/csp2.448" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/gns.png" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Otway, NM, <strong>CJA Bradshaw</strong>, RG Harcourt. 2004. <a href="https://doi.org/10.1016/j.biocon.2003.11.017" target="_blank" rel="noopener">PEstimating the rate of quasi-extinction of the Australian grey nurse shark (<em>Carcharias taurus</em>) population using deterministic age- and stage-classified models</a>. <strong><em>Biological Conservation</em></strong> 119: 341-350
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2003.11.017" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2003.11.017" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tropicalforest.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
