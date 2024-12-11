@@ -747,6 +747,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ecolecon.2024.108166" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ecolecon.2024.108166" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/tropicalleaf.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, NS Sodhi, BW Brook. 2009. <a href="https://doi.org/10.1890/070193" target="_blank" rel="noopener">Tropical turmoil: a biodiversity tragedy in progress</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 7: 79-87
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1890/070193" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/070193" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/01/frogicon.png" height="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Mathwin, R, S Wassens, MS Gibbs, J Young, Q Ye, F Saltré, <strong>CJA Bradshaw</strong>. 2023. <a href="https://doi.org/10.1002/ecs2.4379" target="_blank" rel="noopener">Modelling the effects of water regulation on the population viability of a threatened amphibian</a>. <em><strong>Ecosphere </strong></em>14: e4379
@@ -774,13 +781,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quaint.2013.06.022" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quaint.2013.06.022" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/tropicalleaf.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, NS Sodhi, BW Brook. 2009. <a href="https://doi.org/10.1890/070193" target="_blank" rel="noopener">Tropical turmoil: a biodiversity tragedy in progress</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 7: 79-87
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1890/070193" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/070193" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/oilpalm.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
