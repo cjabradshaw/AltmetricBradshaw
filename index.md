@@ -684,19 +684,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 		<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.1094" data-legend="hover-right" data-style="small_rectangle"></span>
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ece3.1094" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Wernberg, T, BD Russell, MS Thomsen, CFD Gurgel, <strong>CJA Bradshaw</strong>, ES Poloczanska, SD Connell. 2011. <a href="http://doi.org/10.1016/j.cub.2011.09.028" target="_blank" rel="noopener">Seaweed communities in retreat from ocean warming</a>. <strong><em>Current Biology</em></strong> 21: 1828-1832
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2011.09.028" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cub.2011.09.028" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Shabani, F, M Ahmadi, KJ Peters, S Haberle, A Champreux, F Saltré, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1111/ecog.04530" target="_blank" rel="noopener">Climate‐driven shifts in the distribution of koala‐browse species from the Last Interglacial to the near future</a>. <strong><em>Ecography</em></strong> 42: 1587-1599
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.04530" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.04530" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Wernberg, T, BD Russell, MS Thomsen, CFD Gurgel, <strong>CJA Bradshaw</strong>, ES Poloczanska, SD Connell. 2011. <a href="http://doi.org/10.1016/j.cub.2011.09.028" target="_blank" rel="noopener">Seaweed communities in retreat from ocean warming</a>. <strong><em>Current Biology</em></strong> 21: 1828-1832
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2011.09.028" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cub.2011.09.028" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/list.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
