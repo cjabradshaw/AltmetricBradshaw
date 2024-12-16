@@ -894,6 +894,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1755-263X.2012.00237.x" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1755-263X.2012.00237.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/feedback.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Brook, BW, <strong>CJA Bradshaw</strong>. 2006. <a href="https://doi.org/10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2" target="_blank" rel="noopener">Strength of evidence for density dependence in abundance time series of 1198 species</a>. <strong><em>Ecology</em></strong> 87: 1445-1451
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/palaeo.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Rodríguez-Rey, M, S Herrando-Pérez, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="https://doi.org/10.1038/sdata.2016.53" target="_blank" rel="noopener">A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates</a>. <strong><em>Scientific Data</em></strong> 3: 160053
@@ -907,20 +914,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1365-2664.2011.02081.x" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1365-2664.2011.02081.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/feedback.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Brook, BW, <strong>CJA Bradshaw</strong>. 2006. <a href="https://doi.org/10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2" target="_blank" rel="noopener">Strength of evidence for density dependence in abundance time series of 1198 species</a>. <strong><em>Ecology</em></strong> 87: 1445-1451
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/03/river.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Thompson, RM, EJ Barbour, <strong>CJA Bradshaw</strong>, S Briggs, N Byron, M Grace, B Hart, A King, GE Likens, CA Pollino, F Sheldon, M Stewardson, M Thoms, RJ Watts, JA Webb. 2022. <a href="http://doi.org/10.1002/rra.3951" target="_blank" rel="noopener">Principles for scientists working at the river science-policy interface</a>. <strong><em>River Research and Applications</em></strong> 38: 819-831
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1002/rra.3951" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/rra.3951" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/probability.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -936,19 +929,26 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2003.11.017" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2003.11.017" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png" height="60" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Venning, KRW, F Saltré, <strong>CJA Bradshaw</strong>. 2021. <a href="https://doi.org/10.1111/csp2.448" target="_blank" rel="noopener">Predicting targets and costs for feral-cat reduction on large islands using stochastic population models</a>. <strong><em>Conservation Science and Practice</em></strong> 3: e448
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/csp2.448" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/csp2.448" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/deforestfloodicontransp.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>. 2009. <a href="https://doi.org/10.1579/0044-7447-38.2.125" target="_blank" rel="noopener">Flooding policy makers with evidence to save forests</a>. <strong><em>Ambio</em></strong> 38: 125-126<br>
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1579/0044-7447-38.2.125" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1579/0044-7447-38.2.125" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/03/river.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Thompson, RM, EJ Barbour, <strong>CJA Bradshaw</strong>, S Briggs, N Byron, M Grace, B Hart, A King, GE Likens, CA Pollino, F Sheldon, M Stewardson, M Thoms, RJ Watts, JA Webb. 2022. <a href="http://doi.org/10.1002/rra.3951" target="_blank" rel="noopener">Principles for scientists working at the river science-policy interface</a>. <strong><em>River Research and Applications</em></strong> 38: 819-831
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/rra.3951" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/rra.3951" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png" height="60" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Venning, KRW, F Saltré, <strong>CJA Bradshaw</strong>. 2021. <a href="https://doi.org/10.1111/csp2.448" target="_blank" rel="noopener">Predicting targets and costs for feral-cat reduction on large islands using stochastic population models</a>. <strong><em>Conservation Science and Practice</em></strong> 3: e448
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/csp2.448" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/csp2.448" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
