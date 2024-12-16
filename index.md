@@ -530,13 +530,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2017.0642" data-legend="hover-right" data-style="small_rectangle"></span>		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2017.0642" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/09/invacostlogo.jpg" height="60" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Ahmed, DA, PJ Haubrock, RN Cuthbert, A Bang, I Soto, P Balzani, A Serhan Tarkan, RL Macêdo, L Carneiro, TW Bodey, FJ Oficialdegui, P Courtois, M Kourantidou, E Angulo, G Heringer, D Renault, AJ Turbelin, EJ Hudgins, C Liu, SA Gojery, U Arbieu, C Diagne, B Leroy, E Briski, <strong>CJA Bradshaw</strong>, F Courchamp. 2023. <a href="http://doi.org/10.1093/biosci/biad060" target="_blank" rel="noopener">Recent advances in availability and synthesis of the economic costs of biological invasions</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biad060
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biad060" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biad060" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Heard, B, <strong>CJA Bradshaw</strong>, BW Brook. 2015. <a href="http://doi.org/10.1080/03721426.2015.1035217" target="_blank" rel="noopener">Beyond wind: furthering development of clean energy in South Australia</a>. <strong><em>Transactions of the Royal Society of South Australia</em></strong> 139: 57-82
@@ -544,12 +537,12 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1080/03721426.2015.1035217" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/03721426.2015.1035217" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frogskeleton.png" width="70" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/09/invacostlogo.jpg" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Sodhi, NS, D Bickford, AC Diesmos, TM Lee, LP Koh, BW Brook, CH Sekercioglu, <strong>CJA Bradshaw</strong>. 2008. <a href="http://doi.org/10.1371/journal.pone.0001636" target="_blank" rel="noopener">Measuring the meltdown: drivers of global amphibian extinction and decline</a>. <strong><em>PLoS One</em></strong> 3: e1636
+		Ahmed, DA, PJ Haubrock, RN Cuthbert, A Bang, I Soto, P Balzani, A Serhan Tarkan, RL Macêdo, L Carneiro, TW Bodey, FJ Oficialdegui, P Courtois, M Kourantidou, E Angulo, G Heringer, D Renault, AJ Turbelin, EJ Hudgins, C Liu, SA Gojery, U Arbieu, C Diagne, B Leroy, E Briski, <strong>CJA Bradshaw</strong>, F Courchamp. 2023. <a href="http://doi.org/10.1093/biosci/biad060" target="_blank" rel="noopener">Recent advances in availability and synthesis of the economic costs of biological invasions</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biad060
 	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0001636" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0001636" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biad060" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biad060" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/gauge.png" width="65" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -558,19 +551,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2009.09.001" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2009.09.001" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frogskeleton.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Sodhi, NS, D Bickford, AC Diesmos, TM Lee, LP Koh, BW Brook, CH Sekercioglu, <strong>CJA Bradshaw</strong>. 2008. <a href="http://doi.org/10.1371/journal.pone.0001636" target="_blank" rel="noopener">Measuring the meltdown: drivers of global amphibian extinction and decline</a>. <strong><em>PLoS One</em></strong> 3: e1636
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0001636" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0001636" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fence.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Bradby, K, JA Fitzsimmons, A Del Marco, DA Driscoll, EG Ritchie, J Lau, <strong>CJA Bradshaw</strong>, RJ Hobbs. 2014. <a href="http://doi.org/10.1111/emr.12130" target="_blank" rel="noopener">Ecological connectivity or Barrier Fence? Critical choices on the agricultural margins of Western Australia</a>. <strong><em>Ecological Management and Restoration</em></strong> 15: 180-190
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/emr.12130" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/emr.12130" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frog.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Mathwin, R, S Wassens, J Young, Q Ye, <strong>CJA Bradshaw</strong>. 2020. <a href="http://doi.org/10.1111/cobi.13501" target="_blank" rel="noopener">Manipulating water for amphibian conservation</a>. <strong><em>Conservation Biology</em></strong> 35: 24-34
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.13501" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.13501" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/scales.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -592,6 +585,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.12369" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12369" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frog.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Mathwin, R, S Wassens, J Young, Q Ye, <strong>CJA Bradshaw</strong>. 2020. <a href="http://doi.org/10.1111/cobi.13501" target="_blank" rel="noopener">Manipulating water for amphibian conservation</a>. <strong><em>Conservation Biology</em></strong> 35: 24-34
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.13501" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.13501" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/sickchild.jpg" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
