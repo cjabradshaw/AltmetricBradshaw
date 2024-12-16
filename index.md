@@ -712,20 +712,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2011.09.028" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cub.2011.09.028" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaice.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Turney, CSM, ZA Thomas, DK Hutchison, <strong>CJA Bradshaw</strong>, <i>et al.</i> 2015. <a href="http://doi.org/10.1002/2015GL066344" target="_blank" rel="noopener">Obliquity‐driven expansion of North Atlantic sea ice during the last glacial</a>. <strong><em>Geophysical Research Letters</em></strong> 42: 10382-10390
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1002/2015GL066344" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/2015GL066344" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Friedman, K, M Braccini, M Bjerregaard-Walsh, R Bonfil, <strong>CJA Bradshaw</strong>, <i>et al.</i>. 2019. <a href="http://doi.org/10.1111/faf.12411" target="_blank" rel="noopener">Informing CITES Parties: Strengthening science‐based decision‐making when listing marine species</a>. <strong><em>Fish and Fisheries</em></strong> 21: 13-31
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/faf.12411" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/faf.12411" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Huveneers, C, C Blount, <strong>CJA Bradshaw</strong>, PA Butcher, MP Lincoln Smith, WG Macbeth, DM McPhee, N Moltschaniwskyj, VM Peddemors, M Green. 2024. <a href="http://doi.org/10.1016/j.marpolbul.2023.115855" target="_blank" rel="noopener">Shifts in the incidence of shark bites and efficacy of beach-focussed mitigation in Australia</a>. <strong><em>Marine Pollution Bulletin</em></strong> 198: 115855
@@ -740,19 +726,26 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1890/070193" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/070193" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaice.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Turney, CSM, ZA Thomas, DK Hutchison, <strong>CJA Bradshaw</strong>, <i>et al.</i> 2015. <a href="http://doi.org/10.1002/2015GL066344" target="_blank" rel="noopener">Obliquity‐driven expansion of North Atlantic sea ice during the last glacial</a>. <strong><em>Geophysical Research Letters</em></strong> 42: 10382-10390
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/2015GL066344" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/2015GL066344" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Friedman, K, M Braccini, M Bjerregaard-Walsh, R Bonfil, <strong>CJA Bradshaw</strong>, <i>et al.</i>. 2019. <a href="http://doi.org/10.1111/faf.12411" target="_blank" rel="noopener">Informing CITES Parties: Strengthening science‐based decision‐making when listing marine species</a>. <strong><em>Fish and Fisheries</em></strong> 21: 13-31
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/faf.12411" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/faf.12411" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/01/frogicon.png" height="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Mathwin, R, S Wassens, MS Gibbs, J Young, Q Ye, F Saltré, <strong>CJA Bradshaw</strong>. 2023. <a href="https://doi.org/10.1002/ecs2.4379" target="_blank" rel="noopener">Modelling the effects of water regulation on the population viability of a threatened amphibian</a>. <em><strong>Ecosphere </strong></em>14: e4379
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/ecs2.4379" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ecs2.4379" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rabbit.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Barnett, LK, TAA Prowse, DE Peacock, GJ Mutze, J Kovaliski, BD Cooke, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.1111/1365-2664.13187" target="_blank" rel="noopener">Previous exposure to myxoma virus reduces survival of European rabbits during outbreaks of rabbit haemorrhagic disease</a>. <strong><em>Journal of Applied Ecology</em></strong> 55: 2954-2962
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.13187" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.13187" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -788,6 +781,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/aec.13492" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/aec.13492" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rabbit.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Barnett, LK, TAA Prowse, DE Peacock, GJ Mutze, J Kovaliski, BD Cooke, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.1111/1365-2664.13187" target="_blank" rel="noopener">Previous exposure to myxoma virus reduces survival of European rabbits during outbreaks of rabbit haemorrhagic disease</a>. <strong><em>Journal of Applied Ecology</em></strong> 55: 2954-2962
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.13187" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.13187" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/massspec.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
