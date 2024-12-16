@@ -932,6 +932,7 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/deforestfloodicontransp.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>. 2009. <a href="https://doi.org/10.1579/0044-7447-38.2.125" target="_blank" rel="noopener">Flooding policy makers with evidence to save forests</a>. <strong><em>Ambio</em></strong> 38: 125-126<br>
+		<br>
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1579/0044-7447-38.2.125" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1579/0044-7447-38.2.125" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
