@@ -733,13 +733,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.marpolbul.2023.115855" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.marpolbul.2023.115855" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/trade.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, PE Hulme, EJ Hudgins, B Leung, M Kourantidou, P Courtois, AJ Turbelin, SM McDermott, K Lee, DA Ahmed, G Latombe, A Bang, TW Bodey, PJ Haubrock, F Saltré, F Courchamp. 2024. <a href="http://doi.org/10.1016/j.ecolecon.2024.108166" target="_blank" rel="noopener">Damage costs from invasive species exceed management expenditure in nations experiencing lower economic activity</a>. <strong><em>Ecological Economics</em></strong> 220: 108166
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ecolecon.2024.108166" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ecolecon.2024.108166" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/tropicalleaf.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, NS Sodhi, BW Brook. 2009. <a href="https://doi.org/10.1890/070193" target="_blank" rel="noopener">Tropical turmoil: a biodiversity tragedy in progress</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 7: 79-87
@@ -789,13 +782,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biu013" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biu013" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/trawler.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, TAA Prowse, M Drew, BM Gillanders, SC Donnellan, C Huveneers. 2018. <a href="http://doi.org/10.1093/icesjms/fsy031" target="_blank" rel="noopener">Predicting sustainable shark harvests when stock assessments are lacking</a>. <strong><em>ICES Journal of Marine Science</em></strong> 75: 1591–1601
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/icesjms/fsy031" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/icesjms/fsy031" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frog.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Mathwin, R, S Wassens, A Turner, GW Heard, A Hall, <strong>CJA Bradshaw</strong>. 2024. <a href="https://doi.org/10.1111/aec.13492" target="_blank" rel="noopener">Modelling the sustainable harvest of wild populations for the conservation of a threatened amphibian</a>. <strong><em>Austral Ecology</em></strong> 49: e13492
@@ -830,6 +816,20 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.07169" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.07169" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/trade.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, PE Hulme, EJ Hudgins, B Leung, M Kourantidou, P Courtois, AJ Turbelin, SM McDermott, K Lee, DA Ahmed, G Latombe, A Bang, TW Bodey, PJ Haubrock, F Saltré, F Courchamp. 2024. <a href="http://doi.org/10.1016/j.ecolecon.2024.108166" target="_blank" rel="noopener">Damage costs from invasive species exceed management expenditure in nations experiencing lower economic activity</a>. <strong><em>Ecological Economics</em></strong> 220: 108166
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ecolecon.2024.108166" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ecolecon.2024.108166" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/trawler.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, TAA Prowse, M Drew, BM Gillanders, SC Donnellan, C Huveneers. 2018. <a href="http://doi.org/10.1093/icesjms/fsy031" target="_blank" rel="noopener">Predicting sustainable shark harvests when stock assessments are lacking</a>. <strong><em>ICES Journal of Marine Science</em></strong> 75: 1591–1601
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/icesjms/fsy031" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/icesjms/fsy031" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/endangered.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
