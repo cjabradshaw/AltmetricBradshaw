@@ -496,13 +496,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/gcb.12343" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/gcb.12343" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/population.png" height="65" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Saraswati, CM, MA Judge, LJZ Weeda, Q Bassat, N Prata, PN Le Souëf, <strong>CJA Bradshaw</strong>. 2024. <a href="https://doi.org/10.3389/fpubh.2024.1339933" target="_blank" rel="noopener">Net benefit of smaller human populations to environmental integrity and individual health and wellbeing</a>. <strong><em>Frontiers in Public Health</em></strong> 12: 1339933
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.3389/fpubh.2024.1339933" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fpubh.2024.1339933" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingoroothylac.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Prowse, TAA, CN Johnson, <strong>CJA Bradshaw</strong>, BW Brook. 2014. <a href="http://doi.org/10.1890/13-0746.1" target="_blank" rel="noopener">An ecological regime shift resulting from disrupted predator–prey interactions in Holocene Australia</a>. <strong><em>Ecology</em></strong> 95: 693-702
@@ -516,6 +509,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.55993" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.55993" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/population.png" height="65" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Saraswati, CM, MA Judge, LJZ Weeda, Q Bassat, N Prata, PN Le Souëf, <strong>CJA Bradshaw</strong>. 2024. <a href="https://doi.org/10.3389/fpubh.2024.1339933" target="_blank" rel="noopener">Net benefit of smaller human populations to environmental integrity and individual health and wellbeing</a>. <strong><em>Frontiers in Public Health</em></strong> 12: 1339933
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.3389/fpubh.2024.1339933" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fpubh.2024.1339933" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/globenetworkicontransp.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
