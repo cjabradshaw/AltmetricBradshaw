@@ -852,13 +852,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0292854" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0292854" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/carbonprice.jpg" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, DMJS Bowman, NR Bond, BP Murphy, <i>et al.</i> 2013. <a href="http://doi.org/10.1016/j.biocon.2013.02.012" target="_blank" rel="noopener">Brave new green world – consequences of a carbon economy for the conservation of Australian biodiversity</a>. <strong><em>Biological Conservation</em></strong> 161: 71-90
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2013.02.012" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2013.02.012" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Sequeira, A, C Mellin, D Rowat, MG Meekan, <strong>CJA Bradshaw</strong>. 2012. <a href="https://doi.org/10.1111/j.1472-4642.2011.00853.x" target="_blank" rel="noopener">Ocean-scale prediction of whale shark distribution</a>. <strong><em>Diversity and Distributions</em></strong> 18: 504-518
@@ -950,6 +943,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.3354/meps319275" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3354/meps319275" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/carbonprice.jpg" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, DMJS Bowman, NR Bond, BP Murphy, <i>et al.</i> 2013. <a href="http://doi.org/10.1016/j.biocon.2013.02.012" target="_blank" rel="noopener">Brave new green world – consequences of a carbon economy for the conservation of Australian biodiversity</a>. <strong><em>Biological Conservation</em></strong> 161: 71-90
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2013.02.012" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2013.02.012" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
