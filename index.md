@@ -733,13 +733,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/2015GL066344" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/2015GL066344" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Friedman, K, M Braccini, M Bjerregaard-Walsh, R Bonfil, <strong>CJA Bradshaw</strong>, <i>et al.</i>. 2019. <a href="http://doi.org/10.1111/faf.12411" target="_blank" rel="noopener">Informing CITES Parties: Strengthening science‐based decision‐making when listing marine species</a>. <strong><em>Fish and Fisheries</em></strong> 21: 13-31
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/faf.12411" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/faf.12411" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/01/frogicon.png" height="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Mathwin, R, S Wassens, MS Gibbs, J Young, Q Ye, F Saltré, <strong>CJA Bradshaw</strong>. 2023. <a href="https://doi.org/10.1002/ecs2.4379" target="_blank" rel="noopener">Modelling the effects of water regulation on the population viability of a threatened amphibian</a>. <em><strong>Ecosphere </strong></em>14: e4379
@@ -747,19 +740,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/ecs2.4379" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ecs2.4379" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Friedman, K, M Braccini, M Bjerregaard-Walsh, R Bonfil, <strong>CJA Bradshaw</strong>, <i>et al.</i>. 2019. <a href="http://doi.org/10.1111/faf.12411" target="_blank" rel="noopener">Informing CITES Parties: Strengthening science‐based decision‐making when listing marine species</a>. <strong><em>Fish and Fisheries</em></strong> 21: 13-31
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/faf.12411" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/faf.12411" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Moen, J, L Rist, K Bishop, FS Chapin III, D Ellison, T Kuuluvainen, H Petersson, KJ Puettmann, J Rayner, IG Warkentin, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1111/conl.12098" target="_blank" rel="noopener">Eye on the taiga: removing global policy impediments to safeguard the boreal forest</a>. <strong><em>Conservation Letters</em></strong> 7: 408-418
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/conl.12098" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/conl.12098" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Johnson, CN, <strong>CJA Bradshaw</strong>, <i>et al</i>. 2013. <a href="http://doi.org/10.1016/j.quaint.2013.06.022" target="_blank" rel="noopener">Rapid megafaunal extinction following human arrival throughout the New World</a>. <strong><em>Quaternary International</em></strong> 308-309: 273-277
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quaint.2013.06.022" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quaint.2013.06.022" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/oilpalm.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -788,6 +781,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.13187" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.13187" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Johnson, CN, <strong>CJA Bradshaw</strong>, <i>et al</i>. 2013. <a href="http://doi.org/10.1016/j.quaint.2013.06.022" target="_blank" rel="noopener">Rapid megafaunal extinction following human arrival throughout the New World</a>. <strong><em>Quaternary International</em></strong> 308-309: 273-277
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quaint.2013.06.022" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quaint.2013.06.022" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/massspec.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
