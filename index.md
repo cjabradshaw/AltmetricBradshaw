@@ -203,6 +203,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.gloplacha.2015.02.004" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.gloplacha.2015.02.004" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/02/warmchild.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Weeda, LJZ, <strong>CJA Bradshaw</strong>, MA Judge, CM Saraswati, PN Le Souëf. 2024. <a href="https://doi.org/10.1016/j.scitotenv.2024.170944" target="_blank" rel="noopener">How climate change degrades child health: a systematic review and meta-analysis</a>. <strong><em>Science of the Total Environment</em></strong> 920: 170944
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.scitotenv.2024.170944" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.scitotenv.2024.170944" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Crabtree, SA, DA White, <strong>CJA Bradshaw</strong>, F Saltré, AN Williams, RJ Beaman, MI Bird, S Ulm. 2021. <a href="http://doi.org/10.1038/s41562-021-01106-8" target="_blank" rel="noopener">Landscape rules predict optimal superhighways for the first peopling of Sahul</a>. <strong><em>Nature Human Behaviour</em></strong> 5: 1303–1313
@@ -224,6 +231,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-022-01453-9" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41597-022-01453-9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/huntingcat.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, AJ Hoskins, PJ Haubrock, RN Cuthbert, C Diagne, B Leroy, L Andrews, B Page, P Cassey, AW Sheppard, F Courchamp. 2021. <a href="https://doi.org/10.3897/neobiota.67.58834" target="_blank" rel="noopener">Detailed assessment of the reported economic costs of invasive species in Australia</a>. <strong><em>NeoBiota</em></strong> 67: 511–550
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.3897/neobiota.67.58834" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3897/neobiota.67.58834" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/trophyhunting.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Di Minin, E, N Leader-Williams, <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1016/j.tree.2015.12.006" target="_blank" rel="noopener">Banning trophy hunting will exacerbate biodiversity loss</a>. <em><strong>Trends in Ecology and Evolution</strong></em> 31: 99-102
@@ -237,20 +251,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.11646/zootaxa.4564.1.6" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.11646/zootaxa.4564.1.6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/huntingcat.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, AJ Hoskins, PJ Haubrock, RN Cuthbert, C Diagne, B Leroy, L Andrews, B Page, P Cassey, AW Sheppard, F Courchamp. 2021. <a href="https://doi.org/10.3897/neobiota.67.58834" target="_blank" rel="noopener">Detailed assessment of the reported economic costs of invasive species in Australia</a>. <strong><em>NeoBiota</em></strong> 67: 511–550
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.3897/neobiota.67.58834" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3897/neobiota.67.58834" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/02/warmchild.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Weeda, LJZ, <strong>CJA Bradshaw</strong>, MA Judge, CM Saraswati, PN Le Souëf. 2024. <a href="https://doi.org/10.1016/j.scitotenv.2024.170944" target="_blank" rel="noopener">How climate change degrades child health: a systematic review and meta-analysis</a>. <strong><em>Science of the Total Environment</em></strong> 920: 170944
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.scitotenv.2024.170944" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.scitotenv.2024.170944" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/procoptodon-icon.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
