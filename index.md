@@ -393,13 +393,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1093/jmammal/gyad053" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/jmammal/gyad053" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whale.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Evans, K, R Thresher, RM Warneke, <strong>CJA Bradshaw</strong>, M Pook, D Thiele, MA Hindell. 2005. <a href="http://doi.org/10.1098/rsbl.2005.0313" target="_blank" rel="noopener">Periodic variability in cetacean strandings &#8211; links to large-scale climate events</a>. <strong><em>Biology Letters</em></strong> 1: 147-150
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2005.0313" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2005.0313" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/sa.png" height="65" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>. 2019. <a href="https://doi.org/10.3897/rethinkingecology.4.32570" target="_blank" rel="noopener">Opportunities to improve the future of South Australia’s terrestrial biodiversity</a>. <strong><em>Rethinking Ecology</em></strong> 4: 45-77
@@ -407,12 +400,26 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.3897/rethinkingecology.4.32570" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3897/rethinkingecology.4.32570" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whale.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Evans, K, R Thresher, RM Warneke, <strong>CJA Bradshaw</strong>, M Pook, D Thiele, MA Hindell. 2005. <a href="http://doi.org/10.1098/rsbl.2005.0313" target="_blank" rel="noopener">Periodic variability in cetacean strandings &#8211; links to large-scale climate events</a>. <strong><em>Biology Letters</em></strong> 1: 147-150
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2005.0313" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2005.0313" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/tornado.png" height="65" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Soto, I, P Balzani, L Carneiro, RN Cuthbert, R Macêdo, A Serhan Tarkan, DA Ahmed, A Bang, ..., BS Galil, JTA Dick, JC Russell, A Ricciardi, D Simberloff, <strong>CJA Bradshaw</strong>, PJ Haubrock. 2024. <a href="http://doi.org/10.1111/brv.13071" target="_blank" rel="noopener">Taming the terminological tempest in invasion science</a>. <strong><em>Biological Reviews</em></strong> doi:10.1111/brv.13071
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/brv.13071" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/brv.13071" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Manca, F,  L Benedetti-Cecchi, <strong>CJA Bradshaw</strong>, M Cabeza, C Gustafsson, AM Norkko, TV Roslin, DN Thomas, L White, G Strona. 2024. <a href="http://doi.org/10.1038/s41467-024-48273-6" target="_blank" rel="noopener">Projected loss of brown macroalgae and seagrasses with global environmental change</a>. <strong><em>Nature Communications</em></strong> 15: 5344
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-48273-6" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-48273-6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 <hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/thylacoleo-icon-cutout.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -433,13 +440,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06089" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06089" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Manca, F,  L Benedetti-Cecchi, <strong>CJA Bradshaw</strong>, M Cabeza, C Gustafsson, AM Norkko, TV Roslin, DN Thomas, L White, G Strona. 2024. <a href="http://doi.org/10.1038/s41467-024-48273-6" target="_blank" rel="noopener">Projected loss of brown macroalgae and seagrasses with global environmental change</a>. <strong><em>Nature Communications</em></strong> 15: 5344
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-48273-6" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-48273-6" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dyingplant.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
