@@ -441,6 +441,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/ecog.06089" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.06089" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/coral.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Mulà, C, <strong>CJA Bradshaw</strong>, M Cabeza, F Manca, S Montano, G Strona. 2025. <a href="https://doi.org/10.1038/s41559-025-02667-x" target="_blank" rel="noopener">Restoration cannot be scaled up globally to save reefs from loss and degradation</a>. <strong><em>Nature Ecology and Evolution</em></strong> 2025. doi:10.1038/s41559-025-02667-x
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41559-025-02667-x" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41559-025-02667-x" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dyingplant.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Liu, X, S Lyu, S Zhou, <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1890/15-1784.1" target="_blank" rel="noopener">Warming and fertilization alter the dilution effect of host diversity on disease severity</a>. <em><strong>Ecology</strong></em> 97: 1680-1689
@@ -509,13 +516,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.3389/fpubh.2024.1339933" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fpubh.2024.1339933" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/coral.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Mulà, C, <strong>CJA Bradshaw</strong>, M Cabeza, F Manca, S Montano, G Strona. 2025. <a href="https://doi.org/10.1038/s41559-025-02667-x" target="_blank" rel="noopener">Restoration cannot be scaled up globally to save reefs from loss and degradation</a>. <strong><em>Nature Ecology and Evolution</em></strong> 2025. doi:10.1038/s41559-025-02667-x
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41559-025-02667-x" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41559-025-02667-x" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/coral.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
