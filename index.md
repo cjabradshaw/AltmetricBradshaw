@@ -931,10 +931,17 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/gns.png" height="40" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Otway, NM, <strong>CJA Bradshaw</strong>, RG Harcourt. 2004. <a href="https://doi.org/10.1016/j.biocon.2003.11.017" target="_blank" rel="noopener">PEstimating the rate of quasi-extinction of the Australian grey nurse shark (<em>Carcharias taurus</em>) population using deterministic age- and stage-classified models</a>. <strong><em>Biological Conservation</em></strong> 119: 341-350
+		Otway, NM, <strong>CJA Bradshaw</strong>, RG Harcourt. 2004. <a href="https://doi.org/10.1016/j.biocon.2003.11.017" target="_blank" rel="noopener">Estimating the rate of quasi-extinction of the Australian grey nurse shark (<em>Carcharias taurus</em>) population using deterministic age- and stage-classified models</a>. <strong><em>Biological Conservation</em></strong> 119: 341-350
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2003.11.017" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2003.11.017" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/04/snail.png" height="40" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Carneiro, L, B Leroy, C Capinha, <strong>CJA Bradshaw</strong>, S Bertolino, JA Catford, M Comacho-Cervantes, J Bojko, G Klippel, S Kumschick, D Pincheira-Donoso, JD Tonkin, BD Fath, J South, E Manfrini, T Dallas, F Courchamps. 2025. <a href="https://doi.org/10.1016/j.tree.2025.03.010" target="_blank" rel="noopener">Typology of the ecological impacts of biological invasions</a>. <strong><em>Trends in Ecology and Evolution</em></strong> doi:10.1016/j.tree.2025.03.010
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2025.03.010" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2025.03.010" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/deforestfloodicontransp.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
