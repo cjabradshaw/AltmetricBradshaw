@@ -972,7 +972,7 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/csp2.448" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/csp2.448" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/05/gricontranspbw.png" height="60" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/05/gricontranspbw.png" height="75" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Beaman, JE, K Gates, F Saltré, CJ Hogg, K Belov, K Ashman, K Burke da Silva, LB Beheregaray, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1111/eva.70092" target="_blank" rel="noopener">A guide for developing demo-genetic models to simulate genetic rescue</a>. <strong><em>Evolutionary Applications</em></strong> 7: e70092
 	</p>
