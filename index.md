@@ -768,19 +768,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/conl.12098" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/conl.12098" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/list.png" height="60" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Herrando-Pérez, S, BW Brook, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1093/biosci/biu013" target="_blank" rel="noopener">Ecology needs a convention of nomenclature</a>. <strong><em>BioScience</em></strong> 64: 311–321
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biu013" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biu013" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frog.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Mathwin, R, S Wassens, A Turner, GW Heard, A Hall, <strong>CJA Bradshaw</strong>. 2024. <a href="https://doi.org/10.1111/aec.13492" target="_blank" rel="noopener">Modelling the sustainable harvest of wild populations for the conservation of a threatened amphibian</a>. <strong><em>Austral Ecology</em></strong> 49: e13492
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/aec.13492" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/aec.13492" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/list.png" height="60" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Herrando-Pérez, S, BW Brook, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1093/biosci/biu013" target="_blank" rel="noopener">Ecology needs a convention of nomenclature</a>. <strong><em>BioScience</em></strong> 64: 311–321
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biu013" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biu013" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/rabbit.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -802,6 +802,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1467-2979.2009.00325.x" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1467-2979.2009.00325.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/endangered.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Clements, GR, <strong>CJA Bradshaw</strong>, BW Brook, WF Laurance. 2011. <a href="http://doi.org/10.1890/100177" target="_blank" rel="noopener">The SAFE index: using a threshold population target to measure relative species threat</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 9: 521-525
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1890/100177" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/100177" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/ghastly.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -837,13 +844,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1093/icesjms/fsy031" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/icesjms/fsy031" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/endangered.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Clements, GR, <strong>CJA Bradshaw</strong>, BW Brook, WF Laurance. 2011. <a href="http://doi.org/10.1890/100177" target="_blank" rel="noopener">The SAFE index: using a threshold population target to measure relative species threat</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 9: 521-525
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1890/100177" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/100177" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
