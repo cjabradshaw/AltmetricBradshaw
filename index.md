@@ -565,12 +565,12 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biae010" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biae010" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/groper.png" width="70" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frog.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Mellin, C, D Mouillot, M Kulbicki, TR McClanahan, L Vigliola, <strong>CJA Bradshaw</strong>, RE Brainard, P Chabanet, GJ Edgar, DA Fordham, AM Friedlander, V Parravicini, AMM Sequeira, RD Stuart-Smith, L Wantiez, MJ Caley. 2008. <a href="http://doi.org/10.1038/ncomms10491" target="_blank" rel="noopener">Humans and seasonal climate variability threaten large-bodied coral reef fish with small ranges</a>. <strong><em>Nature Communications</em></strong> 7: 10491
+		Mathwin, R, S Wassens, J Young, Q Ye, <strong>CJA Bradshaw</strong>. 2020. <a href="http://doi.org/10.1111/cobi.13501" target="_blank" rel="noopener">Manipulating water for amphibian conservation</a>. <strong><em>Conservation Biology</em></strong> 35: 24-34
 	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms10491" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10491" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.13501" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.13501" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingo.png" width="75" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -579,19 +579,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.12369" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12369" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frog.png" width="70" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/groper.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Mathwin, R, S Wassens, J Young, Q Ye, <strong>CJA Bradshaw</strong>. 2020. <a href="http://doi.org/10.1111/cobi.13501" target="_blank" rel="noopener">Manipulating water for amphibian conservation</a>. <strong><em>Conservation Biology</em></strong> 35: 24-34
+		Mellin, C, D Mouillot, M Kulbicki, TR McClanahan, L Vigliola, <strong>CJA Bradshaw</strong>, RE Brainard, P Chabanet, GJ Edgar, DA Fordham, AM Friedlander, V Parravicini, AMM Sequeira, RD Stuart-Smith, L Wantiez, MJ Caley. 2008. <a href="http://doi.org/10.1038/ncomms10491" target="_blank" rel="noopener">Humans and seasonal climate variability threaten large-bodied coral reef fish with small ranges</a>. <strong><em>Nature Communications</em></strong> 7: 10491
 	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.13501" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.13501" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms10491" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10491" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fence.png" width="70" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/sickchild.jpg" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Bradby, K, JA Fitzsimmons, A Del Marco, DA Driscoll, EG Ritchie, J Lau, <strong>CJA Bradshaw</strong>, RJ Hobbs. 2014. <a href="http://doi.org/10.1111/emr.12130" target="_blank" rel="noopener">Ecological connectivity or Barrier Fence? Critical choices on the agricultural margins of Western Australia</a>. <strong><em>Ecological Management and Restoration</em></strong> 15: 180-190
+		<strong>Bradshaw, CJA</strong>, SP Otto, AA Annamalay, S Heft-Neal, Z Wagner, PN Le Souëf. 2019. <a href="http://doi.org/10.1136/bmjopen-2019-029968" target="_blank" rel="noopener">Testing the socio-economic and environmental determinants of better child-health outcomes in Africa: a cross-sectional study among nations</a>. <strong><em>BMJ Open</em></strong> 9: e029968
 	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/emr.12130" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/emr.12130" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<span class="__dimensions_badge_embed__" data-doi="10.1136/bmjopen-2019-029968" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1136/bmjopen-2019-029968" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/08/biome.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -600,12 +600,12 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/ecm.1615" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ecm.1615" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/sickchild.jpg" width="70" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fence.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, SP Otto, AA Annamalay, S Heft-Neal, Z Wagner, PN Le Souëf. 2019. <a href="http://doi.org/10.1136/bmjopen-2019-029968" target="_blank" rel="noopener">Testing the socio-economic and environmental determinants of better child-health outcomes in Africa: a cross-sectional study among nations</a>. <strong><em>BMJ Open</em></strong> 9: e029968
+		Bradby, K, JA Fitzsimmons, A Del Marco, DA Driscoll, EG Ritchie, J Lau, <strong>CJA Bradshaw</strong>, RJ Hobbs. 2014. <a href="http://doi.org/10.1111/emr.12130" target="_blank" rel="noopener">Ecological connectivity or Barrier Fence? Critical choices on the agricultural margins of Western Australia</a>. <strong><em>Ecological Management and Restoration</em></strong> 15: 180-190
 	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1136/bmjopen-2019-029968" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1136/bmjopen-2019-029968" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/emr.12130" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/emr.12130" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -656,19 +656,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0149852" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0149852" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Hong, S, <strong>CJA Bradshaw</strong>, BW Brook. 2014. <a href="http://doi.org/10.1016/j.apenergy.2014.09.062" target="_blank" rel="noopener">Nuclear power can reduce emissions and maintain a strong economy: rating Australia’s optimal future electricity-generation mix by technologies and policies</a>. <strong><em>Applied Energy</em></strong> 136: 712-725
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.apenergy.2014.09.062" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.apenergy.2014.09.062" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/pigtransp.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Hamnett, PW, F Saltré, B Page, M Tarran, M Korcz, K Fielder, L Andrews, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1002/ecs2.70082" target="_blank" rel="noopener">Stochastic population models to identify optimal and cost-effective harvest strategies for feral pig eradication</a>. <strong><em>Ecosphere</em></strong> doi:10.1002/ecs2.70082
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/ecs2.70082" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ecs2.70082" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Hong, S, <strong>CJA Bradshaw</strong>, BW Brook. 2014. <a href="http://doi.org/10.1016/j.apenergy.2014.09.062" target="_blank" rel="noopener">Nuclear power can reduce emissions and maintain a strong economy: rating Australia’s optimal future electricity-generation mix by technologies and policies</a>. <strong><em>Applied Energy</em></strong> 136: 712-725
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.apenergy.2014.09.062" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.apenergy.2014.09.062" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
