@@ -712,26 +712,26 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 		<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.1094" data-legend="hover-right" data-style="small_rectangle"></span>
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ece3.1094" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Sequeira, MMM, C Mellin, MG Meekan, DW Sims, <strong>CJA Bradshaw</strong>. 2013. <a href="http://doi.org/10.1111/jfb.12017" target="_blank" rel="noopener">Inferred global connectivity of whale shark <i>Rhincodon typus</i> populations</a>. <strong><em>Journal of Fish Biology</em></strong> 82: 367-389
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/jfb.12017" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/jfb.12017" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Wernberg, T, BD Russell, MS Thomsen, CFD Gurgel, <strong>CJA Bradshaw</strong>, ES Poloczanska, SD Connell. 2011. <a href="http://doi.org/10.1016/j.cub.2011.09.028" target="_blank" rel="noopener">Seaweed communities in retreat from ocean warming</a>. <strong><em>Current Biology</em></strong> 21: 1828-1832
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2011.09.028" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cub.2011.09.028" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/tropicalleaf.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, NS Sodhi, BW Brook. 2009. <a href="https://doi.org/10.1890/070193" target="_blank" rel="noopener">Tropical turmoil: a biodiversity tragedy in progress</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 7: 79-87
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1890/070193" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/070193" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/oilpalm.png" height="60" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Laurance, WF, LP Koh, R Butler, NS Sodhi, <strong>CJA Bradshaw</strong>, JD Neidel, H Consunji, J Mateo Vega. 2010. <a href="https://doi.org/10.1111/j.1523-1739.2010.01448.x" target="_blank" rel="noopener">Improving the performance of the Roundtable on Sustainable Palm Oil for nature conservation</a>. <strong><em>Conservation Biology</em></strong> 24: 377-381
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1523-1739.2010.01448.x" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1523-1739.2010.01448.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Sequeira, MMM, C Mellin, MG Meekan, DW Sims, <strong>CJA Bradshaw</strong>. 2013. <a href="http://doi.org/10.1111/jfb.12017" target="_blank" rel="noopener">Inferred global connectivity of whale shark <i>Rhincodon typus</i> populations</a>. <strong><em>Journal of Fish Biology</em></strong> 82: 367-389
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/jfb.12017" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/jfb.12017" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaice.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -740,19 +740,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/2015GL066344" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/2015GL066344" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Wernberg, T, BD Russell, MS Thomsen, CFD Gurgel, <strong>CJA Bradshaw</strong>, ES Poloczanska, SD Connell. 2011. <a href="http://doi.org/10.1016/j.cub.2011.09.028" target="_blank" rel="noopener">Seaweed communities in retreat from ocean warming</a>. <strong><em>Current Biology</em></strong> 21: 1828-1832
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2011.09.028" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cub.2011.09.028" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/01/frogicon.png" height="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Mathwin, R, S Wassens, MS Gibbs, J Young, Q Ye, F Saltré, <strong>CJA Bradshaw</strong>. 2023. <a href="https://doi.org/10.1002/ecs2.4379" target="_blank" rel="noopener">Modelling the effects of water regulation on the population viability of a threatened amphibian</a>. <em><strong>Ecosphere </strong></em>14: e4379
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/ecs2.4379" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ecs2.4379" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Friedman, K, M Braccini, M Bjerregaard-Walsh, R Bonfil, <strong>CJA Bradshaw</strong>, <i>et al.</i>. 2019. <a href="http://doi.org/10.1111/faf.12411" target="_blank" rel="noopener">Informing CITES Parties: Strengthening science‐based decision‐making when listing marine species</a>. <strong><em>Fish and Fisheries</em></strong> 21: 13-31
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/faf.12411" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/faf.12411" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -761,12 +761,12 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/conl.12098" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/conl.12098" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/oilpalm.png" height="60" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Laurance, WF, LP Koh, R Butler, NS Sodhi, <strong>CJA Bradshaw</strong>, JD Neidel, H Consunji, J Mateo Vega. 2010. <a href="https://doi.org/10.1111/j.1523-1739.2010.01448.x" target="_blank" rel="noopener">Improving the performance of the Roundtable on Sustainable Palm Oil for nature conservation</a>. <strong><em>Conservation Biology</em></strong> 24: 377-381
+		Friedman, K, M Braccini, M Bjerregaard-Walsh, R Bonfil, <strong>CJA Bradshaw</strong>, <i>et al.</i>. 2019. <a href="http://doi.org/10.1111/faf.12411" target="_blank" rel="noopener">Informing CITES Parties: Strengthening science‐based decision‐making when listing marine species</a>. <strong><em>Fish and Fisheries</em></strong> 21: 13-31
 	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1523-1739.2010.01448.x" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1523-1739.2010.01448.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/faf.12411" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/faf.12411" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/list.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
