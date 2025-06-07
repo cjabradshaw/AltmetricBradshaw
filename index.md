@@ -189,6 +189,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1126/science.1240495" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/science.1240495" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/coral.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Mulà, C, <strong>CJA Bradshaw</strong>, M Cabeza, F Manca, S Montano, G Strona. 2025. <a href="https://doi.org/10.1038/s41559-025-02667-x" target="_blank" rel="noopener">Restoration cannot be scaled up globally to save reefs from loss and degradation</a>. <strong><em>Nature Ecology and Evolution</em></strong> 2025. doi:10.1038/s41559-025-02667-x
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41559-025-02667-x" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41559-025-02667-x" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/ausdots.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, K Norman, S Ulm, AN Williams, C Clarkson, J Chadœuf, SC Lin, Z Jacobs, RG Roberts, MI Bird, LS Weyrich, S Haberle, S O’Connor, B Llamas, TJ Cohen, T Friedrich, P Veth, M Leavesley, F Saltré. 2021. <a href="http://doi.org/10.1038/s41467-021-21551-3" target="_blank" rel="noopener">Stochastic models support rapid peopling of Late Pleistocene Sahul</a>. <strong><em>Nature Communications</em></strong> 12: 2440
@@ -272,13 +279,6 @@
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41561-024-01388-3" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41561-024-01388-3" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/coral.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Mulà, C, <strong>CJA Bradshaw</strong>, M Cabeza, F Manca, S Montano, G Strona. 2025. <a href="https://doi.org/10.1038/s41559-025-02667-x" target="_blank" rel="noopener">Restoration cannot be scaled up globally to save reefs from loss and degradation</a>. <strong><em>Nature Ecology and Evolution</em></strong> 2025. doi:10.1038/s41559-025-02667-x
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41559-025-02667-x" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41559-025-02667-x" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/family.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
