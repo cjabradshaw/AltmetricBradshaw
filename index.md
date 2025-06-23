@@ -943,6 +943,20 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2003.11.017" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2003.11.017" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/06/tigerlogo.png" height="75" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, RA Correia, P Courtois, E Di Minin, I Jarić, B Leroy, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1002/fee.2862" target="_blank" rel="noopener">Professional sport organizations as potential champions of biodiversity conservation</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 2025: e2862
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/fee.2862" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/fee.2862" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/05/gricontranspbw.png" height="75" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Beaman, JE, K Gates, F Saltré, CJ Hogg, K Belov, K Ashman, K Burke da Silva, LB Beheregaray, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1111/eva.70092" target="_blank" rel="noopener">A guide for developing demo-genetic models to simulate genetic rescue</a>. <strong><em>Evolutionary Applications</em></strong> 7: e70092
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/eva.70092" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/eva.70092" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/deforestfloodicontransp.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>. 2009. <a href="https://doi.org/10.1579/0044-7447-38.2.125" target="_blank" rel="noopener">Flooding policy makers with evidence to save forests</a>. <strong><em>Ambio</em></strong> 38: 125-126<br>
@@ -971,20 +985,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/csp2.448" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/csp2.448" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/05/gricontranspbw.png" height="75" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Beaman, JE, K Gates, F Saltré, CJ Hogg, K Belov, K Ashman, K Burke da Silva, LB Beheregaray, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1111/eva.70092" target="_blank" rel="noopener">A guide for developing demo-genetic models to simulate genetic rescue</a>. <strong><em>Evolutionary Applications</em></strong> 7: e70092
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/eva.70092" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/eva.70092" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/06/tigerlogo.png" height="75" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, RA Correia, P Courtois, E Di Minin, I Jarić, B Leroy, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1002/fee.2862" target="_blank" rel="noopener">Professional sport organizations as potential champions of biodiversity conservation</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 2025: e2862
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1002/fee.2862" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/fee.2862" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tropicalforest.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
