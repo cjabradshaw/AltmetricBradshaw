@@ -873,6 +873,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature06518" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature06518" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/06/tigerlogo.png" height="75" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, RA Correia, P Courtois, E Di Minin, I Jarić, B Leroy, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1002/fee.2862" target="_blank" rel="noopener">Professional sport organizations as potential champions of biodiversity conservation</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 2025: e2862
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/fee.2862" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/fee.2862" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/04/snail.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Carneiro, L, B Leroy, C Capinha, <strong>CJA Bradshaw</strong>, S Bertolino, JA Catford, M Comacho-Cervantes, J Bojko, G Klippel, S Kumschick, D Pincheira-Donoso, JD Tonkin, BD Fath, J South, E Manfrini, T Dallas, F Courchamp. 2025. <a href="https://doi.org/10.1016/j.tree.2025.03.010" target="_blank" rel="noopener">Typology of the ecological impacts of biological invasions</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 40: 563-574. doi:10.1016/j.tree.2025.03.010
@@ -893,13 +900,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1472-4642.2011.00853.x" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1472-4642.2011.00853.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/06/tigerlogo.png" height="75" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, RA Correia, P Courtois, E Di Minin, I Jarić, B Leroy, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1002/fee.2862" target="_blank" rel="noopener">Professional sport organizations as potential champions of biodiversity conservation</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 2025: e2862
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1002/fee.2862" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/fee.2862" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/forestinsurance.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
