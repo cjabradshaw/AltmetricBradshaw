@@ -880,6 +880,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/fee.2862" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/fee.2862" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaice.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Bird, MI, M Brand, R Comley, X Hadeen, Z Jacobs, C Rowe, F Saltré, CM Wurster, C Zwart, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1016/j.quascirev.2025.109504" target="_blank" rel="noopener">A 150,000-year lacustrine record of the Indo-Australian monsoon from northern Australia</a>. <strong><em>Quaternary Science Reviews</em></strong> 366: 109504
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2025.109504" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2025.109504" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/04/snail.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Carneiro, L, B Leroy, C Capinha, <strong>CJA Bradshaw</strong>, S Bertolino, JA Catford, M Comacho-Cervantes, J Bojko, G Klippel, S Kumschick, D Pincheira-Donoso, JD Tonkin, BD Fath, J South, E Manfrini, T Dallas, F Courchamp. 2025. <a href="https://doi.org/10.1016/j.tree.2025.03.010" target="_blank" rel="noopener">Typology of the ecological impacts of biological invasions</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 40: 563-574. doi:10.1016/j.tree.2025.03.010
