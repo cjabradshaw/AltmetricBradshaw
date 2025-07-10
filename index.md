@@ -112,19 +112,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12433" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12433" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/smilodon.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Metcalf, JL, CSM Turney, R Barnett, F Martin, S Bray, JT Vilstrup, L Orlando, R Salas-Gismondi, D Loponte, M Medina, M De Nigris, T Civalero, P Marcelo Fernandez, A Gasco, V Duran, KL Seymour, C Otaola, A Gil, R Paunero, FJ Prevost, <strong>CJA Bradshaw</strong>, et al. 2016. <a href="http://doi.org/10.1126/sciadv.1501682" target="_blank" rel="noopener">Synergistic roles of climate warming and human occupation in Patagonian megafaunal extinctions during the Last Deglaciation</a>. <strong><em>Science Advances </em></strong>2: e1501682
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.1501682" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.1501682" data-hide-no-mentions="true" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/06/eueuro.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Henry, M, B Leung, RN Cuthbert, TW Bodey, DA Ahmed, E Angulo, P Balzani, E Briski, F Courchamp, P Hulme, A Kouba, M Kourantidou, C Liu, RL Macêdo, FJ Oficialdegui, D Renault, I Soto, A Serhan Tarkan, AJ Turbelin, <strong>CJA Bradshaw</strong>, PJ Haubrock. 2023. <a href="http://doi.org/10.1186/s12302-023-00750-3" target="_blank" rel="noopener">Unveiling the hidden economic toll of biological invasions in the European Union</a>. <strong><em>Environmental Sciences Europe</em></strong> 35: 43
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1186/s12302-023-00750-3" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1186/s12302-023-00750-3" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/smilodon.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Metcalf, JL, CSM Turney, R Barnett, F Martin, S Bray, JT Vilstrup, L Orlando, R Salas-Gismondi, D Loponte, M Medina, M De Nigris, T Civalero, P Marcelo Fernandez, A Gasco, V Duran, KL Seymour, C Otaola, A Gil, R Paunero, FJ Prevost, <strong>CJA Bradshaw</strong>, et al. 2016. <a href="http://doi.org/10.1126/sciadv.1501682" target="_blank" rel="noopener">Synergistic roles of climate warming and human occupation in Patagonian megafaunal extinctions during the Last Deglaciation</a>. <strong><em>Science Advances </em></strong>2: e1501682
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.1501682" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.1501682" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/09/coelacanth.png" height="30" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
