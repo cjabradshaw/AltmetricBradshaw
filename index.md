@@ -544,6 +544,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2017.0642" data-legend="hover-right" data-style="small_rectangle"></span>		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2017.0642" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaice.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Bird, MI, M Brand, R Comley, X Hadeen, Z Jacobs, C Rowe, F Saltré, CM Wurster, C Zwart, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1016/j.quascirev.2025.109504" target="_blank" rel="noopener">A 150,000-year lacustrine record of the Indo-Australian monsoon from northern Australia</a>. <strong><em>Quaternary Science Reviews</em></strong> 366: 109504
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2025.109504" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2025.109504" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/09/invacostlogo.jpg" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Ahmed, DA, PJ Haubrock, RN Cuthbert, A Bang, I Soto, P Balzani, A Serhan Tarkan, RL Macêdo, L Carneiro, TW Bodey, FJ Oficialdegui, P Courtois, M Kourantidou, E Angulo, G Heringer, D Renault, AJ Turbelin, EJ Hudgins, C Liu, SA Gojery, U Arbieu, C Diagne, B Leroy, E Briski, <strong>CJA Bradshaw</strong>, F Courchamp. 2023. <a href="http://doi.org/10.1093/biosci/biad060" target="_blank" rel="noopener">Recent advances in availability and synthesis of the economic costs of biological invasions</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biad060
@@ -579,26 +586,12 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0001636" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0001636" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/groper.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Mellin, C, D Mouillot, M Kulbicki, TR McClanahan, L Vigliola, <strong>CJA Bradshaw</strong>, RE Brainard, P Chabanet, GJ Edgar, DA Fordham, AM Friedlander, V Parravicini, AMM Sequeira, RD Stuart-Smith, L Wantiez, MJ Caley. 2008. <a href="http://doi.org/10.1038/ncomms10491" target="_blank" rel="noopener">Humans and seasonal climate variability threaten large-bodied coral reef fish with small ranges</a>. <strong><em>Nature Communications</em></strong> 7: 10491
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms10491" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10491" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://conservationbytes.com/wp-content/uploads/2024/08/biome.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Champreux, A, F Saltré, W Traylor, T Hickler, <strong>CJA Bradshaw</strong>. 2024. <a href="https://doi.org/10.1002/ecm.1615" target="_blank" rel="noopener">How to map biomes: quantitative comparison and review of biome-mapping methods</a>. <strong><em>Ecological Monographs</em></strong> 94: e1615
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/ecm.1615" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ecm.1615" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/sickchild.jpg" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, SP Otto, AA Annamalay, S Heft-Neal, Z Wagner, PN Le Souëf. 2019. <a href="http://doi.org/10.1136/bmjopen-2019-029968" target="_blank" rel="noopener">Testing the socio-economic and environmental determinants of better child-health outcomes in Africa: a cross-sectional study among nations</a>. <strong><em>BMJ Open</em></strong> 9: e029968
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1136/bmjopen-2019-029968" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1136/bmjopen-2019-029968" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -607,12 +600,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2023.110164" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2023.110164" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaice.png" height="70" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/sickchild.jpg" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Bird, MI, M Brand, R Comley, X Hadeen, Z Jacobs, C Rowe, F Saltré, CM Wurster, C Zwart, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1016/j.quascirev.2025.109504" target="_blank" rel="noopener">A 150,000-year lacustrine record of the Indo-Australian monsoon from northern Australia</a>. <strong><em>Quaternary Science Reviews</em></strong> 366: 109504
+		<strong>Bradshaw, CJA</strong>, SP Otto, AA Annamalay, S Heft-Neal, Z Wagner, PN Le Souëf. 2019. <a href="http://doi.org/10.1136/bmjopen-2019-029968" target="_blank" rel="noopener">Testing the socio-economic and environmental determinants of better child-health outcomes in Africa: a cross-sectional study among nations</a>. <strong><em>BMJ Open</em></strong> 9: e029968
 	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2025.109504" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2025.109504" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<span class="__dimensions_badge_embed__" data-doi="10.1136/bmjopen-2019-029968" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1136/bmjopen-2019-029968" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/groper.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Mellin, C, D Mouillot, M Kulbicki, TR McClanahan, L Vigliola, <strong>CJA Bradshaw</strong>, RE Brainard, P Chabanet, GJ Edgar, DA Fordham, AM Friedlander, V Parravicini, AMM Sequeira, RD Stuart-Smith, L Wantiez, MJ Caley. 2008. <a href="http://doi.org/10.1038/ncomms10491" target="_blank" rel="noopener">Humans and seasonal climate variability threaten large-bodied coral reef fish with small ranges</a>. <strong><em>Nature Communications</em></strong> 7: 10491
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms10491" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms10491" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
