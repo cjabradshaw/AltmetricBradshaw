@@ -517,19 +517,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1890/13-0746.1" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/13-0746.1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Sequeira, AMM, C Mellin, DA Fordham, MG Meekan, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1111/gcb.12343" target="_blank" rel="noopener">Predicting current and future global distributions of whale sharks</a>. <strong><em>Global Change Biology</em></strong> 20: 778-789
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/gcb.12343" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/gcb.12343" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/population.png" height="65" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Saraswati, CM, MA Judge, LJZ Weeda, Q Bassat, N Prata, PN Le Souëf, <strong>CJA Bradshaw</strong>. 2024. <a href="https://doi.org/10.3389/fpubh.2024.1339933" target="_blank" rel="noopener">Net benefit of smaller human populations to environmental integrity and individual health and wellbeing</a>. <strong><em>Frontiers in Public Health</em></strong> 12: 1339933
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.3389/fpubh.2024.1339933" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fpubh.2024.1339933" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/07/diarrhoea2-1.png" height="60" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Fatima, SH, MA Judge, PN Le Souëf, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1016/j.envres.2025.122412" target="_blank" rel="noopener">Impact of climate change on diarrhoea risk in low- and middle-income countries</a>. <strong><em>Environmental Research</em></strong> doi:10.1016/j.envres.2025.122412
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.envres.2025.122412" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.envres.2025.122412" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -545,19 +545,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.55993" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.55993" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Sequeira, AMM, C Mellin, DA Fordham, MG Meekan, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1111/gcb.12343" target="_blank" rel="noopener">Predicting current and future global distributions of whale sharks</a>. <strong><em>Global Change Biology</em></strong> 20: 778-789
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/gcb.12343" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/gcb.12343" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/globenetworkicontransp.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Saltré, F, J Chadœuf, T Higham, M Ochoki, S Block, E Bunney, B Llamas, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1038/s41467-024-48762-8" target="_blank" rel="noopener">Environmental conditions associated with initial northern expansion of anatomically modern humans</a>. <strong><em>Nature Communications</em></strong> 15: 4364
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-48762-8" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-48762-8" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/07/diarrhoea2-1.png" height="60" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Fatima, SH, MA Judge, PN Le Souëf, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1016/j.envres.2025.122412" target="_blank" rel="noopener">Impact of climate change on diarrhoea risk in low- and middle-income countries</a>. <strong><em>Environmental Research</em></strong> doi:10.1016/j.envres.2025.122412
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.envres.2025.122412" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.envres.2025.122412" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
