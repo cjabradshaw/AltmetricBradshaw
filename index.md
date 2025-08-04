@@ -503,6 +503,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.12189" data-legend="hover-right" data-style="small_rectangle"></span>			<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.12189" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/07/diarrhoea2-1.png" height="60" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Fatima, SH, MA Judge, PN Le Souëf, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1016/j.envres.2025.122412" target="_blank" rel="noopener">Impact of climate change on diarrhoea risk in low- and middle-income countries</a>. <strong><em>Environmental Research</em></strong> doi:10.1016/j.envres.2025.122412
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.envres.2025.122412" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.envres.2025.122412" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaweed.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Martínez B, B Radford, MS Thomsen, SD Connell, F Carreño <strong>CJA Bradshaw</strong>, DA Fordham, BD Russell, CFD Gurgel, T Wernberg. 2018. <a href="http://doi.org/10.1111/ddi.12767" target="_blank" rel="noopener">Distribution models predict large contractions of habitat‐forming seaweeds in response to ocean warming</a>. <strong><em>Diversity and Distributions</em></strong> 24: 1350-1366
@@ -523,13 +530,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.3389/fpubh.2024.1339933" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fpubh.2024.1339933" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/07/diarrhoea2-1.png" height="60" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Fatima, SH, MA Judge, PN Le Souëf, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1016/j.envres.2025.122412" target="_blank" rel="noopener">Impact of climate change on diarrhoea risk in low- and middle-income countries</a>. <strong><em>Environmental Research</em></strong> doi:10.1016/j.envres.2025.122412
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.envres.2025.122412" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.envres.2025.122412" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
