@@ -77,19 +77,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms12986" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms12986" data-hide-no-mentions="true" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/brokenchain.png" width="60" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Strona, G, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.1038/s41598-018-35068-1" target="_blank" rel="noopener">Co-extinctions annihilate planetary life during extreme environmental change</a>. <strong style="font-style:italic;">Scientific Reports</strong> 8: 16724
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-018-35068-1" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-018-35068-1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/explore.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Bird, MI, SA Condie, S O'Connor, D O'Grady, C Reepmeyer, S Ulm, M Zega, F Saltré, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1038/s41598-019-42946-9" target="_blank" rel="noopener">Early human settlement of Sahul was not an accident</a>. <em><strong>Scientific Reports </strong></em>9: 8220
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-42946-9" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-019-42946-9" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/brokenchain.png" width="60" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Strona, G, <strong>CJA Bradshaw</strong>. 2018. <a href="http://doi.org/10.1038/s41598-018-35068-1" target="_blank" rel="noopener">Co-extinctions annihilate planetary life during extreme environmental change</a>. <strong style="font-style:italic;">Scientific Reports</strong> 8: 16724
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-018-35068-1" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-018-35068-1" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tooth.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -182,19 +182,19 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.7717/peerj.5554" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7717/peerj.5554" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fragments.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Gibson, L, AJ Lynam, <strong>CJA Bradshaw</strong>, F He, DP Bickford, DS Woodruff, S Bumrungsri, WF Laurance. 2013. <a href="http://doi.org/10.1126/science.1240495" target="_blank" rel="noopener">Near-complete extinction of native small mammal fauna 25 years following forest fragmentation</a>. <strong><em>Science</em></strong> 341: 1508-1510
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1126/science.1240495" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/science.1240495" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/forests.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Gibson, L, TM Lee, LP Koh, BW Brook, TA Gardner, J Barlow, CA Peres, <strong>CJA Bradshaw</strong>, WF Laurance, TE Lovejoy, NS Sodhi. 2011. <a href="http://doi.org/10.1038/nature10425" target="_blank" rel="noopener">Primary forests are irreplaceable for sustaining tropical biodiversity</a>. <strong><em>Nature</em></strong> 478: 378-381
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature10425" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature10425" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/fragments.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Gibson, L, AJ Lynam, <strong>CJA Bradshaw</strong>, F He, DP Bickford, DS Woodruff, S Bumrungsri, WF Laurance. 2013. <a href="http://doi.org/10.1126/science.1240495" target="_blank" rel="noopener">Near-complete extinction of native small mammal fauna 25 years following forest fragmentation</a>. <strong><em>Science</em></strong> 341: 1508-1510
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1126/science.1240495" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/science.1240495" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/ausdots.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -365,13 +365,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1177/08901171211064224" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/08901171211064224" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/thylacine.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Prowse, TAA, CN Johnson, RC Lacy, <strong>CJA Bradshaw</strong>, JP Pollak, MJ Watts, BW Brook. 2013. <a href="http://doi.org/10.1111/1365-2656.12029" target="_blank" rel="noopener">No need for disease: testing extinction hypotheses for the thylacine using multi-species metamodels</a>. <strong><em>Journal of Animal Ecology</em></strong> 82: 355-364
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2656.12029" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2656.12029" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whale.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Evans, K, R Thresher, RM Warneke, <strong>CJA Bradshaw</strong>, M Pook, D Thiele, MA Hindell. 2005. <a href="http://doi.org/10.1098/rsbl.2005.0313" target="_blank" rel="noopener">Periodic variability in cetacean strandings &#8211; links to large-scale climate events</a>. <strong><em>Biology Letters</em></strong> 1: 147-150
@@ -400,6 +393,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.63870" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.7554/eLife.63870" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaice.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Bird, MI, M Brand, R Comley, X Hadeen, Z Jacobs, C Rowe, F Saltré, CM Wurster, C Zwart, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1016/j.quascirev.2025.109504" target="_blank" rel="noopener">A 150,000-year lacustrine record of the Indo-Australian monsoon from northern Australia</a>. <strong><em>Quaternary Science Reviews</em></strong> 366: 109504
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2025.109504" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2025.109504" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/06/roo2.png" height="65" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Mitchell, DR, SC Cairns, G Körtner, <strong>CJA Bradshaw</strong>, F Saltré, V Weisbecker. 2023. <a href="http://doi.org/10.1093/jmammal/gyad053" target="_blank" rel="noopener">Differential developmental rates and demographics in red kangaroo (<em>Osphranter rufus</em>) populations separated by the dingo barrier fence</a>. <strong><em>Journal of Mammalogy</em></strong> 104: 929-940
@@ -413,6 +413,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.3897/rethinkingecology.4.32570" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3897/rethinkingecology.4.32570" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/thylacine.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Prowse, TAA, CN Johnson, RC Lacy, <strong>CJA Bradshaw</strong>, JP Pollak, MJ Watts, BW Brook. 2013. <a href="http://doi.org/10.1111/1365-2656.12029" target="_blank" rel="noopener">No need for disease: testing extinction hypotheses for the thylacine using multi-species metamodels</a>. <strong><em>Journal of Animal Ecology</em></strong> 82: 355-364
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2656.12029" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2656.12029" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/tornado.png" height="65" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -434,13 +441,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2015.2399" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2015.2399" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaice.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Bird, MI, M Brand, R Comley, X Hadeen, Z Jacobs, C Rowe, F Saltré, CM Wurster, C Zwart, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1016/j.quascirev.2025.109504" target="_blank" rel="noopener">A 150,000-year lacustrine record of the Indo-Australian monsoon from northern Australia</a>. <strong><em>Quaternary Science Reviews</em></strong> 366: 109504
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2025.109504" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2025.109504" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -740,6 +740,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 		<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.1094" data-legend="hover-right" data-style="small_rectangle"></span>
 		<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ece3.1094" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaice.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Turney, CSM, ZA Thomas, DK Hutchison, <strong>CJA Bradshaw</strong>, <i>et al.</i> 2015. <a href="http://doi.org/10.1002/2015GL066344" target="_blank" rel="noopener">Obliquity‐driven expansion of North Atlantic sea ice during the last glacial</a>. <strong><em>Geophysical Research Letters</em></strong> 42: 10382-10390
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/2015GL066344" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/2015GL066344" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/tropicalleaf.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, NS Sodhi, BW Brook. 2009. <a href="https://doi.org/10.1890/070193" target="_blank" rel="noopener">Tropical turmoil: a biodiversity tragedy in progress</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 7: 79-87
@@ -761,13 +768,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/jfb.12017" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/jfb.12017" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaice.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Turney, CSM, ZA Thomas, DK Hutchison, <strong>CJA Bradshaw</strong>, <i>et al.</i> 2015. <a href="http://doi.org/10.1002/2015GL066344" target="_blank" rel="noopener">Obliquity‐driven expansion of North Atlantic sea ice during the last glacial</a>. <strong><em>Geophysical Research Letters</em></strong> 42: 10382-10390
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1002/2015GL066344" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/2015GL066344" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2023/01/frogicon.png" height="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Mathwin, R, S Wassens, MS Gibbs, J Young, Q Ye, F Saltré, <strong>CJA Bradshaw</strong>. 2023. <a href="https://doi.org/10.1002/ecs2.4379" target="_blank" rel="noopener">Modelling the effects of water regulation on the population viability of a threatened amphibian</a>. <em><strong>Ecosphere </strong></em>14: e4379
@@ -782,19 +782,19 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2011.09.028" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cub.2011.09.028" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png" height="50" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Moen, J, L Rist, K Bishop, FS Chapin III, D Ellison, T Kuuluvainen, H Petersson, KJ Puettmann, J Rayner, IG Warkentin, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1111/conl.12098" target="_blank" rel="noopener">Eye on the taiga: removing global policy impediments to safeguard the boreal forest</a>. <strong><em>Conservation Letters</em></strong> 7: 408-418
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/conl.12098" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/conl.12098" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frog.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Mathwin, R, S Wassens, A Turner, GW Heard, A Hall, <strong>CJA Bradshaw</strong>. 2024. <a href="https://doi.org/10.1111/aec.13492" target="_blank" rel="noopener">Modelling the sustainable harvest of wild populations for the conservation of a threatened amphibian</a>. <strong><em>Austral Ecology</em></strong> 49: e13492
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/aec.13492" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/aec.13492" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Moen, J, L Rist, K Bishop, FS Chapin III, D Ellison, T Kuuluvainen, H Petersson, KJ Puettmann, J Rayner, IG Warkentin, <strong>CJA Bradshaw</strong>. 2014. <a href="http://doi.org/10.1111/conl.12098" target="_blank" rel="noopener">Eye on the taiga: removing global policy impediments to safeguard the boreal forest</a>. <strong><em>Conservation Letters</em></strong> 7: 408-418
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/conl.12098" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/conl.12098" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/list.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
