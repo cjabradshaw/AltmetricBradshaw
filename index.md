@@ -677,6 +677,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0149852" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0149852" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Gates, K, J Sandoval-Castillo, JE Beaman, K Burke da Silva, F Saltré, K Belov, CJ Hogg, <strong>CJA Bradshaw</strong>, LB Beheregaray. 2025. <a href="http://doi.org/10.1111/mec.70097" target="_blank" rel="noopener">Conservation arks: genomic erosion and inbreeding in an abundant island population of koalas</a>. <strong><em>Molecular Ecology</em></strong> doi:10.1111/mec.70097
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/mec.70097" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/mec.70097" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, BM Fitzpatrick, CC Steinberg, BW Brook, MG Meekan. 2008. <a href="http://doi.org/10.1016/j.biocon.2008.05.007" target="_blank" rel="noopener">Decline in whale shark size and abundance at Ningaloo Reef over the past decade: the world’s largest fish is getting smaller</a>. <strong><em>Biological Conservation</em></strong> 141: 1894-1905
