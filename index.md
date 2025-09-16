@@ -579,6 +579,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biae010" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biae010" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Gates, K, J Sandoval-Castillo, JE Beaman, K Burke da Silva, F Saltré, K Belov, CJ Hogg, <strong>CJA Bradshaw</strong>, LB Beheregaray. 2025. <a href="http://doi.org/10.1111/mec.70097" target="_blank" rel="noopener">Conservation arks: genomic erosion and inbreeding in an abundant island population of koalas</a>. <strong><em>Molecular Ecology</em></strong> e70097. doi:10.1111/mec.70097
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/mec.70097" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/mec.70097" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/frog.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Mathwin, R, S Wassens, J Young, Q Ye, <strong>CJA Bradshaw</strong>. 2020. <a href="http://doi.org/10.1111/cobi.13501" target="_blank" rel="noopener">Manipulating water for amphibian conservation</a>. <strong><em>Conservation Biology</em></strong> 35: 24-34
@@ -676,13 +683,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0149852" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0149852" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Gates, K, J Sandoval-Castillo, JE Beaman, K Burke da Silva, F Saltré, K Belov, CJ Hogg, <strong>CJA Bradshaw</strong>, LB Beheregaray. 2025. <a href="http://doi.org/10.1111/mec.70097" target="_blank" rel="noopener">Conservation arks: genomic erosion and inbreeding in an abundant island population of koalas</a>. <strong><em>Molecular Ecology</em></strong> e70097. doi:10.1111/mec.70097
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/mec.70097" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/mec.70097" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
