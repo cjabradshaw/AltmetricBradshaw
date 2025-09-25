@@ -768,6 +768,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1523-1739.2010.01448.x" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1523-1739.2010.01448.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/09/bantengbw.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Wang, X, C Nursyifa, SG Aninta, G Garcia-Erill, LD Bertola, A Khan, J Kuja, K Hanghøj, J Meisner, T Bøggild, <strong>CJA Bradshaw</strong>, A al-Chaer, AP Putra, S Priyono, YA Tribudi, P Sudrajad, D Gaina, Y Jiang, JA Lenstra, R Cauble-Sims, BD Rosen, DE Hagen, MP Heaton, TPL Smith, L Frantz, G Larson, M-HS Sinding, DD Solihin, M Agil, B Purwantara, R Heller. 2025. <a href="http://doi.org/10.1038/s41467-025-62692-z" target="_blank" rel="noopener">The genetic diversity of Indonesian cattle has been shaped by multiple introductions and adaptive introgression</a>. <strong><em>Nature Communications</em></strong> 16: 8192
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-025-62692-z" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-025-62692-z" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Sequeira, MMM, C Mellin, MG Meekan, DW Sims, <strong>CJA Bradshaw</strong>. 2013. <a href="http://doi.org/10.1111/jfb.12017" target="_blank" rel="noopener">Inferred global connectivity of whale shark <i>Rhincodon typus</i> populations</a>. <strong><em>Journal of Fish Biology</em></strong> 82: 367-389
