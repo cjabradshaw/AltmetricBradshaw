@@ -887,7 +887,7 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1309226110" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1309226110" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/09/gogfishbw.png" height="80" style="float:right;" />
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/09/gogfishbw.png" height="40" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Llewelyn, J, JA Long, R Cloutier, AM Clement, G Strona, F Saltré, MSY Lee, B Choo, K Trinajstic, O Vanhaesebroucke, A Fitzpatrick, <strong>Bradshaw, CJA</strong>. 2025. <a href="https://doi.org/10.1016/j.palaeo.2025.113294" target="_blank" rel="noopener">Trait-space disparity in fish communities spanning 380 million years from the Late Devonian to present</a>. <strong><em>Palaeogeography, Palaeoclimatology, Palaeoecology</em></strong> 679: 113294 
 	</p>
