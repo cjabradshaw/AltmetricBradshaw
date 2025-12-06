@@ -719,6 +719,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.apenergy.2014.09.062" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.apenergy.2014.09.062" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/12/tiger-logo-cutout.png" height="60" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, R Correia, P Courtois, E Di Minin, I Jarić, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1093/biosci/biaf181" target="_blank" rel="noopener">Wildlife diversity in global team sport branding</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biaf181
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biaf181" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biaf181" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Hong, S, <strong>CJA Bradshaw</strong>, BW Brook. 2013. <a href="http://doi.org/10.1016/j.energy.2013.02.010" target="_blank" rel="noopener">Evaluating options for sustainable energy mixes in South Korea using scenario analysis</a>. <strong><em>Energy</em></strong> 52: 237-244
@@ -802,13 +809,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/aec.13492" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/aec.13492" data-hide-no-mentions="true" data-hide-less-than="15" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/12/tiger-logo-cutout.png" height="60" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, R Correia, P Courtois, E Di Minin, I Jarić, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1093/biosci/biaf181" target="_blank" rel="noopener">Wildlife diversity in global team sport branding</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biaf181
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biaf181" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biaf181" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
