@@ -614,6 +614,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/cobi.13501" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/cobi.13501" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/murraycod.png" width="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Lyon, JP, TJ Bird, J Kearns, S Nicol, Z Tonkin, CR Todd, J O'Mahony, G Hackett, S Raymond, J Lieschke, A Kitchingman, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1002/eap.1882" target="_blank" rel="noopener">Increased population size of fish in a lowland river following restoration of structural habitat</a>. <strong><em>Ecological Applications</em></strong> 29: e01882
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/eap.1882" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/eap.1882" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/dingo.png" width="75" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Nimmo, DG, SJ Watson, DM Forsyth, <strong>CJA Bradshaw</strong>. 2015. <a href="http://doi.org/10.1111/1365-2664.12369" target="_blank" rel="noopener">Dingoes can help conserve wildlife and our methods can tell</a>. <strong><em>Journal of Applied Ecology</em></strong> 52: 281-285
@@ -704,13 +711,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/ecs2.70082" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ecs2.70082" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/murraycod.png" width="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Lyon, JP, TJ Bird, J Kearns, S Nicol, Z Tonkin, CR Todd, J O'Mahony, G Hackett, S Raymond, J Lieschke, A Kitchingman, <strong>CJA Bradshaw</strong>. 2019. <a href="http://doi.org/10.1002/eap.1882" target="_blank" rel="noopener">Increased population size of fish in a lowland river following restoration of structural habitat</a>. <strong><em>Ecological Applications</em></strong> 29: e01882
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1002/eap.1882" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/eap.1882" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/09/bantengbw.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
