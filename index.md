@@ -407,6 +407,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1093/jmammal/gyad053" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/jmammal/gyad053" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="80" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Huveneers, C, C Blount, <strong>CJA Bradshaw</strong>, PA Butcher, MP Lincoln Smith, WG Macbeth, DM McPhee, N Moltschaniwskyj, VM Peddemors, M Green. 2024. <a href="http://doi.org/10.1016/j.marpolbul.2023.115855" target="_blank" rel="noopener">Shifts in the incidence of shark bites and efficacy of beach-focussed mitigation in Australia</a>. <strong><em>Marine Pollution Bulletin</em></strong> 198: 115855
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.marpolbul.2023.115855" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.marpolbul.2023.115855" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/sa.png" height="65" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>. 2019. <a href="https://doi.org/10.3897/rethinkingecology.4.32570" target="_blank" rel="noopener">Opportunities to improve the future of South Australia’s terrestrial biodiversity</a>. <strong><em>Rethinking Ecology</em></strong> 4: 45-77
@@ -504,13 +511,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.envres.2025.122412" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.envres.2025.122412" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="80" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Huveneers, C, C Blount, <strong>CJA Bradshaw</strong>, PA Butcher, MP Lincoln Smith, WG Macbeth, DM McPhee, N Moltschaniwskyj, VM Peddemors, M Green. 2024. <a href="http://doi.org/10.1016/j.marpolbul.2023.115855" target="_blank" rel="noopener">Shifts in the incidence of shark bites and efficacy of beach-focussed mitigation in Australia</a>. <strong><em>Marine Pollution Bulletin</em></strong> 198: 115855
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.marpolbul.2023.115855" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.marpolbul.2023.115855" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/sugarglider.jpg" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Ritchie, EG, <strong>CJA Bradshaw</strong>, CR Dickman, R Hobbs, CN Johnson, EL Johnston, WF Laurance, D Lindenmayer, MA McCarthy, DG Nimmo, HH Possingham, RL Pressey, DM Watson, J Woinarski. 2013. <a href="http://doi.org/10.1111/cobi.12189" target="_blank" rel="noopener">Continental‐scale governance and the hastening of loss of Australia's biodiversity</a>. <strong><em>Conservation Biology</em></strong> 27: 1133-1135
@@ -573,6 +573,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-48762-8" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-48762-8" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/06/tigerlogo.png" height="75" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, RA Correia, P Courtois, E Di Minin, I Jarić, B Leroy, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1002/fee.2862" target="_blank" rel="noopener">Professional sport organizations as potential champions of biodiversity conservation</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 2025: e2862
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/fee.2862" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/fee.2862" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		White, LC, F Saltré, <strong>CJA Bradshaw</strong>, JJ Austin. 2018. <a href="http://doi.org/10.1098/rsbl.2017.0642" target="_blank" rel="noopener">High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia</a>. <strong><em>Biology Letters</em></strong> 14: 20170642
@@ -585,13 +592,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biad060" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biad060" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/06/tigerlogo.png" height="75" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, RA Correia, P Courtois, E Di Minin, I Jarić, B Leroy, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1002/fee.2862" target="_blank" rel="noopener">Professional sport organizations as potential champions of biodiversity conservation</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 2025: e2862
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1002/fee.2862" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/fee.2862" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/scales.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
