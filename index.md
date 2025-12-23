@@ -504,6 +504,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0151090" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0151090" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/12/tiger-logo-cutout.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, R Correia, P Courtois, E Di Minin, I Jarić, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1093/biosci/biaf181" target="_blank" rel="noopener">Wildlife diversity in global team sport branding</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biaf181
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biaf181" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biaf181" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/07/diarrhoea2-1.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Fatima, SH, MA Judge, PN Le Souëf, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1016/j.envres.2025.122412" target="_blank" rel="noopener">Impact of climate change on diarrhoea risk in low- and middle-income countries</a>. <strong><em>Environmental Research</em></strong> doi:10.1016/j.envres.2025.122412
@@ -523,13 +530,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/mec.70097" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/mec.70097" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/12/tiger-logo-cutout.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, R Correia, P Courtois, E Di Minin, I Jarić, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1093/biosci/biaf181" target="_blank" rel="noopener">Wildlife diversity in global team sport branding</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biaf181
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biaf181" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biaf181" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/seaweed.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
