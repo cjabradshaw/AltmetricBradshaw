@@ -365,6 +365,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1177/08901171211064224" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/08901171211064224" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Saltré, F, KJ Peters, DJ Rogers, J Chadœuf, V Weisbecker, <strong>CJA Bradshaw</strong>. 2026. <a href="http://doi.org/10.1002/ece3.72470" target="_blank" rel="noopener">Balancing high densities and conservation targets to optimise koala management strategies</a>. <strong><em>Ecology and Evolution</em></strong> 16: e72470
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.72470" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ece3.72470" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whale.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Evans, K, R Thresher, RM Warneke, <strong>CJA Bradshaw</strong>, M Pook, D Thiele, MA Hindell. 2005. <a href="http://doi.org/10.1098/rsbl.2005.0313" target="_blank" rel="noopener">Periodic variability in cetacean strandings &#8211; links to large-scale climate events</a>. <strong><em>Biology Letters</em></strong> 1: 147-150
@@ -579,13 +586,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-48762-8" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-48762-8" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Saltré, F, KJ Peters, DJ Rogers, J Chadœuf, V Weisbecker, <strong>CJA Bradshaw</strong>. 2026. <a href="http://doi.org/10.1002/ece3.72470" target="_blank" rel="noopener">Balancing high densities and conservation targets to optimise koala management strategies</a>. <strong><em>Ecology and Evolution</em></strong> 16: e72470
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.72470" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ece3.72470" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
