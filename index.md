@@ -357,6 +357,13 @@
 	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2311280120" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2311280120" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Saltré, F, KJ Peters, DJ Rogers, J Chadœuf, V Weisbecker, <strong>CJA Bradshaw</strong>. 2026. <a href="http://doi.org/10.1002/ece3.72470" target="_blank" rel="noopener">Balancing high densities and conservation targets to optimise koala management strategies</a>. <strong><em>Ecology and Evolution</em></strong> 16: e72470
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.72470" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ece3.72470" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png" height="90" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Ripple, WJ, DA DellaSala, F Baumann, J Gregg, MG Betts, BE Law, <strong>CJA Bradshaw</strong>, C Wolf. 2022. <a href="http://doi.org/10.1177/08901171211064224" target="_blank" rel="noopener">Zoonotic diseases and our troubled relationship with nature</a>. <strong><em>
@@ -364,13 +371,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1177/08901171211064224" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/08901171211064224" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/koala.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Saltré, F, KJ Peters, DJ Rogers, J Chadœuf, V Weisbecker, <strong>CJA Bradshaw</strong>. 2026. <a href="http://doi.org/10.1002/ece3.72470" target="_blank" rel="noopener">Balancing high densities and conservation targets to optimise koala management strategies</a>. <strong><em>Ecology and Evolution</em></strong> 16: e72470
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.72470" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ece3.72470" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whale.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -421,6 +421,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2025.109504" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2025.109504" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/12/tiger-logo-cutout.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, R Correia, P Courtois, E Di Minin, I Jarić, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1093/biosci/biaf181" target="_blank" rel="noopener">Wildlife diversity in global team sport branding</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biaf181
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biaf181" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biaf181" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Huveneers, C, C Blount, <strong>CJA Bradshaw</strong>, PA Butcher, MP Lincoln Smith, WG Macbeth, DM McPhee, N Moltschaniwskyj, VM Peddemors, M Green. 2024. <a href="http://doi.org/10.1016/j.marpolbul.2023.115855" target="_blank" rel="noopener">Shifts in the incidence of shark bites and efficacy of beach-focussed mitigation in Australia</a>. <strong><em>Marine Pollution Bulletin</em></strong> 198: 115855
@@ -469,13 +476,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2007.06.011" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2007.06.011" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/12/tiger-logo-cutout.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, R Correia, P Courtois, E Di Minin, I Jarić, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1093/biosci/biaf181" target="_blank" rel="noopener">Wildlife diversity in global team sport branding</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biaf181
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biaf181" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biaf181" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
