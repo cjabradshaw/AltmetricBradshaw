@@ -407,6 +407,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.12378" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2664.12378" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/12/tiger-logo-cutout.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, R Correia, P Courtois, E Di Minin, I Jarić, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1093/biosci/biaf181" target="_blank" rel="noopener">Wildlife diversity in global team sport branding</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biaf181
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biaf181" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biaf181" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/genyornis.png" width="80" style="float:right;" />
   	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 	<strong>Bradshaw, CJA</strong>, CN Johnson, J Llewelyn, V Weisbecker, G Strona, F Saltré. 2021. <a href="http://doi.org/10.7554/eLife.63870" target="_blank" rel="noopener">Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna</a>. <strong><em>eLife</em></strong> 10: e63870
@@ -420,13 +427,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2025.109504" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2025.109504" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/12/tiger-logo-cutout.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, R Correia, P Courtois, E Di Minin, I Jarić, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1093/biosci/biaf181" target="_blank" rel="noopener">Wildlife diversity in global team sport branding</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biaf181
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biaf181" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biaf181" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
