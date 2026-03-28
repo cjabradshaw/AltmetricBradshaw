@@ -1042,6 +1042,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2015.05.019" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2015.05.019" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tropicalforest.png" height="50" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, MA Judge, DT Blumstein, PR Ehrlich, ANZ Dasgupta, M Wackernagel, LJZ Weeda, PN Le Souëf. 2026. <a href="http://doi.org/10.1088/1748-9326/ae51aa" target="_blank" rel="noopener">Global human population has surpassed Earth’s sustainable carrying capacity</a>. <strong><em>Environmental Research Letters</em></strong> 21: 064023
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1088/1748-9326/ae51aa" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1088/1748-9326/ae51aa" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/reef-shark.jpg" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Speed, CW, MG Meekan, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1016/j.rsma.2015.05.002" target="_blank" rel="noopener">Reef shark movements relative to a coastal marine protected area</a>. <strong><em>Regional Studies in Marine Science</em></strong> 3: 58-66
