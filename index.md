@@ -566,6 +566,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.3389/fpubh.2024.1339933" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fpubh.2024.1339933" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/04/snail.png" height="60" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Carneiro, L, B Leroy, C Capinha, <strong>CJA Bradshaw</strong>, S Bertolino, JA Catford, M Comacho-Cervantes, J Bojko, G Klippel, S Kumschick, D Pincheira-Donoso, JD Tonkin, BD Fath, J South, E Manfrini, T Dallas, F Courchamp. 2025. <a href="https://doi.org/10.1016/j.tree.2025.03.010" target="_blank" rel="noopener">Typology of the ecological impacts of biological invasions</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 40: 563-574. doi:10.1016/j.tree.2025.03.010
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2025.03.010" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2025.03.010" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/coral.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Carturan, BS, J Pither, J-P Maréchal, <strong>CJA Bradshaw</strong>, L Parrott. 2020. <a href="http://doi.org/10.7554/eLife.55993" target="_blank" rel="noopener">Combining agent-based, trait-based and demographic approaches to model coral-community dynamics</a>. <strong><em>eLife</em></strong> 9: e55993
@@ -796,6 +803,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1523-1739.2010.01448.x" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1523-1739.2010.01448.x" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/crowd.png" width="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		<strong>Bradshaw, CJA</strong>, MA Judge, DT Blumstein, PR Ehrlich, ANZ Dasgupta, M Wackernagel, LJZ Weeda, PN Le Souëf. 2026. <a href="http://doi.org/10.1088/1748-9326/ae51aa" target="_blank" rel="noopener">Global human population has surpassed Earth’s sustainable carrying capacity</a>. <strong><em>Environmental Research Letters</em></strong> 21: 064023
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1088/1748-9326/ae51aa" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1088/1748-9326/ae51aa" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" width="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Sequeira, MMM, C Mellin, MG Meekan, DW Sims, <strong>CJA Bradshaw</strong>. 2013. <a href="http://doi.org/10.1111/jfb.12017" target="_blank" rel="noopener">Inferred global connectivity of whale shark <i>Rhincodon typus</i> populations</a>. <strong><em>Journal of Fish Biology</em></strong> 82: 367-389
@@ -929,13 +943,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature06518" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature06518" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/04/snail.png" height="60" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Carneiro, L, B Leroy, C Capinha, <strong>CJA Bradshaw</strong>, S Bertolino, JA Catford, M Comacho-Cervantes, J Bojko, G Klippel, S Kumschick, D Pincheira-Donoso, JD Tonkin, BD Fath, J South, E Manfrini, T Dallas, F Courchamp. 2025. <a href="https://doi.org/10.1016/j.tree.2025.03.010" target="_blank" rel="noopener">Typology of the ecological impacts of biological invasions</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 40: 563-574. doi:10.1016/j.tree.2025.03.010
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2025.03.010" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2025.03.010" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
-	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Brook, BW, <strong>CJA Bradshaw</strong>, LP Koh, NS Sodhi. 2006. <a href="https://doi.org/10.1111/j.1744-7429.2006.00141.x" target="_blank" rel="noopener">Momentum drives the crash: mass extinction in the tropics</a>. <strong><em>Biotropica</em></strong> 38: 302-305
@@ -1041,13 +1048,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2015.05.019" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2015.05.019" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/crowd.png" width="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		<strong>Bradshaw, CJA</strong>, MA Judge, DT Blumstein, PR Ehrlich, ANZ Dasgupta, M Wackernagel, LJZ Weeda, PN Le Souëf. 2026. <a href="http://doi.org/10.1088/1748-9326/ae51aa" target="_blank" rel="noopener">Global human population has surpassed Earth’s sustainable carrying capacity</a>. <strong><em>Environmental Research Letters</em></strong> 21: 064023
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1088/1748-9326/ae51aa" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1088/1748-9326/ae51aa" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/reef-shark.jpg" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
