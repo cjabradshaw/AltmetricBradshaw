@@ -103,7 +103,7 @@
 		<strong>Bradshaw, CJA</strong>, MA Judge, DT Blumstein, PR Ehrlich, ANZ Dasgupta, M Wackernagel, LJZ Weeda, PN Le Souëf. 2026. <a href="http://doi.org/10.1088/1748-9326/ae51aa" target="_blank" rel="noopener">Global human population has surpassed Earth’s sustainable carrying capacity</a>. <strong><em>Environmental Research Letters</em></strong> 21: 064023
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1088/1748-9326/ae51aa" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1088/1748-9326/ae51aa" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1088/1748-9326/ae51aa" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/read.png" width="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -426,7 +426,7 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 		Bird, MI, M Brand, R Comley, X Hadeen, Z Jacobs, C Rowe, F Saltré, CM Wurster, C Zwart, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1016/j.quascirev.2025.109504" target="_blank" rel="noopener">A 150,000-year lacustrine record of the Indo-Australian monsoon from northern Australia</a>. <strong><em>Quaternary Science Reviews</em></strong> 366: 109504
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.quascirev.2025.109504" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2025.109504" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.quascirev.2025.109504" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/gauge.png" width="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -502,7 +502,7 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 		Arbieu, U, C Bellard, <strong>CJA Bradshaw</strong>, RA Correia, P Courtois, E Di Minin, I Jarić, B Leroy, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. 2025. <a href="https://doi.org/10.1002/fee.2862" target="_blank" rel="noopener">Professional sport organizations as potential champions of biodiversity conservation</a>. <strong><em>Frontiers in Ecology and the Environment</em></strong> 2025: e2862
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/fee.2862" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/fee.2862" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/fee.2862" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/gauge.png" width="65" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -578,7 +578,7 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 		Carneiro, L, B Leroy, C Capinha, <strong>CJA Bradshaw</strong>, S Bertolino, JA Catford, M Comacho-Cervantes, J Bojko, G Klippel, S Kumschick, D Pincheira-Donoso, JD Tonkin, BD Fath, J South, E Manfrini, T Dallas, F Courchamp. 2025. <a href="https://doi.org/10.1016/j.tree.2025.03.010" target="_blank" rel="noopener">Typology of the ecological impacts of biological invasions</a>. <strong><em>Trends in Ecology and Evolution</em></strong> 40: 563-574. doi:10.1016/j.tree.2025.03.010
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2025.03.010" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2025.03.010" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2025.03.010" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/coral.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -619,7 +619,7 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 		Llewelyn, J, JA Long, R Cloutier, AM Clement, G Strona, F Saltré, MSY Lee, B Choo, K Trinajstic, O Vanhaesebroucke, A Fitzpatrick, <strong>Bradshaw, CJA</strong>. 2025. <a href="https://doi.org/10.1016/j.palaeo.2025.113294" target="_blank" rel="noopener">Trait-space disparity in fish communities spanning 380 million years from the Late Devonian to present</a>. <strong><em>Palaeogeography, Palaeoclimatology, Palaeoecology</em></strong> 679: 113294 
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.palaeo.2025.113294" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.palaeo.2025.113294" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.palaeo.2025.113294" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -752,7 +752,7 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 		Hamnett, PW, F Saltré, B Page, M Tarran, M Korcz, K Fielder, L Andrews, <strong>CJA Bradshaw</strong>. 2024. <a href="http://doi.org/10.1002/ecs2.70082" target="_blank" rel="noopener">Stochastic population models to identify optimal and cost-effective harvest strategies for feral pig eradication</a>. <strong><em>Ecosphere</em></strong> doi:10.1002/ecs2.70082
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/ecs2.70082" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ecs2.70082" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ecs2.70082" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -927,7 +927,7 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 		Meekan, MG, <strong>Bradshaw, CJA</strong>, M Press, C McLean, A Richards, S Quasnischka, JG Taylor. 2006. <a href="https://doi.org/10.3354/meps319275" target="_blank" rel="noopener">Population size and structure of whale sharks <em>Rhincodon typus</em> at Ningaloo Reef, Western Australia</a>. <strong><em>Marine Ecology Progress Series</em></strong> 319: 275-285 
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.3354/meps319275" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3354/meps319275" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3354/meps319275" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -1005,56 +1005,56 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 		<br>
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1579/0044-7447-38.2.125" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1579/0044-7447-38.2.125" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1579/0044-7447-38.2.125" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/gns.png" height="40" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Otway, NM, <strong>CJA Bradshaw</strong>, RG Harcourt. 2004. <a href="https://doi.org/10.1016/j.biocon.2003.11.017" target="_blank" rel="noopener">Estimating the rate of quasi-extinction of the Australian grey nurse shark (<em>Carcharias taurus</em>) population using deterministic age- and stage-classified models</a>. <strong><em>Biological Conservation</em></strong> 119: 341-350
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2003.11.017" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2003.11.017" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2003.11.017" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2025/05/gricontranspbw.png" height="75" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Beaman, JE, K Gates, F Saltré, CJ Hogg, K Belov, K Ashman, K Burke da Silva, LB Beheregaray, <strong>CJA Bradshaw</strong>. 2025. <a href="https://doi.org/10.1111/eva.70092" target="_blank" rel="noopener">A guide for developing demo-genetic models to simulate genetic rescue</a>. <strong><em>Evolutionary Applications</em></strong> 7: e70092
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/eva.70092" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/eva.70092" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/eva.70092" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2022/03/river.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Thompson, RM, EJ Barbour, <strong>CJA Bradshaw</strong>, S Briggs, N Byron, M Grace, B Hart, A King, GE Likens, CA Pollino, F Sheldon, M Stewardson, M Thoms, RJ Watts, JA Webb. 2022. <a href="http://doi.org/10.1002/rra.3951" target="_blank" rel="noopener">Principles for scientists working at the river science-policy interface</a>. <strong><em>River Research and Applications</em></strong> 38: 819-831
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1002/rra.3951" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/rra.3951" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/rra.3951" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/carbonprice.jpg" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, DMJS Bowman, NR Bond, BP Murphy, <i>et al.</i> 2013. <a href="http://doi.org/10.1016/j.biocon.2013.02.012" target="_blank" rel="noopener">Brave new green world – consequences of a carbon economy for the conservation of Australian biodiversity</a>. <strong><em>Biological Conservation</em></strong> 161: 71-90
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2013.02.012" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2013.02.012" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2013.02.012" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Venning, KRW, F Saltré, <strong>CJA Bradshaw</strong>. 2021. <a href="https://doi.org/10.1111/csp2.448" target="_blank" rel="noopener">Predicting targets and costs for feral-cat reduction on large islands using stochastic population models</a>. <strong><em>Conservation Science and Practice</em></strong> 3: e448
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/csp2.448" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/csp2.448" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/csp2.448" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/tropicalforest.png" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, I Cragie, WF Laurance. 2015. <a href="http://doi.org/10.1016/j.biocon.2015.05.019" target="_blank" rel="noopener">National emphasis on high-level protection reduces risk of biodiversity decline in tropical forest reserves</a>. <strong><em>Biological Conservation</em></strong> 190: 115-122
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2015.05.019" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2015.05.019" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.biocon.2015.05.019" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/rats.png" height="60" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Courchamp, F, G Klippel, E Angulo, U Arbieu, A Bang, J Bojko, G Henrique de Oliveira Caetano, M Camacho-Cervantes, L Carneiro, RN Cuthbert, MN Dawson, A Desiderato, F Fath, JA Firth, G Latombe, B Leroy, C Liu, E Manfrini, X Pan, D Pincheira-Donoso, JD Tonkin, G Vimercati, S Wang, <strong>CJA Bradshaw</strong>. 2026. <a href="http://doi.org/10.1093/biosci/biaf195" target="_blank" rel="noopener">Quantifying the magnitude of biological invasions using total biomass</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biaf195
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biaf195" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biaf195" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biaf195" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/indig-1.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -1068,7 +1068,7 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 		Speed, CW, MG Meekan, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="http://doi.org/10.1016/j.rsma.2015.05.002" target="_blank" rel="noopener">Reef shark movements relative to a coastal marine protected area</a>. <strong><em>Regional Studies in Marine Science</em></strong> 3: 58-66
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.rsma.2015.05.002" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rsma.2015.05.002" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rsma.2015.05.002" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
 
 	</body>
 </html>
