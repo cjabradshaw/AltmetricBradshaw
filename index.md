@@ -922,6 +922,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1309226110" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1309226110" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/palaeo.png" height="70" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Rodríguez-Rey, M, S Herrando-Pérez, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="https://doi.org/10.1038/sdata.2016.53" target="_blank" rel="noopener">A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates</a>. <strong><em>Scientific Data</em></strong> 3: 160053
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1038/sdata.2016.53" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/sdata.2016.53" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png" height="80" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		Meekan, MG, <strong>Bradshaw, CJA</strong>, M Press, C McLean, A Richards, S Quasnischka, JG Taylor. 2006. <a href="https://doi.org/10.3354/meps319275" target="_blank" rel="noopener">Population size and structure of whale sharks <em>Rhincodon typus</em> at Ningaloo Reef, Western Australia</a>. <strong><em>Marine Ecology Progress Series</em></strong> 319: 275-285 
@@ -942,6 +949,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature06518" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature06518" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/indig-1.png" height="85" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Barry, C, B Muir, V Backhaus, C Coyne, E Donnelly, E Evans-Illidge, LC Ferreira, D Flagg, M-S Fletcher, AC Gleiss, M Harris, JL Hounslow, D Kampers, L Keevers-Lock, C Koroi, J Mamtora, M Marshal, MG Meekan, A Poelina, Y Ropeyarn (Angkamuthi, Yadhaykenu, Woppaburra, Meriam), L Russell, M Thums, R Tobler, S Ulm, <strong>CJA Bradshaw</strong>. 2026. <a href="http://doi.org/10.1093/biosci/biag009" target="_blank" rel="noopener">Crediting and citing Indigenous Knowledges within research</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biag009
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biag009" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biag009" data-hide-no-mentions="true" data-hide-less-than="9" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -977,13 +991,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://globalecologyflinders.com/wp-content/uploads/2024/12/palaeo.png" height="70" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Rodríguez-Rey, M, S Herrando-Pérez, ..., <strong>CJA Bradshaw</strong>. 2016. <a href="https://doi.org/10.1038/sdata.2016.53" target="_blank" rel="noopener">A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates</a>. <strong><em>Scientific Data</em></strong> 3: 160053
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1038/sdata.2016.53" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/sdata.2016.53" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/buffalo.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
@@ -1055,13 +1062,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biaf195" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biaf195" data-hide-no-mentions="true" data-hide-less-than="4" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/indig-1.png" height="85" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Barry, C, B Muir, V Backhaus, C Coyne, E Donnelly, E Evans-Illidge, LC Ferreira, D Flagg, M-S Fletcher, AC Gleiss, M Harris, JL Hounslow, D Kampers, L Keevers-Lock, C Koroi, J Mamtora, M Marshal, MG Meekan, A Poelina, Y Ropeyarn (Angkamuthi, Yadhaykenu, Woppaburra, Meriam), L Russell, M Thums, R Tobler, S Ulm, <strong>CJA Bradshaw</strong>. 2026. <a href="http://doi.org/10.1093/biosci/biag009" target="_blank" rel="noopener">Crediting and citing Indigenous Knowledges within research</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biag009
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biag009" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biag009" data-hide-no-mentions="true" data-hide-less-than="9" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/reef-shark.jpg" height="50" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
