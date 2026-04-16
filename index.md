@@ -887,6 +887,13 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	<span class="__dimensions_badge_embed__" data-doi="10.3389/fcosc.2021.700869" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcosc.2021.700869" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
 	<hr>
+	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/indig-1.png" height="85" style="float:right;" />
+	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
+		Barry, C, B Muir, V Backhaus, C Coyne, E Donnelly, E Evans-Illidge, LC Ferreira, D Flagg, M-S Fletcher, AC Gleiss, M Harris, JL Hounslow, D Kampers, L Keevers-Lock, C Koroi, J Mamtora, M Marshal, MG Meekan, A Poelina, Y Ropeyarn (Angkamuthi, Yadhaykenu, Woppaburra, Meriam), L Russell, M Thums, R Tobler, S Ulm, <strong>CJA Bradshaw</strong>. 2026. <a href="http://doi.org/10.1093/biosci/biag009" target="_blank" rel="noopener">Crediting and citing Indigenous Knowledges within research</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biag009
+	</p>
+	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biag009" data-legend="hover-right" data-style="small_rectangle"></span>
+	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biag009" data-hide-no-mentions="true" data-hide-less-than="9" class="altmetric-embed"></div>
+	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2024/03/trade.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
 		<strong>Bradshaw, CJA</strong>, PE Hulme, EJ Hudgins, B Leung, M Kourantidou, P Courtois, AJ Turbelin, SM McDermott, K Lee, DA Ahmed, G Latombe, A Bang, TW Bodey, PJ Haubrock, F Saltré, F Courchamp. 2024. <a href="http://doi.org/10.1016/j.ecolecon.2024.108166" target="_blank" rel="noopener">Damage costs from invasive species exceed management expenditure in nations experiencing lower economic activity</a>. <strong><em>Ecological Economics</em></strong> 220: 108166
@@ -949,13 +956,6 @@ American Journal of Health Promotion</em></strong> 36: 382-385
 	</p>
 	<span class="__dimensions_badge_embed__" data-doi="10.1038/nature06518" data-legend="hover-right" data-style="small_rectangle"></span>
 	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature06518" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-	<hr>
-	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/indig-1.png" height="85" style="float:right;" />
-	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
-		Barry, C, B Muir, V Backhaus, C Coyne, E Donnelly, E Evans-Illidge, LC Ferreira, D Flagg, M-S Fletcher, AC Gleiss, M Harris, JL Hounslow, D Kampers, L Keevers-Lock, C Koroi, J Mamtora, M Marshal, MG Meekan, A Poelina, Y Ropeyarn (Angkamuthi, Yadhaykenu, Woppaburra, Meriam), L Russell, M Thums, R Tobler, S Ulm, <strong>CJA Bradshaw</strong>. 2026. <a href="http://doi.org/10.1093/biosci/biag009" target="_blank" rel="noopener">Crediting and citing Indigenous Knowledges within research</a>. <strong><em>BioScience</em></strong> doi:10.1093/biosci/biag009
-	</p>
-	<span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biag009" data-legend="hover-right" data-style="small_rectangle"></span>
-	<div align="right" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/biosci/biag009" data-hide-no-mentions="true" data-hide-less-than="9" class="altmetric-embed"></div>
 	<hr>
 	<img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png" height="70" style="float:right;" />
 	<p class="sansserif" style="text-align:left; margin-left: 20px; text-indent: -20px;">
