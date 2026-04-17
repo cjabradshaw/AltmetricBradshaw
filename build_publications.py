@@ -97,7 +97,6 @@ for p in papers:
   </div>
 </li>
 """.strip())
-``
 
 
 html = INDEX_FILE.read_text(encoding="utf-8")
