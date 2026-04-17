@@ -1,12 +1,1045 @@
 - doi: 10.3389/fcosc.2020.615419
   year: 2021
-  authors: <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> <body> <h2 class="sansserif"
-    style="text-align:left;">Papers authored by <a href="http://www.flinders.edu.au/people/corey.bradshaw" target="_blank"
-    rel="noopener">CJA Bradshaw</a> ranked by <a href="https://www.altmetric.com" target="_blank" rel="noopener">Altmetric</a>
-    score (also including <a href="https://www.dimensions.ai" target="_blank" rel="noopener">Dimensions</a> citations)</h2>
-    <br> <img class="padding" hspace="10" vspace="5" src="https://coreybradshaw.files.wordpress.com/
-  title: '/08/ghastly.png" height="70" style="float:right;" /> <p class="sansserif" style="text-align:left; margin-left: 20px;
-    text-indent: -20px; "> <strong>Bradshaw, CJA</strong>, PR Ehrlich, A Beattie, G Ceballos, E Crist, J Diamond, R Dirzo,
-    AH Ehrlich, J Harte, ME Harte, G Pyke, PH Raven, WJ Ripple, F Saltré, C Turnbull, M Wackernagel, DT Blumstein. 2021. <a
-    href="http://doi.org/'
+  authors: Bradshaw, Corey J. A.; Ehrlich, Paul R.; Beattie, Andrew; Ceballos, Gerardo; Crist, Eileen; Diamond, Joan; Dirzo,
+    Rodolfo; Ehrlich, Anne H.; Harte, John; Harte, Mary Ellen; Pyke, Graham; Raven, Peter H.; Ripple, William J.; Saltré,
+    Frédérik; Turnbull, Christine; Wackernagel, Mathis; Blumstein, Daniel T.
+  title: Underestimating the Challenges of Avoiding a Ghastly Future
+  journal: Frontiers in Conservation Science
   image: https://coreybradshaw.files.wordpress.com/2021/08/ghastly.png
+- doi: 10.1371/journal.pcbi.1011268
+  year: 2023
+  authors: Strona, Giovanni; Bradshaw, Corey J. A.; Cardoso, Pedro; Gotelli, Nicholas J.; Guillaume, Frédéric; Manca, Federica;
+    Mustonen, Ville; Zaman, Luis
+  title: Time-travelling pathogens and their risk to ecological communities
+  journal: PLOS Computational Biology
+  image: https://coreybradshaw.files.wordpress.com/2023/07/bacteriophage.png
+- doi: 10.1038/s41586-021-03405-6
+  year: 2021
+  authors: Diagne, Christophe; Leroy, Boris; Vaissière, Anne-Charlotte; Gozlan, Rodolphe E.; Roiz, David; Jarić, Ivan; Salles,
+    Jean-Michel; Bradshaw, Corey J. A.; Courchamp, Franck
+  title: High and rising economic costs of biological invasions worldwide
+  journal: Nature
+  image: https://coreybradshaw.files.wordpress.com/2021/08/pest.png
+- doi: 10.1098/rsos.201197
+  year: 2021
+  authors: Bradshaw, Corey J. A.; Meagher, Phoebe; Thiele, Madeline J.; Harcourt, Robert G.; Huveneers, Charlie
+  title: Predicting potential future reduction in shark bites on people
+  journal: Royal Society Open Science
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png
+- doi: 10.1073/pnas.1410465111
+  year: 2014
+  authors: Bradshaw, Corey J. A.; Brook, Barry W.
+  title: Human population reduction is not a quick fix for environmental problems
+  journal: Proceedings of the National Academy of Sciences
+  image: https://coreybradshaw.files.wordpress.com/2021/08/crowd.png
+- doi: 10.1016/j.quascirev.2023.108418
+  year: 2024
+  authors: Norman, Kasih; Bradshaw, Corey J.A.; Saltré, Frédérik; Clarkson, Chris; Cohen, Tim J.; Hiscock, Peter; Jones, Tristen;
+    Boesl, Fabian
+  title: Sea level rise drowned a vast habitable area of north-western Australia driving long-term cultural change
+  journal: Quaternary Science Reviews
+  image: null
+- doi: 10.1038/ncomms12986
+  year: 2016
+  authors: Bradshaw, Corey J. A.; Leroy, Boris; Bellard, Céline; Roiz, David; Albert, Céline; Fournier, Alice; Barbet-Massin,
+    Morgane; Salles, Jean-Michel; Simard, Frédéric; Courchamp, Franck
+  title: Massive yet grossly underestimated global costs of invasive insects
+  journal: Nature Communications
+  image: https://coreybradshaw.files.wordpress.com/2021/08/termite.png
+- doi: 10.1016/j.rser.2017.03.114
+  year: 2017
+  authors: Heard, B.P.; Brook, B.W.; Wigley, T.M.L.; Bradshaw, C.J.A.
+  title: 'Burden of proof: A comprehensive review of the feasibility of 100% renewable-electricity systems'
+  journal: Renewable and Sustainable Energy Reviews
+  image: https://coreybradshaw.files.wordpress.com/2021/08/turbines.png
+- doi: 10.1038/s41598-019-42946-9
+  year: 2019
+  authors: Bird, Michael I.; Condie, Scott A.; O’Connor, Sue; O’Grady, Damien; Reepmeyer, Christian; Ulm, Sean; Zega, Mojca;
+    Saltré, Frédérik; Bradshaw, Corey J. A.
+  title: Early human settlement of Sahul was not an accident
+  journal: Scientific Reports
+  image: https://coreybradshaw.files.wordpress.com/2021/08/explore.png
+- doi: 10.1038/s41598-018-35068-1
+  year: 2018
+  authors: Strona, Giovanni; Bradshaw, Corey J. A.
+  title: Co-extinctions annihilate planetary life during extreme environmental change
+  journal: Scientific Reports
+  image: https://coreybradshaw.files.wordpress.com/2021/08/brokenchain.png
+- doi: 10.1038/ng.2536
+  year: 2013
+  authors: Adler, Christina J; Dobney, Keith; Weyrich, Laura S; Kaidonis, John; Walker, Alan W; Haak, Wolfgang; Bradshaw,
+    Corey J A; Townsend, Grant; Sołtysiak, Arkadiusz; Alt, Kurt W; Parkhill, Julian; Cooper, Alan
+  title: Sequencing ancient calcified dental plaque shows changes in oral microbiota with dietary shifts of the Neolithic
+    and Industrial revolutions
+  journal: Nature Genetics
+  image: https://coreybradshaw.files.wordpress.com/2021/08/tooth.png
+- doi: 10.1088/1748-9326/ae51aa
+  year: 2026
+  authors: Bradshaw, Corey J A; Judge, Melinda A; Blumstein, Daniel T; Ehrlich, Paul R; Dasgupta, Aisha N Z; Wackernagel,
+    Mathis; Weeda, Lewis J Z; Le Souëf, Peter N
+  title: Global human population has surpassed Earth’s sustainable carrying capacity
+  journal: Environmental Research Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/crowd.png
+- doi: 10.1038/s41559-017-0370-9
+  year: 2017
+  authors: Courchamp, Franck; Bradshaw, Corey J. A.
+  title: 100 articles every ecologist should read
+  journal: Nature Ecology &amp; Evolution
+  image: https://coreybradshaw.files.wordpress.com/2021/08/read.png
+- doi: 10.1111/cobi.12433
+  year: 2015
+  authors: Brook, Barry W.; Bradshaw, Corey J. A.
+  title: Key role for nuclear energy in global biodiversity conservation
+  journal: Conservation Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/nuclear.png
+- doi: 10.1126/sciadv.1501682
+  year: 2016
+  authors: Metcalf, Jessica L.; Turney, Chris; Barnett, Ross; Martin, Fabiana; Bray, Sarah C.; Vilstrup, Julia T.; Orlando,
+    Ludovic; Salas-Gismondi, Rodolfo; Loponte, Daniel; Medina, Matías; De Nigris, Mariana; Civalero, Teresa; Fernández, Pablo
+    Marcelo; Gasco, Alejandra; Duran, Victor; Seymour, Kevin L.; Otaola, Clara; Gil, Adolfo; Paunero, Rafael; Prevosti, Francisco
+    J.; Bradshaw, Corey J. A.; Wheeler, Jane C.; Borrero, Luis; Austin, Jeremy J.; Cooper, Alan
+  title: Synergistic roles of climate warming and human occupation in Patagonian megafaunal extinctions during the Last Deglaciation
+  journal: Science Advances
+  image: https://coreybradshaw.files.wordpress.com/2021/08/smilodon.png
+- doi: 10.1186/s12302-023-00750-3
+  year: 2023
+  authors: Henry, Morgane; Leung, Brian; Cuthbert, Ross N.; Bodey, Thomas W.; Ahmed, Danish A.; Angulo, Elena; Balzani, Paride;
+    Briski, Elizabeta; Courchamp, Franck; Hulme, Philip E.; Kouba, Antonín; Kourantidou, Melina; Liu, Chunlong; Macêdo, Rafael
+    L.; Oficialdegui, Francisco J.; Renault, David; Soto, Ismael; Tarkan, Ali Serhan; Turbelin, Anna J.; Bradshaw, Corey J.
+    A.; Haubrock, Phillip J.
+  title: Unveiling the hidden economic toll of biological invasions in the European Union
+  journal: Environmental Sciences Europe
+  image: https://coreybradshaw.files.wordpress.com/2023/06/eueuro.png
+- doi: 10.1016/j.oneear.2021.01.014
+  year: 2021
+  authors: Di Minin, Enrico; Clements, Hayley S.; Correia, Ricardo A.; Cortés-Capano, Gonzalo; Fink, Christoph; Haukka, Anna;
+    Hausmann, Anna; Kulkarni, Ritwik; Bradshaw, Corey J.A.
+  title: Consequences of recreational hunting for biodiversity conservation and livelihoods
+  journal: One Earth
+  image: https://coreybradshaw.files.wordpress.com/2021/08/hunter.png
+- doi: 10.1038/s41559-025-02667-x
+  year: 2025
+  authors: Mulà, Clelia; Bradshaw, Corey J. A.; Cabeza, Mar; Manca, Federica; Montano, Simone; Strona, Giovanni
+  title: Restoration cannot be scaled up globally to save reefs from loss and degradation
+  journal: Nature Ecology &amp; Evolution
+  image: https://coreybradshaw.files.wordpress.com/2021/08/coral.png
+- doi: 10.1098/rspb.2024.0967
+  year: 2024
+  authors: Bradshaw, Corey J. A.; Saltré, Frédérik; Crabtree, Stefani A.; Reepmeyer, Christian; Moutsiou, Theodora
+  title: Small populations of Palaeolithic humans in Cyprus hunted endemic megafauna to extinction
+  journal: 'Proceedings of the Royal Society B: Biological Sciences'
+  image: null
+- doi: 10.1093/jpe/RTR038
+  year: 2012
+  authors: Bradshaw, C. J. A.
+  title: 'Little left to lose: deforestation and forest degradation in Australia since European colonization'
+  journal: Journal of Plant Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/chainsaw.png
+- doi: 10.1016/j.gloplacha.2015.02.004
+  year: 2015
+  authors: Bradshaw, Corey J.A.; Warkentin, Ian G.
+  title: Global estimates of boreal forest carbon stocks and flux
+  journal: Global and Planetary Change
+  image: https://coreybradshaw.files.wordpress.com/2021/08/borealforest.png
+- doi: 10.7717/peerj.5554
+  year: 2018
+  authors: Huveneers, Charlie; Whitmarsh, Sasha; Thiele, Madeline; Meyer, Lauren; Fox, Andrew; Bradshaw, Corey J.A.
+  title: Effectiveness of five personal shark-bite deterrents for surfers
+  journal: PeerJ
+  image: https://coreybradshaw.files.wordpress.com/2021/08/surfshark.png
+- doi: 10.1111/j.1523-1739.2008.01165.x
+  year: 2009
+  authors: WARKENTIN, IAN G.; BICKFORD, DAVID; SODHI, NAVJOT S.; BRADSHAW, COREY J. A.
+  title: Eating Frogs to Extinction
+  journal: Conservation Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/froglegs.png
+- doi: 10.1038/nature10425
+  year: 2011
+  authors: Gibson, Luke; Lee, Tien Ming; Koh, Lian Pin; Brook, Barry W.; Gardner, Toby A.; Barlow, Jos; Peres, Carlos A.;
+    Bradshaw, Corey J. A.; Laurance, William F.; Lovejoy, Thomas E.; Sodhi, Navjot S.
+  title: Primary forests are irreplaceable for sustaining tropical biodiversity
+  journal: Nature
+  image: https://coreybradshaw.files.wordpress.com/2021/08/forests.png
+- doi: 10.1073/pnas.2318293121
+  year: 2024
+  authors: Bradshaw, Corey J. A.; Reepmeyer, Christian; Saltré, Frédérik; Agapiou, Athos; Kassianidou, Vasiliki; Demesticha,
+    Stella; Zomeni, Zomenia; Polidorou, Miltiadis; Moutsiou, Theodora
+  title: Demographic models predict end-Pleistocene arrival and rapid expansion of pre-agropastoralist humans in Cyprus
+  journal: Proceedings of the National Academy of Sciences
+  image: https://coreybradshaw.files.wordpress.com/2024/05/cyprus.png
+- doi: 10.1126/science.1240495
+  year: 2013
+  authors: Gibson, Luke; Lynam, Antony J.; Bradshaw, Corey J. A.; He, Fangliang; Bickford, David P.; Woodruff, David S.; Bumrungsri,
+    Sara; Laurance, William F.
+  title: Near-Complete Extinction of Native Small Mammal Fauna 25 Years After Forest Fragmentation
+  journal: Science
+  image: https://coreybradshaw.files.wordpress.com/2021/08/fragments.png
+- doi: 10.1038/s41467-021-21551-3
+  year: 2021
+  authors: Bradshaw, Corey J. A.; Norman, Kasih; Ulm, Sean; Williams, Alan N.; Clarkson, Chris; Chadœuf, Joël; Lin, Sam C.;
+    Jacobs, Zenobia; Roberts, Richard G.; Bird, Michael I.; Weyrich, Laura S.; Haberle, Simon G.; O’Connor, Sue; Llamas, Bastien;
+    Cohen, Tim J.; Friedrich, Tobias; Veth, Peter; Leavesley, Matthew; Saltré, Frédérik
+  title: Stochastic models support rapid peopling of Late Pleistocene Sahul
+  journal: Nature Communications
+  image: https://coreybradshaw.files.wordpress.com/2021/08/ausdots.png
+- doi: 10.1038/s41562-021-01106-8
+  year: 2021
+  authors: Crabtree, Stefani A.; White, Devin A.; Bradshaw, Corey J. A.; Saltré, Frédérik; Williams, Alan N.; Beaman, Robin
+    J.; Bird, Michael I.; Ulm, Sean
+  title: Landscape rules predict optimal superhighways for the first peopling of Sahul
+  journal: Nature Human Behaviour
+  image: https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png
+- doi: 10.1016/j.scitotenv.2024.170944
+  year: 2024
+  authors: Weeda, Lewis J.Z.; Bradshaw, Corey J.A.; Judge, Melinda A.; Saraswati, Chitra M.; Le Souëf, Peter N.
+  title: 'How climate change degrades child health: A systematic review and meta-analysis'
+  journal: Science of The Total Environment
+  image: https://coreybradshaw.files.wordpress.com/2024/02/warmchild.png
+- doi: 10.11646/zootaxa.4564.1.6
+  year: 2019
+  authors: SMITH, BRADLEY P.; CAIRNS, KYLIE M.; ADAMS, JUSTIN W.; NEWSOME, THOMAS M.; FILLIOS, MELANIE; DÉAUX, ELOÏSE C.;
+    PARR, WILLIAM C. H.; LETNIC, MIKE; VAN EEDEN, LILY M.; APPLEBY, ROBERT G.; BRADSHAW, COREY J. A.; SAVOLAINEN, PETER; RITCHIE,
+    EUAN G.; NIMMO, DALE G.; ARCHER-LEAN, CLARE; GREENVILLE, AARON C.; DICKMAN, CHRISTOPHER R.; WATSON, LYN; MOSEBY, KATHERINE
+    E.; DOHERTY, TIM S.; WALLACH, ARIAN D.; MORRANT, DAMIAN S.; CROWTHER, MATHEW S.
+  title: 'Taxonomic status of the Australian dingo: the case for Canis dingo Meyer, 1793'
+  journal: Zootaxa
+  image: https://coreybradshaw.files.wordpress.com/2021/08/dingo.png
+- doi: 10.3897/neobiota.67.58834
+  year: 2021
+  authors: Bradshaw, Corey J. A.; Hoskins, Andrew J.; Haubrock, Phillip J.; Cuthbert, Ross N.; Diagne, Christophe; Leroy,
+    Boris; Andrews, Lindell; Page, Brad; Cassey, Phill; Sheppard, Andy W.; Courchamp, Franck
+  title: Detailed assessment of the reported economic costs of invasive species in Australia
+  journal: NeoBiota
+  image: https://coreybradshaw.files.wordpress.com/2021/08/huntingcat.png
+- doi: 10.1038/s41597-022-01453-9
+  year: 2022
+  authors: Riley, Madeline; Meagher, Phoebe; Huveneers, Charlie; Leto, Jacob; Peddemors, Victor M.; Slip, David; West, John;
+    Bradshaw, Corey J. A.
+  title: The Australian Shark-Incident Database for quantifying temporal and spatial patterns of shark-human conflict
+  journal: Scientific Data
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png
+- doi: 10.1016/j.tree.2015.12.006
+  year: 2016
+  authors: Di Minin, Enrico; Leader-Williams, Nigel; Bradshaw, Corey J.A.
+  title: Banning Trophy Hunting Will Exacerbate Biodiversity Loss
+  journal: Trends in Ecology &amp; Evolution
+  image: https://coreybradshaw.files.wordpress.com/2021/08/trophyhunting.png
+- doi: 10.1016/j.biocon.2013.12.036
+  year: 2014
+  authors: Frankham, Richard; Bradshaw, Corey J.A.; Brook, Barry W.
+  title: 'Genetics in conservation management: Revised recommendations for the 50/500 rules, Red List criteria and population
+    viability analyses'
+  journal: Biological Conservation
+  image: https://coreybradshaw.files.wordpress.com/2021/08/dna.png
+- doi: 10.1038/nature11318
+  year: 2012
+  authors: Laurance, William F.; Carolina Useche, D.; Rendeiro, Julio; Kalka, Margareta; Bradshaw, Corey J. A.; Sloan, Sean
+    P.; Laurance, Susan G.; Campbell, Mason; Abernethy, Kate; Alvarez, Patricia; Arroyo-Rodriguez, Victor; Ashton, Peter;
+    Benítez-Malvido, Julieta; Blom, Allard; Bobo, Kadiri S.; Cannon, Charles H.; Cao, Min; Carroll, Richard; Chapman, Colin;
+    Coates, Rosamond; Cords, Marina; Danielsen, Finn; De Dijn, Bart; Dinerstein, Eric; Donnelly, Maureen A.; Edwards, David;
+    Edwards, Felicity; Farwig, Nina; Fashing, Peter; Forget, Pierre-Michel; Foster, Mercedes; Gale, George; Harris, David;
+    Harrison, Rhett; Hart, John; Karpanty, Sarah; John Kress, W.; Krishnaswamy, Jagdish; Logsdon, Willis; Lovett, Jon; Magnusson,
+    William; Maisels, Fiona; Marshall, Andrew R.; McClearn, Deedra; Mudappa, Divya; Nielsen, Martin R.; Pearson, Richard;
+    Pitman, Nigel; van der Ploeg, Jan; Plumptre, Andrew; Poulsen, John; Quesada, Mauricio; Rainey, Hugo; Robinson, Douglas;
+    Roetgers, Christiane; Rovero, Francesco; Scatena, Frederick; Schulze, Christian; Sheil, Douglas; Struhsaker, Thomas; Terborgh,
+    John; Thomas, Duncan; Timm, Robert; Nicolas Urbina-Cardona, J.; Vasudevan, Karthikeyan; Joseph Wright, S.; Carlos Arias-G.,
+    Juan; Arroyo, Luzmila; Ashton, Mark; Auzel, Philippe; Babaasa, Dennis; Babweteera, Fred; Baker, Patrick; Banki, Olaf;
+    Bass, Margot; Bila-Isia, Inogwabini; Blake, Stephen; Brockelman, Warren; Brokaw, Nicholas; Brühl, Carsten A.; Bunyavejchewin,
+    Sarayudh; Chao, Jung-Tai; Chave, Jerome; Chellam, Ravi; Clark, Connie J.; Clavijo, José; Congdon, Robert; Corlett, Richard;
+    Dattaraja, H. S.; Dave, Chittaranjan; Davies, Glyn; de Mello Beisiegel, Beatriz; de Nazaré Paes da Silva, Rosa; Di Fiore,
+    Anthony; Diesmos, Arvin; Dirzo, Rodolfo; Doran-Sheehy, Diane; Eaton, Mitchell; Emmons, Louise; Estrada, Alejandro; Ewango,
+    Corneille; Fedigan, Linda; Feer, François; Fruth, Barbara; Giacalone Willis, Jacalyn; Goodale, Uromi; Goodman, Steven;
+    Guix, Juan C.; Guthiga, Paul; Haber, William; Hamer, Keith; Herbinger, Ilka; Hill, Jane; Huang, Zhongliang; Fang Sun,
+    I; Ickes, Kalan; Itoh, Akira; Ivanauskas, Natália; Jackes, Betsy; Janovec, John; Janzen, Daniel; Jiangming, Mo; Jin, Chen;
+    Jones, Trevor; Justiniano, Hermes; Kalko, Elisabeth; Kasangaki, Aventino; Killeen, Timothy; King, Hen-biau; Klop, Erik;
+    Knott, Cheryl; Koné, Inza; Kudavidanage, Enoka; Lahoz da Silva Ribeiro, José; Lattke, John; Laval, Richard; Lawton, Robert;
+    Leal, Miguel; Leighton, Mark; Lentino, Miguel; Leonel, Cristiane; Lindsell, Jeremy; Ling-Ling, Lee; Eduard Linsenmair,
+    K.; Losos, Elizabeth; Lugo, Ariel; Lwanga, Jeremiah; Mack, Andrew L.; Martins, Marlucia; Scott McGraw, W.; McNab, Roan;
+    Montag, Luciano; Myers Thompson, Jo; Nabe-Nielsen, Jacob; Nakagawa, Michiko; Nepal, Sanjay; Norconk, Marilyn; Novotny,
+    Vojtech; O'Donnell, Sean; Opiang, Muse; Ouboter, Paul; Parker, Kenneth; Parthasarathy, N.; Pisciotta, Kátia; Prawiradilaga,
+    Dewi; Pringle, Catherine; Rajathurai, Subaraj; Reichard, Ulrich; Reinartz, Gay; Renton, Katherine; Reynolds, Glen; Reynolds,
+    Vernon; Riley, Erin; Rödel, Mark-Oliver; Rothman, Jessica; Round, Philip; Sakai, Shoko; Sanaiotti, Tania; Savini, Tommaso;
+    Schaab, Gertrud; Seidensticker, John; Siaka, Alhaji; Silman, Miles R.; Smith, Thomas B.; de Almeida, Samuel Soares; Sodhi,
+    Navjot; Stanford, Craig; Stewart, Kristine; Stokes, Emma; Stoner, Kathryn E.; Sukumar, Raman; Surbeck, Martin; Tobler,
+    Mathias; Tscharntke, Teja; Turkalo, Andrea; Umapathy, Govindaswamy; van Weerd, Merlijn; Vega Rivera, Jorge; Venkataraman,
+    Meena; Venn, Linda; Verea, Carlos; Volkmer de Castilho, Carolina; Waltert, Matthias; Wang, Benjamin; Watts, David; Weber,
+    William; West, Paige; Whitacre, David; Whitney, Ken; Wilkie, David; Williams, Stephen; Wright, Debra D.; Wright, Patricia;
+    Xiankai, Lu; Yonzon, Pralad; Zamzani, Franky
+  title: Averting biodiversity collapse in tropical forest protected areas
+  journal: Nature
+  image: https://coreybradshaw.files.wordpress.com/2021/08/holdearth.png
+- doi: 10.1038/s41467-019-13277-0
+  year: 2019
+  authors: Saltré, Frédérik; Chadoeuf, Joël; Peters, Katharina J.; McDowell, Matthew C.; Friedrich, Tobias; Timmermann, Axel;
+    Ulm, Sean; Bradshaw, Corey J. A.
+  title: Climate-human interaction associated with southeast Australian megafauna extinction patterns
+  journal: Nature Communications
+  image: https://coreybradshaw.files.wordpress.com/2021/08/procoptodon-icon.png
+- doi: 10.1038/s41561-024-01388-3
+  year: 2024
+  authors: Bird, Michael I.; Brand, Michael; Comley, Rainy; Fu, Xiao; Hadeen, Xennephone; Jacobs, Zenobia; Rowe, Cassandra;
+    Wurster, Christopher M.; Zwart, Costijn; Bradshaw, Corey J. A.
+  title: Late Pleistocene emergence of an anthropogenic fire regime in Australia’s tropical savannahs
+  journal: Nature Geoscience
+  image: https://coreybradshaw.files.wordpress.com/2024/03/fire.png
+- doi: 10.1371/journal.pone.0280260
+  year: 2023
+  authors: Bradshaw, Corey J. A.; Perry, Claire; Judge, Melinda A.; Saraswati, Chitra M.; Heyworth, Jane; Le Souëf, Peter
+    N.
+  title: Lower infant mortality, higher household size, and more access to contraception reduce fertility in low- and middle-income
+    nations
+  journal: PLOS ONE
+  image: https://coreybradshaw.files.wordpress.com/2023/02/fertility.jpg
+- doi: 10.1038/s41559-019-0902-6
+  year: 2019
+  authors: Bradshaw, Corey J. A.; Ulm, Sean; Williams, Alan N.; Bird, Michael I.; Roberts, Richard G.; Jacobs, Zenobia; Laviano,
+    Fiona; Weyrich, Laura S.; Friedrich, Tobias; Norman, Kasih; Saltré, Frédérik
+  title: Minimum founding populations for the first peopling of Sahul
+  journal: Nature Ecology &amp; Evolution
+  image: https://coreybradshaw.files.wordpress.com/2021/08/family.png
+- doi: 10.1111/ecog.06619
+  year: 2023
+  authors: Llewelyn, John; Strona, Giovanni; Dickman, Christopher R.; Greenville, Aaron C.; Wardle, Glenda M.; Lee, Michael
+    S. Y.; Doherty, Seamus; Shabani, Farzin; Saltré, Frédérik; Bradshaw, Corey J. A.
+  title: Predicting predator–prey interactions in terrestrial endotherms using random forest
+  journal: Ecography
+  image: https://coreybradshaw.files.wordpress.com/2022/12/networkglobe.webp
+- doi: 10.1016/j.quascirev.2023.107971
+  year: 2023
+  authors: Bradshaw, Corey J.A.; Crabtree, Stefani A.; White, Devin A.; Ulm, Sean; Bird, Michael I.; Williams, Alan N.; Saltré,
+    Frédérik
+  title: Directionally supervised cellular automaton for the initial peopling of Sahul
+  journal: Quaternary Science Reviews
+  image: https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png
+- doi: 10.1111/gcb.15221
+  year: 2020
+  authors: Monaco, Cristián J.; Bradshaw, Corey J. A.; Booth, David J.; Gillanders, Bronwyn M.; Schoeman, David S.; Nagelkerken,
+    Ivan
+  title: Dietary generalism accelerates arrival and persistence of coral‐reef fishes in their novel ranges under climate change
+  journal: Global Change Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/tropicalfish.png
+- doi: 10.1016/j.tree.2008.03.011
+  year: 2008
+  authors: BROOK, B; SODHI, N; BRADSHAW, C
+  title: Synergies among extinction drivers under global change
+  journal: Trends in Ecology &amp; Evolution
+  image: https://coreybradshaw.files.wordpress.com/2021/08/synergy.png
+- doi: 10.1016/j.tree.2009.03.019
+  year: 2009
+  authors: Bradshaw, Corey J.A.; Warkentin, Ian G.; Sodhi, Navjot S.
+  title: Urgent preservation of boreal carbon stocks and biodiversity
+  journal: Trends in Ecology &amp; Evolution
+  image: https://coreybradshaw.files.wordpress.com/2021/08/borealfire.png
+- doi: 10.1111/j.1365-2486.2007.01446.x
+  year: 2007
+  authors: BRADSHAW, COREY J. A.; SODHI, NAVJOT S.; PEH, KELVIN S.‐H.; BROOK, BARRY W.
+  title: Global evidence that deforestation amplifies flood risk and severity in the developing world
+  journal: Global Change Biology
+  image: null
+- doi: 10.1371/journal.pone.0010440
+  year: 2010
+  authors: Bradshaw, Corey J. A.; Giam, Xingli; Sodhi, Navjot S.
+  title: Evaluating the Relative Environmental Impact of Countries
+  journal: PLoS ONE
+  image: https://coreybradshaw.files.wordpress.com/2021/08/globe.png
+- doi: 10.1525/bio.2013.63.10.9
+  year: 2013
+  authors: Laurance, William F.; Useche, D. Carolina; Laurance, Susan G.; Bradshaw, Corey J. A.
+  title: Predicting Publication Success for Biologists
+  journal: BioScience
+  image: https://coreybradshaw.files.wordpress.com/2021/08/writing.png
+- doi: 10.1073/pnas.2311280120
+  year: 2024
+  authors: Hamilton, Rebecca; Amano, Noel; Bradshaw, Corey J. A.; Saltré, Frédérik; Patalano, Robert; Penny, Dan; Stevenson,
+    Janelle; Wolfhagen, Jesse; Roberts, Patrick
+  title: Forest mosaics, not savanna corridors, dominated in Southeast Asia during the Last Glacial Maximum
+  journal: Proceedings of the National Academy of Sciences
+  image: https://coreybradshaw.files.wordpress.com/2021/08/forests.png
+- doi: 10.1002/ece3.72470
+  year: 2026
+  authors: Saltré, Frédérik; Peters, Katharina J.; Rogers, Daniel J.; Chadoeuf, Joël; Weisbecker, Vera; Bradshaw, Corey J.
+    A.
+  title: Balancing High Densities and Conservation Targets to Optimise Koala Management Strategies
+  journal: Ecology and Evolution
+  image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
+- doi: 10.1177/08901171211064224
+  year: 2022
+  authors: Ripple, William J.; DellaSala, Dominick A.; Baumann, Franz; Gregg, Jillian; Betts, Matthew G.; Law, Beverly E.;
+    Bradshaw, Corey J. A.; Wolf, Christopher
+  title: Zoonotic Diseases and Our Troubled Relationship With Nature
+  journal: American Journal of Health Promotion
+  image: https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png
+- doi: 10.1093/biosci/biaf181
+  year: 2026
+  authors: Arbieu, Ugo; Bellard, Céline; Bradshaw, Corey J A; Correia, Ricardo; Courtois, Pierre; Di Minin, Enrico; Jarić,
+    Ivan; Murfree, Jessica R; Orr, Madeleine; Roturier, Samuel; Sartore-Baldwin, Melanie; Veríssimo, Diogo; Courchamp, Franck
+  title: Wildlife Diversity in Global Team Sport Branding
+  journal: BioScience
+  image: null
+- doi: 10.1098/rsbl.2005.0313
+  year: 2005
+  authors: Evans, K; Thresher, R; Warneke, R.M; Bradshaw, C.J.A; Pook, M; Thiele, D; Hindell, M.A
+  title: 'Periodic variability in cetacean strandings: links to large-scale climate events'
+  journal: Biology Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whale.png
+- doi: 10.1111/ecog.06089
+  year: 2022
+  authors: Llewelyn, John; Strona, Giovanni; McDowell, Matthew C.; Johnson, Christopher N.; Peters, Katharina J.; Stouffer,
+    Daniel B.; de Visser, Sara N.; Saltré, Frédérik; Bradshaw, Corey J. A.
+  title: Sahul's megafauna were vulnerable to plant‐community changes due to their position in the trophic network
+  journal: Ecography
+  image: https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg
+- doi: 10.1093/biosci/biz004
+  year: 2019
+  authors: Herrando-Pérez, Salvador; Bradshaw, Corey J A; Lewandowsky, Stephan; Vieites, David R
+  title: Statistical Language Backs Conservatism in Climate-Change Assessments
+  journal: BioScience
+  image: https://coreybradshaw.files.wordpress.com/2021/08/words.png
+- doi: 10.1093/jmammal/gyad053
+  year: 2023
+  authors: Mitchell, D Rex; Cairns, Stuart C; Körtner, Gerhard; Bradshaw, Corey J A; Saltré, Frédérik; Weisbecker, Vera
+  title: Differential developmental rates and demographics in Red Kangaroo (<i>Osphranter rufus</i>) populations separated
+    by the dingo barrier fence
+  journal: Journal of Mammalogy
+  image: https://coreybradshaw.files.wordpress.com/2023/06/roo2.png
+- doi: 10.7554/eLife.63870
+  year: 2021
+  authors: Bradshaw, Corey JA; Johnson, Christopher N; Llewelyn, John; Weisbecker, Vera; Strona, Giovanni; Saltré, Frédérik
+  title: Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna
+  journal: eLife
+  image: https://coreybradshaw.files.wordpress.com/2021/08/genyornis.png
+- doi: 10.1016/j.quascirev.2025.109504
+  year: 2025
+  authors: Bird, Michael I.; Brand, Michael; Comley, Rainy; Hadeen, Xennephone; Jacobs, Zenobia; Rowe, Cassandra; Saltré,
+    Frédérik; Wurster, Christopher M.; Zwart, Costijn; Bradshaw, Corey J.A.
+  title: A 150,000-year lacustrine record of the Indo-Australian monsoon from northern Australia
+  journal: Quaternary Science Reviews
+  image: https://coreybradshaw.files.wordpress.com/2021/08/seaice.png
+- doi: 10.1016/j.biocon.2007.06.011
+  year: 2007
+  authors: Traill, Lochran W.; Bradshaw, Corey J.A.; Brook, Barry W.
+  title: 'Minimum viable population size: A meta-analysis of 30 years of published estimates'
+  journal: Biological Conservation
+  image: https://coreybradshaw.files.wordpress.com/2021/08/gauge.png
+- doi: 10.1016/j.marpolbul.2023.115855
+  year: 2024
+  authors: Huveneers, Charlie; Blount, Craig; Bradshaw, Corey J.A.; Butcher, Paul A.; Lincoln Smith, Marcus P.; Macbeth, William
+    G.; McPhee, Daryl P.; Moltschaniwskyj, Natalie; Peddemors, Victor M.; Green, Marcel
+  title: Shifts in the incidence of shark bites and efficacy of beach-focussed mitigation in Australia
+  journal: Marine Pollution Bulletin
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png
+- doi: 10.1111/1365-2664.12378
+  year: 2015
+  authors: Prowse, Thomas A. A.; Johnson, Christopher N.; Cassey, Phillip; Bradshaw, Corey J. A.; Brook, Barry W.
+  title: Ecological and economic benefits to cattle rangelands of restoring an apex predator
+  journal: Journal of Applied Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/dingoroocattle.png
+- doi: 10.3897/rethinkingecology.4.32570
+  year: 2019
+  authors: Bradshaw, Corey J. A.
+  title: Opportunities to improve the future of South Australia’s terrestrial biodiversity
+  journal: Rethinking Ecology
+  image: null
+- doi: 10.1111/1365-2656.12029
+  year: 2013
+  authors: Prowse, Thomas A. A.; Johnson, Christopher N.; Lacy, Robert C.; Bradshaw, Corey J. A.; Pollak, John P.; Watts,
+    Michael J.; Brook, Barry W.
+  title: 'No need for disease: testing extinction hypotheses for the thylacine using multi‐species metamodels'
+  journal: Journal of Animal Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/thylacine.png
+- doi: 10.1111/brv.13071
+  year: 2024
+  authors: Soto, Ismael; Balzani, Paride; Carneiro, Laís; Cuthbert, Ross N.; Macêdo, Rafael; Serhan Tarkan, Ali; Ahmed, Danish
+    A.; Bang, Alok; Bacela‐Spychalska, Karolina; Bailey, Sarah A.; Baudry, Thomas; Ballesteros‐Mejia, Liliana; Bortolus, Alejandro;
+    Briski, Elizabeta; Britton, J. Robert; Buřič, Miloš; Camacho‐Cervantes, Morelia; Cano‐Barbacil, Carlos; Copilaș‐Ciocianu,
+    Denis; Coughlan, Neil E.; Courtois, Pierre; Csabai, Zoltán; Dalu, Tatenda; De Santis, Vanessa; Dickey, James W. E.; Dimarco,
+    Romina D.; Falk‐Andersson, Jannike; Fernandez, Romina D.; Florencio, Margarita; Franco, Ana Clara S.; García‐Berthou,
+    Emili; Giannetto, Daniela; Glavendekic, Milka M.; Grabowski, Michał; Heringer, Gustavo; Herrera, Ileana; Huang, Wei; Kamelamela,
+    Katie L.; Kirichenko, Natalia I.; Kouba, Antonín; Kourantidou, Melina; Kurtul, Irmak; Laufer, Gabriel; Lipták, Boris;
+    Liu, Chunlong; López‐López, Eugenia; Lozano, Vanessa; Mammola, Stefano; Marchini, Agnese; Meshkova, Valentyna; Milardi,
+    Marco; Musolin, Dmitrii L.; Nuñez, Martin A.; Oficialdegui, Francisco J.; Patoka, Jiří; Pattison, Zarah; Pincheira‐Donoso,
+    Daniel; Piria, Marina; Probert, Anna F.; Rasmussen, Jes Jessen; Renault, David; Ribeiro, Filipe; Rilov, Gil; Robinson,
+    Tamara B.; Sanchez, Axel E.; Schwindt, Evangelina; South, Josie; Stoett, Peter; Verreycken, Hugo; Vilizzi, Lorenzo; Wang,
+    Yong‐Jian; Watari, Yuya; Wehi, Priscilla M.; Weiperth, András; Wiberg‐Larsen, Peter; Yapıcı, Sercan; Yoğurtçuoğlu, Baran;
+    Zenni, Rafael D.; Galil, Bella S.; Dick, Jaimie T. A.; Russell, James C.; Ricciardi, Anthony; Simberloff, Daniel; Bradshaw,
+    Corey J. A.; Haubrock, Phillip J.
+  title: Taming the terminological tempest in invasion science
+  journal: Biological Reviews
+  image: https://coreybradshaw.files.wordpress.com/2024/03/tornado.png
+- doi: 10.1038/s41467-024-48273-6
+  year: 2024
+  authors: Manca, Federica; Benedetti-Cecchi, Lisandro; Bradshaw, Corey J. A.; Cabeza, Mar; Gustafsson, Camilla; Norkko, Alf
+    M.; Roslin, Tomas V.; Thomas, David N.; White, Lydia; Strona, Giovanni
+  title: Projected loss of brown macroalgae and seagrasses with global environmental change
+  journal: Nature Communications
+  image: https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png
+- doi: 10.1098/rspb.2015.2399
+  year: 2016
+  authors: Johnson, C. N.; Alroy, J.; Beeton, N. J.; Bird, M. I.; Brook, B. W.; Cooper, A.; Gillespie, R.; Herrando-Pérez,
+    S.; Jacobs, Z.; Miller, G. H.; Prideaux, G. J.; Roberts, R. G.; Rodríguez-Rey, M.; Saltré, F.; Turney, C. S. M.; Bradshaw,
+    C. J. A.
+  title: What caused extinction of the Pleistocene megafauna of Sahul?
+  journal: 'Proceedings of the Royal Society B: Biological Sciences'
+  image: https://coreybradshaw.files.wordpress.com/2021/08/thylacoleo-icon-cutout.png
+- doi: 10.1016/j.apenergy.2015.01.006
+  year: 2015
+  authors: Hong, Sanghyun; Bradshaw, Corey J.A.; Brook, Barry W.
+  title: Global zero-carbon energy pathways using viable mixes of nuclear and renewables
+  journal: Applied Energy
+  image: https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png
+- doi: 10.1890/15-1784.1
+  year: 2016
+  authors: Liu, Xiang; Lyu, Shengman; Zhou, Shurong; Bradshaw, Corey J. A.
+  title: Warming and fertilization alter the dilution effect of host diversity on disease severity
+  journal: Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/dyingplant.png
+- doi: 10.1002/fee.2862
+  year: 2025
+  authors: Arbieu, Ugo; Bellard, Céline; Bradshaw, Corey JA; Correia, Ricardo A; Courtois, Pierre; Di Minin, Enrico; Jarić,
+    Ivan; Leroy, Boris; Murfree, Jessica R; Orr, Madeleine; Roturier, Samuel; Sartore‐Baldwin, Melanie; Veríssimo, Diogo;
+    Courchamp, Franck
+  title: Professional sport organizations as potential champions of biodiversity conservation
+  journal: Frontiers in Ecology and the Environment
+  image: null
+- doi: 10.1016/j.biocon.2009.09.001
+  year: 2010
+  authors: Traill, Lochran W.; Brook, Barry W.; Frankham, Richard R.; Bradshaw, Corey J.A.
+  title: Pragmatic population viability targets in a rapidly changing world
+  journal: Biological Conservation
+  image: https://coreybradshaw.files.wordpress.com/2021/08/gauge.png
+- doi: 10.1111/gcb.16836
+  year: 2023
+  authors: Doherty, Seamus; Saltré, Frédérik; Llewelyn, John; Strona, Giovanni; Williams, Stephen E.; Bradshaw, Corey J. A.
+  title: Estimating co‐extinction threats in terrestrial ecosystems
+  journal: Global Change Biology
+  image: https://coreybradshaw.files.wordpress.com/2024/03/network.png
+- doi: 10.1038/s41598-019-45762-3
+  year: 2019
+  authors: Bradshaw, Corey J. A.; Di Minin, Enrico
+  title: Socio-economic predictors of environmental performance among African nations
+  journal: Scientific Reports
+  image: https://coreybradshaw.files.wordpress.com/2021/08/africa.png
+- doi: 10.1371/journal.pone.0151090
+  year: 2016
+  authors: Block, Sebastián; Saltré, Frédérik; Rodríguez-Rey, Marta; Fordham, Damien A.; Unkel, Ingmar; Bradshaw, Corey J.
+    A.
+  title: 'Where to Dig for Fossils: Combining Climate-Envelope, Taphonomy and Discovery Models'
+  journal: PLOS ONE
+  image: https://coreybradshaw.files.wordpress.com/2021/08/fossils.png
+- doi: 10.1016/j.envres.2025.122412
+  year: 2025
+  authors: Fatima, Syeda H.; Judge, Melinda A.; Le Souëf, Peter N.; Bradshaw, Corey J.A.
+  title: Impact of climate change on diarrhoea risk in low- and middle-income countries
+  journal: Environmental Research
+  image: null
+- doi: 10.1111/cobi.12189
+  year: 2013
+  authors: Ritchie, Euan G.; Bradshaw, Corey J. A.; Dickman, Chris R.; Hobbs, Richard; Johnson, Christopher N.; Johnston,
+    Emma L.; Laurance, William F.; Lindenmayer, David; McCarthy, Michael A.; Nimmo, Dale G.; Possingham, Hugh H.; Pressey,
+    Robert L.; Watson, David M.; Woinarski, John
+  title: Continental‐Scale Governance and the Hastening of Loss of Australia's Biodiversity
+  journal: Conservation Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/sugarglider.jpg
+- doi: 10.1111/mec.70097
+  year: 2025
+  authors: Gates, Katie; Sandoval‐Castillo, Jonathan; Beaman, Julian E.; da Silva, Karen Burke; Saltré, Frédérik; Belov, Katherine;
+    Hogg, Carolyn J.; Bradshaw, Corey J. A.; Beheregaray, Luciano B.
+  title: 'Conservation Arks: Genomic Erosion and Inbreeding in an Abundant Island Population of Koalas'
+  journal: Molecular Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
+- doi: 10.1111/ddi.12767
+  year: 2018
+  authors: Martínez, Brezo; Radford, Ben; Thomsen, Mads S.; Connell, Sean D.; Carreño, Francisco; Bradshaw, Corey J. A.; Fordham,
+    Damien A.; Russell, Bayden D.; Gurgel, C. Frederico D.; Wernberg, Thomas
+  title: Distribution models predict large contractions of habitat‐forming seaweeds in response to ocean warming
+  journal: Diversity and Distributions
+  image: https://coreybradshaw.files.wordpress.com/2021/08/seaweed.png
+- doi: 10.1890/13-0746.1
+  year: 2014
+  authors: Prowse, Thomas A. A.; Johnson, Christopher N.; Bradshaw, Corey J. A.; Brook, Barry W.
+  title: An ecological regime shift resulting from disrupted predator–prey interactions in Holocene Australia
+  journal: Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/dingoroothylac.png
+- doi: 10.3389/fpubh.2024.1339933
+  year: 2024
+  authors: Saraswati, Chitra Maharani; Judge, Melinda A.; Weeda, Lewis J. Z.; Bassat, Quique; Prata, Ndola; Le Souëf, Peter
+    N.; Bradshaw, Corey J. A.
+  title: Net benefit of smaller human populations to environmental integrity and individual health and wellbeing
+  journal: Frontiers in Public Health
+  image: https://coreybradshaw.files.wordpress.com/2024/03/population.png
+- doi: 10.1016/j.tree.2025.03.010
+  year: 2025
+  authors: Carneiro, Laís; Leroy, Boris; Capinha, César; Bradshaw, Corey J.A.; Bertolino, Sandro; Catford, Jane A.; Camacho-Cervantes,
+    Morelia; Bojko, Jamie; Klippel, Gabriel; Kumschick, Sabrina; Pincheira-Donoso, Daniel; Tonkin, Jonathan D.; Fath, Brian
+    D.; South, Josie; Manfrini, Eléna; Dallas, Tad; Courchamp, Franck
+  title: Typology of the ecological impacts of biological invasions
+  journal: Trends in Ecology &amp; Evolution
+  image: null
+- doi: 10.7554/eLife.55993
+  year: 2020
+  authors: Carturan, Bruno Sylvain; Pither, Jason; Maréchal, Jean-Philippe; Bradshaw, Corey JA; Parrott, Lael
+  title: Combining agent-based, trait-based and demographic approaches to model coral-community dynamics
+  journal: eLife
+  image: https://coreybradshaw.files.wordpress.com/2021/08/coral.png
+- doi: 10.1111/gcb.12343
+  year: 2014
+  authors: Sequeira, Ana M. M.; Mellin, Camille; Fordham, Damien A.; Meekan, Mark G.; Bradshaw, Corey J. A.
+  title: Predicting current and future global distributions of whale sharks
+  journal: Global Change Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
+- doi: 10.1038/s41467-024-48762-8
+  year: 2024
+  authors: Saltré, Frédérik; Chadœuf, Joël; Higham, Thomas; Ochocki, Monty; Block, Sebastián; Bunney, Ellyse; Llamas, Bastien;
+    Bradshaw, Corey J. A.
+  title: Environmental conditions associated with initial northern expansion of anatomically modern humans
+  journal: Nature Communications
+  image: null
+- doi: 10.1098/rsbl.2017.0642
+  year: 2018
+  authors: White, Lauren C.; Saltré, Frédérik; Bradshaw, Corey J. A.; Austin, Jeremy J.
+  title: High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia
+  journal: Biology Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png
+- doi: 10.1093/biosci/biad060
+  year: 2023
+  authors: Ahmed, Danish A; Haubrock, Phillip J; Cuthbert, Ross N; Bang, Alok; Soto, Ismael; Balzani, Paride; Tarkan, Ali
+    Serhan; Macêdo, Rafael L; Carneiro, Laís; Bodey, Thomas W; Oficialdegui, Francisco J; Courtois, Pierre; Kourantidou, Melina;
+    Angulo, Elena; Heringer, Gustavo; Renault, David; Turbelin, Anna J; Hudgins, Emma J; Liu, Chunlong; Gojery, Showkat A;
+    Arbieu, Ugo; Diagne, Christophe; Leroy, Boris; Briski, Elizabeta; Bradshaw, Corey J A; Courchamp, Franck
+  title: Recent advances in availability and synthesis of the economic costs of biological invasions
+  journal: BioScience
+  image: https://coreybradshaw.files.wordpress.com/2023/09/invacostlogo.jpg
+- doi: 10.1016/j.palaeo.2025.113294
+  year: 2025
+  authors: Llewelyn, John; Long, John A.; Cloutier, Richard; Clement, Alice M.; Strona, Giovanni; Saltré, Frédérik; Lee, Michael
+    S.Y.; Choo, Brian; Trinajstic, Kate; Vanhaesebroucke, Olivia; Fitzpatrick, Austin; Bradshaw, Corey J.A.
+  title: Trait-space disparity in fish communities spanning 380 million years from the Late Devonian to present
+  journal: Palaeogeography, Palaeoclimatology, Palaeoecology
+  image: null
+- doi: 10.1016/j.biocon.2023.110164
+  year: 2023
+  authors: Barry, Christine; Legaspi, Christine; Clarke, Thomas M.; Araujo, Gonzalo; Bradshaw, Corey J.A.; Gleiss, Adrian
+    C.; Meyer, Lauren; Huveneers, Charlie
+  title: Estimating the energetic cost of whale shark tourism
+  journal: Biological Conservation
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
+- doi: 10.1093/biosci/biae010
+  year: 2024
+  authors: Carneiro, Laís; Hulme, Philip E; Cuthbert, Ross N; Kourantidou, Melina; Bang, Alok; Haubrock, Phillip J; Bradshaw,
+    Corey J A; Balzani, Paride; Bacher, Sven; Latombe, Guillaume; Bodey, Thomas W; Probert, Anna F; Quilodrán, Claudio S;
+    Courchamp, Franck
+  title: Benefits do not balance costs of biological invasions
+  journal: BioScience
+  image: https://coreybradshaw.files.wordpress.com/2024/03/scales.png
+- doi: 10.1038/ncomms10491
+  year: 2016
+  authors: Mellin, C.; Mouillot, D.; Kulbicki, M.; McClanahan, T. R.; Vigliola, L.; Bradshaw, C. J. A.; Brainard, R. E.; Chabanet,
+    P.; Edgar, G. J.; Fordham, D. A.; Friedlander, A. M.; Parravicini, V.; Sequeira, A. M. M.; Stuart-Smith, R. D.; Wantiez,
+    L.; Caley, M. J.
+  title: Humans and seasonal climate variability threaten large-bodied coral reef fish with small ranges
+  journal: Nature Communications
+  image: https://coreybradshaw.files.wordpress.com/2021/08/groper.png
+- doi: 10.1111/cobi.13501
+  year: 2021
+  authors: Mathwin, Rupert; Wassens, Skye; Young, Jeanne; Ye, Qifeng; Bradshaw, Corey J. A.
+  title: Manipulating water for amphibian conservation
+  journal: Conservation Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/frog.png
+- doi: 10.1002/eap.1882
+  year: 2019
+  authors: Lyon, Jarod P.; Bird, Tomas J.; Kearns, Joanne; Nicol, Simon; Tonkin, Zeb; Todd, Charles R.; O'Mahony, Justin;
+    Hackett, Graeme; Raymond, Scott; Lieschke, Jason; Kitchingman, Adrian; Bradshaw, Corey J. A.
+  title: Increased population size of fish in a lowland river following restoration of structural habitat
+  journal: Ecological Applications
+  image: https://coreybradshaw.files.wordpress.com/2021/08/murraycod.png
+- doi: 10.1111/1365-2664.12369
+  year: 2015
+  authors: Nimmo, Dale G.; Watson, Simon J.; Forsyth, David M.; Bradshaw, Corey J. A.
+  title: 'FORUM: Dingoes can help conserve wildlife and our methods can tell'
+  journal: Journal of Applied Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/dingo.png
+- doi: 10.1371/journal.pone.0001636
+  year: 2008
+  authors: Sodhi, Navjot S.; Bickford, David; Diesmos, Arvin C.; Lee, Tien Ming; Koh, Lian Pin; Brook, Barry W.; Sekercioglu,
+    Cagan H.; Bradshaw, Corey J. A.
+  title: 'Measuring the Meltdown: Drivers of Global Amphibian Extinction and Decline'
+  journal: PLoS ONE
+  image: https://coreybradshaw.files.wordpress.com/2021/08/frogskeleton.png
+- doi: 10.1002/ecm.1615
+  year: 2024
+  authors: Champreux, Antoine; Saltré, Frédérik; Traylor, Wolfgang; Hickler, Thomas; Bradshaw, Corey J. A.
+  title: 'How to map biomes: Quantitative comparison and review of biome‐mapping methods'
+  journal: Ecological Monographs
+  image: null
+- doi: 10.1038/s41467-025-62692-z
+  year: 2025
+  authors: Wang, Xi; Nursyifa, Casia; Aninta, Sabhrina Gita; Garcia-Erill, Genís; Bertola, Laura D.; Khan, Anubhab; Kuja,
+    Josiah; Hanghøj, Kristian; Meisner, Jonas; Bøggild, Thomas; Bradshaw, Corey J. A.; Al-Chaer, Amal; Persada, Alam Putra;
+    Priyono, Dwi Sendi; Tribudi, Yuli A.; Sudrajad, Pita; Gaina, Cynthia Dewi; Jiang, Yu; Lenstra, Johannes A.; Cauble-Sims,
+    Reagan; Rosen, Benjamin D.; Hagen, Darren E.; Heaton, Michael P.; Smith, Timothy P. L.; Frantz, Laurent; Larson, Greger;
+    Sinding, Mikkel-Holger S.; Solihin, Dedy Duryadi; Agil, Muhammad; Purwantara, Bambang; Heller, Rasmus
+  title: The genetic diversity of Indonesian cattle has been shaped by multiple introductions and adaptive introgression
+  journal: Nature Communications
+  image: null
+- doi: 10.1136/bmjopen-2019-029968
+  year: 2019
+  authors: Bradshaw, Corey J A; Otto, Sarah P; Annamalay, Alicia A; Heft-Neal, Sam; Wagner, Zachary; Le Souëf, Peter N
+  title: 'Testing the socioeconomic and environmental determinants of better child-health outcomes in Africa: a cross-sectional
+    study among nations'
+  journal: BMJ Open
+  image: https://coreybradshaw.files.wordpress.com/2021/08/sickchild.jpg
+- doi: 10.1080/03721426.2015.1035217
+  year: 2015
+  authors: Heard, Ben; Bradshaw, Corey J. A.; Brook, Barry W.
+  title: 'Beyond wind: furthering development of clean energy in South Australia'
+  journal: Transactions of the Royal Society of South Australia
+  image: https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png
+- doi: 10.1371/journal.pone.0257141
+  year: 2021
+  authors: Bradshaw, Corey J. A.; Chalker, Justin M.; Crabtree, Stefani A.; Eijkelkamp, Bart A.; Long, John A.; Smith, Justine
+    R.; Trinajstic, Kate; Weisbecker, Vera
+  title: A fairer way to compare researchers at any career stage and in any discipline using open-access citation data
+  journal: PLOS ONE
+  image: https://coreybradshaw.files.wordpress.com/2021/08/rank.png
+- doi: 10.1111/emr.12130
+  year: 2014
+  authors: Bradby, Keith; Fitzsimons, James A.; Del Marco, Andrew; Driscoll, Don A.; Ritchie, Euan G.; Lau, Jenny; Bradshaw,
+    Corey J. A.; Hobbs, Richard J.
+  title: Ecological connectivity or Barrier Fence? Critical choices on the agricultural margins of Western Australia
+  journal: Ecological Management &amp; Restoration
+  image: https://coreybradshaw.files.wordpress.com/2021/08/fence.png
+- doi: 10.1111/j.1461-0248.2006.00883.x
+  year: 2006
+  authors: Brook, Barry W.; Traill, Lochran W.; Bradshaw, Corey J. A.
+  title: Minimum viable population sizes and global extinction risk are unrelated
+  journal: Ecology Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png
+- doi: 10.1002/app5.135
+  year: 2016
+  authors: Bradshaw, Corey J. A.; Brook, Barry W.
+  title: Implications of Australia's Population Policy for Future Greenhouse Gas Emissions Targets
+  journal: Asia &amp; the Pacific Policy Studies
+  image: https://coreybradshaw.files.wordpress.com/2021/08/co2footprint.jpg
+- doi: 10.1371/journal.pone.0149852
+  year: 2016
+  authors: Bradshaw, Corey J. A.; Brook, Barry W.
+  title: How to Rank Journals
+  journal: PLOS ONE
+  image: https://coreybradshaw.files.wordpress.com/2021/08/rank.png
+- doi: 10.1016/j.biocon.2008.05.007
+  year: 2008
+  authors: Bradshaw, Corey J.A.; Fitzpatrick, Ben M.; Steinberg, Craig C.; Brook, Barry W.; Meekan, Mark G.
+  title: 'Decline in whale shark size and abundance at Ningaloo Reef over the past decade: The world’s largest fish is getting
+    smaller'
+  journal: Biological Conservation
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
+- doi: 10.1111/ecog.07169
+  year: 2025
+  authors: Philippe‐Lesaffre, Martin; Bradshaw, Corey J. A.; Castañeda, Irene; Llewelyn, John; Dickman, Christopher R.; Lepczyk,
+    Christopher A.; Fantle-Lepczyk, Jean; Marino, Clara; Courchamp, Franck; Bonnaud, Elsa
+  title: Differential predation patterns of free‐ranging cats among continents
+  journal: Ecography
+  image: null
+- doi: 10.1002/ecs2.70082
+  year: 2024
+  authors: Hamnett, Peter W.; Saltré, Frédérik; Page, Brad; Tarran, Myall; Korcz, Matt; Fielder, Kate; Andrews, Lindell; Bradshaw,
+    Corey J. A.
+  title: Stochastic population models to identify optimal and cost‐effective harvest strategies for feral pig eradication
+  journal: Ecosphere
+  image: null
+- doi: 10.1016/j.apenergy.2014.09.062
+  year: 2014
+  authors: Hong, Sanghyun; Bradshaw, Corey J.A.; Brook, Barry W.
+  title: 'Nuclear power can reduce emissions and maintain a strong economy: Rating Australia’s optimal future electricity-generation
+    mix by technologies and policies'
+  journal: Applied Energy
+  image: https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png
+- doi: 10.1016/j.energy.2013.02.010
+  year: 2013
+  authors: Hong, Sanghyun; Bradshaw, Corey J.A.; Brook, Barry W.
+  title: Evaluating options for sustainable energy mixes in South Korea using scenario analysis
+  journal: Energy
+  image: https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png
+- doi: 10.1016/j.enpol.2013.01.002
+  year: 2013
+  authors: Hong, Sanghyun; Bradshaw, Corey J.A.; Brook, Barry W.
+  title: Evaluating options for the future energy mix of Japan after the Fukushima nuclear crisis
+  journal: Energy Policy
+  image: https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png
+- doi: 10.1111/ecog.04530
+  year: 2019
+  authors: Shabani, Farzin; Ahmadi, Mohsen; Peters, Katharina J.; Haberle, Simon; Champreux, Antoine; Saltré, Frédérik; Bradshaw,
+    Corey J. A.
+  title: Climate‐driven shifts in the distribution of koala‐browse species from the Last Interglacial to the near future
+  journal: Ecography
+  image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
+- doi: 10.1002/ece3.1094
+  year: 2014
+  authors: Sequeira, Ana M. M.; Roetman, Philip E. J.; Daniels, Christopher B.; Baker, Andrew K.; Bradshaw, Corey J. A.
+  title: Distribution models for koalas in <scp>S</scp>outh <scp>A</scp>ustralia using citizen science‐collected data
+  journal: Ecology and Evolution
+  image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
+- doi: 10.1002/2015GL066344
+  year: 2015
+  authors: Turney, Chris S. M.; Thomas, Zoë A.; Hutchinson, David K.; Bradshaw, Corey J. A.; Brook, Barry W.; England, Matthew
+    H.; Fogwill, Christopher J.; Jones, Richard T.; Palmer, Jonathan; Hughen, Konrad A.; Cooper, Alan
+  title: Obliquity‐driven expansion of North Atlantic sea ice during the last glacial
+  journal: Geophysical Research Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/seaice.png
+- doi: 10.1890/070193
+  year: 2009
+  authors: Bradshaw, Corey JA; Sodhi, Navjot S; Brook, Barry W
+  title: 'Tropical turmoil: a biodiversity tragedy in progress'
+  journal: Frontiers in Ecology and the Environment
+  image: null
+- doi: 10.1111/j.1523-1739.2010.01448.x
+  year: 2010
+  authors: LAURANCE, WILLIAM F.; KOH, LIAN P.; BUTLER, RHETT; SODHI, NAVJOT S.; BRADSHAW, COREY J. A.; NEIDEL, J. DAVID; CONSUNJI,
+    HAZEL; MATEO VEGA, JAVIER
+  title: Improving the Performance of the Roundtable on Sustainable Palm Oil for Nature Conservation
+  journal: Conservation Biology
+  image: null
+- doi: 10.1111/jfb.12017
+  year: 2013
+  authors: Sequeira, A. M. M.; Mellin, C.; Meekan, M. G.; Sims, D. W.; Bradshaw, C. J. A.
+  title: Inferred global connectivity of whale shark <i>Rhincodon typus</i> populations
+  journal: Journal of Fish Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
+- doi: 10.1002/ecs2.4379
+  year: 2023
+  authors: Mathwin, Rupert; Wassens, Skye; Gibbs, Matthew S.; Young, Jeanne; Ye, Qifeng; Saltré, Frédérik; Bradshaw, Corey
+    J. A.
+  title: Modeling the effects of water regulation on the population viability of a threatened amphibian
+  journal: Ecosphere
+  image: https://coreybradshaw.files.wordpress.com/2023/01/frogicon.png
+- doi: 10.1016/j.cub.2011.09.028
+  year: 2011
+  authors: Wernberg, Thomas; Russell, Bayden D.; Thomsen, Mads S.; Gurgel, C. Frederico D.; Bradshaw, Corey J.A.; Poloczanska,
+    Elvira S.; Connell, Sean D.
+  title: Seaweed Communities in Retreat from Ocean Warming
+  journal: Current Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png
+- doi: 10.1111/aec.13492
+  year: 2024
+  authors: Mathwin, Rupert; Wassens, Skye; Turner, Anna; Heard, Geoffrey W.; Hall, Andrew; Bradshaw, Corey J. A.
+  title: Modelling the sustainable harvest of wild populations for the conservation of a threatened amphibian
+  journal: Austral Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/frog.png
+- doi: 10.1111/conl.12098
+  year: 2014
+  authors: Moen, Jon; Rist, Lucy; Bishop, Kevin; Chapin, F. S.; Ellison, David; Kuuluvainen, Timo; Petersson, Hans; Puettmann,
+    Klaus J.; Rayner, Jeremy; Warkentin, Ian G.; Bradshaw, Corey J. A.
+  title: 'Eye on the Taiga: Removing Global Policy Impediments to Safeguard the Boreal Forest'
+  journal: Conservation Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png
+- doi: 10.1093/biosci/biu013
+  year: 2014
+  authors: Herrando-Pérez, Salvador; Brook, Barry W.; Bradshaw, Corey J. A.
+  title: Ecology Needs a Convention of Nomenclature
+  journal: BioScience
+  image: https://coreybradshaw.files.wordpress.com/2021/08/list.png
+- doi: 10.1111/1365-2664.13187
+  year: 2018
+  authors: Barnett, Louise K.; Prowse, Thomas A. A.; Peacock, David E.; Mutze, Gregory J.; Sinclair, Ron G.; Kovaliski, John;
+    Cooke, Brian D.; Bradshaw, Corey J. A.
+  title: Previous exposure to myxoma virus reduces survival of European rabbits during outbreaks of rabbit haemorrhagic disease
+  journal: Journal of Applied Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/rabbit.png
+- doi: 10.1016/j.quageo.2015.08.002
+  year: 2015
+  authors: Rodríguez-Rey, Marta; Herrando-Pérez, Salvador; Gillespie, Richard; Jacobs, Zenobia; Saltré, Frédérik; Brook, Barry
+    W.; Prideaux, Gavin J.; Roberts, Richard G.; Cooper, Alan; Alroy, John; Miller, Gifford H.; Bird, Michael I.; Johnson,
+    Christopher N.; Beeton, Nicholas; Turney, Chris S.M.; Bradshaw, Corey J.A.
+  title: Criteria for assessing the quality of Middle Pleistocene to Holocene vertebrate fossil ages
+  journal: Quaternary Geochronology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/massspec.png
+- doi: 10.1111/j.1467-2979.2009.00325.x
+  year: 2009
+  authors: Field, Iain C.; Meekan, Mark G.; Buckworth, Rik C.; Bradshaw, Corey J. A.
+  title: 'Protein mining the world’s oceans: Australasia as an example of illegal expansion‐and‐displacement fishing'
+  journal: Fish and Fisheries
+  image: https://coreybradshaw.files.wordpress.com/2021/08/fishingnet.png
+- doi: 10.1890/100177
+  year: 2011
+  authors: Clements, Gopalasamy Reuben; Bradshaw, Corey JA; Brook, Barry W; Laurance, William F
+  title: 'The SAFE index: using a threshold population target to measure relative species threat'
+  journal: Frontiers in Ecology and the Environment
+  image: https://coreybradshaw.files.wordpress.com/2021/08/endangered.png
+- doi: 10.1093/biosci/biag009
+  year: 2026
+  authors: Barry, Christine; Muir, Bob; Backhaus, Vincent; Coyne, Cynthia; Donnelly, Emma; Evans-Illidge, Elizabeth; Ferreira,
+    Luciana C; Flagg, David; Fletcher, Michael-Shawn; Gleiss, Adrian C; Harris, Matthew; Hounslow, Jenna L; Kampers, Danielle;
+    Keevers-Lock, Linda; Koroi, Charmaine; Mamtora, Jayshree; Marshall, Melissa; Meekan, Mark G; Poelina, Anne; Ropeyarn (Angkamuthi,
+    Yadhaykenu, Woppaburra, Meriam), Yanti; Russell, Lynette; Thums, Michele; Tobler, Raymond; Ulm, Sean; Bradshaw, Corey
+    J A
+  title: Crediting and citing Indigenous Knowledges within research
+  journal: BioScience
+  image: null
+- doi: 10.1016/j.ecolecon.2024.108166
+  year: 2024
+  authors: Bradshaw, Corey J.A.; Hulme, Philip E.; Hudgins, Emma J.; Leung, Brian; Kourantidou, Melina; Courtois, Pierre;
+    Turbelin, Anna J.; McDermott, Shana M.; Lee, Katherine; Ahmed, Danish A.; Latombe, Guillaume; Bang, Alok; Bodey, Thomas
+    W.; Haubrock, Phillip J.; Saltré, Frédérik; Courchamp, Franck
+  title: Damage costs from invasive species exceed management expenditure in nations experiencing lower economic activity
+  journal: Ecological Economics
+  image: https://coreybradshaw.files.wordpress.com/2024/03/trade.png
+- doi: 10.1016/j.quaint.2013.06.022
+  year: 2013
+  authors: Johnson, Chris N.; Bradshaw, Corey J.A.; Cooper, Alan; Gillespie, Richard; Brook, Barry W.
+  title: Rapid megafaunal extinction following human arrival throughout the New World
+  journal: Quaternary International
+  image: https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg
+- doi: 10.1111/faf.12411
+  year: 2020
+  authors: Friedman, Kim; Braccini, Matias; Bjerregaard‐Walsh, Matthew; Bonfil, Ramón; Bradshaw, Corey J. A.; Brouwer, Stephen;
+    Campbell, Ian; Coelho, Rui; Cortés, Enric; Dimmlich, Wetjens; Frisk, Michael G.; Kingma, Irene; McCully Phillips, Sophy
+    R.; O'Criodain, Colman; Parker, Denham; Shephard, Samuel; Tovar‐Ávila, Javier; Yokawa, Kotaro
+  title: 'Informing CITES Parties: Strengthening science‐based decision‐making when listing marine species'
+  journal: Fish and Fisheries
+  image: https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png
+- doi: 10.1093/icesjms/fsy031
+  year: 2018
+  authors: Bradshaw, Corey J A; Prowse, Thomas A A; Drew, Michael; Gillanders, Bronwyn M; Donnellan, Steven C; Huveneers,
+    Charlie
+  title: Predicting sustainable shark harvests when stock assessments are lacking
+  journal: ICES Journal of Marine Science
+  image: https://coreybradshaw.files.wordpress.com/2021/08/trawler.png
+- doi: 10.1073/pnas.1309226110
+  year: 2013
+  authors: Brook, Barry W.; Bradshaw, Corey J. A.; Cooper, Alan; Johnson, Christopher N.; Worthy, Trevor H.; Bird, Michael;
+    Gillespie, Richard; Roberts, Richard G.
+  title: Lack of chronological support for stepwise prehuman extinctions of Australian megafauna
+  journal: Proceedings of the National Academy of Sciences
+  image: https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg
+- doi: 10.1038/sdata.2016.53
+  year: 2016
+  authors: Rodríguez-Rey, Marta; Herrando-Pérez, Salvador; Brook, Barry W.; Saltré, Frédérik; Alroy, John; Beeton, Nicholas;
+    Bird, Michael I.; Cooper, Alan; Gillespie, Richard; Jacobs, Zenobia; Johnson, Christopher N.; Miller, Gifford H.; Prideaux,
+    Gavin J.; Roberts, Richard G.; Turney, Chris S.M.; Bradshaw, Corey J.A.
+  title: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
+  journal: Scientific Data
+  image: null
+- doi: 10.3354/meps319275
+  year: 2006
+  authors: Meekan, MG; Bradshaw, CJA; Press, M; McLean, C; Richards, A; Quasnichka, S; Taylor, JG
+  title: Population size and structure of whale sharks Rhincodon typus at Ningaloo Reef, Western Australia
+  journal: Marine Ecology Progress Series
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
+- doi: 10.1038/nature06518
+  year: 2008
+  authors: Sims, David W.; Southall, Emily J.; Humphries, Nicolas E.; Hays, Graeme C.; Bradshaw, Corey J. A.; Pitchford, Jonathan
+    W.; James, Alex; Ahmed, Mohammed Z.; Brierley, Andrew S.; Hindell, Mark A.; Morritt, David; Musyl, Michael K.; Righton,
+    David; Shepard, Emily L. C.; Wearmouth, Victoria J.; Wilson, Rory P.; Witt, Matthew J.; Metcalfe, Julian D.
+  title: Scaling laws of marine predator search behaviour
+  journal: Nature
+  image: null
+- doi: 10.1111/j.1744-7429.2006.00141.x
+  year: 2006
+  authors: Brook, Barry W.; Bradshaw, Corey J. A.; Koh, Lian Pin; Sodhi, Navjot S.
+  title: 'Momentum Drives the Crash: Mass Extinction in the Tropics<sup>1</sup>'
+  journal: Biotropica
+  image: https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png
+- doi: 10.1111/j.1472-4642.2011.00853.x
+  year: 2012
+  authors: Sequeira, Ana; Mellin, Camille; Rowat, David; Meekan, Mark G.; Bradshaw, Corey J. A.
+  title: Ocean‐scale prediction of whale shark distribution
+  journal: Diversity and Distributions
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
+- doi: 10.1111/j.1755-263X.2012.00237.x
+  year: 2012
+  authors: van Oosterzee, Penny; Blignaut, James; Bradshaw, Corey J. A.
+  title: iREDD hedges against avoided deforestation's unholy trinity of leakage, permanence and additionality
+  journal: Conservation Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/forestinsurance.png
+- doi: 10.1371/journal.pone.0292854
+  year: 2023
+  authors: Evans, Thomas; Angulo, Elena; Bradshaw, Corey J. A.; Turbelin, Anna; Courchamp, Franck
+  title: Global economic costs of alien birds
+  journal: PLOS ONE
+  image: https://coreybradshaw.files.wordpress.com/2024/01/pigeon.png
+- doi: 10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2
+  year: 2006
+  authors: Brook, Barry W.; Bradshaw, Corey J. A.
+  title: STRENGTH OF EVIDENCE FOR DENSITY DEPENDENCE IN ABUNDANCE TIME SERIES OF 1198 SPECIES
+  journal: Ecology
+  image: null
+- doi: 10.1111/j.1365-2664.2011.02081.x
+  year: 2012
+  authors: Bradshaw, Corey J. A.; McMahon, Clive R.; Miller, Philip S.; Lacy, Robert C.; Watts, Michael J.; Verant, Michelle
+    L.; Pollak, John P.; Fordham, Damien A.; Prowse, Thomas A. A.; Brook, Barry W.
+  title: Novel coupling of individual‐based epidemiological and demographic models predicts realistic dynamics of tuberculosis
+    in alien buffalo
+  journal: Journal of Applied Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/buffalo.png
+- doi: 10.1016/j.quascirev.2011.11.021
+  year: 2012
+  authors: Bradshaw, C.J.A.; Cooper, A.; Turney, C.S.M.; Brook, B.W.
+  title: Robust estimates of extinction time in the geological record
+  journal: Quaternary Science Reviews
+  image: https://coreybradshaw.files.wordpress.com/2021/08/probability.png
+- doi: 10.1579/0044-7447-38.2.125
+  year: 2009
+  authors: Bradshaw, Corey J. A.
+  title: Flooding Policy Makers with Evidence to Save Forests
+  journal: 'AMBIO: A Journal of the Human Environment'
+  image: null
+- doi: 10.1016/j.biocon.2003.11.017
+  year: 2004
+  authors: Otway, Nicholas M; Bradshaw, Corey J.A; Harcourt, Robert G
+  title: Estimating the rate of quasi-extinction of the Australian grey nurse shark (Carcharias taurus) population using deterministic
+    age- and stage-classified models
+  journal: Biological Conservation
+  image: null
+- doi: 10.1111/eva.70092
+  year: 2025
+  authors: Beaman, Julian E.; Gates, Katie; Saltré, Frédérik; Hogg, Carolyn J.; Belov, Katherine; Ashman, Kita; da Silva,
+    Karen Burke; Beheregaray, Luciano B.; Bradshaw, Corey J. A.
+  title: A Guide for Developing Demo‐Genetic Models to Simulate Genetic Rescue
+  journal: Evolutionary Applications
+  image: null
+- doi: 10.1002/rra.3951
+  year: 2022
+  authors: Thompson, Ross M; Barbour, Emily J; Bradshaw, Corey J A; Briggs, Sue; Byron, Neil; Grace, Michael; Hart, Barry
+    T.; King, Alison J.; Likens, Gene E.; Pollino, Carmel A.; Sheldon, Fran; Stewardson, Michael J; Thoms, Martin; Watts,
+    Robyn J; Webb, J Angus
+  title: Principles for scientists working at the river science‐policy interface
+  journal: River Research and Applications
+  image: https://coreybradshaw.files.wordpress.com/2022/03/river.png
+- doi: 10.1016/j.biocon.2013.02.012
+  year: 2013
+  authors: Bradshaw, Corey J.A.; Bowman, David M.J.S.; Bond, Nick R.; Murphy, Brett P.; Moore, Andrew D.; Fordham, Damien
+    A.; Thackway, Richard; Lawes, Michael J.; McCallum, Hamish; Gregory, Stephen D.; Dalal, Ram C.; Boer, Matthias M.; Lynch,
+    A. Jasmyn J.; Bradstock, Ross A.; Brook, Barry W.; Henry, Beverley K.; Hunt, Leigh P.; Fisher, Diana O.; Hunter, David;
+    Johnson, Christopher N.; Keith, David A.; Lefroy, Edward C.; Penman, Trent D.; Meyer, Wayne S.; Thomson, James R.; Thornton,
+    Craig M.; VanDerWal, Jeremy; Williams, Richard J.; Keniger, Lucy; Specht, Alison
+  title: Brave new green world – Consequences of a carbon economy for the conservation of Australian biodiversity
+  journal: Biological Conservation
+  image: https://coreybradshaw.files.wordpress.com/2021/08/carbonprice.jpg
+- doi: 10.1111/csp2.448
+  year: 2021
+  authors: Venning, Kathryn R. W.; Saltré, Frédérik; Bradshaw, Corey J. A.
+  title: Predicting targets and costs for feral‐cat reduction on large islands using stochastic population models
+  journal: Conservation Science and Practice
+  image: null
+- doi: 10.1016/j.biocon.2015.05.019
+  year: 2015
+  authors: Bradshaw, Corey J.A.; Craigie, Ian; Laurance, William F.
+  title: National emphasis on high-level protection reduces risk of biodiversity decline in tropical forest reserves
+  journal: Biological Conservation
+  image: https://coreybradshaw.files.wordpress.com/2021/08/tropicalforest.png
+- doi: 10.1093/biosci/biaf195
+  year: 2026
+  authors: Courchamp, Franck; Klippel, Gabriel; Angulo, Elena; Arbieu, Ugo; Bang, Alok; Bojko, Jamie; Caetano, Gabriel Henrique
+    de Oliveira; Camacho-Cervantes, Morelia; Carneiro, Laís; Cuthbert, Ross N; Dawson, Michael N; Desiderato, Andrea; Fath,
+    Brian D; Firth, Josh A; Latombe, Guillaume; Leroy, Boris; Liu, Chunlong; Manfrini, Eléna; Pan, Xubin; Pincheira-Donoso,
+    Daniel; Tonkin, Jonathan D; Vimercati, Giovanni; Wang, Shengyu; Bradshaw, Corey J A
+  title: Quantifying the Magnitude of Biological Invasions Using Total Biomass
+  journal: BioScience
+  image: null
+- doi: 10.1016/j.rsma.2015.05.002
+  year: 2016
+  authors: Speed, C.W.; Meekan, M.G.; Field, I.C.; McMahon, C.R.; Harcourt, R.G.; Stevens, J.D.; Babcock, R.C.; Pillans, R.D.;
+    Bradshaw, C.J.A.
+  title: Reef shark movements relative to a coastal marine protected area
+  journal: Regional Studies in Marine Science
+  image: https://coreybradshaw.files.wordpress.com/2021/08/reef-shark.jpg
