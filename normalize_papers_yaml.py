@@ -4,27 +4,26 @@ from pathlib import Path
 INPUT = Path("papers.yaml")
 OUTPUT = Path("papers_fixed.yaml")
 
+# Load YAML (must be at least syntactically valid)
 with INPUT.open("r", encoding="utf-8") as f:
     data = yaml.safe_load(f)
 
-# Basic sanity check
 if not isinstance(data, list):
-    raise ValueError("papers.yaml must be a list of entries")
+    raise ValueError("papers.yaml must contain a list of entries")
 
-# Ensure consistent structure
 cleaned = []
+
 for entry in data:
-year = entry.get("year")
+    year = entry.get("year")
 
-cleaned.append({
-    "doi": str(entry["doi"]),
-    "year": int(year) if year is not None else None,
-    "authors": str(entry["authors"]),
-    "title": str(entry["title"]),
-})
+    cleaned.append({
+        "doi": str(entry.get("doi")),
+        "year": int(year) if year is not None else None,
+        "authors": str(entry.get("authors")),
+        "title": str(entry.get("title")),
+    })
 
-
-# Write fully-safe YAML
+# Write fully normalized YAML
 with OUTPUT.open("w", encoding="utf-8") as f:
     yaml.safe_dump(
         cleaned,
