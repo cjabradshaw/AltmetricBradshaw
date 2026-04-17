@@ -142,4 +142,4 @@ html = html.replace(
 INDEX_FILE.write_text(html, encoding="utf-8")
 
 print(f"✅ index.html regenerated successfully ({len(items)} papers)")
-``
+
