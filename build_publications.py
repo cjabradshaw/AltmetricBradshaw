@@ -87,10 +87,30 @@ def existing_order_lookup():
     return {doi: index for index, doi in enumerate(ordered_dois)}
 
 
+def normalize_author_case(author):
+    surname, separator, initials = author.partition(",")
+    if not separator:
+        return author.strip()
+
+    surname = surname.strip()
+    initials = initials.strip()
+
+    if surname.isupper():
+        surname = surname.title()
+
+    return f"{surname}{separator} {initials}"
+
+
 def format_authors(authors):
+    normalized = "; ".join(
+        normalize_author_case(author)
+        for author in authors.split(";")
+        if author.strip()
+    )
+
     return BRADSHAW_RE.sub(
         lambda match: f"<strong>{match.group(0)}</strong>",
-        authors,
+        normalized,
     )
 
 
