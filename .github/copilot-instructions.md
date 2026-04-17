@@ -11,14 +11,14 @@
 ## High-level architecture
 
 - `papers.yaml` is the canonical publication dataset. The scheduled build reads from it directly.
-- `build_publications.py` is the only script in the normal publishing path. It always refreshes Crossref citation counts, and it refreshes Altmetric scores only when `ALTMETRIC_API_KEY` is available. With a key, it sorts papers by Altmetric score descending; without a key, it preserves the existing DOI order from the committed `index.html`. It then injects the generated list into `index.template.html` at the `<!-- GENERATED CONTENT -->` placeholder to produce the committed `index.html`.
-- `index.html` is a generated artifact that is committed to the repository and updated by the workflow.
+- `build_publications.py` is the only script in the normal publishing path. It always refreshes Crossref citation counts, and it refreshes Altmetric scores only when `ALTMETRIC_API_KEY` is available. With a key, it sorts papers by Altmetric score descending; without a key, it preserves the existing DOI order from the committed `index.html`. It injects page metadata into `index.template.html` at `<!-- GENERATED META -->`, injects the publication list at `<!-- GENERATED CONTENT -->`, writes the committed `index.html`, and exports the rendered dataset to `publications.csv`.
+- `index.html` and `publications.csv` are generated artifacts that are committed to the repository and updated by the workflow.
 - `index.md` and the helper scripts (`rebuild_papers_from_index_and_doi.py`, `generate_papers_from_index.py`, `extract_wordpress_icons_to_papers.py`, `normalize_papers_yaml.py`) are maintenance/migration utilities for rebuilding or normalizing data from older source material. They are not part of the scheduled update workflow.
 
 ## Key conventions
 
 - Do not hand-edit generated publication rows in `index.html`; update `papers.yaml`, `index.template.html`, or the build script, then regenerate.
-- Keep the `<!-- GENERATED CONTENT -->` marker in `index.template.html` unchanged. `build_publications.py` does a literal replacement on that exact string.
+- Keep the `<!-- GENERATED META -->` and `<!-- GENERATED CONTENT -->` markers in `index.template.html` unchanged. `build_publications.py` does literal replacement on those exact strings.
 - Every `papers.yaml` entry is expected to include a DOI. Both Altmetric ranking and the embedded badges depend on it.
 - Without `ALTMETRIC_API_KEY`, the build intentionally preserves the currently published order from `index.html` instead of reverting to raw `papers.yaml` order.
 - Treat `papers_with_icons.yaml` and `papers_fixed.yaml` as derived helper outputs, not as inputs to the scheduled build.

@@ -1,5 +1,8 @@
+import csv
 import os
 import re
+from datetime import datetime, timezone
+from html import unescape
 from pathlib import Path
 import time
 import yaml
@@ -8,7 +11,9 @@ import requests
 PAPERS_FILE = Path("papers.yaml")
 TEMPLATE_FILE = Path("index.template.html")
 OUTPUT_FILE = Path("index.html")
-PLACEHOLDER = "<!-- GENERATED CONTENT -->"
+CSV_OUTPUT_FILE = Path("publications.csv")
+CONTENT_PLACEHOLDER = "<!-- GENERATED CONTENT -->"
+META_PLACEHOLDER = "<!-- GENERATED META -->"
 ALTMETRIC_API_KEY = os.environ.get("ALTMETRIC_API_KEY")
 DOI_ATTR_RE = re.compile(r'data-doi="([^"]+)"')
 BRADSHAW_RE = re.compile(r"\bBradshaw\b", re.IGNORECASE)
@@ -224,6 +229,42 @@ def format_authors(authors):
     )
 
 
+def plain_text_authors(authors):
+    normalized_authors = [
+        normalize_author_case(author)
+        for author in authors.split(";")
+        if author.strip()
+    ]
+
+    truncated = should_truncate_authors(normalized_authors)
+    visible_authors = normalized_authors[:MAX_DISPLAY_AUTHORS] if truncated else normalized_authors
+    formatted = "; ".join(visible_authors)
+
+    if truncated:
+        formatted = f"{formatted}; et al."
+
+    return formatted
+
+
+def write_csv(rows):
+    with CSV_OUTPUT_FILE.open("w", encoding="utf-8", newline="") as csv_file:
+        writer = csv.DictWriter(
+            csv_file,
+            fieldnames=[
+                "rank",
+                "doi",
+                "year",
+                "authors",
+                "title",
+                "journal",
+                "citations",
+                "altmetric_score",
+            ],
+        )
+        writer.writeheader()
+        writer.writerows(rows)
+
+
 # -------------------------------
 # Fetch metrics for all papers
 # -------------------------------
@@ -268,15 +309,19 @@ else:
 # Render HTML
 # -------------------------------
 items = []
+csv_rows = []
+last_updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
-for p in papers:
+for rank, p in enumerate(papers, start=1):
     doi = p.get("doi", "")
     title = p.get("title", "")
-    authors = format_authors(p.get("authors", ""))
+    raw_authors = p.get("authors", "")
+    authors = format_authors(raw_authors)
+    authors_plain = plain_text_authors(raw_authors)
     journal = p.get("journal_abbrev") or p.get("journal", "")
     year = p.get("year") or "n.d."
     image = p.get("image")
-    alt = p.get("altmetric", 0)
+    alt = p.get("altmetric")
     cites = p.get("citations", 0)
 
     icon = f'<img src="{image}" class="paper-icon" alt="Journal icon">' if image else ""
@@ -302,12 +347,35 @@ for p in papers:
     f'<hr>'
 )
 
+    csv_rows.append({
+        "rank": rank,
+        "doi": doi,
+        "year": year,
+        "authors": unescape(authors_plain),
+        "title": unescape(title),
+        "journal": unescape(journal),
+        "citations": cites,
+        "altmetric_score": "" if alt is None else alt,
+    })
+
 html = TEMPLATE_FILE.read_text(encoding="utf-8")
 
-if "<!-- GENERATED CONTENT -->" not in html:
+if CONTENT_PLACEHOLDER not in html:
     raise RuntimeError("Missing <!-- GENERATED CONTENT --> in index.template.html")
 
-html = html.replace("<!-- GENERATED CONTENT -->", "\n\n".join(items))
+if META_PLACEHOLDER not in html:
+    raise RuntimeError("Missing <!-- GENERATED META --> in index.template.html")
+
+meta_html = (
+    f'<div class="page-meta">'
+    f'  <div class="last-updated">Last updated: {last_updated}</div>'
+    f'  <a class="download-button" href="{CSV_OUTPUT_FILE.name}" download>Download CSV</a>'
+    f'</div>'
+)
+
+html = html.replace(META_PLACEHOLDER, meta_html)
+html = html.replace(CONTENT_PLACEHOLDER, "\n\n".join(items))
 OUTPUT_FILE.write_text(html, encoding="utf-8")
+write_csv(csv_rows)
 
 print(f"✅ index.html regenerated with {len(items)} papers")

@@ -32,11 +32,11 @@ jobs:
         run: |
           python build_publications.py
 
-      - name: Commit updated index.html
+      - name: Commit updated generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html
+          git add index.html publications.csv
           git commit -m "Update Altmetric rankings" || echo "No changes to commit"
 
       - name: Push changes

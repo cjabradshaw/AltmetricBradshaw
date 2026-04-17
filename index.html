@@ -27,6 +27,38 @@
   padding: 0 4rem;
 }
 
+.page-header {
+  margin-bottom: 1.5rem;
+}
+
+.page-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.last-updated {
+  color: #555;
+  font-size: 0.95em;
+}
+
+.download-button {
+  display: inline-block;
+  padding: 0.55rem 0.95rem;
+  border-radius: 999px;
+  background: #0057b8;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.download-button:hover {
+  background: #004494;
+}
+
 ul { list-style: none; padding-left: 0; }
 
 .paper { margin-bottom: 1.4em; }
@@ -73,7 +105,10 @@ ul { list-style: none; padding-left: 0; }
 
 <body>
   <div class="page-container">
-    <h1>Corey Bradshaw's Top Altmetric‑score papers</h1>
+    <div class="page-header">
+      <h1>Corey Bradshaw's Top Altmetric‑score papers</h1>
+      <div class="page-meta">  <div class="last-updated">Last updated: 2026-04-17 14:54 UTC</div>  <a class="download-button" href="publications.csv" download>Download CSV</a></div>
+    </div>
     <ul id="papers">
       <li class="paper">  <div class="paper-row">    <div class="citation">      <strong>Bradshaw</strong>, CJA; Ehrlich, PR; Beattie, A; Ceballos, G; Crist, E; Diamond, J; Dirzo, R; Ehrlich, AH; Harte, J; Harte, ME; Pyke, G; Raven, PH; Ripple, WJ; Saltré, F; Turnbull, C; Wackernagel, M; Blumstein, DT 2021.       <a href="https://doi.org/10.3389/fcosc.2020.615419">Underestimating the Challenges of Avoiding a Ghastly Future</a>.       <span class="journal"><em>Front Conserv Sci</em></span>.       doi:10.3389/fcosc.2020.615419    </div>    <div class="paper-icon-container"><img src="https://coreybradshaw.files.wordpress.com/2021/08/ghastly.png" class="paper-icon" alt="Journal icon"></div>  </div>  <div class="metrics-row">    <span class="altmetric-embed"           data-badge-type="donut"           data-doi="10.3389/fcosc.2020.615419"></span>    <span class="metrics">citations: 372</span>  </div></li><hr>
 
