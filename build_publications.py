@@ -23,15 +23,20 @@ if not isinstance(papers, list):
 # APIs
 # -------------------------------
 def fetch_altmetric(doi):
-    try:
-        r = requests.get(f"https://api.altmetric.com/v1/doi/{doi}", timeout=10)
-        if r.ok:
-            score = r.json().get("score", 0)
-            return int(score) if score is not None else 0
-    except Exception:
-        pass
-    return 0
+    r = requests.get(f"https://api.altmetric.com/v1/doi/{doi}", timeout=10)
 
+    if not r.ok:
+        return None  # explicitly signal failure
+
+    data = r.json()
+
+    if "score" not in data:
+        return None
+
+    try:
+        return int(data["score"])
+    except (TypeError, ValueError):
+        return None
 
 def fetch_citations(doi):
     try:
@@ -49,15 +54,24 @@ def fetch_citations(doi):
 
 for p in papers:
     doi = p.get("doi")
-    p["altmetric"] = fetch_altmetric(doi)
+
+    score = fetch_altmetric(doi)
+    p["altmetric"] = score if score is not None else -1  # push failures to bottom
+
     p["citations"] = fetch_citations(doi)
     time.sleep(1)
 
 # ✅ Sort AFTER fetching all metrics
-papers.sort(
-   key=lambda p: int(p.get("altmetric", 0)),
+
+papers = sorted(
+    papers,
+    key=lambda p: p["altmetric"],
     reverse=True
 )
+
+for i in range(len(papers) - 1):
+    if papers[i]["altmetric"] < papers[i + 1]["altmetric"]:
+        raise RuntimeError("Altmetric sort failed")
 
 # -------------------------------
 # Render HTML
