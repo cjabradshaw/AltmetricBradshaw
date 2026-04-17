@@ -14,12 +14,16 @@ if not isinstance(data, list):
 # Ensure consistent structure
 cleaned = []
 for entry in data:
-    cleaned.append({
-        "doi": str(entry["doi"]),
-        "year": int(entry["year"]),
-        "authors": str(entry["authors"]),
-        "title": str(entry["title"]),
-    })
+    
+year = entry.get("year")
+
+cleaned.append({
+    "doi": str(entry["doi"]),
+    "year": int(year) if year is not None else None,
+    "authors": str(entry["authors"]),
+    "title": str(entry["title"]),
+})
+
 
 # Write fully-safe YAML
 with OUTPUT.open("w", encoding="utf-8") as f:
