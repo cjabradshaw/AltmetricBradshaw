@@ -339,6 +339,7 @@ for rank, p in enumerate(papers, start=1):
     f'  </div>'
     f'  <div class="metrics-row">'
     f'    <span class="altmetric-embed" '
+    f'          data-badge-popover="right" '
     f'          data-badge-type="donut" '
     f'          data-doi="{doi}"></span>'
     f'    <span class="metrics">citations: {cites}</span>'
