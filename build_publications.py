@@ -89,7 +89,7 @@ def existing_order_lookup():
 
 def format_authors(authors):
     return BRADSHAW_RE.sub(
-        lambda match: f"<strong>{match.group(0)}</strong>",
+        lambda match: f"<u>{match.group(0)}</u>",
         authors,
     )
 
