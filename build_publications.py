@@ -1,4 +1,5 @@
 import os
+import re
 from pathlib import Path
 import time
 import yaml
@@ -9,6 +10,7 @@ TEMPLATE_FILE = Path("index.template.html")
 OUTPUT_FILE = Path("index.html")
 PLACEHOLDER = "<!-- GENERATED CONTENT -->"
 ALTMETRIC_API_KEY = os.environ.get("ALTMETRIC_API_KEY")
+DOI_ATTR_RE = re.compile(r'data-doi="([^"]+)"')
 
 
 # -------------------------------
@@ -57,6 +59,7 @@ def fetch_altmetric(doi):
             f"Altmetric score for DOI {doi} is not numeric: {data.get('score')!r}"
         )
 
+
 def fetch_citations(doi):
     try:
         r = requests.get(f"https://api.crossref.org/works/{doi}", timeout=10)
@@ -67,36 +70,59 @@ def fetch_citations(doi):
     return 0
 
 
+def existing_order_lookup():
+    if not OUTPUT_FILE.exists():
+        return {}
+
+    html = OUTPUT_FILE.read_text(encoding="utf-8")
+    ordered_dois = []
+    seen = set()
+
+    for doi in DOI_ATTR_RE.findall(html):
+        if doi not in seen:
+            seen.add(doi)
+            ordered_dois.append(doi)
+
+    return {doi: index for index, doi in enumerate(ordered_dois)}
+
+
 # -------------------------------
 # Fetch metrics for all papers
 # -------------------------------
-
-if not ALTMETRIC_API_KEY:
-    raise RuntimeError(
-        "ALTMETRIC_API_KEY is required to fetch Altmetric scores and sort "
-        "index.html correctly."
-    )
 
 for p in papers:
     doi = p.get("doi")
     if not doi:
         raise RuntimeError("Every paper entry must include a DOI")
 
-    p["altmetric"] = fetch_altmetric(doi)
     p["citations"] = fetch_citations(doi)
-    time.sleep(1)
+    p["altmetric"] = None
 
-# ✅ Sort AFTER fetching all metrics
+existing_order = existing_order_lookup()
 
-papers = sorted(
-    papers,
-    key=lambda p: p["altmetric"],
-    reverse=True
-)
+if ALTMETRIC_API_KEY:
+    print("Using Altmetric API key to refresh ranking order.")
 
-for i in range(len(papers) - 1):
-    if papers[i]["altmetric"] < papers[i + 1]["altmetric"]:
-        raise RuntimeError("Altmetric sort failed")
+    for p in papers:
+        p["altmetric"] = fetch_altmetric(p["doi"])
+        time.sleep(1)
+
+    papers = sorted(
+        papers,
+        key=lambda p: p["altmetric"],
+        reverse=True
+    )
+
+    for i in range(len(papers) - 1):
+        if papers[i]["altmetric"] < papers[i + 1]["altmetric"]:
+            raise RuntimeError("Altmetric sort failed")
+else:
+    print("No ALTMETRIC_API_KEY set; preserving the current published paper order.")
+
+    papers = sorted(
+        papers,
+        key=lambda p: existing_order.get(p["doi"], len(existing_order))
+    )
 
 # -------------------------------
 # Render HTML
