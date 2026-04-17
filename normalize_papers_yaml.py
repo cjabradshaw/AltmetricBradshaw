@@ -14,7 +14,6 @@ if not isinstance(data, list):
 # Ensure consistent structure
 cleaned = []
 for entry in data:
-    
 year = entry.get("year")
 
 cleaned.append({
