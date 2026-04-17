@@ -13,29 +13,46 @@ img_re = re.compile(
     re.IGNORECASE
 )
 doi_re = re.compile(
-    r'https?://doi\.org/(10\.\d{4,9}/[-._;()/:A-Za-z0-9]+)'
+    r'https?://doi\.org/(10\.\d{4,9}/[-._;()/:A-Za-z0-9\[\]]+)',
+    re.IGNORECASE
 )
 
 # --- Crossref query ---
 def crossref_metadata(doi):
     url = f"https://api.crossref.org/works/{doi}"
     r = requests.get(url, timeout=15)
-    r.raise_for_status()
-    msg = r.json()["message"]
 
+    if not r.ok:
+        raise RuntimeError(
+            f"❌ Crossref lookup failed for DOI: {doi} "
+            f"(HTTP {r.status_code})"
+        )
+
+    msg = r.json().get("message")
+    if not msg:
+        raise RuntimeError(
+            f"❌ Crossref response missing 'message' for DOI: {doi}"
+        )
+
+    # Title
     title = msg.get("title", [""])[0]
+
+    # Year (prefer print, then online)
     year = None
     if "published-print" in msg:
         year = msg["published-print"]["date-parts"][0][0]
     elif "published-online" in msg:
         year = msg["published-online"]["date-parts"][0][0]
 
+    # Authors
     authors = []
     for a in msg.get("author", []):
         family = a.get("family", "")
         given = a.get("given", "")
-        authors.append(f"{family}, {given}".strip(", "))
+        if family or given:
+            authors.append(f"{family}, {given}".strip(", "))
 
+    # Journal
     journal = msg.get("container-title", [""])[0]
 
     return {
