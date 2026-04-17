@@ -11,6 +11,7 @@ OUTPUT_FILE = Path("index.html")
 PLACEHOLDER = "<!-- GENERATED CONTENT -->"
 ALTMETRIC_API_KEY = os.environ.get("ALTMETRIC_API_KEY")
 DOI_ATTR_RE = re.compile(r'data-doi="([^"]+)"')
+BRADSHAW_RE = re.compile(r"\bBradshaw\b", re.IGNORECASE)
 
 
 # -------------------------------
@@ -86,6 +87,13 @@ def existing_order_lookup():
     return {doi: index for index, doi in enumerate(ordered_dois)}
 
 
+def format_authors(authors):
+    return BRADSHAW_RE.sub(
+        lambda match: f"<strong>{match.group(0)}</strong>",
+        authors,
+    )
+
+
 # -------------------------------
 # Fetch metrics for all papers
 # -------------------------------
@@ -132,7 +140,7 @@ items = []
 for p in papers:
     doi = p.get("doi", "")
     title = p.get("title", "")
-    authors = p.get("authors", "")
+    authors = format_authors(p.get("authors", ""))
     journal = p.get("journal", "")
     year = p.get("year") or "n.d."
     image = p.get("image")
