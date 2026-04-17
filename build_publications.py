@@ -79,27 +79,24 @@ for p in papers:
 
     items.append(
     f'<li class="paper">'
-    f'<div class="citation">'
-    f'{icon}'
-    f'{authors} {year}. '
-    f'<a href="https://doi.org/{doi}">{title}</a>. '
-    f'<span class="journal"><em>{journal}</em></span>. '
-    f'DOI:{doi}'
-    f'</div>'
-    f'<div class="paper-icon-container">'
-    f'{icon}'
-    f'</div>'
-    <div class="metrics-row">
-    <span class="altmetric-embed"
-    data-badge-type="donut"
-    data-doi="{doi}"></span>
-    <span class="metrics">
-    f'citations: {cites}'
-    f'</span>'
-    f'</div>'
+    f'  <div class="paper-row">'
+    f'    <div class="citation">'
+    f'      <strong>{authors}</strong> ({year}). '
+    f'      <a href="https://doi.org/{doi}">{title}</a>. '
+    f'      <span class="journal"><em>{journal}</em></span>. '
+    f'      doi:{doi}'
+    f'    </div>'
+    f'    <div class="paper-icon-container">{icon}</div>'
+    f'  </div>'
+    f'  <div class="metrics-row">'
+    f'    <span class="altmetric-embed" '
+    f'          data-badge-type="donut" '
+    f'          data-doi="{doi}"></span>'
+    f'    <span class="metrics">citations: {cites}</span>'
+    f'  </div>'
     f'</li>'
     f'<hr>'
-    )
+)
 
 html = TEMPLATE_FILE.read_text(encoding="utf-8")
 
