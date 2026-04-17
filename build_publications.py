@@ -84,7 +84,7 @@ for p in papers:
     f'      <strong>{authors}</strong> ({year}). '
     f'      <a href="https://doi.org/{doi}">{title}</a>. '
     f'      <span class="journal"><em>{journal}</em></span>. '
-    f'      doi:{doi}'
+    f'      DOI:{doi}'
     f'    </div>'
     f'    <div class="paper-icon-container">{icon}</div>'
     f'  </div>'
