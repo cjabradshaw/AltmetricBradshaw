@@ -21,7 +21,7 @@ def initials(given):
 # --- regex patterns ---
 hr_split = re.compile(r"<hr\s*/?>", re.IGNORECASE)
 img_re = re.compile(
-    r'<img[^>]+src=["\'](https://coreybradshaw\.files\.wordpress\.com/[^"\']+)["\']',
+    r'<img[^>]+src=["\']([^"\']+)["\']',
     re.IGNORECASE
 )
 doi_re = re.compile(
