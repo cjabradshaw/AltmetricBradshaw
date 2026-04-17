@@ -26,7 +26,8 @@ def fetch_altmetric(doi):
     try:
         r = requests.get(f"https://api.altmetric.com/v1/doi/{doi}", timeout=10)
         if r.ok:
-            return r.json().get("score", 0)
+            score = r.json().get("score", 0)
+            return int(score) if score is not None else 0
     except Exception:
         pass
     return 0
@@ -43,22 +44,23 @@ def fetch_citations(doi):
 
 
 # -------------------------------
-# Fetch metrics
+# Fetch metrics for all papers
 # -------------------------------
+
 for p in papers:
     doi = p.get("doi")
-    if not doi:
-        p["altmetric"] = 0
-        p["citations"] = 0
-        continue
-
     p["altmetric"] = fetch_altmetric(doi)
     p["citations"] = fetch_citations(doi)
     time.sleep(1)
 
-
-papers.sort(key=lambda p: p.get("altmetric", 0), reverse=True)
-
+# ✅ Sort AFTER fetching all metrics
+papers.sort(
+    key=lambda p: (
+        p.get("altmetric", 0),
+        p.get("year") or 0
+    ),
+    reverse=True
+)
 
 # -------------------------------
 # Render HTML
