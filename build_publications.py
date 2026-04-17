@@ -12,6 +12,7 @@ PLACEHOLDER = "<!-- GENERATED CONTENT -->"
 ALTMETRIC_API_KEY = os.environ.get("ALTMETRIC_API_KEY")
 DOI_ATTR_RE = re.compile(r'data-doi="([^"]+)"')
 BRADSHAW_RE = re.compile(r"\bBradshaw\b", re.IGNORECASE)
+MAX_DISPLAY_AUTHORS = 20
 
 
 # -------------------------------
@@ -101,16 +102,34 @@ def normalize_author_case(author):
     return f"{surname}{separator} {initials}"
 
 
+def should_truncate_authors(authors):
+    if len(authors) <= MAX_DISPLAY_AUTHORS:
+        return False
+
+    for author in authors[MAX_DISPLAY_AUTHORS:]:
+        if BRADSHAW_RE.search(author):
+            return False
+
+    return True
+
+
 def format_authors(authors):
-    normalized = "; ".join(
+    normalized_authors = [
         normalize_author_case(author)
         for author in authors.split(";")
         if author.strip()
-    )
+    ]
+
+    truncated = should_truncate_authors(normalized_authors)
+    visible_authors = normalized_authors[:MAX_DISPLAY_AUTHORS] if truncated else normalized_authors
+    formatted = "; ".join(visible_authors)
+
+    if truncated:
+        formatted = f"{formatted}; et al."
 
     return BRADSHAW_RE.sub(
         lambda match: f"<strong>{match.group(0)}</strong>",
-        normalized,
+        formatted,
     )
 
 
