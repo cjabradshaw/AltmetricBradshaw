@@ -80,9 +80,8 @@ for p in papers:
     items.append(f"""
 <li class="paper">
   <div class="citation">
-    <strong>{authors}</strong> ({year}).<br>
-    <a href="https://doi.org/{doi}">{title}</a>
-    <span class="journal">{journal}</span>
+    {authors} ({year}).<br>
+    <a href=""https://doi.org/{doi}"">{title}</a> <span class="journal">{journal}</span>
     {icon}
   </div>
 
