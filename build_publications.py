@@ -81,11 +81,12 @@ for p in papers:
   <div class="citation">
     {icon}
     <strong>{authors}</strong> ({year}).<br>
-    <a href="https://doi.org/{doi}" target="_blank" rel="noopener">
+    https://doi.org/{doi}">
       {title}
     </a><br>
     <span class="journal">{journal}</span>
   </div>
+
   <div class="metrics-row">
     <span class="altmetric-embed"
           data-badge-type="donut"
@@ -96,6 +97,7 @@ for p in papers:
   </div>
 </li>
 """.strip())
+``
 
 
 html = INDEX_FILE.read_text(encoding="utf-8")
