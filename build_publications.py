@@ -106,10 +106,4 @@ if "<!-- GENERATED CONTENT -->" not in html:
 html = html.replace("<!-- GENERATED CONTENT -->", "\n\n".join(items))
 OUTPUT_FILE.write_text(html, encoding="utf-8")
 
-if PLACEHOLDER not in html:
-    raise RuntimeError("Missing <!-- GENERATED CONTENT --> in index.html")
-
-html = html.replace(PLACEHOLDER, "\n\n".join(items))
-INDEX_FILE.write_text(html, encoding="utf-8")
-
 print(f"✅ index.html regenerated with {len(items)} papers")
