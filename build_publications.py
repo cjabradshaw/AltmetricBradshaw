@@ -55,10 +55,7 @@ for p in papers:
 
 # ✅ Sort AFTER fetching all metrics
 papers.sort(
-    key=lambda p: (
-        p.get("altmetric", 0),
-        p.get("year") or 0
-    ),
+   key=lambda p: int(p.get("altmetric", 0)),
     reverse=True
 )
 
