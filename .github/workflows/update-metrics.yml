@@ -27,6 +27,8 @@ jobs:
           pip install requests pyyaml
 
       - name: Build publication page
+        env:
+          ALTMETRIC_API_KEY: ${{ secrets.ALTMETRIC_API_KEY }}
         run: |
           python build_publications.py
 

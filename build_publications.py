@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 import time
 import yaml
@@ -7,6 +8,7 @@ PAPERS_FILE = Path("papers.yaml")
 TEMPLATE_FILE = Path("index.template.html")
 OUTPUT_FILE = Path("index.html")
 PLACEHOLDER = "<!-- GENERATED CONTENT -->"
+ALTMETRIC_API_KEY = os.environ.get("ALTMETRIC_API_KEY")
 
 
 # -------------------------------
@@ -23,20 +25,37 @@ if not isinstance(papers, list):
 # APIs
 # -------------------------------
 def fetch_altmetric(doi):
-    r = requests.get(f"https://api.altmetric.com/v1/doi/{doi}", timeout=10)
+    r = requests.get(
+        f"https://api.altmetric.com/v1/doi/{doi}",
+        params={"key": ALTMETRIC_API_KEY},
+        timeout=10,
+    )
+
+    if r.status_code == 404:
+        return 0.0
+
+    if r.status_code == 403:
+        raise RuntimeError(
+            "Altmetric API rejected ALTMETRIC_API_KEY. "
+            "Set a valid API key before rebuilding index.html."
+        )
 
     if not r.ok:
-        return None  # explicitly signal failure
+        raise RuntimeError(
+            f"Altmetric lookup failed for DOI {doi} (HTTP {r.status_code})"
+        )
 
     data = r.json()
 
     if "score" not in data:
-        return None
+        raise RuntimeError(f"Altmetric response missing score for DOI {doi}")
 
     try:
         return float(data["score"])
     except (TypeError, ValueError):
-        return None
+        raise RuntimeError(
+            f"Altmetric score for DOI {doi} is not numeric: {data.get('score')!r}"
+        )
 
 def fetch_citations(doi):
     try:
@@ -52,12 +71,18 @@ def fetch_citations(doi):
 # Fetch metrics for all papers
 # -------------------------------
 
+if not ALTMETRIC_API_KEY:
+    raise RuntimeError(
+        "ALTMETRIC_API_KEY is required to fetch Altmetric scores and sort "
+        "index.html correctly."
+    )
+
 for p in papers:
     doi = p.get("doi")
+    if not doi:
+        raise RuntimeError("Every paper entry must include a DOI")
 
-    score = fetch_altmetric(doi)
-    p["altmetric"] = score if score is not None else -1  # push failures to bottom
-
+    p["altmetric"] = fetch_altmetric(doi)
     p["citations"] = fetch_citations(doi)
     time.sleep(1)
 
