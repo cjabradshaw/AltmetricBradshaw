@@ -101,7 +101,7 @@ for p in papers:
 html = TEMPLATE_FILE.read_text(encoding="utf-8")
 
 if "<!-- GENERATED CONTENT -->" not in html:
-    raise RuntimeError("Template missing <!-- GENERATED CONTENT --> marker")
+    raise RuntimeError("Missing <!-- GENERATED CONTENT --> in index.template.html")
 
 html = html.replace("<!-- GENERATED CONTENT -->", "\n\n".join(items))
 OUTPUT_FILE.write_text(html, encoding="utf-8")
