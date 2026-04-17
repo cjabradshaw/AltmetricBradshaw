@@ -86,15 +86,19 @@ for p in papers:
     f'<span class="journal"><em>{journal}</em></span>. '
     f'DOI:{doi}'
     f'</div>'
-    f'<div class="metrics-row">'
-    f'<span class="altmetric-embed"'
-    f'data-badge-type="donut"'
-    f'data-doi="{doi}"></span>'
-    f'<span class="metrics">'
+    f'<div class="paper-icon-container">'
+    f'{icon}'
+    f'</div>'
+    <div class="metrics-row">
+    <span class="altmetric-embed"
+    data-badge-type="donut"
+    data-doi="{doi}"></span>
+    <span class="metrics">
     f'citations: {cites}'
     f'</span>'
     f'</div>'
     f'</li>'
+    f'<hr>'
     )
 
 html = TEMPLATE_FILE.read_text(encoding="utf-8")
