@@ -4,7 +4,8 @@ import yaml
 import requests
 
 PAPERS_FILE = Path("papers.yaml")
-INDEX_FILE = Path("index.html")
+TEMPLATE_FILE = Path("index.template.html")
+OUTPUT_FILE = Path("index.html")
 PLACEHOLDER = "<!-- GENERATED CONTENT -->"
 
 
@@ -97,7 +98,13 @@ for p in papers:
 """.strip())
 
 
-html = INDEX_FILE.read_text(encoding="utf-8")
+html = TEMPLATE_FILE.read_text(encoding="utf-8")
+
+if "<!-- GENERATED CONTENT -->" not in html:
+    raise RuntimeError("Template missing <!-- GENERATED CONTENT --> marker")
+
+html = html.replace("<!-- GENERATED CONTENT -->", "\n\n".join(items))
+OUTPUT_FILE.write_text(html, encoding="utf-8")
 
 if PLACEHOLDER not in html:
     raise RuntimeError("Missing <!-- GENERATED CONTENT --> in index.html")
