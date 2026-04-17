@@ -56,15 +56,15 @@ def crossref_metadata(doi):
     elif "published-online" in msg:
         year = msg["published-online"]["date-parts"][0][0]
 
-    # Authors
+    # Authors (surname + initials)
     authors = []
-for a in msg.get("author", []):
-    family = a.get("family", "")
-    given = a.get("given", "")
-    author = f"{family}, {initials(given)}".strip(", ")
-    if author:
-        authors.append(author)
-        
+    for a in msg.get("author", []):
+        family = a.get("family", "")
+        given = a.get("given", "")
+        author = f"{family}, {initials(given)}".strip(", ")
+        if author:
+            authors.append(author)
+
     # Journal
     journal = msg.get("container-title", [""])[0]
 
@@ -100,7 +100,7 @@ for block in blocks:
         "authors": meta["authors"],
         "title": meta["title"],
         "journal": meta["journal"],
-        "image": image
+        "image": image,
     })
 
 # --- write canonical YAML ---
