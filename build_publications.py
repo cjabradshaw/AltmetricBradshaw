@@ -79,12 +79,10 @@ for p in papers:
     items.append(f"""
 <li class="paper">
   <div class="citation">
-    {icon}
     <strong>{authors}</strong> ({year}).<br>
-    https://doi.org/{doi}">
-      {title}
-    </a><br>
+    <a href="https://doi.org/{doi}">{title}</a>
     <span class="journal">{journal}</span>
+    {icon}
   </div>
 
   <div class="metrics-row">
@@ -92,7 +90,7 @@ for p in papers:
           data-badge-type="donut"
           data-doi="{doi}"></span>
     <span class="metrics">
-      Altmetric: {alt} • Citations: {cites}
+      Citations: {cites}
     </span>
   </div>
 </li>
