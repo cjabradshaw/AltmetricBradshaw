@@ -34,7 +34,7 @@ def fetch_altmetric(doi):
         return None
 
     try:
-        return int(data["score"])
+        return float(data["score"])
     except (TypeError, ValueError):
         return None
 
