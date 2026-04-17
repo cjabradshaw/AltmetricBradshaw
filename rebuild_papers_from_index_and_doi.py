@@ -6,6 +6,18 @@ from pathlib import Path
 INDEX_MD = Path("index.md")
 OUTPUT_YAML = Path("papers.yaml")
 
+def initials(given):
+    """
+    Convert a given-name string into initials.
+    'Corey J A' -> 'CJA'
+    'Jean-Michel' -> 'JM'
+    'Mary Ann' -> 'MA'
+    """
+    if not given:
+        return ""
+    parts = given.replace("-", " ").split()
+    return "".join(p[0].upper() for p in parts if p)
+
 # --- regex patterns ---
 hr_split = re.compile(r"<hr\s*/?>", re.IGNORECASE)
 img_re = re.compile(
@@ -46,12 +58,13 @@ def crossref_metadata(doi):
 
     # Authors
     authors = []
-    for a in msg.get("author", []):
-        family = a.get("family", "")
-        given = a.get("given", "")
-        if family or given:
-            authors.append(f"{family}, {given}".strip(", "))
-
+for a in msg.get("author", []):
+    family = a.get("family", "")
+    given = a.get("given", "")
+    author = f"{family}, {initials(given)}".strip(", ")
+    if author:
+        authors.append(author)
+        
     # Journal
     journal = msg.get("container-title", [""])[0]
 
