@@ -77,25 +77,25 @@ for p in papers:
 
     icon = f'<img src="{image}" class="paper-icon" alt="Journal icon">' if image else ""
 
-    items.append(f"""
-<li class="paper">
-  <div class="citation">
-    {authors} ({year}).<br>
-    <a href=""https://doi.org/{doi}"">{title}</a> <span class="journal">{journal}</span>
-    {icon}
-  </div>
-
-  <div class="metrics-row">
-    <span class="altmetric-embed"
-          data-badge-type="donut"
-          data-doi="{doi}"></span>
-    <span class="metrics">
-      Citations: {cites}
-    </span>
-  </div>
-</li>
-""".strip())
-
+    items.append(
+    f'<li class="paper">'
+    f'<div class="citation">'
+    f'{icon}'
+    f'<strong>{authors}</strong> ({year}). '
+    f'<a href="https://doi.org/{doi}">{title}</a>. '
+    f'<span class="journal">{journal}</span>. '
+    f'https://doi.org/{doi}'
+    f'</div>'
+    f'<div class="metrics-row">'
+    f'<span class="altmetric-embed"'
+    f'data-badge-type="donut"'
+    f'data-doi="{doi}"></span>'
+    f'<span class="metrics">'
+    f'Citations: {cites}'
+    f'</span>'
+    f'</div>'
+    f'</li>'
+    )
 
 html = TEMPLATE_FILE.read_text(encoding="utf-8")
 
