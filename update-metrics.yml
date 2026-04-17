@@ -1,0 +1,27 @@
+name: Update publication metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'   # weekly
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: pip install pyyaml requests
+
+      - name: Update metrics
+        run: python build_publications.py
+
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add index.html
+          git commit -m "Update Altmetric & citation rankings" || exit 0
+          git push
