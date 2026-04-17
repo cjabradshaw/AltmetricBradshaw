@@ -1,6 +1,6 @@
 import yaml, requests, time
 
-with open("papers.yaml") as f:
+with open("papers_fixed.yaml") as f:
     papers = yaml.safe_load(f)
 
 def altmetric(doi):
