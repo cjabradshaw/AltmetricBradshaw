@@ -13,6 +13,70 @@ ALTMETRIC_API_KEY = os.environ.get("ALTMETRIC_API_KEY")
 DOI_ATTR_RE = re.compile(r'data-doi="([^"]+)"')
 BRADSHAW_RE = re.compile(r"\bBradshaw\b", re.IGNORECASE)
 MAX_DISPLAY_AUTHORS = 20
+JOURNAL_ABBREVIATION_OVERRIDES = {
+    "American Journal of Health Promotion": "Am J Health Promot",
+    "Applied Energy": "Appl Energy",
+    "Asia &amp; the Pacific Policy Studies": "Asia Pac Policy Stud",
+    "Austral Ecology": "Austral Ecol",
+    "Biological Conservation": "Biol Conserv",
+    "Biological Reviews": "Biol Rev",
+    "Conservation Biology": "Conserv Biol",
+    "Conservation Letters": "Conserv Lett",
+    "Conservation Science and Practice": "Conserv Sci Pract",
+    "Current Biology": "Curr Biol",
+    "Diversity and Distributions": "Divers Distrib",
+    "Ecological Applications": "Ecol Appl",
+    "Ecological Economics": "Ecol Econ",
+    "Ecological Management &amp; Restoration": "Ecol Manag Restor",
+    "Ecological Monographs": "Ecol Monogr",
+    "Ecology and Evolution": "Ecol Evol",
+    "Ecology Letters": "Ecol Lett",
+    "Environmental Research": "Environ Res",
+    "Environmental Research Letters": "Environ Res Lett",
+    "Environmental Sciences Europe": "Environ Sci Eur",
+    "Evolutionary Applications": "Evol Appl",
+    "Fish and Fisheries": "Fish Fish",
+    "Frontiers in Conservation Science": "Front Conserv Sci",
+    "Frontiers in Ecology and the Environment": "Front Ecol Environ",
+    "Frontiers in Public Health": "Front Public Health",
+    "Geophysical Research Letters": "Geophys Res Lett",
+    "Global and Planetary Change": "Glob Planet Change",
+    "Global Change Biology": "Glob Change Biol",
+    "ICES Journal of Marine Science": "ICES J Mar Sci",
+    "Journal of Animal Ecology": "J Anim Ecol",
+    "Journal of Applied Ecology": "J Appl Ecol",
+    "Journal of Fish Biology": "J Fish Biol",
+    "Journal of Mammalogy": "J Mammal",
+    "Journal of Plant Ecology": "J Plant Ecol",
+    "Marine Ecology Progress Series": "Mar Ecol Prog Ser",
+    "Marine Pollution Bulletin": "Mar Pollut Bull",
+    "Molecular Ecology": "Mol Ecol",
+    "Nature Communications": "Nat Commun",
+    "Nature Ecology &amp; Evolution": "Nat Ecol Evol",
+    "Nature Genetics": "Nat Genet",
+    "Nature Geoscience": "Nat Geosci",
+    "Nature Human Behaviour": "Nat Hum Behav",
+    "PLOS Computational Biology": "PLoS Comput Biol",
+    "PLOS ONE": "PLoS One",
+    "PLoS ONE": "PLoS One",
+    "Palaeogeography, Palaeoclimatology, Palaeoecology": "Palaeogeogr Palaeoclimatol Palaeoecol",
+    "Proceedings of the National Academy of Sciences": "Proc Natl Acad Sci USA",
+    "Proceedings of the Royal Society B: Biological Sciences": "Proc R Soc B",
+    "Quaternary Geochronology": "Quat Geochronol",
+    "Quaternary International": "Quat Int",
+    "Quaternary Science Reviews": "Quat Sci Rev",
+    "Regional Studies in Marine Science": "Reg Stud Mar Sci",
+    "Renewable and Sustainable Energy Reviews": "Renew Sustain Energy Rev",
+    "River Research and Applications": "River Res Appl",
+    "Royal Society Open Science": "R Soc Open Sci",
+    "Science Advances": "Sci Adv",
+    "Science of The Total Environment": "Sci Total Environ",
+    "Scientific Data": "Sci Data",
+    "Scientific Reports": "Sci Rep",
+    "Transactions of the Royal Society of South Australia": "Trans R Soc S Aust",
+    "Trends in Ecology &amp; Evolution": "Trends Ecol Evol",
+    "AMBIO: A Journal of the Human Environment": "Ambio",
+}
 
 
 # -------------------------------
@@ -62,14 +126,41 @@ def fetch_altmetric(doi):
         )
 
 
-def fetch_citations(doi):
+def sanitize_journal_name(name):
+    return re.sub(r"\s+", " ", name.replace(".", "")).strip()
+
+
+def normalized_journal_key(name):
+    return sanitize_journal_name(name).replace("&amp;", "&").lower()
+
+
+def abbreviate_journal_name(full_title, crossref_message):
+    override = JOURNAL_ABBREVIATION_OVERRIDES.get(full_title)
+    if override:
+        return override
+
+    for short_title in crossref_message.get("short-container-title", []):
+        if short_title and normalized_journal_key(short_title) != normalized_journal_key(full_title):
+            return sanitize_journal_name(short_title)
+
+    return sanitize_journal_name(full_title)
+
+
+def fetch_crossref_metadata(doi, journal):
     try:
         r = requests.get(f"https://api.crossref.org/works/{doi}", timeout=10)
         if r.ok:
-            return r.json()["message"].get("is-referenced-by-count", 0)
+            message = r.json()["message"]
+            return {
+                "citations": message.get("is-referenced-by-count", 0),
+                "journal": abbreviate_journal_name(journal, message),
+            }
     except Exception:
         pass
-    return 0
+    return {
+        "citations": 0,
+        "journal": abbreviate_journal_name(journal, {}),
+    }
 
 
 def existing_order_lookup():
@@ -142,7 +233,9 @@ for p in papers:
     if not doi:
         raise RuntimeError("Every paper entry must include a DOI")
 
-    p["citations"] = fetch_citations(doi)
+    crossref = fetch_crossref_metadata(doi, p.get("journal", ""))
+    p["citations"] = crossref["citations"]
+    p["journal_abbrev"] = crossref["journal"]
     p["altmetric"] = None
 
 existing_order = existing_order_lookup()
@@ -180,7 +273,7 @@ for p in papers:
     doi = p.get("doi", "")
     title = p.get("title", "")
     authors = format_authors(p.get("authors", ""))
-    journal = p.get("journal", "")
+    journal = p.get("journal_abbrev") or p.get("journal", "")
     year = p.get("year") or "n.d."
     image = p.get("image")
     alt = p.get("altmetric", 0)
