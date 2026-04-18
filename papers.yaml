@@ -2,7 +2,7 @@
   year: 2021
   authors: Bradshaw, CJA; Ehrlich, PR; Beattie, A; Ceballos, G; Crist, E; Diamond, J; Dirzo, R; Ehrlich, AH; Harte, J; Harte,
     ME; Pyke, G; Raven, PH; Ripple, WJ; Saltré, F; Turnbull, C; Wackernagel, M; Blumstein, DT
-  title: Underestimating the Challenges of Avoiding a Ghastly Future
+  title: Underestimating the challenges of avoiding a ghastly Future
   journal: Frontiers in Conservation Science
   image: https://coreybradshaw.files.wordpress.com/2021/08/ghastly.png
 - doi: 10.1371/journal.pcbi.1011268
@@ -162,7 +162,7 @@
 - doi: 10.1126/science.1240495
   year: 2013
   authors: Gibson, L; Lynam, AJ; Bradshaw, CJA; He, F; Bickford, DP; Woodruff, DS; Bumrungsri, S; Laurance, WF
-  title: Near-Complete Extinction of Native Small Mammal Fauna 25 Years After Forest Fragmentation
+  title: Near-complete extinction of native small mammal fauna 25 years after forest fragmentation
   journal: Science
   image: https://coreybradshaw.files.wordpress.com/2021/08/fragments.png
 - doi: 10.1038/s41467-021-21551-3
@@ -181,7 +181,7 @@
 - doi: 10.1016/j.scitotenv.2024.170944
   year: 2024
   authors: Weeda, LJ; Bradshaw, CJ; Judge, MA; Saraswati, CM; Le Souëf, PN
-  title: 'How climate change degrades child health: A systematic review and meta-analysis'
+  title: 'How climate change degrades child health: a systematic review and meta-analysis'
   journal: Science of The Total Environment
   image: https://coreybradshaw.files.wordpress.com/2024/02/warmchild.png
 - doi: 10.11646/zootaxa.4564.1.6
@@ -189,7 +189,7 @@
   authors: SMITH, BP; CAIRNS, KM; ADAMS, JW; NEWSOME, TM; FILLIOS, M; DÉAUX, EC; PARR, WCH; LETNIC, M; VAN EEDEN, LM; APPLEBY,
     RG; BRADSHAW, CJA; SAVOLAINEN, P; RITCHIE, EG; NIMMO, DG; ARCHER-LEAN, C; GREENVILLE, AC; DICKMAN, CR; WATSON, L; MOSEBY,
     KE; DOHERTY, TS; WALLACH, AD; MORRANT, DS; CROWTHER, MS
-  title: 'Taxonomic status of the Australian dingo: the case for Canis dingo Meyer, 1793'
+  title: 'Taxonomic status of the Australian dingo: the case for <i>Canis dingo</i> Meyer, 1793'
   journal: Zootaxa
   image: https://coreybradshaw.files.wordpress.com/2021/08/dingo.png
 - doi: 10.3897/neobiota.67.58834
@@ -312,13 +312,13 @@
 - doi: 10.1371/journal.pone.0010440
   year: 2010
   authors: Bradshaw, CJA; Giam, X; Sodhi, NS
-  title: Evaluating the Relative Environmental Impact of Countries
+  title: Evaluating the relative environmental impact of countries
   journal: PLoS ONE
   image: https://coreybradshaw.files.wordpress.com/2021/08/globe.png
 - doi: 10.1525/bio.2013.63.10.9
   year: 2013
   authors: Laurance, WF; Useche, DC; Laurance, SG; Bradshaw, CJA
-  title: Predicting Publication Success for Biologists
+  title: Predicting publication success for biologists
   journal: BioScience
   image: https://coreybradshaw.files.wordpress.com/2021/08/writing.png
 - doi: 10.1073/pnas.2311280120
@@ -330,20 +330,20 @@
 - doi: 10.1002/ece3.72470
   year: 2026
   authors: Saltré, F; Peters, KJ; Rogers, DJ; Chadoeuf, J; Weisbecker, V; Bradshaw, CJA
-  title: Balancing High Densities and Conservation Targets to Optimise Koala Management Strategies
+  title: Balancing high densities and conservation targets to optimise koala management strategies
   journal: Ecology and Evolution
   image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
 - doi: 10.1177/08901171211064224
   year: 2022
   authors: Ripple, WJ; DellaSala, DA; Baumann, F; Gregg, J; Betts, MG; Law, BE; Bradshaw, CJA; Wolf, C
-  title: Zoonotic Diseases and Our Troubled Relationship With Nature
+  title: Zoonotic diseases and our troubled relationship with nature
   journal: American Journal of Health Promotion
   image: https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png
 - doi: 10.1093/biosci/biaf181
   year: 2026
   authors: Arbieu, U; Bellard, C; Bradshaw, CJA; Correia, R; Courtois, P; Di Minin, E; Jarić, I; Murfree, JR; Orr, M; Roturier,
     S; Sartore-Baldwin, M; Veríssimo, D; Courchamp, F
-  title: Wildlife Diversity in Global Team Sport Branding
+  title: Wildlife diversity in global team sport branding
   journal: BioScience
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/tiger-logo-cutout.png
 - doi: 10.1098/rsbl.2005.0313
@@ -362,7 +362,7 @@
 - doi: 10.1093/biosci/biz004
   year: 2019
   authors: Herrando-Pérez, S; Bradshaw, CJA; Lewandowsky, S; Vieites, DR
-  title: Statistical Language Backs Conservatism in Climate-Change Assessments
+  title: Statistical language backs conservatism in climate-change assessments
   journal: BioScience
   image: https://coreybradshaw.files.wordpress.com/2021/08/words.png
 - doi: 10.1093/jmammal/gyad053
@@ -387,7 +387,7 @@
 - doi: 10.1016/j.biocon.2007.06.011
   year: 2007
   authors: Traill, LW; Bradshaw, CJ; Brook, BW
-  title: 'Minimum viable population size: A meta-analysis of 30 years of published estimates'
+  title: 'Minimum viable population size: a meta-analysis of 30 years of published estimates'
   journal: Biological Conservation
   image: https://coreybradshaw.files.wordpress.com/2021/08/gauge.png
 - doi: 10.1016/j.marpolbul.2023.115855
@@ -484,7 +484,7 @@
 - doi: 10.1371/journal.pone.0151090
   year: 2016
   authors: Block, S; Saltré, F; Rodríguez-Rey, M; Fordham, DA; Unkel, I; Bradshaw, CJA
-  title: 'Where to Dig for Fossils: Combining Climate-Envelope, Taphonomy and Discovery Models'
+  title: 'Where to dig for fossils: combining climate-envelope, taphonomy and discovery models'
   journal: PLOS ONE
   image: https://coreybradshaw.files.wordpress.com/2021/08/fossils.png
 - doi: 10.1016/j.envres.2025.122412
@@ -504,7 +504,7 @@
   year: 2025
   authors: Gates, K; Sandoval‐Castillo, J; Beaman, JE; da Silva, KB; Saltré, F; Belov, K; Hogg, CJ; Bradshaw, CJA; Beheregaray,
     LB
-  title: 'Conservation Arks: Genomic Erosion and Inbreeding in an Abundant Island Population of Koalas'
+  title: 'Conservation arks: genomic erosion and inbreeding in an abundant island population of koalas'
   journal: Molecular Ecology
   image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
 - doi: 10.1111/ddi.12767
@@ -614,13 +614,13 @@
 - doi: 10.1371/journal.pone.0001636
   year: 2008
   authors: Sodhi, NS; Bickford, D; Diesmos, AC; Lee, TM; Koh, LP; Brook, BW; Sekercioglu, CH; Bradshaw, CJA
-  title: 'Measuring the Meltdown: Drivers of Global Amphibian Extinction and Decline'
+  title: 'Measuring the meltdown: drivers of global amphibian extinction and decline'
   journal: PLoS ONE
   image: https://coreybradshaw.files.wordpress.com/2021/08/frogskeleton.png
 - doi: 10.1002/ecm.1615
   year: 2024
   authors: Champreux, A; Saltré, F; Traylor, W; Hickler, T; Bradshaw, CJA
-  title: 'How to map biomes: Quantitative comparison and review of biome‐mapping methods'
+  title: 'How to map biomes: quantitative comparison and review of biome‐mapping methods'
   journal: Ecological Monographs
   image: https://conservationbytes.com/wp-content/uploads/2024/08/biome.png
 - doi: 10.1038/s41467-025-62692-z
@@ -666,7 +666,7 @@
 - doi: 10.1002/app5.135
   year: 2016
   authors: Bradshaw, CJA; Brook, BW
-  title: Implications of Australia's Population Policy for Future Greenhouse Gas Emissions Targets
+  title: Implications of Australia's population policy for future greenhouse gas emissions targets
   journal: Asia &amp; the Pacific Policy Studies
   image: https://coreybradshaw.files.wordpress.com/2021/08/co2footprint.jpg
 - doi: 10.1371/journal.pone.0149852
@@ -678,7 +678,7 @@
 - doi: 10.1016/j.biocon.2008.05.007
   year: 2008
   authors: Bradshaw, CJ; Fitzpatrick, BM; Steinberg, CC; Brook, BW; Meekan, MG
-  title: 'Decline in whale shark size and abundance at Ningaloo Reef over the past decade: The world’s largest fish is getting
+  title: 'Decline in whale shark size and abundance at Ningaloo Reef over the past decade: the world’s largest fish is getting
     smaller'
   journal: Biological Conservation
   image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
@@ -698,7 +698,7 @@
 - doi: 10.1016/j.apenergy.2014.09.062
   year: 2014
   authors: Hong, S; Bradshaw, CJ; Brook, BW
-  title: 'Nuclear power can reduce emissions and maintain a strong economy: Rating Australia’s optimal future electricity-generation
+  title: 'Nuclear power can reduce emissions and maintain a strong economy: rating Australia’s optimal future electricity-generation
     mix by technologies and policies'
   journal: Applied Energy
   image: https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png
@@ -723,7 +723,7 @@
 - doi: 10.1002/ece3.1094
   year: 2014
   authors: Sequeira, AMM; Roetman, PEJ; Daniels, CB; Baker, AK; Bradshaw, CJA
-  title: Distribution models for koalas in <scp>S</scp>outh <scp>A</scp>ustralia using citizen science‐collected data
+  title: Distribution models for koalas in South Australia using citizen science‐collected data
   journal: Ecology and Evolution
   image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
 - doi: 10.1002/2015GL066344
@@ -742,7 +742,7 @@
 - doi: 10.1111/j.1523-1739.2010.01448.x
   year: 2010
   authors: LAURANCE, WF; KOH, LP; BUTLER, R; SODHI, NS; BRADSHAW, CJA; NEIDEL, JD; CONSUNJI, H; MATEO VEGA, J
-  title: Improving the Performance of the Roundtable on Sustainable Palm Oil for Nature Conservation
+  title: Improving the performance of the Roundtable on Sustainable Palm Oil for Nature Conservation
   journal: Conservation Biology
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/oilpalm.png
 - doi: 10.1111/jfb.12017
@@ -760,7 +760,7 @@
 - doi: 10.1016/j.cub.2011.09.028
   year: 2011
   authors: Wernberg, T; Russell, BD; Thomsen, MS; Gurgel, CFD; Bradshaw, CJ; Poloczanska, ES; Connell, SD
-  title: Seaweed Communities in Retreat from Ocean Warming
+  title: Seaweed communities in retreat from ocean warming
   journal: Current Biology
   image: https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png
 - doi: 10.1111/aec.13492
@@ -773,13 +773,13 @@
   year: 2014
   authors: Moen, J; Rist, L; Bishop, K; Chapin, FS; Ellison, D; Kuuluvainen, T; Petersson, H; Puettmann, KJ; Rayner, J; Warkentin,
     IG; Bradshaw, CJA
-  title: 'Eye on the Taiga: Removing Global Policy Impediments to Safeguard the Boreal Forest'
+  title: 'Eye on the taiga: removing global policy impediments to safeguard the boreal forest'
   journal: Conservation Letters
   image: https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png
 - doi: 10.1093/biosci/biu013
   year: 2014
   authors: Herrando-Pérez, S; Brook, BW; Bradshaw, CJA
-  title: Ecology Needs a Convention of Nomenclature
+  title: Ecology needs a convention of nomenclature
   journal: BioScience
   image: https://coreybradshaw.files.wordpress.com/2021/08/list.png
 - doi: 10.1111/1365-2664.13187
@@ -833,7 +833,7 @@
   authors: Friedman, K; Braccini, M; Bjerregaard‐Walsh, M; Bonfil, R; Bradshaw, CJA; Brouwer, S; Campbell, I; Coelho, R; Cortés,
     E; Dimmlich, W; Frisk, MG; Kingma, I; McCully Phillips, SR; O'Criodain, C; Parker, D; Shephard, S; Tovar‐Ávila, J; Yokawa,
     K
-  title: 'Informing CITES Parties: Strengthening science‐based decision‐making when listing marine species'
+  title: 'Informing CITES Parties: strengthening science‐based decision‐making when listing marine species'
   journal: Fish and Fisheries
   image: https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png
 - doi: 10.1093/icesjms/fsy031
@@ -858,7 +858,7 @@
 - doi: 10.3354/meps319275
   year: 2006
   authors: Meekan, M; Bradshaw, C; Press, M; McLean, C; Richards, A; Quasnichka, S; Taylor, J
-  title: Population size and structure of whale sharks Rhincodon typus at Ningaloo Reef, Western Australia
+  title: Population size and structure of whale sharks <i>Rhincodon typus</i> at Ningaloo Reef, Western Australia
   journal: Marine Ecology Progress Series
   image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
 - doi: 10.1038/nature06518
@@ -871,7 +871,7 @@
 - doi: 10.1111/j.1744-7429.2006.00141.x
   year: 2006
   authors: Brook, BW; Bradshaw, CJA; Koh, LP; Sodhi, NS
-  title: 'Momentum Drives the Crash: Mass Extinction in the Tropics<sup>1</sup>'
+  title: 'Momentum drives the crash: mass extinction in the tropics'
   journal: Biotropica
   image: https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png
 - doi: 10.1111/j.1472-4642.2011.00853.x
@@ -895,7 +895,7 @@
 - doi: 10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2
   year: 2006
   authors: Brook, BW; Bradshaw, CJA
-  title: STRENGTH OF EVIDENCE FOR DENSITY DEPENDENCE IN ABUNDANCE TIME SERIES OF 1198 SPECIES
+  title: Strength of evidence for density dependence in abundance time series of 1198 species
   journal: Ecology
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/feedback.png
 - doi: 10.1111/j.1365-2664.2011.02081.x
@@ -915,20 +915,20 @@
 - doi: 10.1579/0044-7447-38.2.125
   year: 2009
   authors: Bradshaw, CJA
-  title: Flooding Policy Makers with Evidence to Save Forests
+  title: Flooding policy makers with evidence to save forests
   journal: 'AMBIO: A Journal of the Human Environment'
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/deforestfloodicontransp.png
 - doi: 10.1016/j.biocon.2003.11.017
   year: 2004
   authors: Otway, NM; Bradshaw, CJ; Harcourt, RG
-  title: Estimating the rate of quasi-extinction of the Australian grey nurse shark (Carcharias taurus) population using deterministic
+  title: Estimating the rate of quasi-extinction of the Australian grey nurse shark (<i>Carcharias taurus</i>) population using deterministic
     age- and stage-classified models
   journal: Biological Conservation
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/gns.png
 - doi: 10.1111/eva.70092
   year: 2025
   authors: Beaman, JE; Gates, K; Saltré, F; Hogg, CJ; Belov, K; Ashman, K; da Silva, KB; Beheregaray, LB; Bradshaw, CJA
-  title: A Guide for Developing Demo‐Genetic Models to Simulate Genetic Rescue
+  title: A guide for developing demo‐genetic models to simulate genetic rescue
   journal: Evolutionary Applications
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2025/05/gricontranspbw.png
 - doi: 10.1002/rra.3951
@@ -944,7 +944,7 @@
     SD; Dalal, RC; Boer, MM; Lynch, AJJ; Bradstock, RA; Brook, BW; Henry, BK; Hunt, LP; Fisher, DO; Hunter, D; Johnson, CN;
     Keith, DA; Lefroy, EC; Penman, TD; Meyer, WS; Thomson, JR; Thornton, CM; VanDerWal, J; Williams, RJ; Keniger, L; Specht,
     A
-  title: Brave new green world – Consequences of a carbon economy for the conservation of Australian biodiversity
+  title: Brave new green world – consequences of a carbon economy for the conservation of Australian biodiversity
   journal: Biological Conservation
   image: https://coreybradshaw.files.wordpress.com/2021/08/carbonprice.jpg
 - doi: 10.1111/csp2.448
@@ -964,7 +964,7 @@
   authors: Courchamp, F; Klippel, G; Angulo, E; Arbieu, U; Bang, A; Bojko, J; Caetano, GHDO; Camacho-Cervantes, M; Carneiro,
     L; Cuthbert, RN; Dawson, MN; Desiderato, A; Fath, BD; Firth, JA; Latombe, G; Leroy, B; Liu, C; Manfrini, E; Pan, X; Pincheira-Donoso,
     D; Tonkin, JD; Vimercati, G; Wang, S; Bradshaw, CJA
-  title: Quantifying the Magnitude of Biological Invasions Using Total Biomass
+  title: Quantifying the magnitude of biological invasions using total biomass
   journal: BioScience
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/rats.png
 - doi: 10.1016/j.rsma.2015.05.002
