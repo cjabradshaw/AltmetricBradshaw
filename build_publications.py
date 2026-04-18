@@ -195,6 +195,10 @@ def normalize_author_case(author):
     if surname.isupper():
         surname = surname.title()
 
+    if BRADSHAW_RE.fullmatch(surname):
+        surname = "Bradshaw"
+        initials = "CJA"
+
     return f"{surname}{separator} {initials}"
 
 
