@@ -47,6 +47,7 @@ JOURNAL_ABBREVIATION_OVERRIDES = {
     "Geophysical Research Letters": "Geophys Res Lett",
     "Global and Planetary Change": "Glob Planet Change",
     "Global Change Biology": "Glob Change Biol",
+    "Globalization and Health": "Globaliz Health",
     "ICES Journal of Marine Science": "ICES J Mar Sci",
     "Journal of Animal Ecology": "J Anim Ecol",
     "Journal of Applied Ecology": "J Appl Ecol",
