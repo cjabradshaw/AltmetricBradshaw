@@ -61,6 +61,7 @@ JOURNAL_ABBREVIATION_OVERRIDES = {
     "Nature Genetics": "Nat Genet",
     "Nature Geoscience": "Nat Geosci",
     "Nature Human Behaviour": "Nat Hum Behav",
+    "NeoBiota": "NeoBiota",
     "PLOS Computational Biology": "PLoS Comput Biol",
     "PLOS ONE": "PLoS One",
     "PLoS ONE": "PLoS One",
