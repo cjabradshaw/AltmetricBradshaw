@@ -272,12 +272,6 @@
     nations
   journal: PLOS ONE
   image: https://coreybradshaw.files.wordpress.com/2023/02/fertility.jpg
-- doi: 10.1111/gcb.15221
-  year: 2020
-  authors: Monaco, CJ; Bradshaw, CJA; Booth, DJ; Gillanders, BM; Schoeman, DS; Nagelkerken, I
-  title: Dietary generalism accelerates arrival and persistence of coral‐reef fishes in their novel ranges under climate change
-  journal: Global Change Biology
-  image: https://coreybradshaw.files.wordpress.com/2021/08/tropicalfish.png
 - doi: 10.1016/j.tree.2008.03.011
   year: 2008
   authors: BROOK, B; SODHI, N; BRADSHAW, C
@@ -302,18 +296,24 @@
   title: Evaluating the relative environmental impact of countries
   journal: PLoS ONE
   image: https://coreybradshaw.files.wordpress.com/2021/08/globe.png
-- doi: 10.1525/bio.2013.63.10.9
-  year: 2013
-  authors: Laurance, WF; Useche, DC; Laurance, SG; Bradshaw, CJA
-  title: Predicting publication success for biologists
-  journal: BioScience
-  image: https://coreybradshaw.files.wordpress.com/2021/08/writing.png
+- doi: 10.1111/gcb.15221
+  year: 2020
+  authors: Monaco, CJ; Bradshaw, CJA; Booth, DJ; Gillanders, BM; Schoeman, DS; Nagelkerken, I
+  title: Dietary generalism accelerates arrival and persistence of coral‐reef fishes in their novel ranges under climate change
+  journal: Global Change Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/tropicalfish.png
 - doi: 10.1016/j.quascirev.2023.107971
   year: 2023
   authors: Bradshaw, CJ; Crabtree, SA; White, DA; Ulm, S; Bird, MI; Williams, AN; Saltré, F
   title: Directionally supervised cellular automaton for the initial peopling of Sahul
   journal: Quaternary Science Reviews
   image: https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png
+- doi: 10.1525/bio.2013.63.10.9
+  year: 2013
+  authors: Laurance, WF; Useche, DC; Laurance, SG; Bradshaw, CJA
+  title: Predicting publication success for biologists
+  journal: BioScience
+  image: https://coreybradshaw.files.wordpress.com/2021/08/writing.png
 - doi: 10.1111/ecog.06619
   year: 2023
   authors: Llewelyn, J; Strona, G; Dickman, CR; Greenville, AC; Wardle, GM; Lee, MSY; Doherty, S; Shabani, F; Saltré, F; Bradshaw,
@@ -444,6 +444,18 @@
   title: Professional sport organizations as potential champions of biodiversity conservation
   journal: Frontiers in Ecology and the Environment
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/tiger-logo-cutout.png
+- doi: 10.7554/eLife.63870
+  year: 2021
+  authors: Bradshaw, CJ; Johnson, CN; Llewelyn, J; Weisbecker, V; Strona, G; Saltré, F
+  title: Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna
+  journal: eLife
+  image: https://coreybradshaw.files.wordpress.com/2021/08/genyornis.png
+- doi: 10.1016/j.apenergy.2015.01.006
+  year: 2015
+  authors: Hong, S; Bradshaw, CJ; Brook, BW
+  title: Global zero-carbon energy pathways using viable mixes of nuclear and renewables
+  journal: Applied Energy
+  image: https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png
 - doi: 10.1038/s41467-024-48273-6
   year: 2024
   authors: Manca, F; Benedetti-Cecchi, L; Bradshaw, CJA; Cabeza, M; Gustafsson, C; Norkko, AM; Roslin, TV; Thomas, DN; White,
@@ -451,42 +463,30 @@
   title: Projected loss of brown macroalgae and seagrasses with global environmental change
   journal: Nature Communications
   image: https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png
-- doi: 10.1016/j.apenergy.2015.01.006
-  year: 2015
-  authors: Hong, S; Bradshaw, CJ; Brook, BW
-  title: Global zero-carbon energy pathways using viable mixes of nuclear and renewables
-  journal: Applied Energy
-  image: https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png
 - doi: 10.1890/15-1784.1
   year: 2016
   authors: Liu, X; Lyu, S; Zhou, S; Bradshaw, CJA
   title: Warming and fertilization alter the dilution effect of host diversity on disease severity
   journal: Ecology
   image: https://coreybradshaw.files.wordpress.com/2021/08/dyingplant.png
-- doi: 10.7554/eLife.63870
-  year: 2021
-  authors: Bradshaw, CJ; Johnson, CN; Llewelyn, J; Weisbecker, V; Strona, G; Saltré, F
-  title: Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna
-  journal: eLife
-  image: https://coreybradshaw.files.wordpress.com/2021/08/genyornis.png
 - doi: 10.1016/j.biocon.2009.09.001
   year: 2010
   authors: Traill, LW; Brook, BW; Frankham, RR; Bradshaw, CJ
   title: Pragmatic population viability targets in a rapidly changing world
   journal: Biological Conservation
   image: https://coreybradshaw.files.wordpress.com/2021/08/gauge.png
-- doi: 10.1111/gcb.16836
-  year: 2023
-  authors: Doherty, S; Saltré, F; Llewelyn, J; Strona, G; Williams, SE; Bradshaw, CJA
-  title: Estimating co‐extinction threats in terrestrial ecosystems
-  journal: Global Change Biology
-  image: https://coreybradshaw.files.wordpress.com/2024/03/network.png
 - doi: 10.1038/s41598-019-45762-3
   year: 2019
   authors: Bradshaw, CJA; Di Minin, E
   title: Socio-economic predictors of environmental performance among African nations
   journal: Scientific Reports
   image: https://coreybradshaw.files.wordpress.com/2021/08/africa.png
+- doi: 10.1111/gcb.16836
+  year: 2023
+  authors: Doherty, S; Saltré, F; Llewelyn, J; Strona, G; Williams, SE; Bradshaw, CJA
+  title: Estimating co‐extinction threats in terrestrial ecosystems
+  journal: Global Change Biology
+  image: https://coreybradshaw.files.wordpress.com/2024/03/network.png
 - doi: 10.1371/journal.pone.0151090
   year: 2016
   authors: Block, S; Saltré, F; Rodríguez-Rey, M; Fordham, DA; Unkel, I; Bradshaw, CJA
@@ -499,6 +499,13 @@
   title: Impact of climate change on diarrhoea risk in low- and middle-income countries
   journal: Environmental Research
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2025/07/diarrhoea2-1.png
+- doi: 10.1016/j.tree.2025.03.010
+  year: 2025
+  authors: Carneiro, L; Leroy, B; Capinha, C; Bradshaw, CJ; Bertolino, S; Catford, JA; Camacho-Cervantes, M; Bojko, J; Klippel,
+    G; Kumschick, S; Pincheira-Donoso, D; Tonkin, JD; Fath, BD; South, J; Manfrini, E; Dallas, T; Courchamp, F
+  title: Typology of the ecological impacts of biological invasions
+  journal: Trends in Ecology &amp; Evolution
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2025/04/snail.png
 - doi: 10.1111/cobi.12189
   year: 2013
   authors: Ritchie, EG; Bradshaw, CJA; Dickman, CR; Hobbs, R; Johnson, CN; Johnston, EL; Laurance, WF; Lindenmayer, D; McCarthy,
@@ -506,13 +513,6 @@
   title: Continental‐Scale Governance and the Hastening of Loss of Australia's Biodiversity
   journal: Conservation Biology
   image: https://coreybradshaw.files.wordpress.com/2021/08/sugarglider.jpg
-- doi: 10.1111/mec.70097
-  year: 2025
-  authors: Gates, K; Sandoval‐Castillo, J; Beaman, JE; da Silva, KB; Saltré, F; Belov, K; Hogg, CJ; Bradshaw, CJA; Beheregaray,
-    LB
-  title: 'Conservation arks: genomic erosion and inbreeding in an abundant island population of koalas'
-  journal: Molecular Ecology
-  image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
 - doi: 10.1111/ddi.12767
   year: 2018
   authors: Martínez, B; Radford, B; Thomsen, MS; Connell, SD; Carreño, F; Bradshaw, CJA; Fordham, DA; Russell, BD; Gurgel,
@@ -526,25 +526,13 @@
   title: An ecological regime shift resulting from disrupted predator–prey interactions in Holocene Australia
   journal: Ecology
   image: https://coreybradshaw.files.wordpress.com/2021/08/dingoroothylac.png
-- doi: 10.3389/fpubh.2024.1339933
-  year: 2024
-  authors: Saraswati, CM; Judge, MA; Weeda, LJZ; Bassat, Q; Prata, N; Le Souëf, PN; Bradshaw, CJA
-  title: Net benefit of smaller human populations to environmental integrity and individual health and wellbeing
-  journal: Frontiers in Public Health
-  image: https://coreybradshaw.files.wordpress.com/2024/03/population.png
-- doi: 10.1016/j.tree.2025.03.010
+- doi: 10.1111/mec.70097
   year: 2025
-  authors: Carneiro, L; Leroy, B; Capinha, C; Bradshaw, CJ; Bertolino, S; Catford, JA; Camacho-Cervantes, M; Bojko, J; Klippel,
-    G; Kumschick, S; Pincheira-Donoso, D; Tonkin, JD; Fath, BD; South, J; Manfrini, E; Dallas, T; Courchamp, F
-  title: Typology of the ecological impacts of biological invasions
-  journal: Trends in Ecology &amp; Evolution
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2025/04/snail.png
-- doi: 10.7554/eLife.55993
-  year: 2020
-  authors: Carturan, BS; Pither, J; Maréchal, JP; Bradshaw, CJ; Parrott, L
-  title: Combining agent-based, trait-based and demographic approaches to model coral-community dynamics
-  journal: eLife
-  image: https://coreybradshaw.files.wordpress.com/2021/08/coral.png
+  authors: Gates, K; Sandoval‐Castillo, J; Beaman, JE; da Silva, KB; Saltré, F; Belov, K; Hogg, CJ; Bradshaw, CJA; Beheregaray,
+    LB
+  title: 'Conservation arks: genomic erosion and inbreeding in an abundant island population of koalas'
+  journal: Molecular Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
 - doi: 10.1111/gcb.12343
   year: 2014
   authors: Sequeira, AMM; Mellin, C; Fordham, DA; Meekan, MG; Bradshaw, CJA
@@ -557,6 +545,18 @@
   title: Environmental conditions associated with initial northern expansion of anatomically modern humans
   journal: Nature Communications
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/globenetworkicontransp.png
+- doi: 10.7554/eLife.55993
+  year: 2020
+  authors: Carturan, BS; Pither, J; Maréchal, JP; Bradshaw, CJ; Parrott, L
+  title: Combining agent-based, trait-based and demographic approaches to model coral-community dynamics
+  journal: eLife
+  image: https://coreybradshaw.files.wordpress.com/2021/08/coral.png
+- doi: 10.3389/fpubh.2024.1339933
+  year: 2024
+  authors: Saraswati, CM; Judge, MA; Weeda, LJZ; Bassat, Q; Prata, N; Le Souëf, PN; Bradshaw, CJA
+  title: Net benefit of smaller human populations to environmental integrity and individual health and wellbeing
+  journal: Frontiers in Public Health
+  image: https://coreybradshaw.files.wordpress.com/2024/03/population.png
 - doi: 10.1098/rsbl.2017.0642
   year: 2018
   authors: White, LC; Saltré, F; Bradshaw, CJA; Austin, JJ
@@ -584,13 +584,6 @@
   title: Estimating the energetic cost of whale shark tourism
   journal: Biological Conservation
   image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
-- doi: 10.1093/biosci/biae010
-  year: 2024
-  authors: Carneiro, L; Hulme, PE; Cuthbert, RN; Kourantidou, M; Bang, A; Haubrock, PJ; Bradshaw, CJA; Balzani, P; Bacher,
-    S; Latombe, G; Bodey, TW; Probert, AF; Quilodrán, CS; Courchamp, F
-  title: Benefits do not balance costs of biological invasions
-  journal: BioScience
-  image: https://coreybradshaw.files.wordpress.com/2024/03/scales.png
 - doi: 10.1038/ncomms10491
   year: 2016
   authors: Mellin, C; Mouillot, D; Kulbicki, M; McClanahan, TR; Vigliola, L; Bradshaw, CJA; Brainard, RE; Chabanet, P; Edgar,
@@ -614,7 +607,7 @@
 - doi: 10.1111/1365-2664.12369
   year: 2015
   authors: Nimmo, DG; Watson, SJ; Forsyth, DM; Bradshaw, CJA
-  title: 'FORUM: Dingoes can help conserve wildlife and our methods can tell'
+  title: 'Dingoes can help conserve wildlife and our methods can tell'
   journal: Journal of Applied Ecology
   image: https://coreybradshaw.files.wordpress.com/2021/08/dingo.png
 - doi: 10.1371/journal.pone.0001636
@@ -695,6 +688,13 @@
   title: Differential predation patterns of free‐ranging cats among continents
   journal: Ecography
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png
+- doi: 10.1093/biosci/biae010
+  year: 2024
+  authors: Carneiro, L; Hulme, PE; Cuthbert, RN; Kourantidou, M; Bang, A; Haubrock, PJ; Bradshaw, CJA; Balzani, P; Bacher,
+    S; Latombe, G; Bodey, TW; Probert, AF; Quilodrán, CS; Courchamp, F
+  title: Benefits do not balance costs of biological invasions
+  journal: BioScience
+  image: https://coreybradshaw.files.wordpress.com/2024/03/scales.png
 - doi: 10.1002/ecs2.70082
   year: 2024
   authors: Hamnett, PW; Saltré, F; Page, B; Tarran, M; Korcz, M; Fielder, K; Andrews, L; Bradshaw, CJA
