@@ -744,12 +744,6 @@
   title: Climate‐driven shifts in the distribution of koala‐browse species from the Last Interglacial to the near future
   journal: Ecography
   image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
-- doi: 10.1002/ecs2.4379
-  year: 2023
-  authors: Mathwin, R; Wassens, S; Gibbs, MS; Young, J; Ye, Q; Saltré, F; Bradshaw, CJA
-  title: Modeling the effects of water regulation on the population viability of a threatened amphibian
-  journal: Ecosphere
-  image: https://coreybradshaw.files.wordpress.com/2023/01/frogicon.png
 - doi: 10.1002/ece3.1094
   year: 2014
   authors: Sequeira, AMM; Roetman, PEJ; Daniels, CB; Baker, AK; Bradshaw, CJA
@@ -763,25 +757,24 @@
   title: Obliquity‐driven expansion of North Atlantic sea ice during the last glacial
   journal: Geophysical Research Letters
   image: https://coreybradshaw.files.wordpress.com/2021/08/seaice.png
-- doi: 10.1111/jfb.12017
-  year: 2013
-  authors: Sequeira, AMM; Mellin, C; Meekan, MG; Sims, DW; Bradshaw, CJA
-  title: Inferred global connectivity of whale shark <i>Rhincodon typus</i> populations
-  journal: Journal of Fish Biology
-  image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
-- doi: 10.1111/conl.12098
-  year: 2014
-  authors: Moen, J; Rist, L; Bishop, K; Chapin, FS; Ellison, D; Kuuluvainen, T; Petersson, H; Puettmann, KJ; Rayner, J; Warkentin,
-    IG; Bradshaw, CJA
-  title: 'Eye on the taiga: removing global policy impediments to safeguard the boreal forest'
-  journal: Conservation Letters
-  image: https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png
 - doi: 10.1111/aec.13492
   year: 2024
   authors: Mathwin, R; Wassens, S; Turner, A; Heard, GW; Hall, A; Bradshaw, CJA
   title: Modelling the sustainable harvest of wild populations for the conservation of a threatened amphibian
   journal: Austral Ecology
   image: https://coreybradshaw.files.wordpress.com/2021/08/frog.png
+- doi: 10.1111/j.1467-2979.2009.00325.x
+  year: 2009
+  authors: Field, IC; Meekan, MG; Buckworth, RC; Bradshaw, CJA
+  title: 'Protein mining the world’s oceans: Australasia as an example of illegal expansion‐and‐displacement fishing'
+  journal: Fish and Fisheries
+  image: https://coreybradshaw.files.wordpress.com/2021/08/fishingnet.png
+- doi: 10.1111/jfb.12017
+  year: 2013
+  authors: Sequeira, AMM; Mellin, C; Meekan, MG; Sims, DW; Bradshaw, CJA
+  title: Inferred global connectivity of whale shark <i>Rhincodon typus</i> populations
+  journal: Journal of Fish Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
 - doi: 10.1093/biosci/biu013
   year: 2014
   authors: Herrando-Pérez, S; Brook, BW; Bradshaw, CJA
@@ -801,18 +794,6 @@
   title: Criteria for assessing the quality of Middle Pleistocene to Holocene vertebrate fossil ages
   journal: Quaternary Geochronology
   image: https://coreybradshaw.files.wordpress.com/2021/08/massspec.png
-- doi: 10.1111/j.1467-2979.2009.00325.x
-  year: 2009
-  authors: Field, IC; Meekan, MG; Buckworth, RC; Bradshaw, CJA
-  title: 'Protein mining the world’s oceans: Australasia as an example of illegal expansion‐and‐displacement fishing'
-  journal: Fish and Fisheries
-  image: https://coreybradshaw.files.wordpress.com/2021/08/fishingnet.png
-- doi: 10.1890/100177
-  year: 2011
-  authors: Clements, GR; Bradshaw, CJ; Brook, BW; Laurance, WF
-  title: 'The SAFE index: using a threshold population target to measure relative species threat'
-  journal: Frontiers in Ecology and the Environment
-  image: https://coreybradshaw.files.wordpress.com/2021/08/endangered.png
 - doi: 10.1093/biosci/biag009
   year: 2026
   authors: Barry, C; Muir, B; Backhaus, V; Coyne, C; Donnelly, E; Evans-Illidge, E; Ferreira, LC; Flagg, D; Fletcher, MS;
@@ -842,6 +823,12 @@
   title: 'Informing CITES Parties: strengthening science‐based decision‐making when listing marine species'
   journal: Fish and Fisheries
   image: https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png
+- doi: 10.1002/ecs2.4379
+  year: 2023
+  authors: Mathwin, R; Wassens, S; Gibbs, MS; Young, J; Ye, Q; Saltré, F; Bradshaw, CJA
+  title: Modeling the effects of water regulation on the population viability of a threatened amphibian
+  journal: Ecosphere
+  image: https://coreybradshaw.files.wordpress.com/2023/01/frogicon.png
 - doi: 10.1093/icesjms/fsy031
   year: 2018
   authors: Bradshaw, CJA; Prowse, TAA; Drew, M; Gillanders, BM; Donnellan, SC; Huveneers, C
@@ -861,6 +848,13 @@
   title: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
   journal: Scientific Data
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/palaeo.png
+- doi: 10.1111/conl.12098
+  year: 2014
+  authors: Moen, J; Rist, L; Bishop, K; Chapin, FS; Ellison, D; Kuuluvainen, T; Petersson, H; Puettmann, KJ; Rayner, J; Warkentin,
+    IG; Bradshaw, CJA
+  title: 'Eye on the taiga: removing global policy impediments to safeguard the boreal forest'
+  journal: Conservation Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png
 - doi: 10.3354/meps319275
   year: 2006
   authors: Meekan, M; Bradshaw, C; Press, M; McLean, C; Richards, A; Quasnichka, S; Taylor, J
@@ -880,6 +874,12 @@
   title: 'Momentum drives the crash: mass extinction in the tropics'
   journal: Biotropica
   image: https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png
+- doi: 10.1890/100177
+  year: 2011
+  authors: Clements, GR; Bradshaw, CJ; Brook, BW; Laurance, WF
+  title: 'The SAFE index: using a threshold population target to measure relative species threat'
+  journal: Frontiers in Ecology and the Environment
+  image: https://coreybradshaw.files.wordpress.com/2021/08/endangered.png
 - doi: 10.1111/j.1472-4642.2011.00853.x
   year: 2012
   authors: Sequeira, A; Mellin, C; Rowat, D; Meekan, MG; Bradshaw, CJA
@@ -892,12 +892,6 @@
   title: iREDD hedges against avoided deforestation's unholy trinity of leakage, permanence and additionality
   journal: Conservation Letters
   image: https://coreybradshaw.files.wordpress.com/2021/08/forestinsurance.png
-- doi: 10.1371/journal.pone.0292854
-  year: 2023
-  authors: Evans, T; Angulo, E; Bradshaw, CJA; Turbelin, A; Courchamp, F
-  title: Global economic costs of alien birds
-  journal: PLOS ONE
-  image: https://coreybradshaw.files.wordpress.com/2024/01/pigeon.png
 - doi: 10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2
   year: 2006
   authors: Brook, BW; Bradshaw, CJA
@@ -985,3 +979,9 @@
   title: Reef shark movements relative to a coastal marine protected area
   journal: Regional Studies in Marine Science
   image: https://coreybradshaw.files.wordpress.com/2021/08/reef-shark.jpg
+- doi: 10.1371/journal.pone.0292854
+  year: 2023
+  authors: Evans, T; Angulo, E; Bradshaw, CJA; Turbelin, A; Courchamp, F
+  title: Global economic costs of alien birds
+  journal: PLOS ONE
+  image: https://coreybradshaw.files.wordpress.com/2024/01/pigeon.png
