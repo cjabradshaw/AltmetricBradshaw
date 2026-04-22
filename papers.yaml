@@ -769,18 +769,26 @@
   title: 'Protein mining the world’s oceans: Australasia as an example of illegal expansion‐and‐displacement fishing'
   journal: Fish and Fisheries
   image: https://coreybradshaw.files.wordpress.com/2021/08/fishingnet.png
-- doi: 10.1111/jfb.12017
-  year: 2013
-  authors: Sequeira, AMM; Mellin, C; Meekan, MG; Sims, DW; Bradshaw, CJA
-  title: Inferred global connectivity of whale shark <i>Rhincodon typus</i> populations
-  journal: Journal of Fish Biology
-  image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
 - doi: 10.1093/biosci/biu013
   year: 2014
   authors: Herrando-Pérez, S; Brook, BW; Bradshaw, CJA
   title: Ecology needs a convention of nomenclature
   journal: BioScience
   image: https://coreybradshaw.files.wordpress.com/2021/08/list.png
+- doi: 10.1093/biosci/biag009
+  year: 2026
+  authors: Barry, C; Muir, B; Backhaus, V; Coyne, C; Donnelly, E; Evans-Illidge, E; Ferreira, LC; Flagg, D; Fletcher, MS;
+    Gleiss, AC; Harris, M; Hounslow, JL; Kampers, D; Keevers-Lock, L; Koroi, C; Mamtora, J; Marshall, M; Meekan, MG; Poelina,
+    A; Ropeyarn (Angkamuthi, Yadhaykenu, Woppaburra, Meriam), Y; Russell, L; Thums, M; Tobler, R; Ulm, S; Bradshaw, CJA
+  title: Crediting and citing Indigenous Knowledges within research
+  journal: BioScience
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/indig-1.png
+- doi: 10.1111/jfb.12017
+  year: 2013
+  authors: Sequeira, AMM; Mellin, C; Meekan, MG; Sims, DW; Bradshaw, CJA
+  title: Inferred global connectivity of whale shark <i>Rhincodon typus</i> populations
+  journal: Journal of Fish Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
 - doi: 10.1111/1365-2664.13187
   year: 2018
   authors: Barnett, LK; Prowse, TAA; Peacock, DE; Mutze, GJ; Sinclair, RG; Kovaliski, J; Cooke, BD; Bradshaw, CJA
@@ -794,14 +802,6 @@
   title: Criteria for assessing the quality of Middle Pleistocene to Holocene vertebrate fossil ages
   journal: Quaternary Geochronology
   image: https://coreybradshaw.files.wordpress.com/2021/08/massspec.png
-- doi: 10.1093/biosci/biag009
-  year: 2026
-  authors: Barry, C; Muir, B; Backhaus, V; Coyne, C; Donnelly, E; Evans-Illidge, E; Ferreira, LC; Flagg, D; Fletcher, MS;
-    Gleiss, AC; Harris, M; Hounslow, JL; Kampers, D; Keevers-Lock, L; Koroi, C; Mamtora, J; Marshall, M; Meekan, MG; Poelina,
-    A; Ropeyarn (Angkamuthi, Yadhaykenu, Woppaburra, Meriam), Y; Russell, L; Thums, M; Tobler, R; Ulm, S; Bradshaw, CJA
-  title: Crediting and citing Indigenous Knowledges within research
-  journal: BioScience
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/indig-1.png
 - doi: 10.1016/j.ecolecon.2024.108166
   year: 2024
   authors: Bradshaw, CJ; Hulme, PE; Hudgins, EJ; Leung, B; Kourantidou, M; Courtois, P; Turbelin, AJ; McDermott, SM; Lee,
@@ -823,6 +823,14 @@
   title: 'Informing CITES Parties: strengthening science‐based decision‐making when listing marine species'
   journal: Fish and Fisheries
   image: https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png
+- doi: 10.1093/biosci/biaf195
+  year: 2026
+  authors: Courchamp, F; Klippel, G; Angulo, E; Arbieu, U; Bang, A; Bojko, J; Caetano, GHDO; Camacho-Cervantes, M; Carneiro,
+    L; Cuthbert, RN; Dawson, MN; Desiderato, A; Fath, BD; Firth, JA; Latombe, G; Leroy, B; Liu, C; Manfrini, E; Pan, X; Pincheira-Donoso,
+    D; Tonkin, JD; Vimercati, G; Wang, S; Bradshaw, CJA
+  title: Quantifying the magnitude of biological invasions using total biomass
+  journal: BioScience
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/rats.png
 - doi: 10.1002/ecs2.4379
   year: 2023
   authors: Mathwin, R; Wassens, S; Gibbs, MS; Young, J; Ye, Q; Saltré, F; Bradshaw, CJA
@@ -874,6 +882,12 @@
   title: 'Momentum drives the crash: mass extinction in the tropics'
   journal: Biotropica
   image: https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png
+- doi: 10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2
+  year: 2006
+  authors: Brook, BW; Bradshaw, CJA
+  title: Strength of evidence for density dependence in abundance time series of 1198 species
+  journal: Ecology
+  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/feedback.png
 - doi: 10.1890/100177
   year: 2011
   authors: Clements, GR; Bradshaw, CJ; Brook, BW; Laurance, WF
@@ -892,12 +906,6 @@
   title: iREDD hedges against avoided deforestation's unholy trinity of leakage, permanence and additionality
   journal: Conservation Letters
   image: https://coreybradshaw.files.wordpress.com/2021/08/forestinsurance.png
-- doi: 10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2
-  year: 2006
-  authors: Brook, BW; Bradshaw, CJA
-  title: Strength of evidence for density dependence in abundance time series of 1198 species
-  journal: Ecology
-  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/feedback.png
 - doi: 10.1111/j.1365-2664.2011.02081.x
   year: 2012
   authors: Bradshaw, CJA; McMahon, CR; Miller, PS; Lacy, RC; Watts, MJ; Verant, ML; Pollak, JP; Fordham, DA; Prowse, TAA;
@@ -959,14 +967,6 @@
   title: National emphasis on high-level protection reduces risk of biodiversity decline in tropical forest reserves
   journal: Biological Conservation
   image: https://coreybradshaw.files.wordpress.com/2021/08/tropicalforest.png
-- doi: 10.1093/biosci/biaf195
-  year: 2026
-  authors: Courchamp, F; Klippel, G; Angulo, E; Arbieu, U; Bang, A; Bojko, J; Caetano, GHDO; Camacho-Cervantes, M; Carneiro,
-    L; Cuthbert, RN; Dawson, MN; Desiderato, A; Fath, BD; Firth, JA; Latombe, G; Leroy, B; Liu, C; Manfrini, E; Pan, X; Pincheira-Donoso,
-    D; Tonkin, JD; Vimercati, G; Wang, S; Bradshaw, CJA
-  title: Quantifying the magnitude of biological invasions using total biomass
-  journal: BioScience
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/rats.png
 - doi: 10.1186/s12992-025-01142-3
   year: 2026
   authors: Ubalde, J; Bradshaw, CJA; Le Souëf, PN; Judge, MA
@@ -979,6 +979,12 @@
   title: Reef shark movements relative to a coastal marine protected area
   journal: Regional Studies in Marine Science
   image: https://coreybradshaw.files.wordpress.com/2021/08/reef-shark.jpg
+- doi: 10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2
+  year: 2006
+  authors: Brook, BW; Bradshaw, CJA
+  title: Strength of evidence for density dependence in abundance time series of 1198 species
+  journal: Ecology
+  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/feedback.png
 - doi: 10.1371/journal.pone.0292854
   year: 2023
   authors: Evans, T; Angulo, E; Bradshaw, CJA; Turbelin, A; Courchamp, F
