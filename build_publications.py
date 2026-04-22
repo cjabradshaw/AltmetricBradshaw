@@ -15,7 +15,6 @@ CSV_OUTPUT_FILE = Path("publications.csv")
 CONTENT_PLACEHOLDER = "<!-- GENERATED CONTENT -->"
 META_PLACEHOLDER = "<!-- GENERATED META -->"
 ALTMETRIC_API_KEY = os.environ.get("ALTMETRIC_API_KEY")
-DOI_ATTR_RE = re.compile(r'data-doi="([^"]+)"')
 BRADSHAW_RE = re.compile(r"\bBradshaw\b", re.IGNORECASE)
 MAX_DISPLAY_AUTHORS = 20
 JOURNAL_ABBREVIATION_OVERRIDES = {
@@ -170,22 +169,6 @@ def fetch_crossref_metadata(doi, journal):
     }
 
 
-def existing_order_lookup():
-    if not OUTPUT_FILE.exists():
-        return {}
-
-    html = OUTPUT_FILE.read_text(encoding="utf-8")
-    ordered_dois = []
-    seen = set()
-
-    for doi in DOI_ATTR_RE.findall(html):
-        if doi not in seen:
-            seen.add(doi)
-            ordered_dois.append(doi)
-
-    return {doi: index for index, doi in enumerate(ordered_dois)}
-
-
 def normalize_author_case(author):
     surname, separator, initials = author.partition(",")
     if not separator:
@@ -285,8 +268,6 @@ for p in papers:
     p["journal_abbrev"] = crossref["journal"]
     p["altmetric"] = None
 
-existing_order = existing_order_lookup()
-
 if ALTMETRIC_API_KEY:
     print("Using Altmetric API key to refresh ranking order.")
 
@@ -304,12 +285,7 @@ if ALTMETRIC_API_KEY:
         if papers[i]["altmetric"] < papers[i + 1]["altmetric"]:
             raise RuntimeError("Altmetric sort failed")
 else:
-    print("No ALTMETRIC_API_KEY set; preserving the current published paper order.")
-
-    papers = sorted(
-        papers,
-        key=lambda p: existing_order.get(p["doi"], len(existing_order))
-    )
+    print("No ALTMETRIC_API_KEY set; using papers.yaml order.")
 
 # -------------------------------
 # Render HTML
