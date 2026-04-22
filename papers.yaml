@@ -644,24 +644,18 @@
   title: 'Beyond wind: furthering development of clean energy in South Australia'
   journal: Transactions of the Royal Society of South Australia
   image: https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png
-- doi: 10.1371/journal.pone.0257141
-  year: 2021
-  authors: Bradshaw, CJA; Chalker, JM; Crabtree, SA; Eijkelkamp, BA; Long, JA; Smith, JR; Trinajstic, K; Weisbecker, V
-  title: A fairer way to compare researchers at any career stage and in any discipline using open-access citation data
-  journal: PLOS ONE
-  image: https://coreybradshaw.files.wordpress.com/2021/08/rank.png
-- doi: 10.1111/emr.12130
-  year: 2014
-  authors: Bradby, K; Fitzsimons, JA; Del Marco, A; Driscoll, DA; Ritchie, EG; Lau, J; Bradshaw, CJA; Hobbs, RJ
-  title: Ecological connectivity or Barrier Fence? Critical choices on the agricultural margins of Western Australia
-  journal: Ecological Management &amp; Restoration
-  image: https://coreybradshaw.files.wordpress.com/2021/08/fence.png
 - doi: 10.1111/j.1461-0248.2006.00883.x
   year: 2006
   authors: Brook, BW; Traill, LW; Bradshaw, CJA
   title: Minimum viable population sizes and global extinction risk are unrelated
   journal: Ecology Letters
   image: https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png
+- doi: 10.1111/emr.12130
+  year: 2014
+  authors: Bradby, K; Fitzsimons, JA; Del Marco, A; Driscoll, DA; Ritchie, EG; Lau, J; Bradshaw, CJA; Hobbs, RJ
+  title: Ecological connectivity or Barrier Fence? Critical choices on the agricultural margins of Western Australia
+  journal: Ecological Management &amp; Restoration
+  image: https://coreybradshaw.files.wordpress.com/2021/08/fence.png
 - doi: 10.1002/app5.135
   year: 2016
   authors: Bradshaw, CJA; Brook, BW
@@ -701,6 +695,18 @@
   title: Stochastic population models to identify optimal and cost‐effective harvest strategies for feral pig eradication
   journal: Ecosphere
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/pigtransp.png
+- doi: 10.1111/j.1523-1739.2010.01448.x
+  year: 2010
+  authors: LAURANCE, WF; KOH, LP; BUTLER, R; SODHI, NS; BRADSHAW, CJA; NEIDEL, JD; CONSUNJI, H; MATEO VEGA, J
+  title: Improving the performance of the Roundtable on Sustainable Palm Oil for Nature Conservation
+  journal: Conservation Biology
+  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/oilpalm.png
+- doi: 10.1371/journal.pone.0257141
+  year: 2021
+  authors: Bradshaw, CJA; Chalker, JM; Crabtree, SA; Eijkelkamp, BA; Long, JA; Smith, JR; Trinajstic, K; Weisbecker, V
+  title: A fairer way to compare researchers at any career stage and in any discipline using open-access citation data
+  journal: PLOS ONE
+  image: https://coreybradshaw.files.wordpress.com/2021/08/rank.png
 - doi: 10.1016/j.apenergy.2014.09.062
   year: 2014
   authors: Hong, S; Bradshaw, CJ; Brook, BW
@@ -708,6 +714,12 @@
     mix by technologies and policies'
   journal: Applied Energy
   image: https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png
+- doi: 10.1890/070193
+  year: 2009
+  authors: Bradshaw, CJ; Sodhi, NS; Brook, BW
+  title: 'Tropical turmoil: a biodiversity tragedy in progress'
+  journal: Frontiers in Ecology and the Environment
+  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/tropicalleaf.png
 - doi: 10.1016/j.energy.2013.02.010
   year: 2013
   authors: Hong, S; Bradshaw, CJ; Brook, BW
@@ -720,12 +732,24 @@
   title: Evaluating options for the future energy mix of Japan after the Fukushima nuclear crisis
   journal: Energy Policy
   image: https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png
+- doi: 10.1016/j.cub.2011.09.028
+  year: 2011
+  authors: Wernberg, T; Russell, BD; Thomsen, MS; Gurgel, CFD; Bradshaw, CJ; Poloczanska, ES; Connell, SD
+  title: Seaweed communities in retreat from ocean warming
+  journal: Current Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png
 - doi: 10.1111/ecog.04530
   year: 2019
   authors: Shabani, F; Ahmadi, M; Peters, KJ; Haberle, S; Champreux, A; Saltré, F; Bradshaw, CJA
   title: Climate‐driven shifts in the distribution of koala‐browse species from the Last Interglacial to the near future
   journal: Ecography
   image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
+- doi: 10.1002/ecs2.4379
+  year: 2023
+  authors: Mathwin, R; Wassens, S; Gibbs, MS; Young, J; Ye, Q; Saltré, F; Bradshaw, CJA
+  title: Modeling the effects of water regulation on the population viability of a threatened amphibian
+  journal: Ecosphere
+  image: https://coreybradshaw.files.wordpress.com/2023/01/frogicon.png
 - doi: 10.1002/ece3.1094
   year: 2014
   authors: Sequeira, AMM; Roetman, PEJ; Daniels, CB; Baker, AK; Bradshaw, CJA
@@ -739,42 +763,12 @@
   title: Obliquity‐driven expansion of North Atlantic sea ice during the last glacial
   journal: Geophysical Research Letters
   image: https://coreybradshaw.files.wordpress.com/2021/08/seaice.png
-- doi: 10.1890/070193
-  year: 2009
-  authors: Bradshaw, CJ; Sodhi, NS; Brook, BW
-  title: 'Tropical turmoil: a biodiversity tragedy in progress'
-  journal: Frontiers in Ecology and the Environment
-  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/tropicalleaf.png
-- doi: 10.1111/j.1523-1739.2010.01448.x
-  year: 2010
-  authors: LAURANCE, WF; KOH, LP; BUTLER, R; SODHI, NS; BRADSHAW, CJA; NEIDEL, JD; CONSUNJI, H; MATEO VEGA, J
-  title: Improving the performance of the Roundtable on Sustainable Palm Oil for Nature Conservation
-  journal: Conservation Biology
-  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/oilpalm.png
 - doi: 10.1111/jfb.12017
   year: 2013
   authors: Sequeira, AMM; Mellin, C; Meekan, MG; Sims, DW; Bradshaw, CJA
   title: Inferred global connectivity of whale shark <i>Rhincodon typus</i> populations
   journal: Journal of Fish Biology
   image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
-- doi: 10.1002/ecs2.4379
-  year: 2023
-  authors: Mathwin, R; Wassens, S; Gibbs, MS; Young, J; Ye, Q; Saltré, F; Bradshaw, CJA
-  title: Modeling the effects of water regulation on the population viability of a threatened amphibian
-  journal: Ecosphere
-  image: https://coreybradshaw.files.wordpress.com/2023/01/frogicon.png
-- doi: 10.1016/j.cub.2011.09.028
-  year: 2011
-  authors: Wernberg, T; Russell, BD; Thomsen, MS; Gurgel, CFD; Bradshaw, CJ; Poloczanska, ES; Connell, SD
-  title: Seaweed communities in retreat from ocean warming
-  journal: Current Biology
-  image: https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png
-- doi: 10.1111/aec.13492
-  year: 2024
-  authors: Mathwin, R; Wassens, S; Turner, A; Heard, GW; Hall, A; Bradshaw, CJA
-  title: Modelling the sustainable harvest of wild populations for the conservation of a threatened amphibian
-  journal: Austral Ecology
-  image: https://coreybradshaw.files.wordpress.com/2021/08/frog.png
 - doi: 10.1111/conl.12098
   year: 2014
   authors: Moen, J; Rist, L; Bishop, K; Chapin, FS; Ellison, D; Kuuluvainen, T; Petersson, H; Puettmann, KJ; Rayner, J; Warkentin,
@@ -782,6 +776,12 @@
   title: 'Eye on the taiga: removing global policy impediments to safeguard the boreal forest'
   journal: Conservation Letters
   image: https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png
+- doi: 10.1111/aec.13492
+  year: 2024
+  authors: Mathwin, R; Wassens, S; Turner, A; Heard, GW; Hall, A; Bradshaw, CJA
+  title: Modelling the sustainable harvest of wild populations for the conservation of a threatened amphibian
+  journal: Austral Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/frog.png
 - doi: 10.1093/biosci/biu013
   year: 2014
   authors: Herrando-Pérez, S; Brook, BW; Bradshaw, CJA
