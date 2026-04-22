@@ -802,6 +802,14 @@
   title: Criteria for assessing the quality of Middle Pleistocene to Holocene vertebrate fossil ages
   journal: Quaternary Geochronology
   image: https://coreybradshaw.files.wordpress.com/2021/08/massspec.png
+- doi: 10.1111/faf.12411
+  year: 2020
+  authors: Friedman, K; Braccini, M; Bjerregaard‐Walsh, M; Bonfil, R; Bradshaw, CJA; Brouwer, S; Campbell, I; Coelho, R; Cortés,
+    E; Dimmlich, W; Frisk, MG; Kingma, I; McCully Phillips, SR; O'Criodain, C; Parker, D; Shephard, S; Tovar‐Ávila, J; Yokawa,
+    K
+  title: 'Informing CITES Parties: strengthening science‐based decision‐making when listing marine species'
+  journal: Fish and Fisheries
+  image: https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png
 - doi: 10.1016/j.ecolecon.2024.108166
   year: 2024
   authors: Bradshaw, CJ; Hulme, PE; Hudgins, EJ; Leung, B; Kourantidou, M; Courtois, P; Turbelin, AJ; McDermott, SM; Lee,
@@ -815,39 +823,6 @@
   title: Rapid megafaunal extinction following human arrival throughout the New World
   journal: Quaternary International
   image: https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg
-- doi: 10.1111/faf.12411
-  year: 2020
-  authors: Friedman, K; Braccini, M; Bjerregaard‐Walsh, M; Bonfil, R; Bradshaw, CJA; Brouwer, S; Campbell, I; Coelho, R; Cortés,
-    E; Dimmlich, W; Frisk, MG; Kingma, I; McCully Phillips, SR; O'Criodain, C; Parker, D; Shephard, S; Tovar‐Ávila, J; Yokawa,
-    K
-  title: 'Informing CITES Parties: strengthening science‐based decision‐making when listing marine species'
-  journal: Fish and Fisheries
-  image: https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png
-- doi: 10.1002/ecs2.4379
-  year: 2023
-  authors: Mathwin, R; Wassens, S; Gibbs, MS; Young, J; Ye, Q; Saltré, F; Bradshaw, CJA
-  title: Modeling the effects of water regulation on the population viability of a threatened amphibian
-  journal: Ecosphere
-  image: https://coreybradshaw.files.wordpress.com/2023/01/frogicon.png
-- doi: 10.1093/icesjms/fsy031
-  year: 2018
-  authors: Bradshaw, CJA; Prowse, TAA; Drew, M; Gillanders, BM; Donnellan, SC; Huveneers, C
-  title: Predicting sustainable shark harvests when stock assessments are lacking
-  journal: ICES Journal of Marine Science
-  image: https://coreybradshaw.files.wordpress.com/2021/08/trawler.png
-- doi: 10.1073/pnas.1309226110
-  year: 2013
-  authors: Brook, BW; Bradshaw, CJA; Cooper, A; Johnson, CN; Worthy, TH; Bird, M; Gillespie, R; Roberts, RG
-  title: Lack of chronological support for stepwise prehuman extinctions of Australian megafauna
-  journal: Proceedings of the National Academy of Sciences
-  image: https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg
-- doi: 10.1038/sdata.2016.53
-  year: 2016
-  authors: Rodríguez-Rey, M; Herrando-Pérez, S; Brook, BW; Saltré, F; Alroy, J; Beeton, N; Bird, MI; Cooper, A; Gillespie,
-    R; Jacobs, Z; Johnson, CN; Miller, GH; Prideaux, GJ; Roberts, RG; Turney, CS; Bradshaw, CJ
-  title: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
-  journal: Scientific Data
-  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/palaeo.png
 - doi: 10.1111/conl.12098
   year: 2014
   authors: Moen, J; Rist, L; Bishop, K; Chapin, FS; Ellison, D; Kuuluvainen, T; Petersson, H; Puettmann, KJ; Rayner, J; Warkentin,
@@ -855,6 +830,31 @@
   title: 'Eye on the taiga: removing global policy impediments to safeguard the boreal forest'
   journal: Conservation Letters
   image: https://coreybradshaw.files.wordpress.com/2021/08/borealforest2.png
+- doi: 10.1002/ecs2.4379
+  year: 2023
+  authors: Mathwin, R; Wassens, S; Gibbs, MS; Young, J; Ye, Q; Saltré, F; Bradshaw, CJA
+  title: Modeling the effects of water regulation on the population viability of a threatened amphibian
+  journal: Ecosphere
+  image: https://coreybradshaw.files.wordpress.com/2023/01/frogicon.png
+- doi: 10.1073/pnas.1309226110
+  year: 2013
+  authors: Brook, BW; Bradshaw, CJA; Cooper, A; Johnson, CN; Worthy, TH; Bird, M; Gillespie, R; Roberts, RG
+  title: Lack of chronological support for stepwise prehuman extinctions of Australian megafauna
+  journal: Proceedings of the National Academy of Sciences
+  image: https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg
+- doi: 10.1093/icesjms/fsy031
+  year: 2018
+  authors: Bradshaw, CJA; Prowse, TAA; Drew, M; Gillanders, BM; Donnellan, SC; Huveneers, C
+  title: Predicting sustainable shark harvests when stock assessments are lacking
+  journal: ICES Journal of Marine Science
+  image: https://coreybradshaw.files.wordpress.com/2021/08/trawler.png
+- doi: 10.1038/sdata.2016.53
+  year: 2016
+  authors: Rodríguez-Rey, M; Herrando-Pérez, S; Brook, BW; Saltré, F; Alroy, J; Beeton, N; Bird, MI; Cooper, A; Gillespie,
+    R; Jacobs, Z; Johnson, CN; Miller, GH; Prideaux, GJ; Roberts, RG; Turney, CS; Bradshaw, CJ
+  title: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
+  journal: Scientific Data
+  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/palaeo.png
 - doi: 10.3354/meps319275
   year: 2006
   authors: Meekan, M; Bradshaw, C; Press, M; McLean, C; Richards, A; Quasnichka, S; Taylor, J
@@ -874,18 +874,26 @@
   title: A guide for developing demo‐genetic models to simulate genetic rescue
   journal: Evolutionary Applications
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2025/05/gricontranspbw.png
-- doi: 10.1111/j.1744-7429.2006.00141.x
-  year: 2006
-  authors: Brook, BW; Bradshaw, CJA; Koh, LP; Sodhi, NS
-  title: 'Momentum drives the crash: mass extinction in the tropics'
-  journal: Biotropica
-  image: https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png
 - doi: 10.1890/100177
   year: 2011
   authors: Clements, GR; Bradshaw, CJ; Brook, BW; Laurance, WF
   title: 'The SAFE index: using a threshold population target to measure relative species threat'
   journal: Frontiers in Ecology and the Environment
   image: https://coreybradshaw.files.wordpress.com/2021/08/endangered.png
+- doi: 10.1111/j.1744-7429.2006.00141.x
+  year: 2006
+  authors: Brook, BW; Bradshaw, CJA; Koh, LP; Sodhi, NS
+  title: 'Momentum drives the crash: mass extinction in the tropics'
+  journal: Biotropica
+  image: https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png
+- doi: 10.1111/j.1365-2664.2011.02081.x
+  year: 2012
+  authors: Bradshaw, CJA; McMahon, CR; Miller, PS; Lacy, RC; Watts, MJ; Verant, ML; Pollak, JP; Fordham, DA; Prowse, TAA;
+    Brook, BW
+  title: Novel coupling of individual‐based epidemiological and demographic models predicts realistic dynamics of tuberculosis
+    in alien buffalo
+  journal: Journal of Applied Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/buffalo.png
 - doi: 10.1111/j.1472-4642.2011.00853.x
   year: 2012
   authors: Sequeira, A; Mellin, C; Rowat, D; Meekan, MG; Bradshaw, CJA
@@ -900,14 +908,6 @@
   title: Quantifying the magnitude of biological invasions using total biomass
   journal: BioScience
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/rats.png
-- doi: 10.1111/j.1365-2664.2011.02081.x
-  year: 2012
-  authors: Bradshaw, CJA; McMahon, CR; Miller, PS; Lacy, RC; Watts, MJ; Verant, ML; Pollak, JP; Fordham, DA; Prowse, TAA;
-    Brook, BW
-  title: Novel coupling of individual‐based epidemiological and demographic models predicts realistic dynamics of tuberculosis
-    in alien buffalo
-  journal: Journal of Applied Ecology
-  image: https://coreybradshaw.files.wordpress.com/2021/08/buffalo.png
 - doi: 10.1579/0044-7447-38.2.125
   year: 2009
   authors: Bradshaw, CJA
