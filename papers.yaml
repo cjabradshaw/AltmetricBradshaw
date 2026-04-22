@@ -172,18 +172,18 @@
   title: Stochastic models support rapid peopling of Late Pleistocene Sahul
   journal: Nature Communications
   image: https://coreybradshaw.files.wordpress.com/2021/08/ausdots.png
-- doi: 10.1038/s41562-021-01106-8
-  year: 2021
-  authors: Crabtree, SA; White, DA; Bradshaw, CJA; Saltré, F; Williams, AN; Beaman, RJ; Bird, MI; Ulm, S
-  title: Landscape rules predict optimal superhighways for the first peopling of Sahul
-  journal: Nature Human Behaviour
-  image: https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png
 - doi: 10.1016/j.scitotenv.2024.170944
   year: 2024
   authors: Weeda, LJ; Bradshaw, CJ; Judge, MA; Saraswati, CM; Le Souëf, PN
   title: 'How climate change degrades child health: a systematic review and meta-analysis'
   journal: Science of The Total Environment
   image: https://coreybradshaw.files.wordpress.com/2024/02/warmchild.png
+- doi: 10.1038/s41562-021-01106-8
+  year: 2021
+  authors: Crabtree, SA; White, DA; Bradshaw, CJA; Saltré, F; Williams, AN; Beaman, RJ; Bird, MI; Ulm, S
+  title: Landscape rules predict optimal superhighways for the first peopling of Sahul
+  journal: Nature Human Behaviour
+  image: https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png
 - doi: 10.11646/zootaxa.4564.1.6
   year: 2019
   authors: SMITH, BP; CAIRNS, KM; ADAMS, JW; NEWSOME, TM; FILLIOS, M; DÉAUX, EC; PARR, WCH; LETNIC, M; VAN EEDEN, LM; APPLEBY,
@@ -192,19 +192,6 @@
   title: 'Taxonomic status of the Australian dingo: the case for <i>Canis dingo</i> Meyer, 1793'
   journal: Zootaxa
   image: https://coreybradshaw.files.wordpress.com/2021/08/dingo.png
-- doi: 10.3897/neobiota.67.58834
-  year: 2021
-  authors: Bradshaw, CJA; Hoskins, AJ; Haubrock, PJ; Cuthbert, RN; Diagne, C; Leroy, B; Andrews, L; Page, B; Cassey, P; Sheppard,
-    AW; Courchamp, F
-  title: Detailed assessment of the reported economic costs of invasive species in Australia
-  journal: NeoBiota
-  image: https://coreybradshaw.files.wordpress.com/2021/08/huntingcat.png
-- doi: 10.1038/s41597-022-01453-9
-  year: 2022
-  authors: Riley, M; Meagher, P; Huveneers, C; Leto, J; Peddemors, VM; Slip, D; West, J; Bradshaw, CJA
-  title: The Australian Shark-Incident Database for quantifying temporal and spatial patterns of shark-human conflict
-  journal: Scientific Data
-  image: https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png
 - doi: 10.1016/j.tree.2015.12.006
   year: 2016
   authors: Di Minin, E; Leader-Williams, N; Bradshaw, CJ
@@ -218,6 +205,19 @@
     viability analyses'
   journal: Biological Conservation
   image: https://coreybradshaw.files.wordpress.com/2021/08/dna.png
+- doi: 10.3897/neobiota.67.58834
+  year: 2021
+  authors: Bradshaw, CJA; Hoskins, AJ; Haubrock, PJ; Cuthbert, RN; Diagne, C; Leroy, B; Andrews, L; Page, B; Cassey, P; Sheppard,
+    AW; Courchamp, F
+  title: Detailed assessment of the reported economic costs of invasive species in Australia
+  journal: NeoBiota
+  image: https://coreybradshaw.files.wordpress.com/2021/08/huntingcat.png
+- doi: 10.1038/s41597-022-01453-9
+  year: 2022
+  authors: Riley, M; Meagher, P; Huveneers, C; Leto, J; Peddemors, VM; Slip, D; West, J; Bradshaw, CJA
+  title: The Australian Shark-Incident Database for quantifying temporal and spatial patterns of shark-human conflict
+  journal: Scientific Data
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png
 - doi: 10.1038/nature11318
   year: 2012
   authors: Laurance, WF; Carolina Useche, D; Rendeiro, J; Kalka, M; Bradshaw, CJA; Sloan, SP; Laurance, SG; Campbell, M; Abernethy,
@@ -258,13 +258,6 @@
   title: Late Pleistocene emergence of an anthropogenic fire regime in Australia’s tropical savannahs
   journal: Nature Geoscience
   image: https://coreybradshaw.files.wordpress.com/2024/03/fire.png
-- doi: 10.1371/journal.pone.0280260
-  year: 2023
-  authors: Bradshaw, CJA; Perry, C; Judge, MA; Saraswati, CM; Heyworth, J; Le Souëf, PN
-  title: Lower infant mortality, higher household size, and more access to contraception reduce fertility in low- and middle-income
-    nations
-  journal: PLOS ONE
-  image: https://coreybradshaw.files.wordpress.com/2023/02/fertility.jpg
 - doi: 10.1038/s41559-019-0902-6
   year: 2019
   authors: Bradshaw, CJA; Ulm, S; Williams, AN; Bird, MI; Roberts, RG; Jacobs, Z; Laviano, F; Weyrich, LS; Friedrich, T; Norman,
@@ -272,19 +265,13 @@
   title: Minimum founding populations for the first peopling of Sahul
   journal: Nature Ecology &amp; Evolution
   image: https://coreybradshaw.files.wordpress.com/2021/08/family.png
-- doi: 10.1111/ecog.06619
+- doi: 10.1371/journal.pone.0280260
   year: 2023
-  authors: Llewelyn, J; Strona, G; Dickman, CR; Greenville, AC; Wardle, GM; Lee, MSY; Doherty, S; Shabani, F; Saltré, F; Bradshaw,
-    CJA
-  title: Predicting predator–prey interactions in terrestrial endotherms using random forest
-  journal: Ecography
-  image: https://coreybradshaw.files.wordpress.com/2022/12/networkglobe.webp
-- doi: 10.1016/j.quascirev.2023.107971
-  year: 2023
-  authors: Bradshaw, CJ; Crabtree, SA; White, DA; Ulm, S; Bird, MI; Williams, AN; Saltré, F
-  title: Directionally supervised cellular automaton for the initial peopling of Sahul
-  journal: Quaternary Science Reviews
-  image: https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png
+  authors: Bradshaw, CJA; Perry, C; Judge, MA; Saraswati, CM; Heyworth, J; Le Souëf, PN
+  title: Lower infant mortality, higher household size, and more access to contraception reduce fertility in low- and middle-income
+    nations
+  journal: PLOS ONE
+  image: https://coreybradshaw.files.wordpress.com/2023/02/fertility.jpg
 - doi: 10.1111/gcb.15221
   year: 2020
   authors: Monaco, CJ; Bradshaw, CJA; Booth, DJ; Gillanders, BM; Schoeman, DS; Nagelkerken, I
@@ -315,18 +302,31 @@
   title: Evaluating the relative environmental impact of countries
   journal: PLoS ONE
   image: https://coreybradshaw.files.wordpress.com/2021/08/globe.png
-- doi: 10.1016/j.biocon.2021.109418
-  year: 2022
-  authors: Di Minin, E; 't Sas-Rolfes, M; Selier, J; Louis, M; Bradshaw, CJA
-  title: Dismantling the poachernomics of the illegal wildlife trade
-  journal: Biological Conservation
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/poach.png
 - doi: 10.1525/bio.2013.63.10.9
   year: 2013
   authors: Laurance, WF; Useche, DC; Laurance, SG; Bradshaw, CJA
   title: Predicting publication success for biologists
   journal: BioScience
   image: https://coreybradshaw.files.wordpress.com/2021/08/writing.png
+- doi: 10.1016/j.quascirev.2023.107971
+  year: 2023
+  authors: Bradshaw, CJ; Crabtree, SA; White, DA; Ulm, S; Bird, MI; Williams, AN; Saltré, F
+  title: Directionally supervised cellular automaton for the initial peopling of Sahul
+  journal: Quaternary Science Reviews
+  image: https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png
+- doi: 10.1111/ecog.06619
+  year: 2023
+  authors: Llewelyn, J; Strona, G; Dickman, CR; Greenville, AC; Wardle, GM; Lee, MSY; Doherty, S; Shabani, F; Saltré, F; Bradshaw,
+    CJA
+  title: Predicting predator–prey interactions in terrestrial endotherms using random forest
+  journal: Ecography
+  image: https://coreybradshaw.files.wordpress.com/2022/12/networkglobe.webp
+- doi: 10.1016/j.biocon.2021.109418
+  year: 2022
+  authors: Di Minin, E; 't Sas-Rolfes, M; Selier, J; Louis, M; Bradshaw, CJA
+  title: Dismantling the poachernomics of the illegal wildlife trade
+  journal: Biological Conservation
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/poach.png
 - doi: 10.1073/pnas.2311280120
   year: 2024
   authors: Hamilton, R; Amano, N; Bradshaw, CJA; Saltré, F; Patalano, R; Penny, D; Stevenson, J; Wolfhagen, J; Roberts, P
@@ -358,13 +358,6 @@
   title: 'Periodic variability in cetacean strandings: links to large-scale climate events'
   journal: Biology Letters
   image: https://coreybradshaw.files.wordpress.com/2021/08/whale.png
-- doi: 10.1111/ecog.06089
-  year: 2022
-  authors: Llewelyn, J; Strona, G; McDowell, MC; Johnson, CN; Peters, KJ; Stouffer, DB; de Visser, SN; Saltré, F; Bradshaw,
-    CJA
-  title: Sahul's megafauna were vulnerable to plant‐community changes due to their position in the trophic network
-  journal: Ecography
-  image: https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg
 - doi: 10.1093/biosci/biz004
   year: 2019
   authors: Herrando-Pérez, S; Bradshaw, CJA; Lewandowsky, S; Vieites, DR
@@ -378,12 +371,13 @@
     by the dingo barrier fence
   journal: Journal of Mammalogy
   image: https://coreybradshaw.files.wordpress.com/2023/06/roo2.png
-- doi: 10.7554/eLife.63870
-  year: 2021
-  authors: Bradshaw, CJ; Johnson, CN; Llewelyn, J; Weisbecker, V; Strona, G; Saltré, F
-  title: Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna
-  journal: eLife
-  image: https://coreybradshaw.files.wordpress.com/2021/08/genyornis.png
+- doi: 10.1111/ecog.06089
+  year: 2022
+  authors: Llewelyn, J; Strona, G; McDowell, MC; Johnson, CN; Peters, KJ; Stouffer, DB; de Visser, SN; Saltré, F; Bradshaw,
+    CJA
+  title: Sahul's megafauna were vulnerable to plant‐community changes due to their position in the trophic network
+  journal: Ecography
+  image: https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg
 - doi: 10.1016/j.quascirev.2025.109504
   year: 2025
   authors: Bird, MI; Brand, M; Comley, R; Hadeen, X; Jacobs, Z; Rowe, C; Saltré, F; Wurster, CM; Zwart, C; Bradshaw, CJ
@@ -421,6 +415,13 @@
   title: 'No need for disease: testing extinction hypotheses for the thylacine using multi‐species metamodels'
   journal: Journal of Animal Ecology
   image: https://coreybradshaw.files.wordpress.com/2021/08/thylacine.png
+- doi: 10.1098/rspb.2015.2399
+  year: 2016
+  authors: Johnson, CN; Alroy, J; Beeton, NJ; Bird, MI; Brook, BW; Cooper, A; Gillespie, R; Herrando-Pérez, S; Jacobs, Z;
+    Miller, GH; Prideaux, GJ; Roberts, RG; Rodríguez-Rey, M; Saltré, F; Turney, CSM; Bradshaw, CJA
+  title: What caused extinction of the Pleistocene megafauna of Sahul?
+  journal: 'Proceedings of the Royal Society B: Biological Sciences'
+  image: https://coreybradshaw.files.wordpress.com/2021/08/thylacoleo-icon-cutout.png
 - doi: 10.1111/brv.13071
   year: 2024
   authors: Soto, I; Balzani, P; Carneiro, L; Cuthbert, RN; Macêdo, R; Serhan Tarkan, A; Ahmed, DA; Bang, A; Bacela‐Spychalska,
@@ -436,6 +437,13 @@
   title: Taming the terminological tempest in invasion science
   journal: Biological Reviews
   image: https://coreybradshaw.files.wordpress.com/2024/03/tornado.png
+- doi: 10.1002/fee.2862
+  year: 2025
+  authors: Arbieu, U; Bellard, C; Bradshaw, CJ; Correia, RA; Courtois, P; Di Minin, E; Jarić, I; Leroy, B; Murfree, JR; Orr,
+    M; Roturier, S; Sartore‐Baldwin, M; Veríssimo, D; Courchamp, F
+  title: Professional sport organizations as potential champions of biodiversity conservation
+  journal: Frontiers in Ecology and the Environment
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/tiger-logo-cutout.png
 - doi: 10.1038/s41467-024-48273-6
   year: 2024
   authors: Manca, F; Benedetti-Cecchi, L; Bradshaw, CJA; Cabeza, M; Gustafsson, C; Norkko, AM; Roslin, TV; Thomas, DN; White,
@@ -443,13 +451,6 @@
   title: Projected loss of brown macroalgae and seagrasses with global environmental change
   journal: Nature Communications
   image: https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png
-- doi: 10.1098/rspb.2015.2399
-  year: 2016
-  authors: Johnson, CN; Alroy, J; Beeton, NJ; Bird, MI; Brook, BW; Cooper, A; Gillespie, R; Herrando-Pérez, S; Jacobs, Z;
-    Miller, GH; Prideaux, GJ; Roberts, RG; Rodríguez-Rey, M; Saltré, F; Turney, CSM; Bradshaw, CJA
-  title: What caused extinction of the Pleistocene megafauna of Sahul?
-  journal: 'Proceedings of the Royal Society B: Biological Sciences'
-  image: https://coreybradshaw.files.wordpress.com/2021/08/thylacoleo-icon-cutout.png
 - doi: 10.1016/j.apenergy.2015.01.006
   year: 2015
   authors: Hong, S; Bradshaw, CJ; Brook, BW
@@ -462,13 +463,12 @@
   title: Warming and fertilization alter the dilution effect of host diversity on disease severity
   journal: Ecology
   image: https://coreybradshaw.files.wordpress.com/2021/08/dyingplant.png
-- doi: 10.1002/fee.2862
-  year: 2025
-  authors: Arbieu, U; Bellard, C; Bradshaw, CJ; Correia, RA; Courtois, P; Di Minin, E; Jarić, I; Leroy, B; Murfree, JR; Orr,
-    M; Roturier, S; Sartore‐Baldwin, M; Veríssimo, D; Courchamp, F
-  title: Professional sport organizations as potential champions of biodiversity conservation
-  journal: Frontiers in Ecology and the Environment
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/tiger-logo-cutout.png
+- doi: 10.7554/eLife.63870
+  year: 2021
+  authors: Bradshaw, CJ; Johnson, CN; Llewelyn, J; Weisbecker, V; Strona, G; Saltré, F
+  title: Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna
+  journal: eLife
+  image: https://coreybradshaw.files.wordpress.com/2021/08/genyornis.png
 - doi: 10.1016/j.biocon.2009.09.001
   year: 2010
   authors: Traill, LW; Brook, BW; Frankham, RR; Bradshaw, CJ
