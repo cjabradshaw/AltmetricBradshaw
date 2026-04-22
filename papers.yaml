@@ -823,14 +823,6 @@
   title: 'Informing CITES Parties: strengthening science‐based decision‐making when listing marine species'
   journal: Fish and Fisheries
   image: https://coreybradshaw.files.wordpress.com/2021/08/fishingboat.png
-- doi: 10.1093/biosci/biaf195
-  year: 2026
-  authors: Courchamp, F; Klippel, G; Angulo, E; Arbieu, U; Bang, A; Bojko, J; Caetano, GHDO; Camacho-Cervantes, M; Carneiro,
-    L; Cuthbert, RN; Dawson, MN; Desiderato, A; Fath, BD; Firth, JA; Latombe, G; Leroy, B; Liu, C; Manfrini, E; Pan, X; Pincheira-Donoso,
-    D; Tonkin, JD; Vimercati, G; Wang, S; Bradshaw, CJA
-  title: Quantifying the magnitude of biological invasions using total biomass
-  journal: BioScience
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/rats.png
 - doi: 10.1002/ecs2.4379
   year: 2023
   authors: Mathwin, R; Wassens, S; Gibbs, MS; Young, J; Ye, Q; Saltré, F; Bradshaw, CJA
@@ -876,6 +868,12 @@
   title: Scaling laws of marine predator search behaviour
   journal: Nature
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/baskingshark.png
+- doi: 10.1111/eva.70092
+  year: 2025
+  authors: Beaman, JE; Gates, K; Saltré, F; Hogg, CJ; Belov, K; Ashman, K; da Silva, KB; Beheregaray, LB; Bradshaw, CJA
+  title: A guide for developing demo‐genetic models to simulate genetic rescue
+  journal: Evolutionary Applications
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2025/05/gricontranspbw.png
 - doi: 10.1111/j.1744-7429.2006.00141.x
   year: 2006
   authors: Brook, BW; Bradshaw, CJA; Koh, LP; Sodhi, NS
@@ -900,6 +898,14 @@
   title: Ocean‐scale prediction of whale shark distribution
   journal: Diversity and Distributions
   image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
+- doi: 10.1093/biosci/biaf195
+  year: 2026
+  authors: Courchamp, F; Klippel, G; Angulo, E; Arbieu, U; Bang, A; Bojko, J; Caetano, GHDO; Camacho-Cervantes, M; Carneiro,
+    L; Cuthbert, RN; Dawson, MN; Desiderato, A; Fath, BD; Firth, JA; Latombe, G; Leroy, B; Liu, C; Manfrini, E; Pan, X; Pincheira-Donoso,
+    D; Tonkin, JD; Vimercati, G; Wang, S; Bradshaw, CJA
+  title: Quantifying the magnitude of biological invasions using total biomass
+  journal: BioScience
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/rats.png
 - doi: 10.1111/j.1755-263X.2012.00237.x
   year: 2012
   authors: van Oosterzee, P; Blignaut, J; Bradshaw, CJA
@@ -933,28 +939,6 @@
     age- and stage-classified models
   journal: Biological Conservation
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/gns.png
-- doi: 10.1111/eva.70092
-  year: 2025
-  authors: Beaman, JE; Gates, K; Saltré, F; Hogg, CJ; Belov, K; Ashman, K; da Silva, KB; Beheregaray, LB; Bradshaw, CJA
-  title: A guide for developing demo‐genetic models to simulate genetic rescue
-  journal: Evolutionary Applications
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2025/05/gricontranspbw.png
-- doi: 10.1002/rra.3951
-  year: 2022
-  authors: Thompson, RM; Barbour, EJ; Bradshaw, CJA; Briggs, S; Byron, N; Grace, M; Hart, BT; King, AJ; Likens, GE; Pollino,
-    CA; Sheldon, F; Stewardson, MJ; Thoms, M; Watts, RJ; Webb, JA
-  title: Principles for scientists working at the river science‐policy interface
-  journal: River Research and Applications
-  image: https://coreybradshaw.files.wordpress.com/2022/03/river.png
-- doi: 10.1016/j.biocon.2013.02.012
-  year: 2013
-  authors: Bradshaw, CJ; Bowman, DM; Bond, NR; Murphy, BP; Moore, AD; Fordham, DA; Thackway, R; Lawes, MJ; McCallum, H; Gregory,
-    SD; Dalal, RC; Boer, MM; Lynch, AJJ; Bradstock, RA; Brook, BW; Henry, BK; Hunt, LP; Fisher, DO; Hunter, D; Johnson, CN;
-    Keith, DA; Lefroy, EC; Penman, TD; Meyer, WS; Thomson, JR; Thornton, CM; VanDerWal, J; Williams, RJ; Keniger, L; Specht,
-    A
-  title: Brave new green world – consequences of a carbon economy for the conservation of Australian biodiversity
-  journal: Biological Conservation
-  image: https://coreybradshaw.files.wordpress.com/2021/08/carbonprice.jpg
 - doi: 10.1111/csp2.448
   year: 2021
   authors: Venning, KRW; Saltré, F; Bradshaw, CJA
@@ -973,6 +957,22 @@
   title: Climate change policies fail to protect child health
   journal: Globalization and Health
   image: https://coreybradshaw.files.wordpress.com/2024/02/warmchild.png
+- doi: 10.1016/j.biocon.2013.02.012
+  year: 2013
+  authors: Bradshaw, CJ; Bowman, DM; Bond, NR; Murphy, BP; Moore, AD; Fordham, DA; Thackway, R; Lawes, MJ; McCallum, H; Gregory,
+    SD; Dalal, RC; Boer, MM; Lynch, AJJ; Bradstock, RA; Brook, BW; Henry, BK; Hunt, LP; Fisher, DO; Hunter, D; Johnson, CN;
+    Keith, DA; Lefroy, EC; Penman, TD; Meyer, WS; Thomson, JR; Thornton, CM; VanDerWal, J; Williams, RJ; Keniger, L; Specht,
+    A
+  title: Brave new green world – consequences of a carbon economy for the conservation of Australian biodiversity
+  journal: Biological Conservation
+  image: https://coreybradshaw.files.wordpress.com/2021/08/carbonprice.jpg
+- doi: 10.1002/rra.3951
+  year: 2022
+  authors: Thompson, RM; Barbour, EJ; Bradshaw, CJA; Briggs, S; Byron, N; Grace, M; Hart, BT; King, AJ; Likens, GE; Pollino,
+    CA; Sheldon, F; Stewardson, MJ; Thoms, M; Watts, RJ; Webb, JA
+  title: Principles for scientists working at the river science‐policy interface
+  journal: River Research and Applications
+  image: https://coreybradshaw.files.wordpress.com/2022/03/river.png
 - doi: 10.1016/j.rsma.2015.05.002
   year: 2016
   authors: Speed, C; Meekan, M; Field, I; McMahon, C; Harcourt, R; Stevens, J; Babcock, R; Pillans, R; Bradshaw, C
