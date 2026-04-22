@@ -880,12 +880,6 @@
   title: 'Momentum drives the crash: mass extinction in the tropics'
   journal: Biotropica
   image: https://coreybradshaw.files.wordpress.com/2021/08/extinctbee.png
-- doi: 10.1890/0012-9658(2006)87[1445:SOEFDD]2.0.CO;2
-  year: 2006
-  authors: Brook, BW; Bradshaw, CJA
-  title: Strength of evidence for density dependence in abundance time series of 1198 species
-  journal: Ecology
-  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/feedback.png
 - doi: 10.1890/100177
   year: 2011
   authors: Clements, GR; Bradshaw, CJ; Brook, BW; Laurance, WF
@@ -906,12 +900,6 @@
   title: Quantifying the magnitude of biological invasions using total biomass
   journal: BioScience
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/rats.png
-- doi: 10.1111/j.1755-263X.2012.00237.x
-  year: 2012
-  authors: van Oosterzee, P; Blignaut, J; Bradshaw, CJA
-  title: iREDD hedges against avoided deforestation's unholy trinity of leakage, permanence and additionality
-  journal: Conservation Letters
-  image: https://coreybradshaw.files.wordpress.com/2021/08/forestinsurance.png
 - doi: 10.1111/j.1365-2664.2011.02081.x
   year: 2012
   authors: Bradshaw, CJA; McMahon, CR; Miller, PS; Lacy, RC; Watts, MJ; Verant, ML; Pollak, JP; Fordham, DA; Prowse, TAA;
@@ -920,12 +908,6 @@
     in alien buffalo
   journal: Journal of Applied Ecology
   image: https://coreybradshaw.files.wordpress.com/2021/08/buffalo.png
-- doi: 10.1016/j.quascirev.2011.11.021
-  year: 2012
-  authors: Bradshaw, C; Cooper, A; Turney, C; Brook, B
-  title: Robust estimates of extinction time in the geological record
-  journal: Quaternary Science Reviews
-  image: https://coreybradshaw.files.wordpress.com/2021/08/probability.png
 - doi: 10.1579/0044-7447-38.2.125
   year: 2009
   authors: Bradshaw, CJA
@@ -939,6 +921,18 @@
     age- and stage-classified models
   journal: Biological Conservation
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/gns.png
+- doi: 10.1111/j.1755-263X.2012.00237.x
+  year: 2012
+  authors: van Oosterzee, P; Blignaut, J; Bradshaw, CJA
+  title: iREDD hedges against avoided deforestation's unholy trinity of leakage, permanence and additionality
+  journal: Conservation Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/forestinsurance.png
+- doi: 10.1016/j.quascirev.2011.11.021
+  year: 2012
+  authors: Bradshaw, C; Cooper, A; Turney, C; Brook, B
+  title: Robust estimates of extinction time in the geological record
+  journal: Quaternary Science Reviews
+  image: https://coreybradshaw.files.wordpress.com/2021/08/probability.png
 - doi: 10.1111/csp2.448
   year: 2021
   authors: Venning, KRW; Saltré, F; Bradshaw, CJA
