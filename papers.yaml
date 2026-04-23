@@ -29,12 +29,6 @@
   title: Human population reduction is not a quick fix for environmental problems
   journal: Proceedings of the National Academy of Sciences
   image: https://coreybradshaw.files.wordpress.com/2021/08/crowd.png
-- doi: 10.1016/j.quascirev.2023.108418
-  year: 2024
-  authors: Norman, K; Bradshaw, CJ; Saltré, F; Clarkson, C; Cohen, TJ; Hiscock, P; Jones, T; Boesl, F
-  title: Sea level rise drowned a vast habitable area of north-western Australia driving long-term cultural change
-  journal: Quaternary Science Reviews
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/oceanbathicontransp.png
 - doi: 10.1038/ncomms12986
   year: 2016
   authors: Bradshaw, CJA; Leroy, B; Bellard, C; Roiz, D; Albert, C; Fournier, A; Barbet-Massin, M; Salles, JM; Simard, F;
@@ -42,6 +36,12 @@
   title: Massive yet grossly underestimated global costs of invasive insects
   journal: Nature Communications
   image: https://coreybradshaw.files.wordpress.com/2021/08/termite.png
+- doi: 10.1016/j.quascirev.2023.108418
+  year: 2024
+  authors: Norman, K; Bradshaw, CJ; Saltré, F; Clarkson, C; Cohen, TJ; Hiscock, P; Jones, T; Boesl, F
+  title: Sea level rise drowned a vast habitable area of north-western Australia driving long-term cultural change
+  journal: Quaternary Science Reviews
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/oceanbathicontransp.png
 - doi: 10.1016/j.rser.2017.03.114
   year: 2017
   authors: Heard, B; Brook, B; Wigley, T; Bradshaw, C
