@@ -17,6 +17,7 @@ META_PLACEHOLDER = "<!-- GENERATED META -->"
 ALTMETRIC_API_KEY = os.environ.get("ALTMETRIC_API_KEY")
 BRADSHAW_RE = re.compile(r"\bBradshaw\b", re.IGNORECASE)
 MAX_DISPLAY_AUTHORS = 20
+MASKED_AUTHORS = {"Cooper, A", "Fordham, DA"}
 JOURNAL_ABBREVIATION_OVERRIDES = {
     "American Journal of Health Promotion": "Am J Health Promot",
     "Applied Energy": "Appl Energy",
@@ -187,6 +188,14 @@ def normalize_author_case(author):
     return f"{surname}{separator} {initials}"
 
 
+def normalize_authors(authors):
+    return [
+        normalize_author_case(author)
+        for author in authors.split(";")
+        if author.strip()
+    ]
+
+
 def should_truncate_authors(authors):
     if len(authors) <= MAX_DISPLAY_AUTHORS:
         return False
@@ -199,14 +208,14 @@ def should_truncate_authors(authors):
 
 
 def format_authors(authors):
-    normalized_authors = [
-        normalize_author_case(author)
-        for author in authors.split(";")
-        if author.strip()
+    normalized_authors = normalize_authors(authors)
+    masked_authors = [
+        "..." if author in MASKED_AUTHORS else author
+        for author in normalized_authors
     ]
 
     truncated = should_truncate_authors(normalized_authors)
-    visible_authors = normalized_authors[:MAX_DISPLAY_AUTHORS] if truncated else normalized_authors
+    visible_authors = masked_authors[:MAX_DISPLAY_AUTHORS] if truncated else masked_authors
     formatted = "; ".join(visible_authors)
 
     if truncated:
@@ -219,11 +228,7 @@ def format_authors(authors):
 
 
 def plain_text_authors(authors):
-    normalized_authors = [
-        normalize_author_case(author)
-        for author in authors.split(";")
-        if author.strip()
-    ]
+    normalized_authors = normalize_authors(authors)
 
     truncated = should_truncate_authors(normalized_authors)
     visible_authors = normalized_authors[:MAX_DISPLAY_AUTHORS] if truncated else normalized_authors
