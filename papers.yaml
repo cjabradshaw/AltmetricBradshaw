@@ -203,7 +203,7 @@
   year: 2024
   authors: Weeda, LJ; Bradshaw, CJ; Judge, MA; Saraswati, CM; Le Souëf, PN
   title: 'How climate change degrades child health: a systematic review and meta-analysis'
-  summary: 'Synthesises evidence showing the multiple ways climate change harms children's health.'
+  summary: 'Synthesises evidence showing the multiple ways climate change harms child health.'
   journal: Science of The Total Environment
   image: https://coreybradshaw.files.wordpress.com/2024/02/warmchild.png
 - doi: 10.1038/s41562-021-01106-8
@@ -712,7 +712,7 @@
   year: 2024
   authors: Champreux, A; Saltré, F; Traylor, W; Hickler, T; Bradshaw, CJA
   title: 'How to map biomes: quantitative comparison and review of biome‐mapping methods'
-  summary: 'Evaluates different approaches for creating maps of Earth's major ecosystem types.'
+  summary: 'Evaluates different approaches for creating maps of major ecosystem types.'
   journal: Ecological Monographs
   image: https://conservationbytes.com/wp-content/uploads/2024/08/biome.png
 - doi: 10.1038/s41467-025-62692-z
@@ -868,7 +868,7 @@
   authors: Turney, CSM; Thomas, ZA; Hutchinson, DK; Bradshaw, CJA; Brook, BW; England, MH; Fogwill, CJ; Jones, RT; Palmer,
     J; Hughen, KA; Cooper, A
   title: Obliquity‐driven expansion of North Atlantic sea ice during the last glacial
-  summary: 'Shows how changes in Earth's axial tilt controlled the extent of Arctic ice during the last Ice Age.'
+  summary: 'Shows how changes in axial tilt controlled the extent of Arctic ice during the last Ice Age.'
   journal: Geophysical Research Letters
   image: https://coreybradshaw.files.wordpress.com/2021/08/seaice.png
 - doi: 10.1111/aec.13492
@@ -1092,7 +1092,7 @@
   year: 2026
   authors: Ubalde, J; Bradshaw, CJA; Le Souëf, PN; Judge, MA
   title: Climate change policies fail to protect child health
-  summary: 'Reveals that current climate mitigation and adaptation strategies inadequately address threats to children's wellbeing.'
+  summary: 'Reveals that current climate mitigation and adaptation strategies inadequately address threats to child wellbeing.'
   journal: Globalization and Health
   image: https://coreybradshaw.files.wordpress.com/2024/02/warmchild.png
 - doi: 10.1016/j.biocon.2013.02.012
