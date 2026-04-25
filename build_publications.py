@@ -2,7 +2,7 @@ import csv
 import os
 import re
 from datetime import datetime, timezone
-from html import unescape
+from html import escape, unescape
 from pathlib import Path
 import time
 import yaml
@@ -302,6 +302,7 @@ last_updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 for rank, p in enumerate(papers, start=1):
     doi = p.get("doi", "")
     title = p.get("title", "")
+    summary = p.get("summary", "").strip()
     raw_authors = p.get("authors", "")
     authors = format_authors(raw_authors)
     authors_plain = plain_text_authors(raw_authors)
@@ -312,6 +313,7 @@ for rank, p in enumerate(papers, start=1):
     cites = p.get("citations", 0)
 
     icon = f'<img src="{image}" class="paper-icon" alt="Journal icon">' if image else ""
+    summary_html = f'      <div class="paper-summary"><em>{escape(summary)}</em></div>' if summary else ""
 
     items.append(
     f'<li class="paper">'
@@ -319,6 +321,7 @@ for rank, p in enumerate(papers, start=1):
     f'    <div class="citation">'
     f'      {authors} {year}. '
     f'      <a href="https://doi.org/{doi}">{title}</a>. '
+    f'      {summary_html}'
     f'      <span class="journal"><em>{journal}</em></span>. '
     f'      doi:{doi}'
     f'    </div>'
