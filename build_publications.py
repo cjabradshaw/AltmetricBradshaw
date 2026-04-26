@@ -359,7 +359,7 @@ if META_PLACEHOLDER not in html:
 
 meta_html = (
     f'<div class="page-meta">'
-    f'  <div class="last-updated">Last updated: {last_updated}</div>'
+    f'  <div class="last-updated">last updated: {last_updated}</div>'
     f'  <a class="download-button" href="{CSV_OUTPUT_FILE.name}" download>download CSV</a>'
     f'</div>'
 )
