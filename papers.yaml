@@ -761,10 +761,19 @@
   summary: 'Shows how population growth will affect Australia''s ability to meet climate commitments.'
   journal: Asia &amp; the Pacific Policy Studies
   image: https://coreybradshaw.files.wordpress.com/2021/08/co2footprint.jpg
+- doi: 10.1093/biosci/biag009
+  year: 2026
+  authors: Barry, C; Muir, B; Backhaus, V; Coyne, C; Donnelly, E; Evans-Illidge, E; Ferreira, LC; Flagg, D; Fletcher, MS;
+    Gleiss, AC; Harris, M; Hounslow, JL; Kampers, D; Keevers-Lock, L; Koroi, C; Mamtora, J; Marshall, M; Meekan, MG; Poelina,
+    A; Ropeyarn (Angkamuthi, Yadhaykenu, Woppaburra, Meriam), Y; Russell, L; Thums, M; Tobler, R; Ulm, S; Bradshaw, CJA
+  title: Crediting and citing Indigenous Knowledges within research
+  summary: 'Provides guidelines for properly acknowledging and referencing Indigenous Knowledge systems in scientific publications.'
+  journal: BioScience
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/indig-1.png
 - doi: 10.1371/journal.pone.0149852
   year: 2016
   authors: Bradshaw, CJA; Brook, BW
-  title: How to Rank Journals
+  title: How to rank journals
   summary: 'Proposes methods for evaluating and comparing the quality and influence of academic journals.'
   journal: PLOS ONE
   image: https://coreybradshaw.files.wordpress.com/2021/08/rank.png
@@ -892,15 +901,6 @@
   summary: 'Argues that ecology requires standardised naming conventions similar to those used in other scientific disciplines.'
   journal: BioScience
   image: https://coreybradshaw.files.wordpress.com/2021/08/list.png
-- doi: 10.1093/biosci/biag009
-  year: 2026
-  authors: Barry, C; Muir, B; Backhaus, V; Coyne, C; Donnelly, E; Evans-Illidge, E; Ferreira, LC; Flagg, D; Fletcher, MS;
-    Gleiss, AC; Harris, M; Hounslow, JL; Kampers, D; Keevers-Lock, L; Koroi, C; Mamtora, J; Marshall, M; Meekan, MG; Poelina,
-    A; Ropeyarn (Angkamuthi, Yadhaykenu, Woppaburra, Meriam), Y; Russell, L; Thums, M; Tobler, R; Ulm, S; Bradshaw, CJA
-  title: Crediting and citing Indigenous Knowledges within research
-  summary: 'Provides guidelines for properly acknowledging and referencing Indigenous Knowledge systems in scientific publications.'
-  journal: BioScience
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/indig-1.png
 - doi: 10.1111/jfb.12017
   year: 2013
   authors: Sequeira, AMM; Mellin, C; Meekan, MG; Sims, DW; Bradshaw, CJA
