@@ -375,6 +375,13 @@
   summary: 'Analyses the economics of wildlife poaching to identify effective intervention strategies.'
   journal: Biological Conservation
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/poach.png
+  - doi: 10.1098/rsbl.2005.0313
+  year: 2005
+  authors: Evans, K; Thresher, R; Warneke, R; Bradshaw, C; Pook, M; Thiele, D; Hindell, M
+  title: 'Periodic variability in cetacean strandings: links to large-scale climate events'
+  summary: 'Explores connections between whale and dolphin strandings and major climate patterns.'
+  journal: Biology Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whale.png
 - doi: 10.1073/pnas.2311280120
   year: 2024
   authors: Hamilton, R; Amano, N; Bradshaw, CJA; Saltré, F; Patalano, R; Penny, D; Stevenson, J; Wolfhagen, J; Roberts, P
@@ -404,13 +411,6 @@
   summary: 'Analyses which animal species appear in professional sport team logos and names worldwide.'
   journal: BioScience
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/tiger-logo-cutout.png
-- doi: 10.1098/rsbl.2005.0313
-  year: 2005
-  authors: Evans, K; Thresher, R; Warneke, R; Bradshaw, C; Pook, M; Thiele, D; Hindell, M
-  title: 'Periodic variability in cetacean strandings: links to large-scale climate events'
-  summary: 'Explores connections between whale and dolphin strandings and major climate patterns.'
-  journal: Biology Letters
-  image: https://coreybradshaw.files.wordpress.com/2021/08/whale.png
 - doi: 10.1093/biosci/biz004
   year: 2019
   authors: Herrando-Pérez, S; Bradshaw, CJA; Lewandowsky, S; Vieites, DR
