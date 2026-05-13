@@ -17,7 +17,7 @@ META_PLACEHOLDER = "<!-- GENERATED META -->"
 ALTMETRIC_API_KEY = os.environ.get("ALTMETRIC_API_KEY")
 BRADSHAW_RE = re.compile(r"\bBradshaw\b", re.IGNORECASE)
 MAX_DISPLAY_AUTHORS = 20
-MASKED_AUTHORS = {"Cooper, A", "Fordham, DA"}
+MASKED_AUTHORS = {"Cooper, A", "Fordham, DA", "Haubrock, PJ"}
 JOURNAL_ABBREVIATION_OVERRIDES = {
     "American Journal of Health Promotion": "Am J Health Promot",
     "Applied Energy": "Appl Energy",
