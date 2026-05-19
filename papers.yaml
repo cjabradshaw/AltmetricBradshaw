@@ -100,6 +100,13 @@
   summary: 'Argues that nuclear power is essential for meeting energy demands while protecting natural ecosystems.'
   journal: Conservation Biology
   image: https://coreybradshaw.files.wordpress.com/2021/08/nuclear.png
+- doi: 10.3389/fpubh.2024.1339933
+  year: 2024
+  authors: Saraswati, CM; Judge, MA; Weeda, LJZ; Bassat, Q; Prata, N; Le Souëf, PN; Bradshaw, CJA
+  title: Net benefit of smaller human populations to environmental integrity and individual health and wellbeing
+  summary: 'Demonstrates that lower human population density would improve both ecosystem health and human welfare.'
+  journal: Frontiers in Public Health
+  image: https://coreybradshaw.files.wordpress.com/2024/03/population.png
 - doi: 10.1126/sciadv.1501682
   year: 2016
   authors: Metcalf, JL; Turney, C; Barnett, R; Martin, F; Bray, SC; Vilstrup, JT; Orlando, L; Salas-Gismondi, R; Loponte,
@@ -201,7 +208,7 @@
   image: https://coreybradshaw.files.wordpress.com/2021/08/ausdots.png
 - doi: 10.1016/j.scitotenv.2024.170944
   year: 2024
-  authors: Weeda, LJ; Bradshaw, CJ; Judge, MA; Saraswati, CM; Le Souëf, PN
+  authors: Weeda, LJ; Bradshaw, CJ; Judge, MA; , CM; Le Souëf, PN
   title: 'How climate change degrades child health: a systematic review and meta-analysis'
   summary: 'Synthesises evidence showing the multiple ways climate change harms child health.'
   journal: Science of The Total Environment
@@ -305,7 +312,7 @@
   image: https://coreybradshaw.files.wordpress.com/2021/08/family.png
 - doi: 10.1371/journal.pone.0280260
   year: 2023
-  authors: Bradshaw, CJA; Perry, C; Judge, MA; Saraswati, CM; Heyworth, J; Le Souëf, PN
+  authors: Bradshaw, CJA; Perry, C; Judge, MA; , CM; Heyworth, J; Le Souëf, PN
   title: Lower infant mortality, lower household size, and more access to contraception reduce fertility in low- and middle-income
     nations
   summary: 'Identifies factors that lead to declining human birth rates in developing countries.'
@@ -635,13 +642,6 @@
   summary: 'Provides guidelines for properly acknowledging and referencing Indigenous Knowledge systems in scientific publications.'
   journal: BioScience
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/indig-1.png
-- doi: 10.3389/fpubh.2024.1339933
-  year: 2024
-  authors: Saraswati, CM; Judge, MA; Weeda, LJZ; Bassat, Q; Prata, N; Le Souëf, PN; Bradshaw, CJA
-  title: Net benefit of smaller human populations to environmental integrity and individual health and wellbeing
-  summary: 'Demonstrates that lower human population density would improve both ecosystem health and human welfare.'
-  journal: Frontiers in Public Health
-  image: https://coreybradshaw.files.wordpress.com/2024/03/population.png
 - doi: 10.7554/eLife.55993
   year: 2020
   authors: Carturan, BS; Pither, J; Maréchal, JP; Bradshaw, CJ; Parrott, L
