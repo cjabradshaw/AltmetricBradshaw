@@ -403,13 +403,6 @@
   summary: 'Explores how to manage koala populations that are abundant in some areas but threatened overall.'
   journal: Ecology and Evolution
   image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
-- doi: 10.1177/08901171211064224
-  year: 2022
-  authors: Ripple, WJ; DellaSala, DA; Baumann, F; Gregg, J; Betts, MG; Law, BE; Bradshaw, CJA; Wolf, C
-  title: Zoonotic diseases and our troubled relationship with nature
-  summary: 'Examines how human disruption of ecosystems increases the emergence of human diseases transmitted from animals.'
-  journal: American Journal of Health Promotion
-  image: https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png
 - doi: 10.1093/biosci/biaf181
   year: 2026
   authors: Arbieu, U; Bellard, C; Bradshaw, CJA; Correia, R; Courtois, P; Di Minin, E; Jarić, I; Murfree, JR; Orr, M; Roturier,
@@ -418,6 +411,13 @@
   summary: 'Analyses which animal species appear in professional sport team logos and names worldwide.'
   journal: BioScience
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/tiger-logo-cutout.png
+- doi: 10.1177/08901171211064224
+  year: 2022
+  authors: Ripple, WJ; DellaSala, DA; Baumann, F; Gregg, J; Betts, MG; Law, BE; Bradshaw, CJA; Wolf, C
+  title: Zoonotic diseases and our troubled relationship with nature
+  summary: 'Examines how human disruption of ecosystems increases the emergence of human diseases transmitted from animals.'
+  journal: American Journal of Health Promotion
+  image: https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png
 - doi: 10.1093/biosci/biz004
   year: 2019
   authors: Herrando-Pérez, S; Bradshaw, CJA; Lewandowsky, S; Vieites, DR
