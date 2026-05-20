@@ -125,6 +125,13 @@
   summary: 'Quantifies the substantial but often overlooked economic costs of invasive species across Europe.'
   journal: Environmental Sciences Europe
   image: https://coreybradshaw.files.wordpress.com/2023/06/eueuro.png
+- doi: 10.7717/peerj.5554
+  year: 2018
+  authors: Huveneers, C; Whitmarsh, S; Thiele, M; Meyer, L; Fox, A; Bradshaw, CJ
+  title: Effectiveness of five personal shark-bite deterrents for surfers
+  summary: 'Tests whether various shark deterrent devices actually reduce attack risk for people in the water.'
+  journal: PeerJ
+  image: https://coreybradshaw.files.wordpress.com/2021/08/surfshark.png
 - doi: 10.1016/j.oneear.2021.01.014
   year: 2021
   authors: Di Minin, E; Clements, HS; Correia, RA; Cortés-Capano, G; Fink, C; Haukka, A; Hausmann, A; Kulkarni, R; Bradshaw,
@@ -133,13 +140,6 @@
   summary: 'Examines how sport hunting affects both wildlife populations and the communities that depend on them.'
   journal: One Earth
   image: https://coreybradshaw.files.wordpress.com/2021/08/hunter.png
-- doi: 10.7717/peerj.5554
-  year: 2018
-  authors: Huveneers, C; Whitmarsh, S; Thiele, M; Meyer, L; Fox, A; Bradshaw, CJ
-  title: Effectiveness of five personal shark-bite deterrents for surfers
-  summary: 'Tests whether various shark deterrent devices actually reduce attack risk for people in the water.'
-  journal: PeerJ
-  image: https://coreybradshaw.files.wordpress.com/2021/08/surfshark.png
 - doi: 10.1038/s41559-025-02667-x
   year: 2025
   authors: Mulà, C; Bradshaw, CJA; Cabeza, M; Manca, F; Montano, S; Strona, G
