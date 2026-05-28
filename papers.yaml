@@ -34,6 +34,13 @@
   summary: 'Demonstrates that slowing population growth alone will not solve environmental crises within relevant timeframes.'
   journal: Proceedings of the National Academy of Sciences
   image: https://coreybradshaw.files.wordpress.com/2021/08/crowd.png
+- doi: 10.1016/j.quascirev.2023.108418
+  year: 2024
+  authors: Norman, K; Bradshaw, CJ; Saltré, F; Clarkson, C; Cohen, TJ; Hiscock, P; Jones, T; Boesl, F
+  title: Sea level rise drowned a vast habitable area of north-western Australia driving long-term cultural change
+  summary: 'Shows how rising seas submerged large areas of coastal Australia, forcing major cultural adaptations in ancient human populations.'
+  journal: Quaternary Science Reviews
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/oceanbathicontransp.png
 - doi: 10.1038/ncomms12986
   year: 2016
   authors: Bradshaw, CJA; Leroy, B; Bellard, C; Roiz, D; Albert, C; Fournier, A; Barbet-Massin, M; Salles, JM; Simard, F;
@@ -42,13 +49,6 @@
   summary: 'Reveals that invasive insects cause far greater economic damage than previously recognized.'
   journal: Nature Communications
   image: https://coreybradshaw.files.wordpress.com/2021/08/termite.png
-- doi: 10.1016/j.quascirev.2023.108418
-  year: 2024
-  authors: Norman, K; Bradshaw, CJ; Saltré, F; Clarkson, C; Cohen, TJ; Hiscock, P; Jones, T; Boesl, F
-  title: Sea level rise drowned a vast habitable area of north-western Australia driving long-term cultural change
-  summary: 'Shows how rising seas submerged large areas of coastal Australia, forcing major cultural adaptations in ancient human populations.'
-  journal: Quaternary Science Reviews
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/oceanbathicontransp.png
 - doi: 10.1016/j.rser.2017.03.114
   year: 2017
   authors: Heard, B; Brook, B; Wigley, T; Bradshaw, C
@@ -56,6 +56,13 @@
   summary: 'Critically examines whether electricity systems can realistically run entirely on renewable energy sources.'
   journal: Renewable and Sustainable Energy Reviews
   image: https://coreybradshaw.files.wordpress.com/2021/08/turbines.png
+- doi: 10.1088/1748-9326/ae51aa
+  year: 2026
+  authors: Bradshaw, CJA; Judge, MA; Blumstein, DT; Ehrlich, PR; Dasgupta, ANZ; Wackernagel, M; Weeda, LJZ; Le Souëf, PN
+  title: Global human population has surpassed Earth’s sustainable carrying capacity
+  summary: 'Determines when the global human population surpassed Earth’s sustainable carrying capacity.'
+  journal: Environmental Research Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/crowd.png
 - doi: 10.1038/s41598-019-42946-9
   year: 2019
   authors: Bird, MI; Condie, SA; O’Connor, S; O’Grady, D; Reepmeyer, C; Ulm, S; Zega, M; Saltré, F; Bradshaw, CJA
@@ -70,13 +77,6 @@
   summary: 'Demonstrates how interconnected species networks lead to cascading extinctions during severe environmental disruptions.'
   journal: Scientific Reports
   image: https://coreybradshaw.files.wordpress.com/2021/08/brokenchain.png
-- doi: 10.1088/1748-9326/ae51aa
-  year: 2026
-  authors: Bradshaw, CJA; Judge, MA; Blumstein, DT; Ehrlich, PR; Dasgupta, ANZ; Wackernagel, M; Weeda, LJZ; Le Souëf, PN
-  title: Global human population has surpassed Earth’s sustainable carrying capacity
-  summary: 'Determines when the global human population surpassed Earth’s sustainable carrying capacity.'
-  journal: Environmental Research Letters
-  image: https://coreybradshaw.files.wordpress.com/2021/08/crowd.png
 - doi: 10.1038/ng.2536
   year: 2013
   authors: Adler, CJ; Dobney, K; Weyrich, LS; Kaidonis, J; Walker, AW; Haak, W; Bradshaw, CJA; Townsend, G; Sołtysiak, A;
@@ -107,15 +107,6 @@
   summary: 'Demonstrates that lower human population density would improve both ecosystem health and human welfare.'
   journal: Frontiers in Public Health
   image: https://coreybradshaw.files.wordpress.com/2024/03/population.png
-- doi: 10.1126/sciadv.1501682
-  year: 2016
-  authors: Metcalf, JL; Turney, C; Barnett, R; Martin, F; Bray, SC; Vilstrup, JT; Orlando, L; Salas-Gismondi, R; Loponte,
-    D; Medina, M; De Nigris, M; Civalero, T; Fernández, PM; Gasco, A; Duran, V; Seymour, KL; Otaola, C; Gil, A; Paunero, R;
-    Prevosti, FJ; Bradshaw, CJA; Wheeler, JC; Borrero, L; Austin, JJ; Cooper, A
-  title: Synergistic roles of climate warming and human occupation in Patagonian megafaunal extinctions during the Last Deglaciation
-  summary: 'Shows that both climate change and human hunting together drove the extinction of large animals in Patagonia.'
-  journal: Science Advances
-  image: https://coreybradshaw.files.wordpress.com/2021/08/smilodon.png
 - doi: 10.1186/s12302-023-00750-3
   year: 2023
   authors: Henry, M; Leung, B; Cuthbert, RN; Bodey, TW; Ahmed, DA; Angulo, E; Balzani, P; Briski, E; Courchamp, F; Hulme,
@@ -125,6 +116,15 @@
   summary: 'Quantifies the substantial but often overlooked economic costs of invasive species across Europe.'
   journal: Environmental Sciences Europe
   image: https://coreybradshaw.files.wordpress.com/2023/06/eueuro.png
+- doi: 10.1126/sciadv.1501682
+  year: 2016
+  authors: Metcalf, JL; Turney, C; Barnett, R; Martin, F; Bray, SC; Vilstrup, JT; Orlando, L; Salas-Gismondi, R; Loponte,
+    D; Medina, M; De Nigris, M; Civalero, T; Fernández, PM; Gasco, A; Duran, V; Seymour, KL; Otaola, C; Gil, A; Paunero, R;
+    Prevosti, FJ; Bradshaw, CJA; Wheeler, JC; Borrero, L; Austin, JJ; Cooper, A
+  title: Synergistic roles of climate warming and human occupation in Patagonian megafaunal extinctions during the Last Deglaciation
+  summary: 'Shows that both climate change and human hunting together drove the extinction of large animals in Patagonia.'
+  journal: Science Advances
+  image: https://coreybradshaw.files.wordpress.com/2021/08/smilodon.png
 - doi: 10.7717/peerj.5554
   year: 2018
   authors: Huveneers, C; Whitmarsh, S; Thiele, M; Meyer, L; Fox, A; Bradshaw, CJ
@@ -132,6 +132,13 @@
   summary: 'Tests whether various shark deterrent devices actually reduce attack risk for people in the water.'
   journal: PeerJ
   image: https://coreybradshaw.files.wordpress.com/2021/08/surfshark.png
+- doi: 10.1038/s41559-025-02667-x
+  year: 2025
+  authors: Mulà, C; Bradshaw, CJA; Cabeza, M; Manca, F; Montano, S; Strona, G
+  title: Restoration cannot be scaled up globally to save reefs from loss and degradation
+  summary: 'Demonstrates that coral reef restoration efforts cannot offset the rapid pace of reef destruction worldwide.'
+  journal: Nature Ecology &amp; Evolution
+  image: https://coreybradshaw.files.wordpress.com/2021/08/coral.png
 - doi: 10.1016/j.oneear.2021.01.014
   year: 2021
   authors: Di Minin, E; Clements, HS; Correia, RA; Cortés-Capano, G; Fink, C; Haukka, A; Hausmann, A; Kulkarni, R; Bradshaw,
@@ -140,13 +147,6 @@
   summary: 'Examines how sport hunting affects both wildlife populations and the communities that depend on them.'
   journal: One Earth
   image: https://coreybradshaw.files.wordpress.com/2021/08/hunter.png
-- doi: 10.1038/s41559-025-02667-x
-  year: 2025
-  authors: Mulà, C; Bradshaw, CJA; Cabeza, M; Manca, F; Montano, S; Strona, G
-  title: Restoration cannot be scaled up globally to save reefs from loss and degradation
-  summary: 'Demonstrates that coral reef restoration efforts cannot offset the rapid pace of reef destruction worldwide.'
-  journal: Nature Ecology &amp; Evolution
-  image: https://coreybradshaw.files.wordpress.com/2021/08/coral.png
 - doi: 10.1098/rspb.2024.0967
   year: 2024
   authors: Bradshaw, CJA; Saltré, F; Crabtree, SA; Reepmeyer, C; Moutsiou, T
@@ -168,13 +168,6 @@
   summary: 'Calculates how much carbon is stored in boreal forests and how it moves through those ecosystems.'
   journal: Global and Planetary Change
   image: https://coreybradshaw.files.wordpress.com/2021/08/borealforest.png
-- doi: 10.1111/j.1523-1739.2008.01165.x
-  year: 2009
-  authors: WARKENTIN, IG; BICKFORD, D; SODHI, NS; BRADSHAW, CJA
-  title: Eating frogs to extinction
-  summary: 'Examines how human consumption of frogs threatens many amphibian species with extinction.'
-  journal: Conservation Biology
-  image: https://coreybradshaw.files.wordpress.com/2021/08/froglegs.png
 - doi: 10.1038/nature10425
   year: 2011
   authors: Gibson, L; Lee, TM; Koh, LP; Brook, BW; Gardner, TA; Barlow, J; Peres, CA; Bradshaw, CJA; Laurance, WF; Lovejoy,
@@ -183,6 +176,13 @@
   summary: 'Demonstrates that old-growth tropical forests cannot be replaced by secondary or planted forests for conserving species diversity.'
   journal: Nature
   image: https://coreybradshaw.files.wordpress.com/2021/08/forests.png
+- doi: 10.1111/j.1523-1739.2008.01165.x
+  year: 2009
+  authors: WARKENTIN, IG; BICKFORD, D; SODHI, NS; BRADSHAW, CJA
+  title: Eating frogs to extinction
+  summary: 'Examines how human consumption of frogs threatens many amphibian species with extinction.'
+  journal: Conservation Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/froglegs.png
 - doi: 10.1073/pnas.2318293121
   year: 2024
   authors: Bradshaw, CJA; Reepmeyer, C; Saltré, F; Agapiou, A; Kassianidou, V; Demesticha, S; Zomeni, Z; Polidorou, M; Moutsiou,
@@ -220,6 +220,21 @@
   summary: 'Identifies the most likely migration routes ancient humans took when first settling Australia and New Guinea.'
   journal: Nature Human Behaviour
   image: https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png
+- doi: 10.1016/j.biocon.2013.12.036
+  year: 2014
+  authors: Frankham, R; Bradshaw, CJ; Brook, BW
+  title: 'Genetics in conservation management: Revised recommendations for the 50/500 rules, Red List criteria and population
+    viability analyses'
+  summary: 'Updates genetic guidelines used to assess extinction risk and manage endangered populations.'
+  journal: Biological Conservation
+  image: https://coreybradshaw.files.wordpress.com/2021/08/dna.png
+- doi: 10.1016/j.tree.2015.12.006
+  year: 2016
+  authors: Di Minin, E; Leader-Williams, N; Bradshaw, CJ
+  title: Banning trophy hunting will exacerbate biodiversity loss
+  summary: 'Suggests that prohibiting trophy hunting could worsen conservation outcomes in some regions.'
+  journal: Trends in Ecology &amp; Evolution
+  image: https://coreybradshaw.files.wordpress.com/2021/08/trophyhunting.png
 - doi: 10.11646/zootaxa.4564.1.6
   year: 2019
   authors: SMITH, BP; CAIRNS, KM; ADAMS, JW; NEWSOME, TM; FILLIOS, M; DÉAUX, EC; PARR, WCH; LETNIC, M; VAN EEDEN, LM; APPLEBY,
@@ -229,21 +244,6 @@
   summary: 'Demonstrates that dingoes are in fact a separate species.'
   journal: Zootaxa
   image: https://coreybradshaw.files.wordpress.com/2021/08/dingo.png
-- doi: 10.1016/j.tree.2015.12.006
-  year: 2016
-  authors: Di Minin, E; Leader-Williams, N; Bradshaw, CJ
-  title: Banning trophy hunting will exacerbate biodiversity loss
-  summary: 'Suggests that prohibiting trophy hunting could worsen conservation outcomes in some regions.'
-  journal: Trends in Ecology &amp; Evolution
-  image: https://coreybradshaw.files.wordpress.com/2021/08/trophyhunting.png
-- doi: 10.1016/j.biocon.2013.12.036
-  year: 2014
-  authors: Frankham, R; Bradshaw, CJ; Brook, BW
-  title: 'Genetics in conservation management: Revised recommendations for the 50/500 rules, Red List criteria and population
-    viability analyses'
-  summary: 'Updates genetic guidelines used to assess extinction risk and manage endangered populations.'
-  journal: Biological Conservation
-  image: https://coreybradshaw.files.wordpress.com/2021/08/dna.png
 - doi: 10.3897/neobiota.67.58834
   year: 2021
   authors: Bradshaw, CJA; Hoskins, AJ; Haubrock, PJ; Cuthbert, RN; Diagne, C; Leroy, B; Andrews, L; Page, B; Cassey, P; Sheppard,
@@ -318,13 +318,6 @@
   summary: 'Identifies factors that lead to declining human birth rates in developing countries.'
   journal: PLOS ONE
   image: https://coreybradshaw.files.wordpress.com/2023/02/fertility.jpg
-- doi: 10.1016/j.tree.2008.03.011
-  year: 2008
-  authors: BROOK, B; SODHI, N; BRADSHAW, C
-  title: Synergies among extinction drivers under global change
-  summary: 'Examines how multiple threats interact to accelerate species extinctions beyond what single threats would cause.'
-  journal: Trends in Ecology &amp; Evolution
-  image: https://coreybradshaw.files.wordpress.com/2021/08/synergy.png
 - doi: 10.1016/j.tree.2009.03.019
   year: 2009
   authors: Bradshaw, CJ; Warkentin, IG; Sodhi, NS
@@ -332,6 +325,13 @@
   summary: 'Calls for immediate action to protect northern forests and the massive carbon stores they contain.'
   journal: Trends in Ecology &amp; Evolution
   image: https://coreybradshaw.files.wordpress.com/2021/08/borealfire.png
+- doi: 10.1016/j.tree.2008.03.011
+  year: 2008
+  authors: BROOK, B; SODHI, N; BRADSHAW, C
+  title: Synergies among extinction drivers under global change
+  summary: 'Examines how multiple threats interact to accelerate species extinctions beyond what single threats would cause.'
+  journal: Trends in Ecology &amp; Evolution
+  image: https://coreybradshaw.files.wordpress.com/2021/08/synergy.png
 - doi: 10.1111/j.1365-2486.2007.01446.x
   year: 2007
   authors: BRADSHAW, CJA; SODHI, NS; PEH, KS; BROOK, BW
@@ -611,6 +611,15 @@
   summary: 'Documents a fundamental ecosystem transformation caused by changes in predator-prey dynamics in ancient Australia.'
   journal: Ecology
   image: https://coreybradshaw.files.wordpress.com/2021/08/dingoroothylac.png
+- doi: 10.1093/biosci/biag009
+  year: 2026
+  authors: Barry, C; Muir, B; Backhaus, V; Coyne, C; Donnelly, E; Evans-Illidge, E; Ferreira, LC; Flagg, D; Fletcher, MS;
+    Gleiss, AC; Harris, M; Hounslow, JL; Kampers, D; Keevers-Lock, L; Koroi, C; Mamtora, J; Marshall, M; Meekan, MG; Poelina,
+    A; Ropeyarn (Angkamuthi, Yadhaykenu, Woppaburra, Meriam), Y; Russell, L; Thums, M; Tobler, R; Ulm, S; Bradshaw, CJA
+  title: Crediting and citing Indigenous Knowledges within research
+  summary: 'Provides guidelines for properly acknowledging and referencing Indigenous Knowledge systems in scientific publications.'
+  journal: BioScience
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/indig-1.png
 - doi: 10.1111/mec.70097
   year: 2025
   authors: Gates, K; Sandoval‐Castillo, J; Beaman, JE; da Silva, KB; Saltré, F; Belov, K; Hogg, CJ; Bradshaw, CJA; Beheregaray,
@@ -633,15 +642,6 @@
   summary: 'Identifies the climate and environmental factors that enabled modern humans to spread initially into northern latitudes.'
   journal: Nature Communications
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/globenetworkicontransp.png
-- doi: 10.1093/biosci/biag009
-  year: 2026
-  authors: Barry, C; Muir, B; Backhaus, V; Coyne, C; Donnelly, E; Evans-Illidge, E; Ferreira, LC; Flagg, D; Fletcher, MS;
-    Gleiss, AC; Harris, M; Hounslow, JL; Kampers, D; Keevers-Lock, L; Koroi, C; Mamtora, J; Marshall, M; Meekan, MG; Poelina,
-    A; Ropeyarn (Angkamuthi, Yadhaykenu, Woppaburra, Meriam), Y; Russell, L; Thums, M; Tobler, R; Ulm, S; Bradshaw, CJA
-  title: Crediting and citing Indigenous Knowledges within research
-  summary: 'Provides guidelines for properly acknowledging and referencing Indigenous Knowledge systems in scientific publications.'
-  journal: BioScience
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/indig-1.png
 - doi: 10.7554/eLife.55993
   year: 2020
   authors: Carturan, BS; Pither, J; Maréchal, JP; Bradshaw, CJ; Parrott, L
@@ -793,14 +793,6 @@
   summary: 'Compares how feral and outdoor cats hunt across different regions of the world.'
   journal: Ecography
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png
-- doi: 10.1093/biosci/biae010
-  year: 2024
-  authors: Carneiro, L; Hulme, PE; Cuthbert, RN; Kourantidou, M; Bang, A; Haubrock, PJ; Bradshaw, CJA; Balzani, P; Bacher,
-    S; Latombe, G; Bodey, TW; Probert, AF; Quilodrán, CS; Courchamp, F
-  title: Benefits do not balance costs of biological invasions
-  summary: 'Demonstrates that any positive effects of invasive species are vastly outweighed by their harmful impacts.'
-  journal: BioScience
-  image: https://coreybradshaw.files.wordpress.com/2024/03/scales.png
 - doi: 10.1002/ecs2.70082
   year: 2024
   authors: Hamnett, PW; Saltré, F; Page, B; Tarran, M; Korcz, M; Fielder, K; Andrews, L; Bradshaw, CJA
@@ -815,6 +807,14 @@
   summary: 'Proposes reforms to make palm oil sustainability certification more effective at protecting biodiversity.'
   journal: Conservation Biology
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/oilpalm.png
+- doi: 10.1093/biosci/biae010
+  year: 2024
+  authors: Carneiro, L; Hulme, PE; Cuthbert, RN; Kourantidou, M; Bang, A; Haubrock, PJ; Bradshaw, CJA; Balzani, P; Bacher,
+    S; Latombe, G; Bodey, TW; Probert, AF; Quilodrán, CS; Courchamp, F
+  title: Benefits do not balance costs of biological invasions
+  summary: 'Demonstrates that any positive effects of invasive species are vastly outweighed by their harmful impacts.'
+  journal: BioScience
+  image: https://coreybradshaw.files.wordpress.com/2024/03/scales.png
 - doi: 10.1371/journal.pone.0257141
   year: 2021
   authors: Bradshaw, CJA; Chalker, JM; Crabtree, SA; Eijkelkamp, BA; Long, JA; Smith, JR; Trinajstic, K; Weisbecker, V
@@ -908,13 +908,6 @@
   summary: 'Proposes how ostensibly ''isolated'' populations of whale sharks are in fact connected via migration.'
   journal: Journal of Fish Biology
   image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
-- doi: 10.1111/1365-2664.13187
-  year: 2018
-  authors: Barnett, LK; Prowse, TAA; Peacock, DE; Mutze, GJ; Sinclair, RG; Kovaliski, J; Cooke, BD; Bradshaw, CJA
-  title: Previous exposure to myxoma virus reduces survival of European rabbits during outbreaks of rabbit haemorrhagic disease
-  summary: 'Reveals that rabbits infected with one viral disease become more vulnerable to a different lethal virus.'
-  journal: Journal of Applied Ecology
-  image: https://coreybradshaw.files.wordpress.com/2021/08/rabbit.png
 - doi: 10.1016/j.quageo.2015.08.002
   year: 2015
   authors: Rodríguez-Rey, M; Herrando-Pérez, S; Gillespie, R; Jacobs, Z; Saltré, F; Brook, BW; Prideaux, GJ; Roberts, RG;
@@ -923,6 +916,13 @@
   summary: 'Establishes standards for evaluating the reliability of dates assigned to Ice Age animal fossils.'
   journal: Quaternary Geochronology
   image: https://coreybradshaw.files.wordpress.com/2021/08/massspec.png
+- doi: 10.1111/1365-2664.13187
+  year: 2018
+  authors: Barnett, LK; Prowse, TAA; Peacock, DE; Mutze, GJ; Sinclair, RG; Kovaliski, J; Cooke, BD; Bradshaw, CJA
+  title: Previous exposure to myxoma virus reduces survival of European rabbits during outbreaks of rabbit haemorrhagic disease
+  summary: 'Reveals that rabbits infected with one viral disease become more vulnerable to a different lethal virus.'
+  journal: Journal of Applied Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/rabbit.png
 - doi: 10.1111/faf.12411
   year: 2020
   authors: Friedman, K; Braccini, M; Bjerregaard‐Walsh, M; Bonfil, R; Bradshaw, CJA; Brouwer, S; Campbell, I; Coelho, R; Cortés,
@@ -969,13 +969,6 @@
   summary: 'Finds no evidence that Australia''s large Ice Age animals went extinct in waves before human arrival.'
   journal: Proceedings of the National Academy of Sciences
   image: https://coreybradshaw.files.wordpress.com/2021/08/diprotodon.jpg
-- doi: 10.1093/icesjms/fsy031
-  year: 2018
-  authors: Bradshaw, CJA; Prowse, TAA; Drew, M; Gillanders, BM; Donnellan, SC; Huveneers, C
-  title: Predicting sustainable shark harvests when stock assessments are lacking
-  summary: 'Develops methods for setting safe shark fishing limits when detailed population data are unavailable.'
-  journal: ICES Journal of Marine Science
-  image: https://coreybradshaw.files.wordpress.com/2021/08/trawler.png
 - doi: 10.1038/sdata.2016.53
   year: 2016
   authors: Rodríguez-Rey, M; Herrando-Pérez, S; Brook, BW; Saltré, F; Alroy, J; Beeton, N; Bird, MI; Cooper, A; Gillespie,
@@ -984,6 +977,13 @@
   summary: 'Lists the ages (and assesses their reliability) of identified fossils belonging to now-extinct large animals that existed in Australia.'
   journal: Scientific Data
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/palaeo.png
+- doi: 10.1093/icesjms/fsy031
+  year: 2018
+  authors: Bradshaw, CJA; Prowse, TAA; Drew, M; Gillanders, BM; Donnellan, SC; Huveneers, C
+  title: Predicting sustainable shark harvests when stock assessments are lacking
+  summary: 'Develops methods for setting safe shark fishing limits when detailed population data are unavailable.'
+  journal: ICES Journal of Marine Science
+  image: https://coreybradshaw.files.wordpress.com/2021/08/trawler.png
 - doi: 10.3354/meps319275
   year: 2006
   authors: Meekan, M; Bradshaw, C; Press, M; McLean, C; Richards, A; Quasnichka, S; Taylor, J
@@ -1029,13 +1029,6 @@
   summary: 'Combines disease transmission and population models to simulate how tuberculosis spreads in wildlife.'
   journal: Journal of Applied Ecology
   image: https://coreybradshaw.files.wordpress.com/2021/08/buffalo.png
-- doi: 10.1111/j.1472-4642.2011.00853.x
-  year: 2012
-  authors: Sequeira, A; Mellin, C; Rowat, D; Meekan, MG; Bradshaw, CJA
-  title: Ocean‐scale prediction of whale shark distribution
-  summary: 'Creates global maps forecasting where whale sharks occur based on oceanographic conditions.'
-  journal: Diversity and Distributions
-  image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
 - doi: 10.1093/biosci/biaf195
   year: 2026
   authors: Courchamp, F; Klippel, G; Angulo, E; Arbieu, U; Bang, A; Bojko, J; Caetano, GHDO; Camacho-Cervantes, M; Carneiro,
@@ -1045,6 +1038,13 @@
   summary: 'Proposes using the total weight of invasive organisms as a metric for measuring invasion severity.'
   journal: BioScience
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/rats.png
+- doi: 10.1111/j.1472-4642.2011.00853.x
+  year: 2012
+  authors: Sequeira, A; Mellin, C; Rowat, D; Meekan, MG; Bradshaw, CJA
+  title: Ocean‐scale prediction of whale shark distribution
+  summary: 'Creates global maps forecasting where whale sharks occur based on oceanographic conditions.'
+  journal: Diversity and Distributions
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whaleshark-1.png
 - doi: 10.1579/0044-7447-38.2.125
   year: 2009
   authors: Bradshaw, CJA
