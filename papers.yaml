@@ -49,13 +49,6 @@
   summary: 'Reveals that invasive insects cause far greater economic damage than previously recognized.'
   journal: Nature Communications
   image: https://coreybradshaw.files.wordpress.com/2021/08/termite.png
-- doi: 10.1016/j.rser.2017.03.114
-  year: 2017
-  authors: Heard, B; Brook, B; Wigley, T; Bradshaw, C
-  title: 'Burden of proof: A comprehensive review of the feasibility of 100% renewable-electricity systems'
-  summary: 'Critically examines whether electricity systems can realistically run entirely on renewable energy sources.'
-  journal: Renewable and Sustainable Energy Reviews
-  image: https://coreybradshaw.files.wordpress.com/2021/08/turbines.png
 - doi: 10.1088/1748-9326/ae51aa
   year: 2026
   authors: Bradshaw, CJA; Judge, MA; Blumstein, DT; Ehrlich, PR; Dasgupta, ANZ; Wackernagel, M; Weeda, LJZ; Le Souëf, PN
@@ -63,6 +56,13 @@
   summary: 'Determines when the global human population surpassed Earth’s sustainable carrying capacity.'
   journal: Environmental Research Letters
   image: https://coreybradshaw.files.wordpress.com/2021/08/crowd.png
+- doi: 10.1016/j.rser.2017.03.114
+  year: 2017
+  authors: Heard, B; Brook, B; Wigley, T; Bradshaw, C
+  title: 'Burden of proof: A comprehensive review of the feasibility of 100% renewable-electricity systems'
+  summary: 'Critically examines whether electricity systems can realistically run entirely on renewable energy sources.'
+  journal: Renewable and Sustainable Energy Reviews
+  image: https://coreybradshaw.files.wordpress.com/2021/08/turbines.png
 - doi: 10.1038/s41598-019-42946-9
   year: 2019
   authors: Bird, MI; Condie, SA; O’Connor, S; O’Grady, D; Reepmeyer, C; Ulm, S; Zega, M; Saltré, F; Bradshaw, CJA
