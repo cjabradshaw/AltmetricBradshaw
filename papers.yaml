@@ -213,6 +213,13 @@
   summary: 'Synthesises evidence showing the multiple ways climate change harms child health.'
   journal: Science of The Total Environment
   image: https://coreybradshaw.files.wordpress.com/2024/02/warmchild.png
+- doi: 10.1038/s41597-022-01453-9
+  year: 2022
+  authors: Riley, M; Meagher, P; Huveneers, C; Leto, J; Peddemors, VM; Slip, D; West, J; Bradshaw, CJA
+  title: The Australian Shark-Incident Database for quantifying temporal and spatial patterns of shark-human conflict
+  summary: 'A database tracking when and where shark encounters occur to identify patterns and trends.'
+  journal: Scientific Data
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png
 - doi: 10.1038/s41562-021-01106-8
   year: 2021
   authors: Crabtree, SA; White, DA; Bradshaw, CJA; Saltré, F; Williams, AN; Beaman, RJ; Bird, MI; Ulm, S
@@ -252,13 +259,6 @@
   summary: 'Provides the first comprehensive accounting of the financial damage caused by invasive species across Australia.'
   journal: NeoBiota
   image: https://coreybradshaw.files.wordpress.com/2021/08/huntingcat.png
-- doi: 10.1038/s41597-022-01453-9
-  year: 2022
-  authors: Riley, M; Meagher, P; Huveneers, C; Leto, J; Peddemors, VM; Slip, D; West, J; Bradshaw, CJA
-  title: The Australian Shark-Incident Database for quantifying temporal and spatial patterns of shark-human conflict
-  summary: 'A database tracking when and where shark encounters occur to identify patterns and trends.'
-  journal: Scientific Data
-  image: https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png
 - doi: 10.1038/nature11318
   year: 2012
   authors: Laurance, WF; Carolina Useche, D; Rendeiro, J; Kalka, M; Bradshaw, CJA; Sloan, SP; Laurance, SG; Campbell, M; Abernethy,
@@ -318,6 +318,13 @@
   summary: 'Identifies factors that lead to declining human birth rates in developing countries.'
   journal: PLOS ONE
   image: https://coreybradshaw.files.wordpress.com/2023/02/fertility.jpg
+- doi: 10.1002/ece3.72470
+  year: 2026
+  authors: Saltré, F; Peters, KJ; Rogers, DJ; Chadoeuf, J; Weisbecker, V; Bradshaw, CJA
+  title: Balancing high densities and conservation targets to optimise koala management strategies
+  summary: 'Explores how to manage koala populations that are abundant in some areas but threatened overall.'
+  journal: Ecology and Evolution
+  image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
 - doi: 10.1016/j.tree.2009.03.019
   year: 2009
   authors: Bradshaw, CJ; Warkentin, IG; Sodhi, NS
@@ -339,6 +346,14 @@
   summary: 'Demonstrates that forest loss increases flooding risk and severity in tropical and developing nations.'
   journal: Global Change Biology
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/deforestfloodicontransp.png
+- doi: 10.1016/j.marpolbul.2023.115855
+  year: 2024
+  authors: Huveneers, C; Blount, C; Bradshaw, CJ; Butcher, PA; Lincoln Smith, MP; Macbeth, WG; McPhee, DP; Moltschaniwskyj,
+    N; Peddemors, VM; Green, M
+  title: Shifts in the incidence of shark bites and efficacy of beach-focussed mitigation in Australia
+  summary: 'Examines trends in shark attacks and evaluates whether beach safety measures are working.'
+  journal: Marine Pollution Bulletin
+  image: https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png
 - doi: 10.1371/journal.pone.0010440
   year: 2010
   authors: Bradshaw, CJA; Giam, X; Sodhi, NS
@@ -396,13 +411,6 @@
   summary: 'Shows that Ice Age Southeast Asia was covered by patchy forests rather than continuous grasslands.'
   journal: Proceedings of the National Academy of Sciences
   image: https://coreybradshaw.files.wordpress.com/2021/08/forests.png
-- doi: 10.1002/ece3.72470
-  year: 2026
-  authors: Saltré, F; Peters, KJ; Rogers, DJ; Chadoeuf, J; Weisbecker, V; Bradshaw, CJA
-  title: Balancing high densities and conservation targets to optimise koala management strategies
-  summary: 'Explores how to manage koala populations that are abundant in some areas but threatened overall.'
-  journal: Ecology and Evolution
-  image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
 - doi: 10.1093/biosci/biaf181
   year: 2026
   authors: Arbieu, U; Bellard, C; Bradshaw, CJA; Correia, R; Courtois, P; Di Minin, E; Jarić, I; Murfree, JR; Orr, M; Roturier,
@@ -455,14 +463,6 @@
   summary: 'Synthesises decades of research on how large populations must be to avoid extinction.'
   journal: Biological Conservation
   image: https://coreybradshaw.files.wordpress.com/2021/08/gauge.png
-- doi: 10.1016/j.marpolbul.2023.115855
-  year: 2024
-  authors: Huveneers, C; Blount, C; Bradshaw, CJ; Butcher, PA; Lincoln Smith, MP; Macbeth, WG; McPhee, DP; Moltschaniwskyj,
-    N; Peddemors, VM; Green, M
-  title: Shifts in the incidence of shark bites and efficacy of beach-focussed mitigation in Australia
-  summary: 'Examines trends in shark attacks and evaluates whether beach safety measures are working.'
-  journal: Marine Pollution Bulletin
-  image: https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png
 - doi: 10.1111/1365-2664.12378
   year: 2015
   authors: Prowse, TAA; Johnson, CN; Cassey, P; Bradshaw, CJA; Brook, BW
@@ -477,6 +477,14 @@
   summary: 'Provides a template for approaches, policies, and legislation required to improve the outlook for native plants and animals in South Australia.'
   journal: Rethinking Ecology
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/sa.png
+- doi: 10.1002/fee.2862
+  year: 2025
+  authors: Arbieu, U; Bellard, C; Bradshaw, CJ; Correia, RA; Courtois, P; Di Minin, E; Jarić, I; Leroy, B; Murfree, JR; Orr,
+    M; Roturier, S; Sartore‐Baldwin, M; Veríssimo, D; Courchamp, F
+  title: Professional sport organizations as potential champions of biodiversity conservation
+  summary: 'Explores how sport teams and leagues could promote and fund wildlife conservation.'
+  journal: Frontiers in Ecology and the Environment
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/tiger-logo-cutout.png
 - doi: 10.1111/1365-2656.12029
   year: 2013
   authors: Prowse, TAA; Johnson, CN; Lacy, RC; Bradshaw, CJA; Pollak, JP; Watts, MJ; Brook, BW
@@ -508,14 +516,6 @@
   summary: 'Proposes standardised definitions for terms used in the study of invasive species.'
   journal: Biological Reviews
   image: https://coreybradshaw.files.wordpress.com/2024/03/tornado.png
-- doi: 10.1002/fee.2862
-  year: 2025
-  authors: Arbieu, U; Bellard, C; Bradshaw, CJ; Correia, RA; Courtois, P; Di Minin, E; Jarić, I; Leroy, B; Murfree, JR; Orr,
-    M; Roturier, S; Sartore‐Baldwin, M; Veríssimo, D; Courchamp, F
-  title: Professional sport organizations as potential champions of biodiversity conservation
-  summary: 'Explores how sport teams and leagues could promote and fund wildlife conservation.'
-  journal: Frontiers in Ecology and the Environment
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/tiger-logo-cutout.png
 - doi: 10.7554/eLife.63870
   year: 2021
   authors: Bradshaw, CJ; Johnson, CN; Llewelyn, J; Weisbecker, V; Strona, G; Saltré, F
@@ -580,6 +580,14 @@
   summary: 'Projects how warming temperatures will increase diarrhoea incidence in developing nations.'
   journal: Environmental Research
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2025/07/diarrhoea2-1.png
+- doi: 10.1111/mec.70097
+  year: 2025
+  authors: Gates, K; Sandoval‐Castillo, J; Beaman, JE; da Silva, KB; Saltré, F; Belov, K; Hogg, CJ; Bradshaw, CJA; Beheregaray,
+    LB
+  title: 'Conservation arks: genomic erosion and inbreeding in an abundant island population of koalas'
+  summary: 'Reveals genetic problems emerging in isolated koala populations despite their high numbers.'
+  journal: Molecular Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
 - doi: 10.1016/j.tree.2025.03.010
   year: 2025
   authors: Carneiro, L; Leroy, B; Capinha, C; Bradshaw, CJ; Bertolino, S; Catford, JA; Camacho-Cervantes, M; Bojko, J; Klippel,
@@ -620,14 +628,6 @@
   summary: 'Provides guidelines for properly acknowledging and referencing Indigenous Knowledge systems in scientific publications.'
   journal: BioScience
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/indig-1.png
-- doi: 10.1111/mec.70097
-  year: 2025
-  authors: Gates, K; Sandoval‐Castillo, J; Beaman, JE; da Silva, KB; Saltré, F; Belov, K; Hogg, CJ; Bradshaw, CJA; Beheregaray,
-    LB
-  title: 'Conservation arks: genomic erosion and inbreeding in an abundant island population of koalas'
-  summary: 'Reveals genetic problems emerging in isolated koala populations despite their high numbers.'
-  journal: Molecular Ecology
-  image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
 - doi: 10.1111/gcb.12343
   year: 2014
   authors: Sequeira, AMM; Mellin, C; Fordham, DA; Meekan, MG; Bradshaw, CJA
@@ -770,6 +770,13 @@
   summary: 'Shows how population growth will affect Australia''s ability to meet climate commitments.'
   journal: Asia &amp; the Pacific Policy Studies
   image: https://coreybradshaw.files.wordpress.com/2021/08/co2footprint.jpg
+- doi: 10.1002/ecs2.70082
+  year: 2024
+  authors: Hamnett, PW; Saltré, F; Page, B; Tarran, M; Korcz, M; Fielder, K; Andrews, L; Bradshaw, CJA
+  title: Stochastic population models to identify optimal and cost‐effective harvest strategies for feral pig eradication
+  summary: 'Uses probabilistic models to design efficient culling programs for removing invasive wild pigs.'
+  journal: Ecosphere
+  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/pigtransp.png
 - doi: 10.1371/journal.pone.0149852
   year: 2016
   authors: Bradshaw, CJA; Brook, BW
@@ -793,20 +800,6 @@
   summary: 'Compares how feral and outdoor cats hunt across different regions of the world.'
   journal: Ecography
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png
-- doi: 10.1002/ecs2.70082
-  year: 2024
-  authors: Hamnett, PW; Saltré, F; Page, B; Tarran, M; Korcz, M; Fielder, K; Andrews, L; Bradshaw, CJA
-  title: Stochastic population models to identify optimal and cost‐effective harvest strategies for feral pig eradication
-  summary: 'Uses probabilistic models to design efficient culling programs for removing invasive wild pigs.'
-  journal: Ecosphere
-  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/pigtransp.png
-- doi: 10.1111/j.1523-1739.2010.01448.x
-  year: 2010
-  authors: LAURANCE, WF; KOH, LP; BUTLER, R; SODHI, NS; BRADSHAW, CJA; NEIDEL, JD; CONSUNJI, H; MATEO VEGA, J
-  title: Improving the performance of the Roundtable on Sustainable Palm Oil for Nature Conservation
-  summary: 'Proposes reforms to make palm oil sustainability certification more effective at protecting biodiversity.'
-  journal: Conservation Biology
-  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/oilpalm.png
 - doi: 10.1093/biosci/biae010
   year: 2024
   authors: Carneiro, L; Hulme, PE; Cuthbert, RN; Kourantidou, M; Bang, A; Haubrock, PJ; Bradshaw, CJA; Balzani, P; Bacher,
@@ -815,6 +808,13 @@
   summary: 'Demonstrates that any positive effects of invasive species are vastly outweighed by their harmful impacts.'
   journal: BioScience
   image: https://coreybradshaw.files.wordpress.com/2024/03/scales.png
+- doi: 10.1111/j.1523-1739.2010.01448.x
+  year: 2010
+  authors: LAURANCE, WF; KOH, LP; BUTLER, R; SODHI, NS; BRADSHAW, CJA; NEIDEL, JD; CONSUNJI, H; MATEO VEGA, J
+  title: Improving the performance of the Roundtable on Sustainable Palm Oil for Nature Conservation
+  summary: 'Proposes reforms to make palm oil sustainability certification more effective at protecting biodiversity.'
+  journal: Conservation Biology
+  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/oilpalm.png
 - doi: 10.1371/journal.pone.0257141
   year: 2021
   authors: Bradshaw, CJA; Chalker, JM; Crabtree, SA; Eijkelkamp, BA; Long, JA; Smith, JR; Trinajstic, K; Weisbecker, V
@@ -1038,6 +1038,13 @@
   summary: 'Proposes using the total weight of invasive organisms as a metric for measuring invasion severity.'
   journal: BioScience
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/rats.png
+- doi: 10.1111/csp2.448
+  year: 2021
+  authors: Venning, KRW; Saltré, F; Bradshaw, CJA
+  title: Predicting targets and costs for feral‐cat reduction on large islands using stochastic population models
+  summary: 'Models how to plan efficient feral cat-eradication campaigns on islands.'
+  journal: Conservation Science and Practice
+  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png
 - doi: 10.1111/j.1472-4642.2011.00853.x
   year: 2012
   authors: Sequeira, A; Mellin, C; Rowat, D; Meekan, MG; Bradshaw, CJA
@@ -1074,13 +1081,6 @@
   summary: 'Develops improved statistical methods for determining when extinct species actually disappeared from the fossil record.'
   journal: Quaternary Science Reviews
   image: https://coreybradshaw.files.wordpress.com/2021/08/probability.png
-- doi: 10.1111/csp2.448
-  year: 2021
-  authors: Venning, KRW; Saltré, F; Bradshaw, CJA
-  title: Predicting targets and costs for feral‐cat reduction on large islands using stochastic population models
-  summary: 'Models how to plan efficient feral cat-eradication campaigns on islands.'
-  journal: Conservation Science and Practice
-  image: https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png
 - doi: 10.1016/j.biocon.2015.05.019
   year: 2015
   authors: Bradshaw, CJ; Craigie, I; Laurance, WF
