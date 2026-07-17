@@ -310,6 +310,13 @@
   summary: 'Calculates how many people were needed to establish the first successful human populations in Australia and New Guinea.'
   journal: Nature Ecology &amp; Evolution
   image: https://coreybradshaw.files.wordpress.com/2021/08/family.png
+- doi: 10.1002/ece3.72470
+  year: 2026
+  authors: Saltré, F; Peters, KJ; Rogers, DJ; Chadoeuf, J; Weisbecker, V; Bradshaw, CJA
+  title: Balancing high densities and conservation targets to optimise koala management strategies
+  summary: 'Explores how to manage koala populations that are abundant in some areas but threatened overall.'
+  journal: Ecology and Evolution
+  image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
 - doi: 10.1371/journal.pone.0280260
   year: 2023
   authors: Bradshaw, CJA; Perry, C; Judge, MA; , CM; Heyworth, J; Le Souëf, PN
@@ -318,13 +325,6 @@
   summary: 'Identifies factors that lead to declining human birth rates in developing countries.'
   journal: PLOS ONE
   image: https://coreybradshaw.files.wordpress.com/2023/02/fertility.jpg
-- doi: 10.1002/ece3.72470
-  year: 2026
-  authors: Saltré, F; Peters, KJ; Rogers, DJ; Chadoeuf, J; Weisbecker, V; Bradshaw, CJA
-  title: Balancing high densities and conservation targets to optimise koala management strategies
-  summary: 'Explores how to manage koala populations that are abundant in some areas but threatened overall.'
-  journal: Ecology and Evolution
-  image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
 - doi: 10.1016/j.tree.2009.03.019
   year: 2009
   authors: Bradshaw, CJ; Warkentin, IG; Sodhi, NS
@@ -426,6 +426,13 @@
   summary: 'Examines how human disruption of ecosystems increases the emergence of human diseases transmitted from animals.'
   journal: American Journal of Health Promotion
   image: https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png
+- doi: 10.7554/eLife.63870
+  year: 2021
+  authors: Bradshaw, CJ; Johnson, CN; Llewelyn, J; Weisbecker, V; Strona, G; Saltré, F
+  title: Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna
+  summary: 'Bigger, slower-growing and -reproducing megafauna in Australia did not go extinct before their smaller, faster-growing/reproducing counterparts.'
+  journal: eLife
+  image: https://coreybradshaw.files.wordpress.com/2021/08/genyornis.png
 - doi: 10.1093/biosci/biz004
   year: 2019
   authors: Herrando-Pérez, S; Bradshaw, CJA; Lewandowsky, S; Vieites, DR
@@ -525,13 +532,6 @@
   summary: 'Proposes standardised definitions for terms used in the study of invasive species.'
   journal: Biological Reviews
   image: https://coreybradshaw.files.wordpress.com/2024/03/tornado.png
-- doi: 10.7554/eLife.63870
-  year: 2021
-  authors: Bradshaw, CJ; Johnson, CN; Llewelyn, J; Weisbecker, V; Strona, G; Saltré, F
-  title: Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna
-  summary: 'Bigger, slower-growing and -reproducing megafauna in Australia did not go extinct before their smaller, faster-growing/reproducing counterparts.'
-  journal: eLife
-  image: https://coreybradshaw.files.wordpress.com/2021/08/genyornis.png
 - doi: 10.1016/j.apenergy.2015.01.006
   year: 2015
   authors: Hong, S; Bradshaw, CJ; Brook, BW
@@ -793,6 +793,14 @@
   summary: 'Proposes methods for evaluating and comparing the quality and influence of academic journals.'
   journal: PLOS ONE
   image: https://coreybradshaw.files.wordpress.com/2021/08/rank.png
+- doi: 10.1093/biosci/biae010
+  year: 2024
+  authors: Carneiro, L; Hulme, PE; Cuthbert, RN; Kourantidou, M; Bang, A; Haubrock, PJ; Bradshaw, CJA; Balzani, P; Bacher,
+    S; Latombe, G; Bodey, TW; Probert, AF; Quilodrán, CS; Courchamp, F
+  title: Benefits do not balance costs of biological invasions
+  summary: 'Demonstrates that any positive effects of invasive species are vastly outweighed by their harmful impacts.'
+  journal: BioScience
+  image: https://coreybradshaw.files.wordpress.com/2024/03/scales.png
 - doi: 10.1016/j.biocon.2008.05.007
   year: 2008
   authors: Bradshaw, CJ; Fitzpatrick, BM; Steinberg, CC; Brook, BW; Meekan, MG
@@ -809,14 +817,14 @@
   summary: 'Compares how feral and outdoor cats hunt across different regions of the world.'
   journal: Ecography
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/cat.png
-- doi: 10.1093/biosci/biae010
-  year: 2024
-  authors: Carneiro, L; Hulme, PE; Cuthbert, RN; Kourantidou, M; Bang, A; Haubrock, PJ; Bradshaw, CJA; Balzani, P; Bacher,
-    S; Latombe, G; Bodey, TW; Probert, AF; Quilodrán, CS; Courchamp, F
-  title: Benefits do not balance costs of biological invasions
-  summary: 'Demonstrates that any positive effects of invasive species are vastly outweighed by their harmful impacts.'
-  journal: BioScience
-  image: https://coreybradshaw.files.wordpress.com/2024/03/scales.png
+- doi: 10.1016/j.apenergy.2014.09.062
+  year: 2014
+  authors: Hong, S; Bradshaw, CJ; Brook, BW
+  title: 'Nuclear power can reduce emissions and maintain a strong economy: rating Australia’s optimal future electricity-generation
+    mix by technologies and policies'
+  summary: 'Shows how nuclear power can reduce greehnouse-gas emissions emissions and cost economies less.'
+  journal: Applied Energy
+  image: https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png
 - doi: 10.1111/j.1523-1739.2010.01448.x
   year: 2010
   authors: LAURANCE, WF; KOH, LP; BUTLER, R; SODHI, NS; BRADSHAW, CJA; NEIDEL, JD; CONSUNJI, H; MATEO VEGA, J
@@ -831,14 +839,6 @@
   summary: 'Develops metrics for evaluating scientist productivity that account for career length and field differences.'
   journal: PLOS ONE
   image: https://coreybradshaw.files.wordpress.com/2021/08/rank.png
-- doi: 10.1016/j.apenergy.2014.09.062
-  year: 2014
-  authors: Hong, S; Bradshaw, CJ; Brook, BW
-  title: 'Nuclear power can reduce emissions and maintain a strong economy: rating Australia’s optimal future electricity-generation
-    mix by technologies and policies'
-  summary: 'Shows how nuclear power can reduce greehnouse-gas emissions emissions and cost economies less.'
-  journal: Applied Energy
-  image: https://coreybradshaw.files.wordpress.com/2021/08/cleanenergy.png
 - doi: 10.1890/070193
   year: 2009
   authors: Bradshaw, CJ; Sodhi, NS; Brook, BW
