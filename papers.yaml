@@ -325,6 +325,15 @@
   summary: 'Identifies factors that lead to declining human birth rates in developing countries.'
   journal: PLOS ONE
   image: https://coreybradshaw.files.wordpress.com/2023/02/fertility.jpg
+- doi: 10.1038/s41562-026-02504-6
+  year: 2026
+  authors: Nitschke, CM; Williams, AN; Ingrey, SD; Griffiths, B; Pitt, N; Russell, L; Ulm, S; Beller, K; Bird, MI; Fatima, SH; 
+    McNiven, IJ; Saltré, F; Bashford, A; Wilson, C; Bradshaw, CJA
+  title: Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure
+  summary: 'The 11 British ships that brought the first European colonisers to Australia in 1788 also brought smallpox — the outbreak originated with this ‘First Fleet’, and 
+    possibly killed over 200,000 people.'
+  journal: Nature Human Behaviour
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/07/smallpoxbw.png
 - doi: 10.1016/j.tree.2009.03.019
   year: 2009
   authors: Bradshaw, CJ; Warkentin, IG; Sodhi, NS
@@ -397,15 +406,6 @@
   summary: 'Analyses the economics of wildlife poaching to identify effective intervention strategies.'
   journal: Biological Conservation
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/poach.png
-- doi: 10.1038/s41562-026-02504-6
-  year: 2026
-  authors: Nitschke, CM; Williams, AN; Ingrey, SD; Griffiths, B; Pitt, N; Russell, L; Ulm, S; Beller, K; Bird, MI; Fatima, SH; 
-    McNiven, IJ; Saltré, F; Bashford, A; Wilson, C; Bradshaw, CJA
-  title: Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure
-  summary: 'The 11 British ships that brought the first European colonisers to Australia in 1788 also brought smallpox — the outbreak originated with this ‘First Fleet’, and 
-    possibly killed over 200,000 people.'
-  journal: Nature Human Behaviour
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/07/smallpoxbw.png
 - doi: 10.1098/rsbl.2005.0313
   year: 2005
   authors: Evans, K; Thresher, R; Warneke, R; Bradshaw, C; Pook, M; Thiele, D; Hindell, M
