@@ -317,14 +317,6 @@
   summary: 'Explores how to manage koala populations that are abundant in some areas but threatened overall.'
   journal: Ecology and Evolution
   image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
-- doi: 10.1371/journal.pone.0280260
-  year: 2023
-  authors: Bradshaw, CJA; Perry, C; Judge, MA; , CM; Heyworth, J; Le Souëf, PN
-  title: Lower infant mortality, lower household size, and more access to contraception reduce fertility in low- and middle-income
-    nations
-  summary: 'Identifies factors that lead to declining human birth rates in developing countries.'
-  journal: PLOS ONE
-  image: https://coreybradshaw.files.wordpress.com/2023/02/fertility.jpg
 - doi: 10.1038/s41562-026-02504-6
   year: 2026
   authors: Nitschke, CM; Williams, AN; Ingrey, SD; Griffiths, B; Pitt, N; Russell, L; Ulm, S; Beller, K; Bird, MI; Fatima, SH; 
@@ -334,6 +326,14 @@
     possibly killed over 200,000 people.'
   journal: Nature Human Behaviour
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/07/smallpoxbw.png
+- doi: 10.1371/journal.pone.0280260
+  year: 2023
+  authors: Bradshaw, CJA; Perry, C; Judge, MA; , CM; Heyworth, J; Le Souëf, PN
+  title: Lower infant mortality, lower household size, and more access to contraception reduce fertility in low- and middle-income
+    nations
+  summary: 'Identifies factors that lead to declining human birth rates in developing countries.'
+  journal: PLOS ONE
+  image: https://coreybradshaw.files.wordpress.com/2023/02/fertility.jpg
 - doi: 10.1016/j.tree.2009.03.019
   year: 2009
   authors: Bradshaw, CJ; Warkentin, IG; Sodhi, NS
