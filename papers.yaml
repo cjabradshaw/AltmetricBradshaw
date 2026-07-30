@@ -302,6 +302,15 @@
   summary: 'Provides geochemical evidence that the ancestors of Indigenous Australians have been modifying fire regimes for at least 12 thousand years'
   journal: Nature Geoscience
   image: https://coreybradshaw.files.wordpress.com/2024/03/fire.png
+- doi: 10.1038/s41562-026-02504-6
+  year: 2026
+  authors: Nitschke, CM; Williams, AN; Ingrey, SD; Griffiths, B; Pitt, N; Russell, L; Ulm, S; Beller, K; Bird, MI; Fatima, SH; 
+    McNiven, IJ; Saltré, F; Bashford, A; Wilson, C; Bradshaw, CJA
+  title: Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure
+  summary: 'The 11 British ships that brought the first European colonisers to Australia in 1788 also brought smallpox — the outbreak originated with this ‘First Fleet’, and 
+    possibly killed over 200,000 people.'
+  journal: Nature Human Behaviour
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/07/smallpoxbw.png
 - doi: 10.1038/s41559-019-0902-6
   year: 2019
   authors: Bradshaw, CJA; Ulm, S; Williams, AN; Bird, MI; Roberts, RG; Jacobs, Z; Laviano, F; Weyrich, LS; Friedrich, T; Norman,
@@ -317,15 +326,6 @@
   summary: 'Explores how to manage koala populations that are abundant in some areas but threatened overall.'
   journal: Ecology and Evolution
   image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
-- doi: 10.1038/s41562-026-02504-6
-  year: 2026
-  authors: Nitschke, CM; Williams, AN; Ingrey, SD; Griffiths, B; Pitt, N; Russell, L; Ulm, S; Beller, K; Bird, MI; Fatima, SH; 
-    McNiven, IJ; Saltré, F; Bashford, A; Wilson, C; Bradshaw, CJA
-  title: Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure
-  summary: 'The 11 British ships that brought the first European colonisers to Australia in 1788 also brought smallpox — the outbreak originated with this ‘First Fleet’, and 
-    possibly killed over 200,000 people.'
-  journal: Nature Human Behaviour
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/07/smallpoxbw.png
 - doi: 10.1371/journal.pone.0280260
   year: 2023
   authors: Bradshaw, CJA; Perry, C; Judge, MA; , CM; Heyworth, J; Le Souëf, PN
