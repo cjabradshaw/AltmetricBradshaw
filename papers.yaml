@@ -582,6 +582,13 @@
   summary: 'Creates predictive maps showing where palaeontologists are most likely to find well-preserved fossils.'
   journal: PLOS ONE
   image: https://coreybradshaw.files.wordpress.com/2021/08/fossils.png
+- doi: 10.1093/ije/dyag121
+  year: 2026
+  authors: Kwan, S; Stephens, J; Bradshaw, CJA; Varghese, BM; Thompson, K; Judge, MA; Le Souëf, PN; Fatima, SH
+  title: 'First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis'
+  summary: 'Adverse mental health outcomes increase by almost 1% among children for every 1 °C rise in daily temperature.'
+  journal: International Journal of Epidemiology
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/08/childmentalhealthbw.png
 - doi: 10.1016/j.envres.2025.122412
   year: 2025
   authors: Fatima, SH; Judge, MA; Le Souëf, PN; Bradshaw, CJ
@@ -876,13 +883,6 @@
   summary: 'Documents widespread poleward shifts and declines of kelp and other seaweed populations as seas heat up.'
   journal: Current Biology
   image: https://coreybradshaw.files.wordpress.com/2021/08/redalgae.png
-- doi: 10.1093/ije/dyag121
-  year: 2026
-  authors: Kwan, S; Stephens, J; Bradshaw, CJA; Varghese, BM; Thompson, K; Judge, MA; Le Souëf, PN; Fatima, SH
-  title: 'First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis'
-  summary: 'Adverse mental health outcomes increase by almost 1% among children for every 1 °C rise in daily temperature.'
-  journal: International Journal of Epidemiology
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/08/childmentalhealthbw.png
 - doi: 10.1111/ecog.04530
   year: 2019
   authors: Shabani, F; Ahmadi, M; Peters, KJ; Haberle, S; Champreux, A; Saltré, F; Bradshaw, CJA
