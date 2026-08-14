@@ -435,6 +435,13 @@
   summary: 'Examines how human disruption of ecosystems increases the emergence of human diseases transmitted from animals.'
   journal: American Journal of Health Promotion
   image: https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png
+- doi: 10.1093/ije/dyag121
+  year: 2026
+  authors: Kwan, S; Stephens, J; Bradshaw, CJA; Varghese, BM; Thompson, K; Judge, MA; Le Souëf, PN; Fatima, SH
+  title: 'First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis'
+  summary: 'Adverse mental health outcomes increase by almost 1% among children for every 1 °C rise in daily temperature.'
+  journal: International Journal of Epidemiology
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/08/childmentalhealthbw.png
 - doi: 10.7554/eLife.63870
   year: 2021
   authors: Bradshaw, CJ; Johnson, CN; Llewelyn, J; Weisbecker, V; Strona, G; Saltré, F
@@ -532,13 +539,6 @@
   summary: 'Proposes standardised definitions for terms used in the study of invasive species.'
   journal: Biological Reviews
   image: https://coreybradshaw.files.wordpress.com/2024/03/tornado.png
-- doi: 10.1093/ije/dyag121
-  year: 2026
-  authors: Kwan, S; Stephens, J; Bradshaw, CJA; Varghese, BM; Thompson, K; Judge, MA; Le Souëf, PN; Fatima, SH
-  title: 'First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis'
-  summary: 'Adverse mental health outcomes increase by almost 1% among children for every 1 °C rise in daily temperature.'
-  journal: International Journal of Epidemiology
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/08/childmentalhealthbw.png
 - doi: 10.1016/j.apenergy.2015.01.006
   year: 2015
   authors: Hong, S; Bradshaw, CJ; Brook, BW
