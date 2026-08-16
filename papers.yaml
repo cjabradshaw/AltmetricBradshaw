@@ -428,13 +428,6 @@
   summary: 'Shows that Ice Age Southeast Asia was covered by patchy forests rather than continuous grasslands.'
   journal: Proceedings of the National Academy of Sciences
   image: https://coreybradshaw.files.wordpress.com/2021/08/forests.png
-- doi: 10.1177/08901171211064224
-  year: 2022
-  authors: Ripple, WJ; DellaSala, DA; Baumann, F; Gregg, J; Betts, MG; Law, BE; Bradshaw, CJA; Wolf, C
-  title: Zoonotic diseases and our troubled relationship with nature
-  summary: 'Examines how human disruption of ecosystems increases the emergence of human diseases transmitted from animals.'
-  journal: American Journal of Health Promotion
-  image: https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png
 - doi: 10.1093/ije/dyag121
   year: 2026
   authors: Kwan, S; Stephens, J; Bradshaw, CJA; Varghese, BM; Thompson, K; Judge, MA; Le Souëf, PN; Fatima, SH
@@ -442,6 +435,13 @@
   summary: 'Adverse mental health outcomes increase by almost 1% among children for every 1 °C rise in daily temperature.'
   journal: International Journal of Epidemiology
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/08/childmentalhealthbw.png
+- doi: 10.1177/08901171211064224
+  year: 2022
+  authors: Ripple, WJ; DellaSala, DA; Baumann, F; Gregg, J; Betts, MG; Law, BE; Bradshaw, CJA; Wolf, C
+  title: Zoonotic diseases and our troubled relationship with nature
+  summary: 'Examines how human disruption of ecosystems increases the emergence of human diseases transmitted from animals.'
+  journal: American Journal of Health Promotion
+  image: https://coreybradshaw.files.wordpress.com/2022/02/pathogen.png
 - doi: 10.7554/eLife.63870
   year: 2021
   authors: Bradshaw, CJ; Johnson, CN; Llewelyn, J; Weisbecker, V; Strona, G; Saltré, F
