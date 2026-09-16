@@ -435,13 +435,6 @@
   summary: 'Shows that Ice Age Southeast Asia was covered by patchy forests rather than continuous grasslands.'
   journal: Proceedings of the National Academy of Sciences
   image: https://coreybradshaw.files.wordpress.com/2021/08/forests.png
-- doi: 10.1098/rsbl.2017.0642
-  year: 2018
-  authors: White, LC; Saltré, F; Bradshaw, CJA; Austin, JJ
-  title: High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia
-  summary: 'Shows that Tasmanian devils and thylacines disappeared from mainland Australia at the same time in the recent past.'
-  journal: Biology Letters
-  image: https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png
 - doi: 10.1038/s41562-026-02571-9
   year: 2022
   authors: Williams, AN; Tobler, R; Griffiths, B; Ulm, S; Nitschke, MC; Bird, MI; Ingrey, S; Saltré, F; Beller, K; McNiven, IJ; Pitt, N; Russell, L; Paterson, A; Wilson, C; Bradshaw, CJA
@@ -449,6 +442,13 @@
   summary: 'By integrating archaeological, genetic, and ecological evidence, we show that Australia’s pre-colonial Indigenous population was likely ~ 2.2 million people, far higher than long-held estimates.'
   journal: Nature Human Behaviour
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/09/eurinvasionicontransp.png
+- doi: 10.1098/rsbl.2017.0642
+  year: 2018
+  authors: White, LC; Saltré, F; Bradshaw, CJA; Austin, JJ
+  title: High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia
+  summary: 'Shows that Tasmanian devils and thylacines disappeared from mainland Australia at the same time in the recent past.'
+  journal: Biology Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png
 - doi: 10.1177/08901171211064224
   year: 2022
   authors: Ripple, WJ; DellaSala, DA; Baumann, F; Gregg, J; Betts, MG; Law, BE; Bradshaw, CJA; Wolf, C
