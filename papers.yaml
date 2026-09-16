@@ -154,13 +154,6 @@
   summary: 'Reveals how small populations of early human settlers in Cyprus drove large native animals to extinction.'
   journal: 'Proceedings of the Royal Society B: Biological Sciences'
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2024/09/dwarfhippoeletransp.png
-- doi: 10.1093/jpe/RTR038
-  year: 2012
-  authors: Bradshaw, CJA
-  title: 'Little left to lose: deforestation and forest degradation in Australia since European colonization'
-  summary: 'Documents the extensive loss and deterioration of Australian forests since European settlement.'
-  journal: Journal of Plant Ecology
-  image: https://coreybradshaw.files.wordpress.com/2021/08/chainsaw.png
 - doi: 10.1016/j.gloplacha.2015.02.004
   year: 2015
   authors: Bradshaw, CJ; Warkentin, IG
@@ -168,6 +161,20 @@
   summary: 'Calculates how much carbon is stored in boreal forests and how it moves through those ecosystems.'
   journal: Global and Planetary Change
   image: https://coreybradshaw.files.wordpress.com/2021/08/borealforest.png
+- doi: 10.1093/jpe/RTR038
+  year: 2012
+  authors: Bradshaw, CJA
+  title: 'Little left to lose: deforestation and forest degradation in Australia since European colonization'
+  summary: 'Documents the extensive loss and deterioration of Australian forests since European settlement.'
+  journal: Journal of Plant Ecology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/chainsaw.png
+- doi: 10.1111/j.1523-1739.2008.01165.x
+  year: 2009
+  authors: WARKENTIN, IG; BICKFORD, D; SODHI, NS; BRADSHAW, CJA
+  title: Eating frogs to extinction
+  summary: 'Examines how human consumption of frogs threatens many amphibian species with extinction.'
+  journal: Conservation Biology
+  image: https://coreybradshaw.files.wordpress.com/2021/08/froglegs.png
 - doi: 10.1038/nature10425
   year: 2011
   authors: Gibson, L; Lee, TM; Koh, LP; Brook, BW; Gardner, TA; Barlow, J; Peres, CA; Bradshaw, CJA; Laurance, WF; Lovejoy,
@@ -176,13 +183,6 @@
   summary: 'Demonstrates that old-growth tropical forests cannot be replaced by secondary or planted forests for conserving species diversity.'
   journal: Nature
   image: https://coreybradshaw.files.wordpress.com/2021/08/forests.png
-- doi: 10.1111/j.1523-1739.2008.01165.x
-  year: 2009
-  authors: WARKENTIN, IG; BICKFORD, D; SODHI, NS; BRADSHAW, CJA
-  title: Eating frogs to extinction
-  summary: 'Examines how human consumption of frogs threatens many amphibian species with extinction.'
-  journal: Conservation Biology
-  image: https://coreybradshaw.files.wordpress.com/2021/08/froglegs.png
 - doi: 10.1073/pnas.2318293121
   year: 2024
   authors: Bradshaw, CJA; Reepmeyer, C; Saltré, F; Agapiou, A; Kassianidou, V; Demesticha, S; Zomeni, Z; Polidorou, M; Moutsiou,
@@ -235,6 +235,14 @@
   summary: 'Updates genetic guidelines used to assess extinction risk and manage endangered populations.'
   journal: Biological Conservation
   image: https://coreybradshaw.files.wordpress.com/2021/08/dna.png
+- doi: 10.3897/neobiota.67.58834
+  year: 2021
+  authors: Bradshaw, CJA; Hoskins, AJ; Haubrock, PJ; Cuthbert, RN; Diagne, C; Leroy, B; Andrews, L; Page, B; Cassey, P; Sheppard,
+    AW; Courchamp, F
+  title: Detailed assessment of the reported economic costs of invasive species in Australia
+  summary: 'Provides the first comprehensive accounting of the financial damage caused by invasive species across Australia.'
+  journal: NeoBiota
+  image: https://coreybradshaw.files.wordpress.com/2021/08/huntingcat.png
 - doi: 10.1016/j.tree.2015.12.006
   year: 2016
   authors: Di Minin, E; Leader-Williams, N; Bradshaw, CJ
@@ -251,14 +259,6 @@
   summary: 'Demonstrates that dingoes are in fact a separate species.'
   journal: Zootaxa
   image: https://coreybradshaw.files.wordpress.com/2021/08/dingo.png
-- doi: 10.3897/neobiota.67.58834
-  year: 2021
-  authors: Bradshaw, CJA; Hoskins, AJ; Haubrock, PJ; Cuthbert, RN; Diagne, C; Leroy, B; Andrews, L; Page, B; Cassey, P; Sheppard,
-    AW; Courchamp, F
-  title: Detailed assessment of the reported economic costs of invasive species in Australia
-  summary: 'Provides the first comprehensive accounting of the financial damage caused by invasive species across Australia.'
-  journal: NeoBiota
-  image: https://coreybradshaw.files.wordpress.com/2021/08/huntingcat.png
 - doi: 10.1038/nature11318
   year: 2012
   authors: Laurance, WF; Carolina Useche, D; Rendeiro, J; Kalka, M; Bradshaw, CJA; Sloan, SP; Laurance, SG; Campbell, M; Abernethy,
@@ -304,7 +304,7 @@
   image: https://coreybradshaw.files.wordpress.com/2024/03/fire.png
 - doi: 10.1038/s41562-026-02504-6
   year: 2026
-  authors: Nitschke, CM; Williams, AN; Ingrey, SD; Griffiths, B; Pitt, N; Russell, L; Ulm, S; Beller, K; Bird, MI; Fatima, SH; 
+  authors: Nitschke, CM; Williams, AN; Ingrey, SD; Griffiths, B; Pitt, N; l, L; Ulm, S; Beller, K; Bird, MI; Fatima, SH; 
     McNiven, IJ; Saltré, F; Bashford, A; Wilson, C; Bradshaw, CJA
   title: Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure
   summary: 'The 11 British ships that brought the first European colonisers to Australia in 1788 also brought smallpox — the outbreak originated with this ‘First Fleet’, and 
@@ -326,6 +326,13 @@
   summary: 'Explores how to manage koala populations that are abundant in some areas but threatened overall.'
   journal: Ecology and Evolution
   image: https://coreybradshaw.files.wordpress.com/2021/08/koala.png
+- doi: 10.1111/j.1365-2486.2007.01446.x
+  year: 2007
+  authors: BRADSHAW, CJA; SODHI, NS; PEH, KS; BROOK, BW
+  title: Global evidence that deforestation amplifies flood risk and severity in the developing world
+  summary: 'Demonstrates that forest loss increases flooding risk and severity in tropical and developing nations.'
+  journal: Global Change Biology
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/deforestfloodicontransp.png
 - doi: 10.1371/journal.pone.0280260
   year: 2023
   authors: Bradshaw, CJA; Perry, C; Judge, MA; , CM; Heyworth, J; Le Souëf, PN
@@ -341,13 +348,6 @@
   summary: 'Calls for immediate action to protect northern forests and the massive carbon stores they contain.'
   journal: Trends in Ecology &amp; Evolution
   image: https://coreybradshaw.files.wordpress.com/2021/08/borealfire.png
-- doi: 10.1111/j.1365-2486.2007.01446.x
-  year: 2007
-  authors: BRADSHAW, CJA; SODHI, NS; PEH, KS; BROOK, BW
-  title: Global evidence that deforestation amplifies flood risk and severity in the developing world
-  summary: 'Demonstrates that forest loss increases flooding risk and severity in tropical and developing nations.'
-  journal: Global Change Biology
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/deforestfloodicontransp.png
 - doi: 10.1016/j.tree.2008.03.011
   year: 2008
   authors: BROOK, B; SODHI, N; BRADSHAW, C
@@ -406,6 +406,13 @@
   summary: 'Analyses the economics of wildlife poaching to identify effective intervention strategies.'
   journal: Biological Conservation
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/poach.png
+- doi: 10.1093/ije/dyag121
+  year: 2026
+  authors: Kwan, S; Stephens, J; Bradshaw, CJA; Varghese, BM; Thompson, K; Judge, MA; Le Souëf, PN; Fatima, SH
+  title: 'First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis'
+  summary: 'Adverse mental health outcomes increase by almost 1% among children for every 1 °C rise in daily temperature.'
+  journal: International Journal of Epidemiology
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/08/childmentalhealthbw.png
 - doi: 10.1098/rsbl.2005.0313
   year: 2005
   authors: Evans, K; Thresher, R; Warneke, R; Bradshaw, C; Pook, M; Thiele, D; Hindell, M
@@ -421,13 +428,6 @@
   summary: 'Analyses which animal species appear in professional sport team logos and names worldwide.'
   journal: BioScience
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/04/tiger-logo-cutout.png
-- doi: 10.1093/ije/dyag121
-  year: 2026
-  authors: Kwan, S; Stephens, J; Bradshaw, CJA; Varghese, BM; Thompson, K; Judge, MA; Le Souëf, PN; Fatima, SH
-  title: 'First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis'
-  summary: 'Adverse mental health outcomes increase by almost 1% among children for every 1 °C rise in daily temperature.'
-  journal: International Journal of Epidemiology
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/08/childmentalhealthbw.png
 - doi: 10.1073/pnas.2311280120
   year: 2024
   authors: Hamilton, R; Amano, N; Bradshaw, CJA; Saltré, F; Patalano, R; Penny, D; Stevenson, J; Wolfhagen, J; Roberts, P
@@ -435,9 +435,16 @@
   summary: 'Shows that Ice Age Southeast Asia was covered by patchy forests rather than continuous grasslands.'
   journal: Proceedings of the National Academy of Sciences
   image: https://coreybradshaw.files.wordpress.com/2021/08/forests.png
+- doi: 10.1098/rsbl.2017.0642
+  year: 2018
+  authors: White, LC; Saltré, F; Bradshaw, CJA; Austin, JJ
+  title: High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia
+  summary: 'Shows that Tasmanian devils and thylacines disappeared from mainland Australia at the same time in the recent past.'
+  journal: Biology Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png
 - doi: 10.1038/s41562-026-02571-9
   year: 2022
-  authors: Williams, AN; Tobler, R; Griffiths, B; Ulm, S; Nitschke, MC; Bird, MI; Ingrey, S; Saltré, F; Beller, K; McNiven, IJ; Pitt, N; Russel, L; Paterson, A; Wilson, C; Bradshaw, CJA
+  authors: Williams, AN; Tobler, R; Griffiths, B; Ulm, S; Nitschke, MC; Bird, MI; Ingrey, S; Saltré, F; Beller, K; McNiven, IJ; Pitt, N; Russell, L; Paterson, A; Wilson, C; Bradshaw, CJA
   title: Large estimated size of the Australian Indigenous population before its extensive decline following colonial invasion
   summary: 'By integrating archaeological, genetic, and ecological evidence, we show that Australia’s pre-colonial Indigenous population was likely ~ 2.2 million people, far higher than long-held estimates.'
   journal: Nature Human Behaviour
@@ -672,13 +679,6 @@
   summary: 'Integrates multiple modelling techniques to simulate how coral reef communities change over time.'
   journal: eLife
   image: https://coreybradshaw.files.wordpress.com/2021/08/coral.png
-- doi: 10.1098/rsbl.2017.0642
-  year: 2018
-  authors: White, LC; Saltré, F; Bradshaw, CJA; Austin, JJ
-  title: High-quality fossil dates support a synchronous, Late Holocene extinction of devils and thylacines in mainland Australia
-  summary: 'Shows that Tasmanian devils and thylacines disappeared from mainland Australia at the same time in the recent past.'
-  journal: Biology Letters
-  image: https://coreybradshaw.files.wordpress.com/2021/08/devilthylacine.png
 - doi: 10.1093/biosci/biad060
   year: 2023
   authors: Ahmed, DA; Haubrock, PJ; Cuthbert, RN; Bang, A; Soto, I; Balzani, P; Tarkan, AS; Macêdo, RL; Carneiro, L; Bodey,
