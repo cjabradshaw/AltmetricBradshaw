@@ -149,7 +149,7 @@
   image: https://coreybradshaw.files.wordpress.com/2021/08/hunter.png
 - doi: 10.1098/rspb.2024.0967
   year: 2024
-  authors: Bradshaw, CJA; Saltré, F; Crabtree, SA; Reepmeyer, C; Moutsiou, T
+  authors: Bradshaw, CJA; Saltré, F; , SA; Reepmeyer, C; Moutsiou, T
   title: Small populations of Palaeolithic humans in Cyprus hunted endemic megafauna to extinction
   summary: 'Reveals how small populations of early human settlers in Cyprus drove large native animals to extinction.'
   journal: 'Proceedings of the Royal Society B: Biological Sciences'
@@ -220,13 +220,6 @@
   summary: 'A database tracking when and where shark encounters occur to identify patterns and trends.'
   journal: Scientific Data
   image: https://coreybradshaw.files.wordpress.com/2021/08/whiteshark.png
-- doi: 10.1038/s41562-021-01106-8
-  year: 2021
-  authors: Crabtree, SA; White, DA; Bradshaw, CJA; Saltré, F; Williams, AN; Beaman, RJ; Bird, MI; Ulm, S
-  title: Landscape rules predict optimal superhighways for the first peopling of Sahul
-  summary: 'Identifies the most likely migration routes ancient humans took when first settling Australia and New Guinea.'
-  journal: Nature Human Behaviour
-  image: https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png
 - doi: 10.1038/s41562-026-02571-9
   year: 2022
   authors: Williams, AN; Tobler, R; Griffiths, B; Ulm, S; Nitschke, MC; Bird, MI; Ingrey, S; Saltré, F; Beller, K; McNiven, IJ; Pitt, N; Russell, L; Paterson, A; Wilson, C; Bradshaw, CJA
@@ -234,6 +227,13 @@
   summary: 'By integrating archaeological, genetic, and ecological evidence, we show that Australia’s pre-colonial Indigenous population was likely ~ 2.2 million people, far higher than long-held estimates.'
   journal: Nature Human Behaviour
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/09/eurinvasionicontransp.png
+- doi: 10.1038/s41562-021-01106-8
+  year: 2021
+  authors: Crabtree, SA; White, DA; Bradshaw, CJA; Saltré, F; Williams, AN; Beaman, RJ; Bird, MI; Ulm, S
+  title: Landscape rules predict optimal superhighways for the first peopling of Sahul
+  summary: 'Identifies the most likely migration routes ancient humans took when first settling Australia and New Guinea.'
+  journal: Nature Human Behaviour
+  image: https://coreybradshaw.files.wordpress.com/2021/08/roadmap.png
 - doi: 10.1016/j.biocon.2013.12.036
   year: 2014
   authors: Frankham, R; Bradshaw, CJ; Brook, BW
