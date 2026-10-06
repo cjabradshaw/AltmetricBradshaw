@@ -147,13 +147,6 @@
   summary: 'Examines how sport hunting affects both wildlife populations and the communities that depend on them.'
   journal: One Earth
   image: https://coreybradshaw.files.wordpress.com/2021/08/hunter.png
-- doi: 10.1098/rspb.2024.0967
-  year: 2024
-  authors: Bradshaw, CJA; Saltré, F; , SA; Reepmeyer, C; Moutsiou, T
-  title: Small populations of Palaeolithic humans in Cyprus hunted endemic megafauna to extinction
-  summary: 'Reveals how small populations of early human settlers in Cyprus drove large native animals to extinction.'
-  journal: 'Proceedings of the Royal Society B: Biological Sciences'
-  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2024/09/dwarfhippoeletransp.png
 - doi: 10.1038/s41562-026-02571-9
   year: 2022
   authors: Williams, AN; Tobler, R; Griffiths, B; Ulm, S; Nitschke, MC; Bird, MI; Ingrey, S; Saltré, F; Beller, K; McNiven, IJ; Pitt, N; Russell, L; Paterson, A; Wilson, C; Bradshaw, CJA
@@ -161,6 +154,13 @@
   summary: 'By integrating archaeological, genetic, and ecological evidence, we show that Australia’s pre-colonial Indigenous population was likely ~ 2.2 million people, far higher than long-held estimates.'
   journal: Nature Human Behaviour
   image: https://coreybradshaw.wordpress.com/wp-content/uploads/2026/09/eurinvasionicontransp.png
+- doi: 10.1098/rspb.2024.0967
+  year: 2024
+  authors: Bradshaw, CJA; Saltré, F; , SA; Reepmeyer, C; Moutsiou, T
+  title: Small populations of Palaeolithic humans in Cyprus hunted endemic megafauna to extinction
+  summary: 'Reveals how small populations of early human settlers in Cyprus drove large native animals to extinction.'
+  journal: 'Proceedings of the Royal Society B: Biological Sciences'
+  image: https://coreybradshaw.wordpress.com/wp-content/uploads/2024/09/dwarfhippoeletransp.png
 - doi: 10.1016/j.gloplacha.2015.02.004
   year: 2015
   authors: Bradshaw, CJ; Warkentin, IG
@@ -862,6 +862,13 @@
   summary: 'Develops metrics for evaluating scientist productivity that account for career length and field differences.'
   journal: PLOS ONE
   image: https://coreybradshaw.files.wordpress.com/2021/08/rank.png
+- doi: 10.1088/1748-9326/aea237
+  year: 2026
+  authors: Bradshaw, CJA; Judge, MA; Blumstein, DT; Dasgupta, ANZ; Wackernagel, M; Weeda, LJZ; Le Souëf, PN
+  title: 'Reply to Millward-Hopkins et al comment on ‘Global human population has surpassed Earth’s sustainable carrying capacity'
+  summary: 'Demonstrates that addressing inequality does not fix the problem of exceeding biocapacity driven by over-population.'
+  journal: Environmental Research Letters
+  image: https://coreybradshaw.files.wordpress.com/2021/08/crowd.png
 - doi: 10.1890/070193
   year: 2009
   authors: Bradshaw, CJ; Sodhi, NS; Brook, BW
@@ -1082,6 +1089,13 @@
   summary: 'Pleas for people with decision-making power to recognise that flooding can be reduced if native forests are maintained intact.'
   journal: 'AMBIO: A Journal of the Human Environment'
   image: https://globalecologyflinders.com/wp-content/uploads/2024/12/deforestfloodicontransp.png
+- doi: 10.1186/s12992-026-01235-7
+  year: 2026
+  authors: Turnbull, JJ; Hemy, NR; West, M; Le Souëf, PN; Bradshaw, CJA; Judge, MA
+  title: Global systematic review of how climate change degrades the wellbeing and health of Indigenous children
+  summary: 'Indigenous children globally are experiencing adverse climate-related health outcomes, including poorer psychosocial and cultural wellbeing, nutrition, disease resistance, perinatal health, and survival.'
+  journal: 'Globalization and Health'
+  image: https://futurechildhealthorg.wordpress.com/wp-content/uploads/2025/07/hands.png
 - doi: 10.1016/j.biocon.2003.11.017
   year: 2004
   authors: Otway, NM; Bradshaw, CJ; Harcourt, RG
